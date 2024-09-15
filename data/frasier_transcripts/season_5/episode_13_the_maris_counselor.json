@@ -1,0 +1,1245 @@
+[
+    {},
+    {
+        "speaker": "Frasier",
+        "text": "Morning, Roz.",
+        "prevSpeaker": "No Previous Speaker",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Hey Frasier, your brother called.  He said he'll be over at about seven o' clock tonight.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, thanks.  So, you seem awfully calm today.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Well, why shouldn't I be?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, during ratings week you're usually rather anxious.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "[_anxious_] Oh my God!  That starts today?!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, I never should have mentioned it.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Ten seconds. [_starts quickly searching through her bag_]",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh Roz, you do this every year, you convince yourself we'll have a disastrous week with no good callers, but our listeners always come through in the end, don't they?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "[_quickly_] You're on!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "All right. [_into microphone_] Hello Seattle, this is Dr. Frasier Crane.  You know, I was reminded this morning of a jaunty aphorism which is credited to the great thinker Spinoza...  ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Oh God! [_takes first call_] Frasier Crane Show, what's your problem?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Mary"
+    },
+    {
+        "speaker": "Mary",
+        "text": "[_v.o._] Hi, I'm kind of... indecisive.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Well, I'm not! [_takes next call_] Frasier Crane Show, what's your problem?",
+        "prevSpeaker": "Mary",
+        "nextSpeaker": "Roger"
+    },
+    {
+        "speaker": "Roger",
+        "text": "[_v.o._] I'm thinking of changing careers, I feel kinda trapped.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Well, it's not a very exciting problem, but I'll see if I can get you on.  Hold, please. [_takes next call_] Frasier Crane Show, what's your problem?",
+        "prevSpeaker": "Roger",
+        "nextSpeaker": "Bill"
+    },
+    {
+        "speaker": "Bill",
+        "text": "[_v.o._] It's sort of embarrassing.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Amen!",
+        "prevSpeaker": "Bill",
+        "nextSpeaker": "Bill"
+    },
+    {
+        "speaker": "Bill",
+        "text": "I was a bed-wetter as a child and I think the problem's coming back.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Great.  Hold, please. [_goes back to Roger_] Hey, Career Change, I've got a bed-wetter holding.  When you say \"trapped,\" is it possible you feel you are a woman trapped inside a man's body?",
+        "prevSpeaker": "Bill",
+        "nextSpeaker": "Roger"
+    },
+    {
+        "speaker": "Roger",
+        "text": "I don't think so.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "I don't think I can get you on today, then.",
+        "prevSpeaker": "Roger",
+        "nextSpeaker": "Roger"
+    },
+    {
+        "speaker": "Roger",
+        "text": "Gee, I really wanted to talk to him... I guess that could be part of it.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Good answer.  Hold, please. [_to Bill_] Hey Bed-Wetter, I've got a transsexual in crisis, you gotta beat that.  Have you ever wet a bed with anyone else in it?  A hooker, a stripper, or maybe your best friend's wife?",
+        "prevSpeaker": "Roger",
+        "nextSpeaker": "Bill"
+    },
+    {
+        "speaker": "Bill",
+        "text": "No.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Do you want to talk to the doc or not?",
+        "prevSpeaker": "Bill",
+        "nextSpeaker": "Bill"
+    },
+    {
+        "speaker": "Bill",
+        "text": "OK.  Er, I guess the third one.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Hold, please. [_to Roger_] Hey Transsexual.",
+        "prevSpeaker": "Bill",
+        "nextSpeaker": "Roger"
+    },
+    {
+        "speaker": "Roger",
+        "text": "Is that me?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Yeah.  Have you ever run for political office, or considered running for political office?",
+        "prevSpeaker": "Roger",
+        "nextSpeaker": "Roger"
+    },
+    {
+        "speaker": "Roger",
+        "text": "What, you mean like congressman or something?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "[_takes that as an answer_] Perfect!  ",
+        "prevSpeaker": "Roger",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "...don't get me started on rationalistic pantheism or I'll go the whole three hours!  Well, I think it's time we went to the phones.  Roz, whom do we have?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "On line one we have a bed-wetting adulterer, unless you'd rather speak to Roger on line two, who's a transsexual running for Congress.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Go on then Roger, I'm listening. **IN CASE YOU'RE INTERESTED, IT'S A BROWN ERMINE** _Scene Two - Apartment Daphne, wearing a brown ermine jacket, and Martin enter Frasier's apartment.  Daphne gossips as Martin goes to hang up her coat and Frasier enters with a tea tray._ ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Would you just explain to me why you chickened out like that?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well, she's younger than I am!  She probably dates doctors and lawyers, she wouldn't be interested in me.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Who wouldn't be interested?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh, geez.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "A certain someone had the chance to ask a certain someone else from the building on a date.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Ah, that would be Mrs. Crowley.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh, geez!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "And bailed out again!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes well, Daphne, don't be too hard on him.  The Crane men haven't had a great deal of success in the romance department lately.  We're all a bit gun-shy.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Ah yes, gun-shy, sensitive, picky; you're all full of excuses. [_phone rings_] You know, sometimes I wonder if I'll ever get any of you married off and out of this house.  _Martin and Frasier look at each other in confusion.  Daphne answers the phone._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Hello?  Why, Mrs. Crowley, we were just talking about you! Yes he's here, hold on. _She passes the phone to Martin, who glares at Frasier and Daphne, making them stop staring at him.  She brings some tea to Frasier._ ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Hi.  Really?  No, I'm not busy, dinner sounds like fun.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "[_to Frasier_] A certain someone is inviting a certain someone else to dinner.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_sarcastic_] Yes, where would the world be without you Brits and your knack for code-cracking?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_still on phone_] Oh yeah, yeah, sure I'd love to.  Thanks. And thanks for asking me.  Bye. [_puts phone down_] She's invited me to her place tomorrow night.  I guess my little hard-to-get plan really paid off.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Yes, you should really write a book; \"How To Get A Date In Two Easy Years.\" ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, hello Niles.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Frasier.  Hey Dad, hey Daphne.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "What you got there?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_holds up his papers_] Oh, just some patient files.  Frasier's helping me with my couples' group tomorrow night.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "You'r father's starting his own couples' group tomorrow night.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Ha! [_realizes_] Oh, Mrs. Crowley?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh, _geez!_ [_goes to his room_]",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "It's ironic, isn't it?  Dad's doing better in that department than either of us.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Not true, not true, that's really what I wanted to tell you. Maris and I are back on the expressway to love!  Well, if not the expressway, then at least the on-ramp.  And I owe it all to the best psychiatrist I have ever known...",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh that's very flattering, Niles...",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Dr. Bernard Schenkman, our new marriage counselor.  And he is nothing short of a wizard.  And Maris is as thrilled with him as I am.  It's as if he's discovered the magic elixir to repair the shattered fragments of her psyche.  I-I don't know exactly what to call it.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "The words \"Krazy Glue\" leap to mind.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Dr. Schenkman's helped me enormously too.  He immediately pinpointed my primary failing.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Which is?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well... I'm too predictable.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I don't know whether I'd count that as a failing, exactly.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well, I do, and more importantly, so does Maris.  But I'm going to do something about it.  In half an hour I'm going to show Maris spontaneity beyond her wildest dreams.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "In half an hour?  I thought we were going to prepare for your workshop!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I'm sorry, you'll have to look over the files yourself.  You see, every Friday evening Maris spends an hour meditating in her spirituality gardens.  Invariably she comes inside randy as a stoat.  Well tonight, she's going to find me, waiting in her bed, as randy as a...nother stoat.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Gee Niles, I wonder if that's a good idea...",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Frasier, I know you mean well, and I love you and respect you, so please don't take offense when I point out that, with your track record in relationships, you're about the last person who should be giving advice.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Fair enough!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh and do look over the files!  Those couples really need our help. _Niles leaves and we are left with Frasier who begins filing through the notes.  FADE TO:  Scene Two - Mansion Meanwhile, in the bedroom of Maris's mansion an adventure is about to unravel.  The shower in the adjoining room can be heard as Niles rushes in and takes back the bed sheets.  He puts a rose on Maris's pillow and dims the lights.  Niles exits as the shower is turned off.  The showerer comes into the room in pajamas.  It isn't Maris, but Dr. Schenkman.  He slaps some aftershave on before looking at his stomach in the mirror.  He tries to hold it and fails.  Schenkman then sees the rose on the pillow and thinks Maris has dropped it off.  He blows a kiss to the opposite door.  Then he fetches a bottle of champagne in an ice bucket which he nestles by the bed before exiting again.  Niles enters the room again, now dressed in his pajamas.  He notices the bottle of champagne._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_saucily_] Hello, Maris! _Niles exits the room again, with a naughty chuckle.  Schenkman re-enters with two glasses.  He kisses the air and fills the first glass, then fills the second and toasts the other door with it. He then exits to the shower room.  Niles enters again.  He puts a CD into a small stereo on the bedside table.  Smoochy classical music sounds and Niles begins swaying. Yet he remembers something else and exits.  Schenkman enters again and notices the music.  He loosens his dressing gown and does a few dance shuffles.  Then he sprays perfume all over the bed, including underneath the covers.  He sprays some on himself before going back to the bathroom.  Niles enters with some rose petals which he excitedly throws over the bed.  Then he hears someone coming out of the bathroom.  He jumps into bed and turns the light out.  Schenkman enters the room and notices \"she\" is in bed.  He turns out the bathroom light, pitching the room into total blackness.  Schenkman climbs into bed.  The two lovers reach for their ideal mate..._",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Both"
+    },
+    {
+        "speaker": "Both",
+        "text": "Maris? [_noticing_] AHHH!  _Niles switches the lights on.  They sit up and scream at each other.  END OF ACT ONE (Time: 8:17)  ACT TWO  Scene One The scene resumes in Maris's bedroom._ ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Dr. Schenkman!",
+        "prevSpeaker": "Both",
+        "nextSpeaker": "Schenkman"
+    },
+    {
+        "speaker": "Schenkman",
+        "text": "Niles!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Dr. Schenkman, what the hell's going on?!",
+        "prevSpeaker": "Schenkman",
+        "nextSpeaker": "Schenkman"
+    },
+    {
+        "speaker": "Schenkman",
+        "text": "Well, it's not what it looks like... what am I saying?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "For God's sake!",
+        "prevSpeaker": "Schenkman",
+        "nextSpeaker": "Schenkman"
+    },
+    {
+        "speaker": "Schenkman",
+        "text": "Bear with me, I'm sorry.  I'm, I'm feeling a little stressed.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_shouting_] You're feeling stressed?!",
+        "prevSpeaker": "Schenkman",
+        "nextSpeaker": "Schenkman"
+    },
+    {
+        "speaker": "Schenkman",
+        "text": "Put yourself in my place.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I very nearly did!  I'm stunned!  How... how long has this been going on?",
+        "prevSpeaker": "Schenkman",
+        "nextSpeaker": "Schenkman"
+    },
+    {
+        "speaker": "Schenkman",
+        "text": "Two weeks.  Maris and I were waiting to tell you when I felt that you were ready.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "That's despicable!  It's unethical, it's... [_notices his clothes_] are those my pajamas?",
+        "prevSpeaker": "Schenkman",
+        "nextSpeaker": "Schenkman"
+    },
+    {
+        "speaker": "Schenkman",
+        "text": "Could be.  They bind a little in the crotch.  Listen, whatever anger you're feeling can't _begin_ to approach my guilt.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Don't bet on it!",
+        "prevSpeaker": "Schenkman",
+        "nextSpeaker": "Schenkman"
+    },
+    {
+        "speaker": "Schenkman",
+        "text": "Ah good, that's good, vent that rage.  You have every right to.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "You're sleeping with my wife and you're giving me permission to be angry?!",
+        "prevSpeaker": "Schenkman",
+        "nextSpeaker": "Schenkman"
+    },
+    {
+        "speaker": "Schenkman",
+        "text": "Furious.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Ah-ah.",
+        "prevSpeaker": "Schenkman",
+        "nextSpeaker": "Schenkman"
+    },
+    {
+        "speaker": "Schenkman",
+        "text": "Livid.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Ah!",
+        "prevSpeaker": "Schenkman",
+        "nextSpeaker": "Schenkman"
+    },
+    {
+        "speaker": "Schenkman",
+        "text": "Yes, you're dealing with it very well, by the way.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh!",
+        "prevSpeaker": "Schenkman",
+        "nextSpeaker": "Schenkman"
+    },
+    {
+        "speaker": "Schenkman",
+        "text": "[_holds up champagne glass_] I don't suppose you'd care-",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "No!  Do you realize you could lose your license for having an affair with a patient?",
+        "prevSpeaker": "Schenkman",
+        "nextSpeaker": "Schenkman"
+    },
+    {
+        "speaker": "Schenkman",
+        "text": "Yes, and I deserve to.  But it was a risk worth taking, because of love. [_lies on the couch, while Niles buries his face in his hand_] Ah... oh!  I love her, Niles.  I've never known a woman so warm... so nurturing... so unselfish...  ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Is it possible this is all a case of mistaken identity?",
+        "prevSpeaker": "Schenkman",
+        "nextSpeaker": "Schenkman"
+    },
+    {
+        "speaker": "Schenkman",
+        "text": "Thanks to our sessions, Maris has been unafraid to show me the real woman inside.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Damn you, I trusted you!  Because you were supposed to be helping us!  And I liked you too, you bastard!  You betrayed my confidence and my friendship, and you seduced my wife!",
+        "prevSpeaker": "Schenkman",
+        "nextSpeaker": "Schenkman"
+    },
+    {
+        "speaker": "Schenkman",
+        "text": "Wow, there's a lot of new issues here, aren't there?  Think maybe we should kick it up to three sessions a week? _Niles sees red and starts to throttle Schenkman.  As Schenkman yells for mercy, we FADE OUT.  Scene Two The scene changes to Niles's private practice.  In the waiting room Frasier greets a rather late Niles._ ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You are twenty minutes late.",
+        "prevSpeaker": "Schenkman",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Sorry.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_unsatisfied_] \"Sorry?\"  This is your group, I've been making small talk with these people for the last twenty minutes. Do you know what small talk is like with people who have a problem communicating?  It's tiny talk!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Frasier, I just have a lot on my mind right now which I don't care to discuss, so let's just begin and you know what, maybe you should take the lead, OK?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Very well. _Niles & Frasier enter the office where several couples are sitting around._ ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Evening, all.  Sorry I'm late, my fault.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "If I know these people, they won't hold a grudge.  I feel that I do know a great deal about this group.  I've spent a good deal of time poring over your case histories.  So, let's begin.  Mrs. Budinger, I see that you're here alone.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Janice"
+    },
+    {
+        "speaker": "Janice",
+        "text": "Yes.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Is there some reason why Dan couldn't join you?",
+        "prevSpeaker": "Janice",
+        "nextSpeaker": "Janice"
+    },
+    {
+        "speaker": "Janice",
+        "text": "No, he's just stubborn sometimes.  He says he doesn't trust psychiatrists.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Yeah, well... maybe he's got good reason not to!",
+        "prevSpeaker": "Janice",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Excuse me?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Janice"
+    },
+    {
+        "speaker": "Janice",
+        "text": "Oh, I think I see what your brother's doing here.  Sometimes we role-play, and I think he's just saying what my husband might say.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Sounds promising, why don't we proceed, Janice?  How would you respond to what your husband has just said?",
+        "prevSpeaker": "Janice",
+        "nextSpeaker": "Janice"
+    },
+    {
+        "speaker": "Janice",
+        "text": "Well, OK... you know, Dan, I don't think it's psychiatrists that you mistrust, I think that it's me.  Why are you so suspicious lately?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, I think you know very well.",
+        "prevSpeaker": "Janice",
+        "nextSpeaker": "Janice"
+    },
+    {
+        "speaker": "Janice",
+        "text": "What, a couple of harmless flirtations at parties?  Everyone does that.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Did you ever stop to consider how those flirtations might make",
+        "prevSpeaker": "Janice",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_to a confused couple_] He's empathizing with the husband, we call this \"empathizing.\"",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Janice"
+    },
+    {
+        "speaker": "Janice",
+        "text": "Well, what about you?  Are you going to tell me you've never even looked at anyone else?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_standing up_] Don't you _dare_ bring her into this!  She is clean and pure and decent!",
+        "prevSpeaker": "Janice",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Sometimes empathizing involves a bit of dramatic license.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "At least I've always been faithful to you!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Janice"
+    },
+    {
+        "speaker": "Janice",
+        "text": "[_stands up_] I've always been faithful to you!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I wanted to believe that more than anything in the world, but now, now... [_cries_] I don't see how I possibly can!",
+        "prevSpeaker": "Janice",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Did I mention that my brother's one of the greatest empathizers in the business?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Now I just want to DIE!  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You know, perhaps now would be a good time to take our fifteen minute break, why don't we? [_the patients start to leave the room_] We've had quite a catharsis here - now traditionally it is the patients that make the breakthroughs, but we mustn't be sticklers.  ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Janice"
+    },
+    {
+        "speaker": "Janice",
+        "text": "Dan and I have never cheated on another!  You've got to believe me!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, I do, I do, Janice, and please remember, no-one is here to judge anyone else's behavior. [_closes door and shouts at Niles_] What the hell are you doing, you lunatic?!",
+        "prevSpeaker": "Janice",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Maris is having an affair with Schenkman!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_stunned_] Schenkman!  Why, that contemptible bastard.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "He was waiting at the house for her when I got there.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I'm so sorry, Niles.  Is there anything I can do?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I don't see how.  They're in love, they plan to get married!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "He told you that?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Mmm-hmm.  And she confirmed it when she walked in - once she'd stopped shrieking and we'd coaxed her down off the canopy.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I'm just shocked.  Things seemed to be going so well with the two of you.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "That's what I thought. [_thinks_] You know, maybe Maris's feelings for Dr. Schenkman aren't real!  Maybe this is simply a case of transference.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, patients often do believe they've fallen in love with their analysts, it's very common, it's happened to everyone.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I know, it's happened to me!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, get out of town!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Several times.  Well, I bet that's exactly what's going on here!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_to himself_] I've never had a patient fall in love with me.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Schenkman's an authority figure, Maris is easily influenced...",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Not even that fat lady who brought me fudge.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I'd be a fool to let her go if it's as simple as that!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Now, Niles, you're not thinking clearly.  You're just grasping at straws.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "No, no, you're wrong.  I owe it to my marriage to give this just one more shot.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "How?!  What more could you possibly do?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I just need to talk to her alone.  Try to make her realize what a mistake she's making.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Niles, just bear one thing in mind... _Frasier follows Niles out of his office and shouts in earshot of the listening patients._ ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Sometimes a marriage is just bad, doomed, and no amount of discussion will save it! _Niles leaves; Frasier turns back to the patients, who are all staring at him, aghast._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, then... shall we resume? **THE GOING RATE FOR CLOSURE IS $1411.80** _Scene Three Later, Frasier is on the phone to Daphne in his apartment._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No, don't worry, Daphne, that's all right, you have fun.  I'll be fine.  See you tomorrow, everything will be fine, OK.  Oh, Dad?  No, he's not even back from his big date yet! [_laughs_] Maybe I'll see him in the morning too. [_she prolongs him_] Alright... yes, it is a very romantic story.  OK, Daphne... Yes, yes, they do make a very cute couple.  Anyway... Right, right, Daphne, yes I suppose they do owe it all to you, don't they?  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh well, there's the door.  OK. [_puts phone down_] _It seems that Frasier simply saved a very tired Niles from ringing it, who wearily enters._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Niles?  I thought you were talking with Maris.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "It's over.  Let her marry Schenkman, they deserve each other.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, I'm sorry, Niles.  What happened?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well, I reached the front gate and I was just about to ring the doorbell to ask her to let me in, when it suddenly dawned on me how many hours I have spent pleading with that woman through gates, through windows, through key holes, and through transoms and... in one disastrous instance, through the pet door.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, I remember dabbing Bactine on those Chihuahua bites.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well, I decided no more.  I actually looked up at the house and said, \"Goodbye, Maris.  I hope you have a happy life but I don't have to take anymore of your crap ever again!\"  And I turned on my heel and walked away.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "That's a courageous decision.  How do you feel?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Not bad, surprisingly.  I'm glad I went over, I needed the closure.  Now that it's over I feel a little sad of course, but also strangely liberated.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I'm very proud of you. _Frasier hugs his brother.  They spend a few moments in silence before Martin enters fresh from his date._ ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh Dad, you're back.  How did things go with Mrs. Crowley?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh great, fabulous.  Right up until the time she introduced me to my date.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I thought she was your date.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "So did I.  Turns out my date was her mother.  Eighty-six years young.  I guess there was a little miscommunication when she invited me.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Gee, I'm almost afraid to ask this; \"how was mom?\"",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well, she was very nice.  Sleepy. [_Frasier and Niles laugh_] But she smiled a lot, showed me pictures of her great- grandchildren.  She couldn't remember any of their names, but what the hell, she couldn't remember mine either. [_laughs_]",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, I think we could all use a little something from the bar.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well, I could use a big something.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "It hasn't been a good day all around.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Yeah, dad, uh... Maris and I have split up for good.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh, I'm sorry.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "She-She's in love with someone else.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh, Niles.  You all right?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well, I will be.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_hands drinks around_] Well, this may come as small consolation to you, but I believe that you each have a lot of work to do to catch up to me in the failed romance department.  Divorced twice, left at the alter once. _They share a chuckle, raise their glasses in a silent toast, and drink. Martin takes the bottle._ ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well, I haven't exactly been burning things up lately.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_as his glass is refilled_] Thank you, dad.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_fills Niles's, then his own_] Things with Sherry fizzled, then Sleeping Beauty tonight...  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "I think maybe I deserve the booby prize. _They lift their glasses again, mumbling toasts, and drink.  Niles takes the bottle._ ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I'll challenge you!  Fifteen years with Maris, I end up in bed with her lover. _Niles pours Martin's drink, but Martin nearly drops his glass when he hears this._ ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Geez, I didn't need to hear that!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "No, no, it was an accident.  It was pitch dark, I thought he was Maris.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "It's a natural mistake.  Uh, what tipped you off?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "The heat from her side of the bed! ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, I think we have a three-way tie. [_lifts his glass_] Here's to the Crane boys - love's big losers.  ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "You know, I said I needed closure.  But I won't have until I do one more thing. [_takes off ring and heads to the balcony_]",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, now be careful, Niles.  You know, from this height that could hurt somebody.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_looks out_] All clear! _Niles throws his ring over the balcony and they all rush to see it drop._",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Goodbye, Maris!  You've hurt me for the last time! ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Uh Niles, is that your Mercedes parked down there?  ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Whoa! [_then_] Oh well, a good body shop will be able to pound that out.  ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, it's Saturday night.  And here we are... again.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Wonder how many women are out there tonight without a date.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Thousands!  Thousands of opportunities for us to humiliate ourselves.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_shouting_] Well, come and get us, Seattle!  Three Cranes, no waiting!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "We're desperate!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "We're ludicrous!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "We're pathetic!  _They all chuckle to themselves before quieting down and staring, pensively, from the balcony. The emotional scene FADES OUT.  END OF ACT TWO. (Time: 20:38)_ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Credits"
+    }
+]

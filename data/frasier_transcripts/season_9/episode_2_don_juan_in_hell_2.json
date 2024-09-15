@@ -1,0 +1,1557 @@
+[
+    {},
+    {
+        "speaker": "Bob",
+        "text": "So how do you know Kirby?",
+        "prevSpeaker": "No Previous Speaker",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, I was his, uh, tutor.",
+        "prevSpeaker": "Bob",
+        "nextSpeaker": "Bob"
+    },
+    {
+        "speaker": "Bob",
+        "text": "Yow, how much do I owe you for that?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "It was a pleasure really.  So you're Kirby's dad?  Lana's ex who ran off with the dental hygienist.",
+        "prevSpeaker": "Bob",
+        "nextSpeaker": "Bob"
+    },
+    {
+        "speaker": "Bob",
+        "text": "[_unoffended_] But you can call me Bob.  I take it Lana filled you in about our divorce?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, well, I was a shoulder for her briefly.  You know, I think she's completely over you now.",
+        "prevSpeaker": "Bob",
+        "nextSpeaker": "Bob"
+    },
+    {
+        "speaker": "Bob",
+        "text": "I hope not!  I mean I really want her back.  I'll do whatever it takes to show her I'm a changed man.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Listen, Bob, I-I don't think that's a very good idea.",
+        "prevSpeaker": "Bob",
+        "nextSpeaker": "Bob"
+    },
+    {
+        "speaker": "Bob",
+        "text": "Well, but you said at the airport...",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, I know, I... [_seeing an opportunity to divert Bob's attention_] Oh, Roz! Roz, listen, I'd like you to meet, uh, Bob. Bob, this is Roz Doyle, the brilliant producer of my radio show.",
+        "prevSpeaker": "Bob",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Gee, thanks, Frasier.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Of course, beauty and brains, huh? Ha, ha.  Who said God doesn't give with both hands, huh? [_Encouragingly_] And, Roz, I believe, if I'm not mistaken you're, uh, available right now?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "[_Interested_] Maybe.  So what brings you to this little soiree?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Bob"
+    },
+    {
+        "speaker": "Bob",
+        "text": "Well, I'm Kirby's dad and Lana's ex, although hopefully not for long.  Thanks to this man, I've decided to follow my heart and come back to the woman I really love.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "[_realizing Frasier's motivation_] Oh, really? [_She walks toward Frasier._] _Kirby and Lana enter from the kitchen.  Kirby is covering Lana's eyes as they walk out._",
+        "prevSpeaker": "Bob",
+        "nextSpeaker": "Lana"
+    },
+    {
+        "speaker": "Lana",
+        "text": "Kirby, what is it?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Kirby"
+    },
+    {
+        "speaker": "Kirby",
+        "text": "You'll see.  You'll see. _Kirby removes his hand from Lana's eyes.  She sees Bob and is immediately filled with disgust._",
+        "prevSpeaker": "Lana",
+        "nextSpeaker": "Lana"
+    },
+    {
+        "speaker": "Lana",
+        "text": "OH, CRAP!! [_She runs directly to her bedroom._]",
+        "prevSpeaker": "Kirby",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, there goes that.  You gave it your best try Bob.  In the words of Tennyson... [_Bob has run to Lana's bedroom._] Bob?  Damn.",
+        "prevSpeaker": "Lana",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "[_Hits Frasier in the chest._] You jerk!  I am not just some man bait that you can just set out whenever it suits you!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I know, I'm sorry Roz.  I was desperate.  For God's sake, I just ended things with Claire and now I'm here to pursue Lana and then _he_ shows up.  Everything's ruined!",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Lana"
+    },
+    {
+        "speaker": "Lana",
+        "text": "[_yelling from the bedroom_] Why don't you just leave?!  You're good at that!  Just go!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Bob"
+    },
+    {
+        "speaker": "Bob",
+        "text": "[_emerging from the bedroom_] I'll call you later, son.",
+        "prevSpeaker": "Lana",
+        "nextSpeaker": "Kirby"
+    },
+    {
+        "speaker": "Kirby",
+        "text": "You can't quit now! If you're going to come back, you got to get used to her screaming! [_Exits._]",
+        "prevSpeaker": "Bob",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "You know, as ugly as that was, things couldn't have worked out any better for you.  I mean, she's vulnerable, there's a full bar, she's already in the bedroom.  Almost takes the sport out of it. [_She takes a drink._]",
+        "prevSpeaker": "Kirby",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I know you must be upset, Kirby.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Kirby"
+    },
+    {
+        "speaker": "Kirby",
+        "text": "The guy just wants to talk to her and she gets completely bent.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I know.",
+        "prevSpeaker": "Kirby",
+        "nextSpeaker": "Kirby"
+    },
+    {
+        "speaker": "Kirby",
+        "text": "I know it's a cliche, okay.  I just, I really want my parents to get back together.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I wish I could help.",
+        "prevSpeaker": "Kirby",
+        "nextSpeaker": "Kirby"
+    },
+    {
+        "speaker": "Kirby",
+        "text": "You could talk to my mother.  You could tell her to give him another chance.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, I, I don't think I'm the guy for that job.",
+        "prevSpeaker": "Kirby",
+        "nextSpeaker": "Kirby"
+    },
+    {
+        "speaker": "Kirby",
+        "text": "Talking to people _is_ your job.  You could try.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No, I can't.",
+        "prevSpeaker": "Kirby",
+        "nextSpeaker": "Kirby"
+    },
+    {
+        "speaker": "Kirby",
+        "text": "Can't?  I seem to recall a young pupil named Kirby.  He said \"I can't\" nary but months ago.  But a certain man named Dr. Frasier Crane taught that pupil that he can do whatever he sets his mind to.  And the name of that man was YOU! _CUT TO: Lana's Bedroom.  Lana is lying on her bed in a prone position, obviously very distressed. Frasier is heard knocking on the door from the outside.  Frasier enters._",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, Bob's left.  Are you all right?",
+        "prevSpeaker": "Kirby",
+        "nextSpeaker": "Lana"
+    },
+    {
+        "speaker": "Lana",
+        "text": "I have waited over a year for that man to come back to me, and when I finally get to the point where I never want to see him again, he walks through the door!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "But you're... you're much stronger now.  It'd take a lot more than just showing up to change your mind.",
+        "prevSpeaker": "Lana",
+        "nextSpeaker": "Lana"
+    },
+    {
+        "speaker": "Lana",
+        "text": "Well, to be fair, he did try to apologize.  I mean, what else can he do?  He can't take the whole last year back.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No, he can't.",
+        "prevSpeaker": "Lana",
+        "nextSpeaker": "Lana"
+    },
+    {
+        "speaker": "Lana",
+        "text": "Can I ask you something?  In your opinion as a psychiatrist, once you've lost trust, can you ever get it back?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_struggling_] Well, it would take work...a lot of work. Think about it, Lana. [_He takes her hand._] You could have a whole new life now.",
+        "prevSpeaker": "Lana",
+        "nextSpeaker": "Lana"
+    },
+    {
+        "speaker": "Lana",
+        "text": "I could.  I'm just so confused.  Frasier, you are the only man I can trust right now.  Tell me what to do. _She is very vulnerable.  If Frasier made his move now, he would probably have her.  He caresses her hand, obviously struggling with his ethics.  As usual, his ethics win._",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well... the truth is... that you wouldn't be having this crisis if you didn't still have feelings for Bob.  You should talk to him.  You owe it to yourself to hear him out.",
+        "prevSpeaker": "Lana",
+        "nextSpeaker": "Lana"
+    },
+    {
+        "speaker": "Lana",
+        "text": "I just want you to know, Frasier, that no matter what happens, you are a really good...",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Don't... Don't use the F-word.",
+        "prevSpeaker": "Lana",
+        "nextSpeaker": "Lana"
+    },
+    {
+        "speaker": "Lana",
+        "text": "I wasn't about to! [_Playfully tapping his shoulder._] I was going to say we're friends! _Lana laughs and collapses on the bed.  Frasier rubs her back, the tension now gone.  FADE TO:  Scene 2 - Frasier's apartment. Niles, Martin, and Daphne are seated at the dinner table._",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Great pot roast, Daph.",
+        "prevSpeaker": "Lana",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Wow, thanks Mr. Crane.  I used turnips and pearl onions for the...",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_giving up_] Oh, what's the use?  This place will never be the same without Claire.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "We all miss her, Dad.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "No one misses her more than me.  She could have been the sister I never had.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "You think we can call her?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "What would we say?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "She's probably out on a date with somebody else.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well, maybe not.  Let's just see if she's home. _Martin rises and moves to the telephone.  Niles and Daphne follow. Martin dials._",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Put it on speaker.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "You do the talking.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "No, Daphne should.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "I don't know what to say! _Claire answers: \"Hello?\"  They all stand stupefied.  Claire again says \"Hello.\"  Martin hangs up in panic, and all three rush back to their chairs._",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well, that was childish.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "She star 69'd us.  Don't answer it!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Have you all gone deaf?  Isn't someone going to answer that?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "You're up.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Hello?... Claire!... I did not call you, you called me!  I did not! I did not!  I did...",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "What was that all about?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Beats me, she always was a little nutty.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Hey, how did things go with Lana?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, I think she's going back with her ex-husband.  He showed up at the party, and I ended up counseling her to give him a second chance. [_He sits on the couch._] It was the noble thing to do... although my honor won't keep me warm at night.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Guess it just wasn't meant to be.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "But don't give up!  There's a lid for every pot. [_She stands and moves to Niles, who puts his arm around her._]",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Mmm, that's right.  Good things come to those who wait.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "And there are plenty of fish in the sea.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Dear God!  I will choke on another platitude!  Please!  Can't you say something helpful for once?!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_fed up_] Well, I'm sorry if the material isn't fresh anymore! It isn't easy coming up with happy talk every time you can't make it work with a woman!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_incredulous_] \"Every time I can't make it work with a woman\"?!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "That's right!  We wouldn't be in this situation if you hadn't blown it with Claire!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Is that so?! [_to Niles and Daphne_] Do you all feel this way?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "I'll clear.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I'll help.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_wounded_] I see.  My own family has turned on me in my darkest hour!  After a day of personal torment, I stagger homeward chapfallen... _Martin waves his hand and follows Niles and Daphne.  Frasier has turned away and doesn't see this._",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "...in search of comfort in the bosom of my family, but do they indulge me and permit me to suckle?  No, instead they... _He turns and sees that they have all left the room during his tirade. He pauses._",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, I've said my piece. _Frasier exits with a sense of just indignation.  FADE TO:_ **HEAD TRIP** _Scene 3 - Frasier's car. Frasier is driving when his cell phone rings.  He answers it._",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Hello?  Yes, hi, Niles.  Listen, I'm fine, actually.  I, I just need a little time alone.  I'll, I'll see you in a day or two. No, there's no need to put Dad on.  He's already \"consoled\" me enough as it is.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "\"Every time I can't make it work with a woman\"!  What the hell does he know?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Lilith"
+    },
+    {
+        "speaker": "Lilith",
+        "text": "[_o.s._] He's not wrong, Frasier. _The remainder of this scene, as well as the first scene of Act 4, are an extended fantasy within Frasier's mind.  We now see Lilith in the passenger seat._",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, he is!  It wasn't that I couldn't make it work with Lana. I simply stepped aside when the father of her _children_ showed up, like the decent human being I am.",
+        "prevSpeaker": "Lilith",
+        "nextSpeaker": "Lilith"
+    },
+    {
+        "speaker": "Lilith",
+        "text": "And - speaking on behalf of your subconscious - because you realized the relationship was destined to fail.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "And why would that be?  Lana could've been perfect for me.",
+        "prevSpeaker": "Lilith",
+        "nextSpeaker": "Lilith"
+    },
+    {
+        "speaker": "Lilith",
+        "text": "Is that just something you say out of habit now?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No!",
+        "prevSpeaker": "Lilith",
+        "nextSpeaker": "Lilith"
+    },
+    {
+        "speaker": "Lilith",
+        "text": "Because two weeks ago the title belonged to Claire.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Claire was perfect.  I just wasn't in love with her.  The heart has a mind of its own, they say.",
+        "prevSpeaker": "Lilith",
+        "nextSpeaker": "Lilith"
+    },
+    {
+        "speaker": "Lilith",
+        "text": "Or perhaps she wasn't needy enough for you.  You have been known to love a project.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, please!  I have never found neediness to be an attractive quality in a woman!",
+        "prevSpeaker": "Lilith",
+        "nextSpeaker": "Diane"
+    },
+    {
+        "speaker": "Diane",
+        "text": "Never?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Never!  Neediness was the very reason it _didn't_ work with Diane!  Specifically her need... for another man.",
+        "prevSpeaker": "Diane",
+        "nextSpeaker": "Lilith"
+    },
+    {
+        "speaker": "Lilith",
+        "text": "But you were attracted to her initially because her weakness allowed you to play the role of noble rescuer.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Diane"
+    },
+    {
+        "speaker": "Diane",
+        "text": "Excuse me, I have to object to the word \"weakness.\"  I was challenging, yet vulnerable, which is why Frasier saw me as the perfect woman for him, still does.",
+        "prevSpeaker": "Lilith",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I do not.",
+        "prevSpeaker": "Diane",
+        "nextSpeaker": "Diane"
+    },
+    {
+        "speaker": "Diane",
+        "text": "Then why am I in the car?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Perhaps you represent a happier time in my life.",
+        "prevSpeaker": "Diane",
+        "nextSpeaker": "Diane"
+    },
+    {
+        "speaker": "Diane",
+        "text": "Frasier, do you remember the time we drove down the cape and had a lobster picnic on the bluff? [_turning to Lilith_] We had nothing to crack open the claws, so Frasier put them in a bag and ran over them with the car!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_chuckles_] That didn't work either.",
+        "prevSpeaker": "Diane",
+        "nextSpeaker": "Diane"
+    },
+    {
+        "speaker": "Diane",
+        "text": "[_laughs nostalgically_] Oh, we gave up and made glorious love in the dunes.  Hmmm...",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Lilith"
+    },
+    {
+        "speaker": "Lilith",
+        "text": "Wait a minute.  Wasn't that me?",
+        "prevSpeaker": "Diane",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_thinks_] Right, that was you.",
+        "prevSpeaker": "Lilith",
+        "nextSpeaker": "Diane"
+    },
+    {
+        "speaker": "Diane",
+        "text": "Well then, what _do_ I represent?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I don't know and I don't care.  Now if you don't mind, I'd like a little peace.",
+        "prevSpeaker": "Diane",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, dear God, not her!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Diane"
+    },
+    {
+        "speaker": "Diane",
+        "text": "That person's not wearing shoes!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Lilith"
+    },
+    {
+        "speaker": "Lilith",
+        "text": "That's Nanette.  His first wife.",
+        "prevSpeaker": "Diane",
+        "nextSpeaker": "Diane"
+    },
+    {
+        "speaker": "Diane",
+        "text": "She's going to get hookworm!",
+        "prevSpeaker": "Lilith",
+        "nextSpeaker": "Lilith"
+    },
+    {
+        "speaker": "Lilith",
+        "text": "He's obviously dredging up past relationships in order to identify a pattern.",
+        "prevSpeaker": "Diane",
+        "nextSpeaker": "Diane"
+    },
+    {
+        "speaker": "Diane",
+        "text": "[_smiles_] Why, Frasier Crane, you were a hippie!",
+        "prevSpeaker": "Lilith",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I was 20! That was during my impulsive, rebellious phase. _'60's style folk guitar music begins to be heard.  It can be seen out the window that Nanette is carrying a guitar._",
+        "prevSpeaker": "Diane",
+        "nextSpeaker": "Diane"
+    },
+    {
+        "speaker": "Diane",
+        "text": "[_sympathetically_] Oh, pick her up! You can't ignore her.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "She's not a part of who I am anymore! _Nanette appears in the back seat next to Diane, strumming her guitar. She has arrived directly from the late '60's/early '70's and is a stereotypical hippie/flower child._",
+        "prevSpeaker": "Diane",
+        "nextSpeaker": "Nanette"
+    },
+    {
+        "speaker": "Nanette",
+        "text": "Do you remember that song?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_horrified_] Apparently, I do.",
+        "prevSpeaker": "Nanette",
+        "nextSpeaker": "Nanette"
+    },
+    {
+        "speaker": "Nanette",
+        "text": "He composed it in college. It's how we met.  He wrote it as a poem and was reciting it one night at the Human Collective when I joined in with my guitar.  Would you like to hear it?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "NO!!",
+        "prevSpeaker": "Nanette",
+        "nextSpeaker": "Lilith/Diane"
+    },
+    {
+        "speaker": "Lilith/Diane",
+        "text": "Oh, yes!/Yes, please!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Nanette"
+    },
+    {
+        "speaker": "Nanette",
+        "text": "It's called \"Bangladesh: Dhaka before the dawn.\" [_She begins to sing._] \"I dreamt that I was riding a candy unicorn / As I went to meet my lady in the dewdrop crystal morn...\"",
+        "prevSpeaker": "Lilith/Diane",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "The Bangladesh part's coming. [_N.B. Since Bangladesh gained independence from Pakistan in 1971, this must be roughly when Frasier and Nanette met, which seems right based on Frasier's current age._]  _End of Act 3  ACT 4  Scene 4 - The Crane family cabin. It is the cabin last seen in[[7.01]](/frasier/transcripts/season_7/episode_1/momma_mia.html \"Momma Mia\"), \"Momma Mia.\"  Frasier enters. _",
+        "prevSpeaker": "Nanette",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh... Solitude.  This is what I needed!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Diane"
+    },
+    {
+        "speaker": "Diane",
+        "text": "Perhaps.  But to quote Lord Byron, \"It is in solitude where we are least alone.\"",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Lilith"
+    },
+    {
+        "speaker": "Lilith",
+        "text": "Smells like dirt out there. [_seeing the cabin's interior_] Whoa!",
+        "prevSpeaker": "Diane",
+        "nextSpeaker": "Nanette"
+    },
+    {
+        "speaker": "Nanette",
+        "text": "Before Frasier sold out, we always dreamed of having a home like this - where we'd be surrounded by nature and need only the food that we grew and the shelter of each other's arms.",
+        "prevSpeaker": "Lilith",
+        "nextSpeaker": "Lilith"
+    },
+    {
+        "speaker": "Lilith",
+        "text": "[_drily_] It's amazing that marriage didn't work out.",
+        "prevSpeaker": "Nanette",
+        "nextSpeaker": "Diane"
+    },
+    {
+        "speaker": "Diane",
+        "text": "[_aside to Lilith_] She was probably great in the sack.",
+        "prevSpeaker": "Lilith",
+        "nextSpeaker": "Nanette"
+    },
+    {
+        "speaker": "Nanette",
+        "text": "Actually, I made a lot of distracting noises.",
+        "prevSpeaker": "Diane",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "All right, all right. [_closes door_] This has been a lot of fun, but what's it going to take to get you people out of my head?",
+        "prevSpeaker": "Nanette",
+        "nextSpeaker": "Lilith"
+    },
+    {
+        "speaker": "Lilith",
+        "text": "Well, a little self-examination might do it.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Fine!  I'm a failure in love. [_throws a bag into the kitchen/ pantry_] I failed with all of you.  I failed with Lana and with Claire, and with countless others in between.  Happy?",
+        "prevSpeaker": "Lilith",
+        "nextSpeaker": "Lilith"
+    },
+    {
+        "speaker": "Lilith",
+        "text": "Failure is a result, not a cause.  What's at the core?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Perhaps there _is_ no core.  Maybe fate's just conspiring against me.  Did you ever think of that?",
+        "prevSpeaker": "Lilith",
+        "nextSpeaker": "Lilith"
+    },
+    {
+        "speaker": "Lilith",
+        "text": "No, there's no such thing as fate.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Nanette"
+    },
+    {
+        "speaker": "Nanette",
+        "text": "[_now knitting on the couch_] Ha!  If that were true, there'd be no such thing as astrology!",
+        "prevSpeaker": "Lilith",
+        "nextSpeaker": "Lilith"
+    },
+    {
+        "speaker": "Lilith",
+        "text": "[_glancing dismissively at Nanette_] More avoidance, Frasier. Try to focus!",
+        "prevSpeaker": "Nanette",
+        "nextSpeaker": "Diane"
+    },
+    {
+        "speaker": "Diane",
+        "text": "I just had a thought! [_Frasier approaches her, listening eagerly._] Maybe it isn't Frasier's fault.",
+        "prevSpeaker": "Lilith",
+        "nextSpeaker": "Lilith"
+    },
+    {
+        "speaker": "Lilith",
+        "text": "Oh, denial, how nice to see you. [_Frasier glares at her._]",
+        "prevSpeaker": "Diane",
+        "nextSpeaker": "Diane"
+    },
+    {
+        "speaker": "Diane",
+        "text": "Frasier.",
+        "prevSpeaker": "Lilith",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Hmm?",
+        "prevSpeaker": "Diane",
+        "nextSpeaker": "Diane"
+    },
+    {
+        "speaker": "Diane",
+        "text": "It's your women!  We leave you.  It's in our nature.  I left you.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes.  You did!  You left me for Sam.",
+        "prevSpeaker": "Diane",
+        "nextSpeaker": "Diane"
+    },
+    {
+        "speaker": "Diane",
+        "text": "[_dreamily_] I left Sam, too.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Lilith"
+    },
+    {
+        "speaker": "Lilith",
+        "text": "Diane, we're talking about Frasier.  When we're inside _your_ head, we'll talk about you. _Diane is now wearing a painter's smock, holding a paint-covered palette, and working on an unfinished portrait on an easel.  The portrait is of Sam Malone._",
+        "prevSpeaker": "Diane",
+        "nextSpeaker": "Diane"
+    },
+    {
+        "speaker": "Diane",
+        "text": "I'm just saying that his women leave. [_to Lilith_] You did, too.",
+        "prevSpeaker": "Lilith",
+        "nextSpeaker": "Nanette"
+    },
+    {
+        "speaker": "Nanette",
+        "text": "So did I!",
+        "prevSpeaker": "Diane",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "That's right!  You all did.",
+        "prevSpeaker": "Nanette",
+        "nextSpeaker": "Diane"
+    },
+    {
+        "speaker": "Diane",
+        "text": "Oh, and poor Frasier.  You keep on trying.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Nanette"
+    },
+    {
+        "speaker": "Nanette",
+        "text": "He can't help it!  He's a hopeless romantic.",
+        "prevSpeaker": "Diane",
+        "nextSpeaker": "Diane"
+    },
+    {
+        "speaker": "Diane",
+        "text": "Frasier, when are you going to learn? [_sings_] \"Falling in love with love is falling for make-believe...\"",
+        "prevSpeaker": "Nanette",
+        "nextSpeaker": "Nanette"
+    },
+    {
+        "speaker": "Nanette",
+        "text": "What's wrong with following your heart?  Just because we left him doesn't mean the perfect woman isn't out there somewhere.",
+        "prevSpeaker": "Diane",
+        "nextSpeaker": "Lilith"
+    },
+    {
+        "speaker": "Lilith",
+        "text": "That's the problem.  Frasier thinks every woman is the perfect woman until he finds the deal-breaking flaw. [_distracted by Diane's singing_] You-, we... [_to Frasier_] Can you make that stop?",
+        "prevSpeaker": "Nanette",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I'm sorry.  It's stuck in my head.",
+        "prevSpeaker": "Lilith",
+        "nextSpeaker": "Diane"
+    },
+    {
+        "speaker": "Diane",
+        "text": "[_singing_] \"I realized that I was unable to sing...\"",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Lilith"
+    },
+    {
+        "speaker": "Lilith",
+        "text": "Thank you. [_Diane looks put upon._] It's that quest for perfection which ultimately defeats you, because the perfect woman does not exist.",
+        "prevSpeaker": "Diane",
+        "nextSpeaker": "Hester"
+    },
+    {
+        "speaker": "Hester",
+        "text": "[_o.s._] Speak for yourself!",
+        "prevSpeaker": "Lilith",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "MOTHER!",
+        "prevSpeaker": "Hester",
+        "nextSpeaker": "Hester"
+    },
+    {
+        "speaker": "Hester",
+        "text": "[_referencing the three women_] For such a short trip, you sure brought a lot of _baggage_!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "What are you doing here?",
+        "prevSpeaker": "Hester",
+        "nextSpeaker": "Lilith"
+    },
+    {
+        "speaker": "Lilith",
+        "text": "You have to ask?  You're a Freudian.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Hester"
+    },
+    {
+        "speaker": "Hester",
+        "text": "You've spent your whole life trying to replace me, but it's completely understandable.  I was your first love.",
+        "prevSpeaker": "Lilith",
+        "nextSpeaker": "Lilith"
+    },
+    {
+        "speaker": "Lilith",
+        "text": "Ladies, meet the competition. [_indicating Hester_] This is the woman against whom we have all been measured.",
+        "prevSpeaker": "Hester",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_interrupting her_] Lilith, will you please be quiet!  Mother is speaking!",
+        "prevSpeaker": "Lilith",
+        "nextSpeaker": "Hester"
+    },
+    {
+        "speaker": "Hester",
+        "text": "So, a lifetime of collecting women and this is the cream of the crop: the slacker, the barmaid, and the icicle.  I was so relieved when they left you.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Diane"
+    },
+    {
+        "speaker": "Diane",
+        "text": "_You_ left him too!",
+        "prevSpeaker": "Hester",
+        "nextSpeaker": "Hester"
+    },
+    {
+        "speaker": "Hester",
+        "text": "Oh, I had no choice.  Perhaps you heard?  I died.  Now, let's get down to work, shall we? [_moves to the couch_]",
+        "prevSpeaker": "Diane",
+        "nextSpeaker": "Lilith"
+    },
+    {
+        "speaker": "Lilith",
+        "text": "We were doing perfectly well before you got here.",
+        "prevSpeaker": "Hester",
+        "nextSpeaker": "Hester"
+    },
+    {
+        "speaker": "Hester",
+        "text": "Well, if your bargain-basement psychiatry was so effective, why did he have to call in the big guns? [_sits_] Now, let's explore the inner recesses of your psyche like we did when you were a boy. [_indicates her knee_]",
+        "prevSpeaker": "Lilith",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I don't want to! _As Hester begins to speak, Frasier approaches the couch, lies on it, and puts his head on Hester's lap._",
+        "prevSpeaker": "Hester",
+        "nextSpeaker": "Hester"
+    },
+    {
+        "speaker": "Hester",
+        "text": "Perhaps we should start with the premise set forth in the definitive study done by Harlan and Watkins.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Lilith"
+    },
+    {
+        "speaker": "Lilith",
+        "text": "Oh, excuse me, but the definitive study was done ten years later at Cambridge.",
+        "prevSpeaker": "Hester",
+        "nextSpeaker": "Hester"
+    },
+    {
+        "speaker": "Hester",
+        "text": "Oh, excuse me for not keeping up.  I was busy being _dead!_",
+        "prevSpeaker": "Lilith",
+        "nextSpeaker": "Nanette"
+    },
+    {
+        "speaker": "Nanette",
+        "text": "That's her excuse for everything!",
+        "prevSpeaker": "Hester",
+        "nextSpeaker": "Hester"
+    },
+    {
+        "speaker": "Hester",
+        "text": "Don't you have a tambourine to bang?",
+        "prevSpeaker": "Nanette",
+        "nextSpeaker": "Diane"
+    },
+    {
+        "speaker": "Diane",
+        "text": "Don't feel bad.  She tried to kill me once.",
+        "prevSpeaker": "Hester",
+        "nextSpeaker": "Hester"
+    },
+    {
+        "speaker": "Hester",
+        "text": "Oh, not this paranoia again!",
+        "prevSpeaker": "Diane",
+        "nextSpeaker": "Diane"
+    },
+    {
+        "speaker": "Diane",
+        "text": "You had a gun.",
+        "prevSpeaker": "Hester",
+        "nextSpeaker": "Hester"
+    },
+    {
+        "speaker": "Hester",
+        "text": "Frasier, don't listen to them.  These women are all liars and cheaters.  I'm the only woman you can trust.",
+        "prevSpeaker": "Diane",
+        "nextSpeaker": "Diane"
+    },
+    {
+        "speaker": "Diane",
+        "text": "You're a fine one to talk!  You cheated on Martin.",
+        "prevSpeaker": "Hester",
+        "nextSpeaker": "Hester"
+    },
+    {
+        "speaker": "Hester",
+        "text": "Oh, that's none of your beeswax, Missy!",
+        "prevSpeaker": "Diane",
+        "nextSpeaker": "Lilith"
+    },
+    {
+        "speaker": "Lilith",
+        "text": "Oh, betrayal by the mother.  Is there any deeper wound?",
+        "prevSpeaker": "Hester",
+        "nextSpeaker": "Hester"
+    },
+    {
+        "speaker": "Hester",
+        "text": "[_stands_] I'd say sleeping with his _brother_ is right up there!",
+        "prevSpeaker": "Lilith",
+        "nextSpeaker": "Diane"
+    },
+    {
+        "speaker": "Diane",
+        "text": "[_gasps, to Lilith_] You did?!",
+        "prevSpeaker": "Hester",
+        "nextSpeaker": "Hester"
+    },
+    {
+        "speaker": "Hester",
+        "text": "Mmm-hmm!",
+        "prevSpeaker": "Diane",
+        "nextSpeaker": "Diane"
+    },
+    {
+        "speaker": "Diane",
+        "text": "[_fantasizing_] Ooh, I could see _that._",
+        "prevSpeaker": "Hester",
+        "nextSpeaker": "Diane"
+    },
+    {
+        "speaker": "Diane",
+        "text": "Don't even _think_ about my baby like that!",
+        "prevSpeaker": "Diane",
+        "nextSpeaker": "Nanette"
+    },
+    {
+        "speaker": "Nanette",
+        "text": "You can't control her thoughts.",
+        "prevSpeaker": "Diane",
+        "nextSpeaker": "Hester"
+    },
+    {
+        "speaker": "Hester",
+        "text": "Oh, shut up, you're a whore.",
+        "prevSpeaker": "Nanette",
+        "nextSpeaker": "Nanette"
+    },
+    {
+        "speaker": "Nanette",
+        "text": "[_stands_] You're a hypocrite!",
+        "prevSpeaker": "Hester",
+        "nextSpeaker": "Hester"
+    },
+    {
+        "speaker": "Hester",
+        "text": "Whore!",
+        "prevSpeaker": "Nanette",
+        "nextSpeaker": "Nanette"
+    },
+    {
+        "speaker": "Nanette",
+        "text": "Hypocrite!",
+        "prevSpeaker": "Hester",
+        "nextSpeaker": "Hester"
+    },
+    {
+        "speaker": "Hester",
+        "text": "Whore!",
+        "prevSpeaker": "Nanette",
+        "nextSpeaker": "Nanette"
+    },
+    {
+        "speaker": "Nanette",
+        "text": "Hypocrite!  You're all hypocrites!",
+        "prevSpeaker": "Hester",
+        "nextSpeaker": "Hester"
+    },
+    {
+        "speaker": "Hester",
+        "text": "And you're all whores!",
+        "prevSpeaker": "Nanette",
+        "nextSpeaker": "Lilith"
+    },
+    {
+        "speaker": "Lilith",
+        "text": "Stop it!  Stop it!  Stop it!  Don't you see what he's doing? He's pitting us against each other in order to avoid the real conflict within himself.  We must work together. _The others respond with \"Right,\" \"I agree,\" etc.  They converge on Frasier._",
+        "prevSpeaker": "Hester",
+        "nextSpeaker": "Hester"
+    },
+    {
+        "speaker": "Hester",
+        "text": "What is the problem?  Why can't you make it work with a woman?",
+        "prevSpeaker": "Lilith",
+        "nextSpeaker": "Diane"
+    },
+    {
+        "speaker": "Diane",
+        "text": "Is it because they leave you?",
+        "prevSpeaker": "Hester",
+        "nextSpeaker": "Nanette"
+    },
+    {
+        "speaker": "Nanette",
+        "text": "Have you stopped listening to your heart?",
+        "prevSpeaker": "Diane",
+        "nextSpeaker": "Lilith"
+    },
+    {
+        "speaker": "Lilith",
+        "text": "Is it your unrealistic expectations?",
+        "prevSpeaker": "Nanette",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I don't know. [_gets off the couch and runs to the door_] Leave me alone!  I don't want to do this! _He opens the door and gasps.  There is a score of women crowded in the doorway.  \"Hi, Frasier,\" they all say.  He closes the door behind him in a state of utter panic._",
+        "prevSpeaker": "Lilith",
+        "nextSpeaker": "Diane"
+    },
+    {
+        "speaker": "Diane",
+        "text": "What is it?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "It's every woman I've ever dated!  [_N.B. Well, not quite.  However, all of the women in the door were actual actresses who had played Frasier's various love interests over the entire course of the show.  All of them were brought to the set to appear for these three seconds.  For their identities and the episodes in which they appeared, see the \"Guest Cast\" above._] ",
+        "prevSpeaker": "Diane",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "What am I going to do?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Hester"
+    },
+    {
+        "speaker": "Hester",
+        "text": "Now, son.  I know this is frightening for you, but you have to do the work.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_gives in_] Okay... [_walks back to the center of the room_] Okay. [_sits on the couch_] Fine.  All right.  I screwed things up with Lana.  But wait, that wasn't my fault.  She was still in love with her ex-husband.",
+        "prevSpeaker": "Hester",
+        "nextSpeaker": "Lilith"
+    },
+    {
+        "speaker": "Lilith",
+        "text": "No, Lana is not the problem.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Hester"
+    },
+    {
+        "speaker": "Hester",
+        "text": "No, she wasn't right for you at all.",
+        "prevSpeaker": "Lilith",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, mother, you would say that.  You never approved of any of my relationships.",
+        "prevSpeaker": "Hester",
+        "nextSpeaker": "Hester"
+    },
+    {
+        "speaker": "Hester",
+        "text": "Don't pin this on me.  I liked Claire.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Diane"
+    },
+    {
+        "speaker": "Diane",
+        "text": "Oh, she _was_ perfect for you.",
+        "prevSpeaker": "Hester",
+        "nextSpeaker": "Nanette"
+    },
+    {
+        "speaker": "Nanette",
+        "text": "Everybody thought so.",
+        "prevSpeaker": "Diane",
+        "nextSpeaker": "Hester"
+    },
+    {
+        "speaker": "Hester",
+        "text": "So why didn't it work out?",
+        "prevSpeaker": "Nanette",
+        "nextSpeaker": "Lilith"
+    },
+    {
+        "speaker": "Lilith",
+        "text": "Maybe because she _was_ just right for you.",
+        "prevSpeaker": "Hester",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "What does _that_ mean?",
+        "prevSpeaker": "Lilith",
+        "nextSpeaker": "Hester"
+    },
+    {
+        "speaker": "Hester",
+        "text": "Well, Claire was everything we ever looked for in a woman.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Lilith"
+    },
+    {
+        "speaker": "Lilith",
+        "text": "And that terrified you.",
+        "prevSpeaker": "Hester",
+        "nextSpeaker": "Diane"
+    },
+    {
+        "speaker": "Diane",
+        "text": "Because inevitably she would have left you.",
+        "prevSpeaker": "Lilith",
+        "nextSpeaker": "Nanette"
+    },
+    {
+        "speaker": "Nanette",
+        "text": "And so, of course, you ran away.",
+        "prevSpeaker": "Diane",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No, no, no.  I left Claire because I discovered I had feelings for Lana.",
+        "prevSpeaker": "Nanette",
+        "nextSpeaker": "Lilith"
+    },
+    {
+        "speaker": "Lilith",
+        "text": "You _created_ feelings for Lana...",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Hester"
+    },
+    {
+        "speaker": "Hester",
+        "text": "Who was extremely flawed...",
+        "prevSpeaker": "Lilith",
+        "nextSpeaker": "Lilith"
+    },
+    {
+        "speaker": "Lilith",
+        "text": "So you'd have an excuse to leave Claire.",
+        "prevSpeaker": "Hester",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, but I didn't need an excuse.  I didn't love her!",
+        "prevSpeaker": "Lilith",
+        "nextSpeaker": "Lilith"
+    },
+    {
+        "speaker": "Lilith",
+        "text": "You didn't _want_ to love her.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Hester"
+    },
+    {
+        "speaker": "Hester",
+        "text": "She was too good.",
+        "prevSpeaker": "Lilith",
+        "nextSpeaker": "Diane"
+    },
+    {
+        "speaker": "Diane",
+        "text": "And that's why you were afraid.",
+        "prevSpeaker": "Hester",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "All right, you're saying that I'm afraid of a good woman?",
+        "prevSpeaker": "Diane",
+        "nextSpeaker": "Hester"
+    },
+    {
+        "speaker": "Hester",
+        "text": "You're afraid of _losing_ a good woman.  Again.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "So that's it... all this work, just to find out that I have a fear of rejection?",
+        "prevSpeaker": "Hester",
+        "nextSpeaker": "Lilith"
+    },
+    {
+        "speaker": "Lilith",
+        "text": "That's right.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_beside himself_] So I'm alone... because I'm afraid to be alone?!",
+        "prevSpeaker": "Lilith",
+        "nextSpeaker": "Diane"
+    },
+    {
+        "speaker": "Diane",
+        "text": "Don't feel too bad.  You'll always have us.  Isn't that right, girls?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "All right, wait a minute! _They become silent.  Frasier now has a tremendous moment of revelation. He rises and paces the room._",
+        "prevSpeaker": "Diane",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "That's it!  That's my problem.  _You_ are always there.  I have carried you with me throughout every relationship, on every date.  You pick apart every woman I care about and you remind me how much it'll hurt if I open myself up.  You don't help me. You hold me back.  How will I ever move forward if I don't put _He looks behind him.  The four women have all disappeared.  He looks around again, realizes that his epiphany was real, and smiles.  FADE TO:  Scene 5 - Frasier's apartment. Fade in to reveal Niles and Martin getting ready to go out._",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Hurry along, Daphne, we'll miss the curtain.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Yeah, and you know how strict they are about that at the Cineplex.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Sorry.  I was rushing and I put my heel through the hem of my skirt, so I had to put on another one.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Ooh, it looks nice.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Then the top didn't go, so I changed it to this, but I couldn't wear this with a black brassiere, so I had to change that, which meant I had to change me knickers to match in case I go to the hospital. [_Niles and Martin exchange a glance._] You know, coordinating undergarments are the mark of a lady and all that.  Anyway, it's a long story.  I won't bore you with it.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_sarcastically_] Yeah, thanks.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Hey.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Hello.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Hi, guys.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "How are you, Dr. Crane?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Actually, I'm-I'm fine, Daphne.  In fact, my little retreat was just what this doctor ordered.  I cleared my head.  Came to some conclusions.  So where are you guys off to?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, just one of Dad's movies.  You want to join us?  I brought my \"Itty-Bitty Book Light.\"",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No thanks, you guys go ahead.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "You'll be okay, won't you?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Ah, yes, I'll be just fine.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Why don't I just stay here to keep you company?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No, really Dad, I'm fine.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "You sure?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes.  In fact, I'm...I'm better than I've been in quite some time.  Mainly because of one very important thing I learned...",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_interrupting_] Great!  Let's roll. _The three of them exit quickly.  Clearly they have no desire to hear about the \"very important thing.\"  Frasier doesn't care.  He grins widely and collapses on his couch, more content than we have seen him in a very long time.  FADE OUT_ **In loving memory of our friends Lynn and David Angell** ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Credits"
+    }
+]

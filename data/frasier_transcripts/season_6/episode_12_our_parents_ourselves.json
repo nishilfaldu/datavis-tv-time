@@ -1,0 +1,1791 @@
+[
+    {},
+    {
+        "speaker": "Frasier",
+        "text": "Go ahead, Sophie, I'm listening.",
+        "prevSpeaker": "No Previous Speaker",
+        "nextSpeaker": "Sophie"
+    },
+    {
+        "speaker": "Sophie",
+        "text": "[_v.o._] Hi, Dr. Crane.  My husband's having some of his friends over to watch the game Sunday, and I think it'd be nice if I could have some of my girlfriends over too.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Sounds reasonable.",
+        "prevSpeaker": "Sophie",
+        "nextSpeaker": "Sophie"
+    },
+    {
+        "speaker": "Sophie",
+        "text": "Exactly. I mean, it's just football.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Larry"
+    },
+    {
+        "speaker": "Larry",
+        "text": "[_in the background_] Not football, Einstein, the Super Bowl.",
+        "prevSpeaker": "Sophie",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Ah, that would be your doting husband now.",
+        "prevSpeaker": "Larry",
+        "nextSpeaker": "Sophie"
+    },
+    {
+        "speaker": "Sophie",
+        "text": "Larry, this is a private conversation.  And for God's sake, use a plate!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Sophie, why don't you put your husband on the line?",
+        "prevSpeaker": "Sophie",
+        "nextSpeaker": "Sophie"
+    },
+    {
+        "speaker": "Sophie",
+        "text": "Pick up.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Larry"
+    },
+    {
+        "speaker": "Larry",
+        "text": "Ah, geez. [_picks up, louder_] Hello!",
+        "prevSpeaker": "Sophie",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Larry, I gotta tell you, I'm afraid I side with your wife on this one.",
+        "prevSpeaker": "Larry",
+        "nextSpeaker": "Larry"
+    },
+    {
+        "speaker": "Larry",
+        "text": "That just proves you don't know the first thing about football.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "What I do or do not know about football has...",
+        "prevSpeaker": "Larry",
+        "nextSpeaker": "Larry"
+    },
+    {
+        "speaker": "Larry",
+        "text": "OK, how's this: My wife's friends can come over if you can answer even one little football question.  Like...",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Now, I don't see that that's in any...",
+        "prevSpeaker": "Larry",
+        "nextSpeaker": "Larry"
+    },
+    {
+        "speaker": "Larry",
+        "text": "You're down by six, you're on your own forty, three seconds left, what do you do?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, all right, you would...  ",
+        "prevSpeaker": "Larry",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You would take your receivers, [_Roz sets them together_] and line them up, [_she pretends to throw_] and then throw a pass. [_big throwing gesture_] A long, long pass.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Larry"
+    },
+    {
+        "speaker": "Larry",
+        "text": "Yeah, and what's the name for that? _Roz gets down on her knees, crosses herself, and prays with an innocent look on her face._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "A Hail Mary. [_Roz gives him the thumbs up._] Sophie and Larry, I hope you enjoy the game.  In the meanwhile, this is Coach Crane saying, I'm listening.  ",
+        "prevSpeaker": "Larry",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "I'm impressed you're so good at charades.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I'm impressed you could mime a virgin.  So, Roz, you walkin' out?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "No, I got stuff I gotta do.  I've got some carts to rack, and I want to put together some Best of Crane tapes.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, your mother's still in town?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "In town, in my apartment, and when I left this morning, in my refrigerator, smelling my milk!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, lord.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "I, I love her, I just wish I could get a couple of hours to myself one night.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, why don't you just ask her?  She might enjoy a little time to herself.  I know my dad does.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "You are so lucky.  I wish my mother drank alone.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You know, Roz, your mom's about the same age as my dad, isn't she?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Yeah, I guess.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Does she date much?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Since my father left, practically never... no, hang on...",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No, no, hear me out, Roz.  Now, Dad hasn't dated anybody since he and Sherry broke up, I'm starting to worry he's lost his nerve.  A date with your mom could be a tremendous favor to him.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "I don't know.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, come on, I'll tell you what: I know it's awkward but there's a way to minimize that.  Niles and I are having dinner with him tonight.  We'll take him to McGinty's, he'll feel comfortable, you and your mother can just happen by.  We'll see what transpires, you know, they'll never even know it's a fix-up.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Oh, what the hell, I'll give it a shot, I guess.  How's five sound?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Five?  Your mother is ready for dinner at five?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "I keep her on Wisconsin time, that way she's in bed by eight.   **A.K.A THE LAST ONION OUT OF POMPEII**  _Scene 2 - McGinty's Fade in.  Niles and Frasier are sitting at a table, Martin brings a plate over._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Hey, look what I got here, boys!  A Funion Onion.  The chef sent it over with his compliments.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I wonder what his insults are like.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_to a waitress_] Hey, Bonnie!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Bonnie"
+    },
+    {
+        "speaker": "Bonnie",
+        "text": "Hey ya, Marty.  Oh, you must be Frasier, the big radio star.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, yes.  Hello.",
+        "prevSpeaker": "Bonnie",
+        "nextSpeaker": "Bonnie"
+    },
+    {
+        "speaker": "Bonnie",
+        "text": "Your dad is so proud of you, he talks about you all the time. Who's your friend?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Now, what's wrong with you?  I told you about my other son.",
+        "prevSpeaker": "Bonnie",
+        "nextSpeaker": "Bonnie"
+    },
+    {
+        "speaker": "Bonnie",
+        "text": "[_shaking Niles's hand_] Oh, of course, what am I thinking? Nice to meet you, Eddie.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "This is Niles.  How 'bout some beers, Bonnie?",
+        "prevSpeaker": "Bonnie",
+        "nextSpeaker": "Bonnie"
+    },
+    {
+        "speaker": "Bonnie",
+        "text": "Coming right up.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh God, look.  The group coming in the door, they're from the Shangri-La. _A group of guys come over and punch Niles on the shoulder.  He puts up his fists and weaves back and forth._ ",
+        "prevSpeaker": "Bonnie",
+        "nextSpeaker": "Jimbo"
+    },
+    {
+        "speaker": "Jimbo",
+        "text": "Whoa, it's the Coyote!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Evening, evening, Jimbo.  Check you later.  ",
+        "prevSpeaker": "Jimbo",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Wow, you got a nickname down there already.  That's great! The Coyote?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Yes.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "And how did you earn that honorific?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, it was quite the merry road.  Yes.  It evolved from Niles to Nilesy to Niley to Nile E. Coyote and now simply \"The Coyote.\"  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, well, just when I thought it couldn't be refined any further.   [_N.B. Eva Marie Saint's first (and Oscar-winning) film role was as Edie Doyle, Marlon Brando's love interest in 1954's \"On the Waterfront.\"_] ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, goodness, look who's here!  Roz!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "What?  We don't see enough of each other during the day?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Hello, Joanna.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Joanna"
+    },
+    {
+        "speaker": "Joanna",
+        "text": "Nice to see you again, Frasier.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Nice to see you again, too.  Please, won't you sit down and join us?",
+        "prevSpeaker": "Joanna",
+        "nextSpeaker": "Joanna"
+    },
+    {
+        "speaker": "Joanna",
+        "text": "Oh, no, we don't want to intrude.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, no, no, please, the more the merrier.",
+        "prevSpeaker": "Joanna",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "All right.  Mom, this is Frasier's dad, Martin Crane.  This is my mom, Joanna Doyle.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Very nice to meet you.  And this is my other son, Niles.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "How do you do?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Joanna"
+    },
+    {
+        "speaker": "Joanna",
+        "text": "It's a pleasure.  _DISSOLVE TO: after dinner.  Martin and Joanna have cleaned their plates, while the others still have food._ ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Roz, will you just look at the two of them.",
+        "prevSpeaker": "Joanna",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "How did you two manage to finish all that?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Joanna"
+    },
+    {
+        "speaker": "Joanna",
+        "text": "Oh, please.  This is how our generation ate every day.  I used to live on cigarettes, whiskey sours and bacon cheeseburgers.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Yeah, and what about breakfast?  Fried eggs, sausage patties, hash browns...",
+        "prevSpeaker": "Joanna",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "My God, last night I ate a profiterole and lay awake 'til dawn waiting for my heart attack.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Joanna"
+    },
+    {
+        "speaker": "Joanna",
+        "text": "Those were simpler times, weren't they, Marty?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh yeah, we didn't worry about dumb things like cholesterol. We worried about puttin' food on the table, keepin' the yard clean and the car shiny.",
+        "prevSpeaker": "Joanna",
+        "nextSpeaker": "Joanna"
+    },
+    {
+        "speaker": "Joanna",
+        "text": "And the H-bomb.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well, yeah, that.",
+        "prevSpeaker": "Joanna",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Say, Roz, we better be going if we're going to get that work done tonight.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, I should be going too.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Mom and me are going to that jazz club on Fifth.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "But we promised to finish those promos tonight.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Oh, right.  Mom, I'm sorry, I totally forgot.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Joanna"
+    },
+    {
+        "speaker": "Joanna",
+        "text": "It's OK.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Wait, I've got an idea.  Uh, Dad, since I'm kidnapping Roz, why don't you take Joanna to the jazz club?",
+        "prevSpeaker": "Joanna",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well, sure, I'd love to.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Is that OK with you, Mom?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Joanna"
+    },
+    {
+        "speaker": "Joanna",
+        "text": "If Martin's game, I'm game.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, well, perfect.  OK, you kids just have some coffee, we'll see you back at the apartment later, OK?",
+        "prevSpeaker": "Joanna",
+        "nextSpeaker": "Joanna"
+    },
+    {
+        "speaker": "Joanna",
+        "text": "All right.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Very, very nice to meet you.",
+        "prevSpeaker": "Joanna",
+        "nextSpeaker": "Joanna"
+    },
+    {
+        "speaker": "Joanna",
+        "text": "Thank you.  ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Joanna"
+    },
+    {
+        "speaker": "Joanna",
+        "text": "Look at them.  They think we don't know this is a setup.",
+        "prevSpeaker": "Joanna",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well, how could we figure it out?  We're just a retired detective and an attorney general. [_they laugh_]  ",
+        "prevSpeaker": "Joanna",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "You were absolutely right, they didn't suspect a thing.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I told you Roz, just leave it to the master.  _FADE OUT.  Scene 3 - Frasier's Apartment. Fade in.  Daphne is sitting in Martin's chair eating popcorn and watching television.  Roz brings another bowl in from the kitchen. Frasier is on the couch._ ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "God, I thought they'd be home by now.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Roz, will you please relax and watch the pageant with us? They're right in the middle of the talent competition. [_She sits next to him._]",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "It's shameless the way they're sucking up to the international panel of judges.  Miss Germany just played \"Lady of Spain\" on a French horn.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Roz, you're gonna chew that nail right off.  Stop it.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "I can't help it.  I'm nervous.  Do you think it's gonna turn out OK?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Who cares?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Not for Miss Brazil.  Look at the tree trunks on her. She's her own little rain forest.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "I just keep worrying that she's gonna have a lousy time, and it will be all my fault.  Screwing up, like always.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, come on, Roz.  Your mother doesn't think you're a screwup.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Oh, yeah?  In high school, I ran my own informal shoplifting clinic.  In college, I dropped out of pre-law because it interfered with Bruce Springsteen's touring schedule.  And now I'm an unwed mother.  What would you call me?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Tramp.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Daphne!",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "It's Miss Venezuela.  If that dress of hers was slit any higher, you could see Caracas.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, oh, Roz.  You know what?  So what if they don't get along? So we made a mistake.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "[_getting up for some sherry_] You don't understand.  My mother doesn't make mistakes.  She does everything well.  She's smart, successful, classy... oh, what the hell was I thinking?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_rising_] About what?  Setting her up with my father?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "No, that's not what I meant.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "That is exactly what you meant!",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Well, OK, Frasier.  No offense, your father is a very nice man, but let's face it: My mother was the attorney general of Wisconsin.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well I hope he remembers to curtsey before the Dairy Queen!",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "[_getting up_] This is ridiculous.  I'm going to watch this in my room.  Miss Finland just laid out her plan to end world hunger, and I missed it!  _She goes off to her room.  There is the sound of the key in the lock at the front door._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, lord.  ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, Roz, that is the best promo of all.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Oh, hi!  How was your evening?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Joanna"
+    },
+    {
+        "speaker": "Joanna",
+        "text": "Oh, the jazz was first rate.  But I'm afraid I talked Martin's ear off.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh, you're crazy.  Your mother tells wonderful stories, Roz. I could have listened to her all night.",
+        "prevSpeaker": "Joanna",
+        "nextSpeaker": "Joanna"
+    },
+    {
+        "speaker": "Joanna",
+        "text": "You are either too kind or a little tipsy.  But thank you. Come on, Lammy.  I really had a lovely time.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well, I can't remember when I had a better time.  We're gonna have to do this again.",
+        "prevSpeaker": "Joanna",
+        "nextSpeaker": "Joanna"
+    },
+    {
+        "speaker": "Joanna",
+        "text": "Bye, Frasier.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Goodnight, Joanna.  Lammy.  ",
+        "prevSpeaker": "Joanna",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_grinning_] So... Tell me all about it.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well, being a gentleman, I don't want to go into the details, so suffice it to say, it STUNK!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "What?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_putting up his coat_] That was the dullest evening of my life. The way she drones on and on.  Do you know how many metric tons of eggs Wisconsin produces every year?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well, I do!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh...",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Look, Frasier, I know you meant well, but if you ever set me up again, I'll kill you in your sleep.  Goodnight.  _He goes off to bed.  There is a quiet but insistent knocking at the door.  Frasier opens it to reveal Roz._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "[_excited_] I told my mom to meet me downstairs.  I just had to come up and tell you.  She had the best time!  She can't wait to go out with your father again.  Will you tell him to call her tomorrow?  Oh, Frasier, this whole thing worked out like a dream!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_crossing to the kitchen_] It's amazing!  Her voice is still echoing in my head!",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, it's like a fairy tale over here, too.  _Roz leaves.  FADE OUT.  End of Act 1  Act 2  Scene 1 - Cafe Nervosa. Fade in.  Frasier and Niles are standing at the counter._ ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I've just got to find some way to tell Roz.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Why?  It's just going to hurt her mom's feelings.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Her feelings are going to be hurt anyway.  She's here 'til Sunday.  She's expecting him to call.  Oh, dear God.  At least this way Roz can let her down easy.  ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Looks like both of us have difficult conversations ahead of us.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "What's yours?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "All week long, I have been getting less coffee and more foam in my cappuccino.  It's about time for someone to raise a little hell.  Who's on steamer duty?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, it's that hulking fellow, Thad.  The one who doesn't react when his arm touches the steamer nozzle.  ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Where is that suggestion box?  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Oh, hey Frasier.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Hi, Roz.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Double espresso to go, please. [_Roz and Frasier sit._] Listen, I really need to thank you again. My mother had the best time last night.  And when we got home, WE started talking.  We ended up staying up half the night.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, Roz I'm glad for you, but...",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "It was like a wall came down.  She just opened up to me. She started talking about how hard it was on her when my dad left, and how lonely she's been, and it was like she was talking to a girlfriend instead of her screw-up daughter.  So, has Martin called her yet?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No.  But he will.  Soon.  Uh, he had a really busy morning.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Well, how does this weekend look?  'Cause she's leaving Sunday night.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Sunday?  Oh, well let's see, tonight is poker night, that's no good.  Saturday he's made plans to, uh, drive Duke to Tacoma for that all day... Tacoma-Fest.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Well, on Sunday we go to a matinee and then I drive her to the airport.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, darn.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Wait a minute.  I can give my ticket to Martin and they can go together.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No, no, Sunday's no good, because that's the, uh...",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Oh right, it's the Super Bowl!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Right, the Super Bowl.  You know how Dad is about football, it's like a religion with him.  In fact, he's made Niles and I promise that we'd watch it with him this year.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Oh, well, OK.  Let's just forget about the tickets and we'll come over and watch the game.  Is there any reason why that won't work?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Not that I can come up with.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "That's great, my mom's going to be so excited. [_She turns to pay her bill, Niles takes it and puts it on the counter._] Oh, thank you, Niles.  I'll see you Sunday at your Super Bowl party.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_sitting_] I see you told Roz the news and she went insane.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Couldn't do it.  Told her we were watching the Super Bowl with Dad and she and her mother are coming over.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "This is a nightmare!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I know.  I've got to find some way to tell Dad.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I have to watch the Super Bowl?!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I suppose the sooner I tell him, the better.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, not necessarily.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "What do you mean?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well, you know Dad.  If you warn him Joanna's coming over, he'll just bolt to McGinty's.  If I were you, I'd wait until five minutes before game time and then spring it on him.  That way he has no choice but to stay.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I think I owe him more than five minutes' warning.  Besides, Dad would never deliberately hurt Joanna standing her up. He is first and foremost a gentleman.  ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "I saw Roz, so I hid outside in case that old gasbag of a mother was with her.  Well, I guess she wasn't, everybody's still awake.   **ROUGHING THE PASSER** _Scene 2 - Frasier's Apartment Fade in.  Martin is watching the pre-game as Frasier paces nervously._",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Look at those guys in the locker room.  Nervous, hearts pounding, probably a little sick to their stomachs, poor kids.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes.  Until I got out of high school, I didn't there was any other way to feel in a locker room.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "What's the matter with you?  You keep looking at your watch.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Was I?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Yeah.  Is there something on your mind?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No, no, but there's something I wanted to talk to you about, but now's not the time.  ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Now's the time.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Just let me get the door.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No, Dad, Dad, that's what I have to talk to you about.  You see, that's going to be Roz and her mother.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "What?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, Joanna had such a good time with you the other night, and you did say that you would see her again, and rather than send her home with her feelings hurt, I had to tell her you wanted her here.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "What, like a date?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, that's the beauty of it.  It's like a date, but it's not a date.  Just, you know, make small talk, you pass the dip.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "No, Frasier, you don't understand...",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Now, Dad, I know you found her a little less than scintillating, but please, it'll be over before you know it.  ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Bonnie"
+    },
+    {
+        "speaker": "Bonnie",
+        "text": "Hey, Frasier.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Hi, Bonnie.",
+        "prevSpeaker": "Bonnie",
+        "nextSpeaker": "Bonnie"
+    },
+    {
+        "speaker": "Bonnie",
+        "text": "Martin.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Hey, Bonnie, glad you could make it.  Let me hold this. See, this is what I was trying to tell you, Frasier, I invited Bonnie.",
+        "prevSpeaker": "Bonnie",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_taking her coat_] Oh, how nice.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well, what do you got here?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Bonnie"
+    },
+    {
+        "speaker": "Bonnie",
+        "text": "Oh, it's my special deviled ham in the shape of a football. But I still need to put on some macaroni laces.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh, the kitchen's right down there, just holler if you need anything. [_She heads over._]",
+        "prevSpeaker": "Bonnie",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "What did you invite her for?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well, because I like her, and I thought I might want to ask her out, and I thought if she came over for the game it might be a step in the right direction.  I mean \"like a date but not a date.\"  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Now that's gonna be Roz and her mother.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Bonnie"
+    },
+    {
+        "speaker": "Bonnie",
+        "text": "Should I put some coffee on while I'm in here?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "You better, we're gonna need it.",
+        "prevSpeaker": "Bonnie",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Would you come on, Dad?  Would it kill you to be civil for the length of one Super Bowl?  What is that, an hour out of your life?  ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Hi! [_The ladies shush them and motion to the baby._] Sorry.  Come on in.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Joanna"
+    },
+    {
+        "speaker": "Joanna",
+        "text": "Thanks so much for inviting us.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Wouldn't be fun without you.",
+        "prevSpeaker": "Joanna",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Frasier, could you show Mom where Alice can finish her nap?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I'm sure Dad would love to.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "My pleasure, just come this way, Joanna.  So, you a big football fan?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Joanna"
+    },
+    {
+        "speaker": "Joanna",
+        "text": "No, actually I've never even seen a game.  I was hoping you'd explain as we go along.  ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Bonnie"
+    },
+    {
+        "speaker": "Bonnie",
+        "text": "[_coming from the kitchen_] OK, who's hungry?  Oh, hey, I'm Bonnie.",
+        "prevSpeaker": "Joanna",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Hi, from McGinty's.  I didn't know you were coming.",
+        "prevSpeaker": "Bonnie",
+        "nextSpeaker": "Bonnie"
+    },
+    {
+        "speaker": "Bonnie",
+        "text": "Yeah, Martin invited me.  He was real cute about it.  He checked with all the waitresses to find out if I was single.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Oh. [_She looks questioningly at Frasier._]",
+        "prevSpeaker": "Bonnie",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, well you know how Dad is always trying to, ah...  ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Bonnie"
+    },
+    {
+        "speaker": "Bonnie",
+        "text": "Hey, the Coyote!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Find a new girl for Niles.  Niles, you remember Bonnie. She waited on us at McGinty's.",
+        "prevSpeaker": "Bonnie",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, of course.  I'll have a vodka martini, very dry.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Don't be silly, Niles.  Bonnie is here as our guest.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Yeah, your dad thought you two might hit it off.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_not enthused_] Oh.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Bonnie"
+    },
+    {
+        "speaker": "Bonnie",
+        "text": "[_even less enthused_] Oh.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "The Superbowl and a date.  Hot diggity!",
+        "prevSpeaker": "Bonnie",
+        "nextSpeaker": "Bonnie"
+    },
+    {
+        "speaker": "Bonnie",
+        "text": "Well, come here, you're just in time for my specialty.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, I... [_She pops a cracker in his mouth._] Mmmm!  Isn't that interesting!  Something formerly ham.",
+        "prevSpeaker": "Bonnie",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "[_coming from her room_] Well, I'm off to the cinema.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "You're not staying for the game?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Sorry, but Ameican football's not for me, and they're showing \"Wuthering Heights\" downtown.  I think it's the most romantic movie ever made.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "You're going alone?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Yes, unfortunately.  It's more fun to go with someone, except of course it always ends the same way: Me weeping all over me date's shoulder while he does what he can to comfort me.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Bonnie"
+    },
+    {
+        "speaker": "Bonnie",
+        "text": "Oh, you should have seen me cry putting onions in this ham loaf.  I must've gone through a whole roll of toilet paper.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Well, enjoy your game.",
+        "prevSpeaker": "Bonnie",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Frasier, may I see you in the kitchen?  ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "That's amazing!  You do all you do and you still have time to be a docent at the cheese museum on the weekends? Frasier, can I see you in the kitchen?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Just a second, Dad, I gotta take drink orders in here.  _Cut to the kitchen.  Martin comes in as Niles is rinsing his mouth at the tap._ ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Thanks for setting me up with that Spam-happy tootsy.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "What are you talking about?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Bonnie.  Frasier told me you invited her here for me.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "I invited her here for me.  He probably said I invited her for you because he didn't want to upset Miss Boring's feelings.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_entering_] Now, now, no private conversations.  Your dates are waiting.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "They're not our dates!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "We hate them!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Now listen.  I realize that this is a very difficult situation, but if we all cooperate, we can send everybody home happy.  Dad, if you would like, you can discretely take Bonnie aside and tell her what's going on.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Bonnie, can I tell you something?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I said DISCRETELY!  ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Joanna"
+    },
+    {
+        "speaker": "Joanna",
+        "text": "I think the game is about to start.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Oh, that reminds me, I want to get Alice's bottle warming.",
+        "prevSpeaker": "Joanna",
+        "nextSpeaker": "Bonnie"
+    },
+    {
+        "speaker": "Bonnie",
+        "text": "Oh, you have a baby?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Joanna"
+    },
+    {
+        "speaker": "Joanna",
+        "text": "Oh, the most adorable little girl.",
+        "prevSpeaker": "Bonnie",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh, she's a real beaut!  You oughta see her, Bonnie.",
+        "prevSpeaker": "Joanna",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "You can come with me if you want when I feed her.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "No, you go ahead and get that ready, I'll show Bonnie, it's right through there.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Now, Dad, don't you get fresh with Niles's girl, there.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh, I won't if he won't.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Joanna"
+    },
+    {
+        "speaker": "Joanna",
+        "text": "Your father is really smitten with that baby, isn't he?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "I think he's just got a weak spot for the Doyle women.",
+        "prevSpeaker": "Joanna",
+        "nextSpeaker": "Joanna"
+    },
+    {
+        "speaker": "Joanna",
+        "text": "Oh.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, well, he may appear to have a crusty exterior, but deep down inside, Dad's just an old softy.  ",
+        "prevSpeaker": "Joanna",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_v.o._] Well, there's the kid.  Kind of a goony-looking thing, isn't she?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Is that Dad?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Look, Bonnie, I gotta tell you somethin'.  I didn't ask you here for Niles, I asked you here for me.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "It's the baby monitor!  We should just...",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Joanna"
+    },
+    {
+        "speaker": "Joanna",
+        "text": "[_grabbing it away from Niles and Frasier_] Shh.  I want to hear this.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Bonnie"
+    },
+    {
+        "speaker": "Bonnie",
+        "text": "But I thought you were with Joanna.",
+        "prevSpeaker": "Joanna",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "No, no.  Frasier and Roz set us up last week.  I told Frasier I thought she was a big snooze.  Especially compared to the fun you and I have at the bar, but he stuck me with her again.",
+        "prevSpeaker": "Bonnie",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You know, I bet they know it's on...",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Yeah.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "And they're just having some fun with us...",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Yeah.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Joanna"
+    },
+    {
+        "speaker": "Joanna",
+        "text": "Frasier, just stay put.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Bonnie"
+    },
+    {
+        "speaker": "Bonnie",
+        "text": "Then Niles isn't my date?  Oh, there's a relief.  I mean, no offense, Marty, but...",
+        "prevSpeaker": "Joanna",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Hey, you don't have to tell me.",
+        "prevSpeaker": "Bonnie",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_grabbing his coat_] OK.  If anybody wants me, I'll be at the movies. [_He rushes out._]",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Bonnie"
+    },
+    {
+        "speaker": "Bonnie",
+        "text": "So you really like me?  You're not just pulling my leg?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "You want proof?",
+        "prevSpeaker": "Bonnie",
+        "nextSpeaker": "Joanna"
+    },
+    {
+        "speaker": "Joanna",
+        "text": "I think we can turn this off now.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Joanna, I am so sorry.  I know it sounded bad, but...",
+        "prevSpeaker": "Joanna",
+        "nextSpeaker": "Joanna"
+    },
+    {
+        "speaker": "Joanna",
+        "text": "No, no, not at all.  I'm sure your father meant \"big snooze\" in the most flattering sense.  Roz, maybe we should leave.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "What were you thinking?",
+        "prevSpeaker": "Joanna",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, Roz, I certainly wasn't thinking that he had a date planned.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "I'm just going to get Alice.  Mom, I'm so sorry.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Joanna"
+    },
+    {
+        "speaker": "Joanna",
+        "text": "Believe me.  Twenty years in politics, I've been called worse things than boring.  ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Joanna"
+    },
+    {
+        "speaker": "Joanna",
+        "text": "Well, I hope you'll understand if I just slip out without saying goodbye to Martin?",
+        "prevSpeaker": "Joanna",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Of course, Joanna.  The last thing we need today is another awkward situation.",
+        "prevSpeaker": "Joanna",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_o.s._] Whoa-ho-ho, Roz!  Knock, will ya?   _Scene 3 - Frasier's Apartment. Fade in.  Frasier opens the door to Roz._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "I left my diaper bag.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Right.  Can you come in for a bit?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "I really shouldn't.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Roz, I'm so sorry.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "It's all right.  I mean, I'm not gonna say that my mother wasn't hurt, but she did start to smile a little bit about it on the way to the airport.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You know, I've been sitting here, trying to figure out why I was so eager to play matchmaker for Dad.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Oh, you're not alone.  I mean, I was excited once I thought it was going well.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, I suspect I wasn't doing it so much for him as I was doing it for me.  I see him here all the time, all alone, I wonder if maybe that's not gonna be me someday.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Oh, God.  I think the same thing sometimes when I see these older ladies in my building.  They all want to babysit Alice just for the company.  I mean, she's a cute baby, but she ain't no Dorthy Parker.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Ah, well, we're both gonna be fine.  I was just thinking, though, if we wanna play it safe, we could make one of those, uh, pacts.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "You mean, like in forty years, if neither one of us finds anyone...",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yeah, exactly, we'll marry each other.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "I was gonna say kill each other.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, six of one...  ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Credits"
+    },
+    {
+        "speaker": "Credits",
+        "text": "  Niles is at Cafe Nervosa.  The waiter brings his cappuccino.  Angered at the amount of coffee, he pulls out his notepad and jots a complaint. He goes to put it in the suggestion box but as he gets there, Thad comes out.  Niles crumples the note and Thad holds up the trash can for him.  Niles ends up throwing the note past his head and runs out.   * * *  ## Guest Appearances    **Special Guest Star** EVA MARIE SAINT as Joanna Doyle  **Guest Starring** ALICE PLAYTEN as Bonnie ROCKY McMURRAY as Jimbo  **Guest Callers** PHIL DONAHUE as Larry MARLO THOMAS as Sophie   * * *  ## Quick Summary {nicholas hartley}    _ACT ONE  SCENE ONE - KACL_  Frasier is on air and is taking his last caller. It's a woman who says her husband is having a superbowl party on Sunday for his friends however he won't let her friends come over. The husband comes onto the phone and says he'll let them come over if he can answer a simple football question. Roz mimes the answers to Frasier in order he can get it correct. After signing off as \"Coach Crane\" he has a chat with Roz where she reveals that her mother is in town and has become a burden. Frasier suggests that she should start dating Martin to get her out of the house. So they agree to \"accidentaly\" meet at McGinteys.   Martin, Frasier and Niles are seated at a table as the waitress; Bonny comes over. She seems to know Martin. After greeting him she realises who Frasier is and talks about how proud Martin is of him. Then she turns to Niles and thinks he's a friend. Martin covers up saying \"I've told you about my other son\". However Bonny still gets it wrong and calls him Eddie. After she's left, some people from the Shang-ri-la enter who Niles trys to hide from. However they spot and proceed to play fight calling him the coyote. Niles explains his nickname: It went from Niles to Niley to Nile. E. Coyote and then just to coyote. However at that moments it's refined further as the shang-ri-la guys address him with a coyote growl. After this Roz and her mother, Joanna, enter. Frasier notices her and pretends he didn't expect her. He gets them to sit at the table - with Joanna next to Martin.   Everyone has finished eating however Martin & Joanna are the only ones who have cleared their plates. They explain how they never worried about calories in their day and how they ate full cooked breakfasts. Niles is disturbed by this. Roz suggests to Joanna that they better leave as they have a jazz concert. However, Frasier stops her and tells Roz they must discuss the promos. This was obviously planned as Roz decides to give her ticket to Martin so the two \"love birds\" can go off together. Joanna and Martin agree as Niles, Frasier and Roz leave saying that they have no idea it was a set up. However we see that they do know.   Daphne and Frasier are watching a \"Miss. World\" pagent whilst eating popcorn. Roz comes in looking worried, she explains her worry to Frasier. However he's not really listning to her as he watches her pagent making sarcastic comments with Daphne about the women. Roz explains how her mother MUST BE perfect, she says SHE NEVER makes wrong choices. Roz explains how Martin isn't right for her. Frasier is angered by this as he believes Roz thinks her mother is too high up to be dating someone as low down as retired cop. They begin arguing as Daphne trys to watch the television. Daphne gets up in a huff saying she just missed something before storming off to her room. Frasier tells Roz to stop worrying just before they hear the front door opening. Roz and Frasier quickly head to the sofa to look at the promos, as if they had been doing that all the time.  Martin and Joanna enter looking pleased with each other. They make little comments and it seems they want to see each other again. Joanna leaves so Martin can tell his TRUE side of the story to Frasier. Martin says that he actually hated the date. He says she droned on and on with boring facts; eg: the egg production in Wisconsin. Martin heads off to the room with the words \"If you ever set me up on a date again, I'll kill you in your sleep!\" Frasier is shocked by this and rather distressed.  Frasier rushes to the door, it's Roz. She looks really excited and explains how her mother had such a good time. Joanna cannot wait for a second date. Roz also says how a wall has been broken down between her and her mother. She says she will now talk openly about how she felt when her father left. She really is exstatic. At this point Martin walks out saying \"her voice is still in my head\". Frasier cannot bring himself to tell her that Martin hated the date and says \"it's like a fairytale here too!\"  _ACT TWO  SCENE ONE - CAFE NERVOSA_  Niles and Frasier are at the bar. Niles takes a drink from his cappuchino and he puts it down in disgust. He says that each week there gets more foam and less coffee. He decides to tell the waiter, however when he realises the waiter is a bit too macho for him he changes his mind and looks for the suggestion box. Frasier tells him about Martin's date and not being able to tell Roz. Niles tell Frasier he must do the right thing and tell the truth.  Roz enters and begins talking to Frasier. She says Martin hasn't rung yet. Frasier again can't bring himself to say anything so instead says he will. Roz looks at her calender and checks it with Frasier. He makes excuses up for every day. So Roz suggests that she brings Joanna up on Sunday to their super bowl party, which Frasier has no way of escaping out of.  She leaves and Frasier tells Niles the news, and that he must also be at the superbowl party. Niles gives Frasier some advice: to tell Martin about this five minutes before. If he tells him in advance he'll probably escape to McGinteys. So Frasier decides this is probably the best option in the long run.   Martin is watching the warm up before the superbowl on the television and Frasier swims around laying out food. The doorbell sounds and he takes Martin aside. He says it will be Joanna which just angers Martin. He answers the door, surprisingly, to Bonny who is carrying some food. She makes her way to the kitchen as Martin explains that he invited her over in order to ask her on a date. Frasier is distraught by this as he answers the door to Joanna. Joanna and Martin begin chatting before they take the baby away to a room.  Bonny then enters laying the food out and Roz inquires about why she's here. Frasier pretends that Martin invited her here for Niles. Bonny is confused by this. At this point Niles enters through the front door and hangs up his coat. He is shocked when he realises that Bonny is his date however he goes along with it to be polite. Daphne enters at this point and heads out the door - she explains she's going to see \"Whuthering Heights\" at the cinema by herself. She goes onto say how, if there was someone there, she would only end up crying in her dates shoulder.  After sampling one of Bonny's culinary \"delights\" he enters the kitchen. Martin enters just after him. Niles tells him off for setting him up with Bonny. Martin tells Niles he invited her here for himself, and that it was probably Frasier's idea so not to offend \"Miss. Snoozey\". Frasier enters the kitchen and tells them to see to the dates however Niles & Martin disagree saying they hate them.  They all enter the room where Joanna begins talking about the baby. Bonny asks to see the baby, so Martin takes her off. Unfortunately the baby monitor is switched on and the conversation about the dates are heard. Both Martin and Bonny don't like their dates. Upon hearing this, Niles takes flight in order to catch up with Daphne at the movies.  Joanna is a little disturbed by this but says she's not too offended. She leaves without saying goodbye to Martin. Roz follows her after shouting at Frasier.   Later on, Roz comes back up to his apartment and they talk about looking at their parents love life and comparing it with their own. They explain that they'll probably never get married and time is runnung out. Frasier says they should make a pact; like in forty years if they find no one they should marry each other. Roz says she was going to say \"kill each other\". ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Credits"
+    }
+]

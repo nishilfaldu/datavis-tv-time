@@ -1,0 +1,1263 @@
+[
+    {},
+    {
+        "speaker": "Skyline",
+        "text": "The Seattle sky line is drawn with no extras.  Act One.  Scene One -- KACL Frasier and Roz in their respective booths, the show is going on._ ",
+        "prevSpeaker": "No Previous Speaker",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Gee, I'm sorry, Blake.  When I told you to close your eyes and visualize that you were on a tropical island, I didn't realize you were calling from your car phone.  ",
+        "prevSpeaker": "Skyline",
+        "nextSpeaker": "Blake"
+    },
+    {
+        "speaker": "Blake",
+        "text": "[_v.o._] That's OK, Doc.  At least I know my airbags work.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_laughs uncomfortably_] Well, I'm glad you're alright. And thank you for your call.  _Gil Chesterton edges open the door and slides into the booth. He waves and mouths \"Hi.\"_ ",
+        "prevSpeaker": "Blake",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, look who's popped into the booth!  It's Gil Chesterton, KACL's own food critic - which means, it's my cue to hit the road.  So, till tomorrow, this is Dr. Frasier Crane, wishing you... [_starts to sneeze_] a good day... [_sneezes_] and-and good health. _He goes off the air.  Gil comes in with his hands behind his back. Roz enters the booth._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Gil"
+    },
+    {
+        "speaker": "Gil",
+        "text": "[_motherly_] Hey, Frasier!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Hello, Gil.",
+        "prevSpeaker": "Gil",
+        "nextSpeaker": "Gil"
+    },
+    {
+        "speaker": "Gil",
+        "text": "I heard you coughing on the air earlier today.  Sounds like you might be coming down with something.  So I had this sent over from Rosenthal's Deli. [_hands Frasier a white paper bag_] Chicken soup, so lovingly prepared even the chicken gets well.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Thank you.  That's very kind.",
+        "prevSpeaker": "Gil",
+        "nextSpeaker": "Gil"
+    },
+    {
+        "speaker": "Gil",
+        "text": "And of course I'd never forget you, Roz. [_hands her a smaller bag_] Some ladyfingers, that have been soaked in rum.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Mmm!",
+        "prevSpeaker": "Gil",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Much like her own.  ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Gil"
+    },
+    {
+        "speaker": "Gil",
+        "text": "I say, I hope this isn't the start of that nasty flu that's going around.  You want to take a couple of days off, nip it in the bud, I'd be happy to cover your time slot for you.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No, no, thank you.  I'll be fine tomorrow.",
+        "prevSpeaker": "Gil",
+        "nextSpeaker": "Gil"
+    },
+    {
+        "speaker": "Gil",
+        "text": "Okey-dokey.  But, uh... feel free to call me if you change your mind.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Mmm!  Plump, gooey, and guaranteed to rot your teeth.",
+        "prevSpeaker": "Gil",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes.  I don't like his phony British accent much, either.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "You sure got a bug up your mind about Gil.  What's your problem?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I just don't trust him.  Nobody's that nice unless they want something from you. ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "He's just a generous person.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, yes! [_getting up and following her_] He was very generous to Bonnie Weems!  Bought her a case of wine, asked her to let him have her timeslot when she was off on vacation.  When she got back, she had been banished to the midnight to four a.m. slot!",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "What are you saying?  He's trying to take our timeslot?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I'm just saying we should watch our backs.  How would you like to work from midnight to four a.m.?  What would happen to your social life?  Those are your peak hours! [_smirks_]",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "You're just being paranoid.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No, I'm not. [_returns to his booth_]",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "[_following him_] Yes, you are!  The man brought you some chicken soup.  It does not mean he wants your timeslot. Besides, why would he be bribing us?  He'd be bribing the higher-ups, they're the ones who make the decisions!  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Gil"
+    },
+    {
+        "speaker": "Gil",
+        "text": "Frasier! [_sees the first bag_] Oh good, it's still here. I'm so sorry.  This is your soup. [_hands him the bag in his hand and takes the one off the console_] This is the Lobster Newburg I bought for the station manager's cat.  ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I'll see you tomorrow, Roz.  _He grabs his briefcase off the console and leaves.  FADE OUT_  **SPRING IS IN THE AIR**  _Scene Two - Frasier's apartment Martin and Daphne are seated at the table, both reading from the newspaper._",
+        "prevSpeaker": "Gil",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Oh, here's a gruesome bit.  A partly-decomposed body just washed up in Puget Sound!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Hey, that's good news!",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "[_shocked_] I beg your pardon?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Bodies don't rise till the weather gets warmer.  You get your first floater, and spring's just around the corner!  _Daphne looks suitably disgusted.  Frasier enters from his bedroom, clumsily dressed and looking extremely tired._ ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_listlessly_] Morning, Dad, Daphne.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Frasier, you sound awful!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_unconvincingly_] It's just a little bug.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "But you can't be thinking of going to work!  You're all pasty and clammy and pale!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "And coming from an English person, that's bad! _Daphne, offended, picks up the breakfast dishes and marches into the kitchen._ ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Don't worry, Dad.  As you've often said, \"if you can walk, you can work.\"  Took kind of an ironic twist the day you got shot in the hip!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well, at least I had a real job.  Half your listening audience hears voices already, and the other half talks to themselves!  If you don't show up, who's going to notice?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, I'm out of here.  _He puts down his mug and walks over to the coat rack.  Daphne runs after him from the kitchen._ ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "But you're burning up!  You really should stay home and let me tend to you.  I'm a very good nurse.  I mended all my brothers' soccer injuries.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_shrugging into his coat_] Well, I didn't get injured playing soccer.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Neither did my hooligan brothers.  Mostly they got hurt beating up drunken Dutchmen in the stands.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_folding his arms_] Well, that's going to look pretty against the glass in your booth!  Why don't you just stay home?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Dad, Daphne, thank you, thank you.  But I'm a physician. I believe that I am the best monitor of my own condition. I'm fine!  Fit as a fiddle!  _He pulls open the door and exits.  Beat.  The doorbell sounds, languidly and tiredly.  Daphne, who has turned away, returns expectantly to the door and opens it to reveal a very sick Frasier._ ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_whining_] I'm sick...!  _Daphne supports Frasier as he trudges back into the living room.  FADE TO:  Scene Three -- KACL Gil is on the air, doing his show in Frasier's timeslot._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Gil"
+    },
+    {
+        "speaker": "Gil",
+        "text": "And we're back, with \"Restaurant Beat.\"  This is Gil Chesterton and I'm filling in for Dr. Frasier Crane. We're here talking to Louis, who has forgotten that tonight is his tenth anniversary.  Well, Louis, I believe I've saved your proverbial _derriere_!  During the commercial, I managed to secure you a private booth at Maximillian's.  Just promise me for dessert you'll have their _Schwarzw\ufffdlder Kirschtorte_.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Louis"
+    },
+    {
+        "speaker": "Louis",
+        "text": "The... the what?",
+        "prevSpeaker": "Gil",
+        "nextSpeaker": "Gil"
+    },
+    {
+        "speaker": "Gil",
+        "text": "The _Schwarzw\ufffdlder_... [_condescendingly_] well, maybe you'd better stick with the rainbow sherbet.",
+        "prevSpeaker": "Louis",
+        "nextSpeaker": "Louis"
+    },
+    {
+        "speaker": "Louis",
+        "text": "I don't know how to thank you.  You saved my marriage!",
+        "prevSpeaker": "Gil",
+        "nextSpeaker": "Gil"
+    },
+    {
+        "speaker": "Gil",
+        "text": "No, don't thank me!  I'm only here tonight because our dear Dr. Crane is home with the flu. _The scene changes to Frasier's room.  Frasier is lying in bed with a thermometer in his mouth.  He is listening to Gil on a radio above his bed.  Martin reads the newspaper in a chair by the bed._ ",
+        "prevSpeaker": "Louis",
+        "nextSpeaker": "Gil"
+    },
+    {
+        "speaker": "Gil",
+        "text": "[_on radio_] If you're listening, Doc, all of us here at KACL want you to get better soon.",
+        "prevSpeaker": "Gil",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_mumbling around the thermometer_] I just bet you do.  ",
+        "prevSpeaker": "Gil",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Time to check if the turkey's done. [_she takes out the thermometer_]",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Dad, you know, you don't have to sit in here with me all day.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh no, no problem.  You need company when you're sick.  You never know when you're going to croak.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Oh, boy.  Your temperature is up there - one hundred and one! You are a sick boy.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Thank you for reminding me, Daphne.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Naw, I remember the sickest I ever was.  They'd shipped us back from Korea.  I got this Oriental parasite, that was building its own little pagoda right in my colon...",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Thank you, Dad.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "You know, you might try some of my homeopathic tea.  It'll flush out your system, and it'll also make your hair more shiny and manageable. ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No, no thank you.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh, no!  That wasn't the sickest I was.  It was that time Your mother and I took that trip down to Mexico.  I was real careful about the water, and then I ate this piece of lettuce. Next thing you know, I'm spewing both for accuracy and distance.  I spent the night curled up on the stone floor, screaming, \"I want to die, I want to die!\"",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Wouldn't that have been a tragedy?  You wouldn't be here with me now!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "OK, I get the point.  I'll give you a little peace and quiet here. [_gets up and starts to leave_] Oh, no!  What was I thinking of?  What about the time your mother left the potato salad in the trunk of the car?  I'm still sick from that one!  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "[_pleasantly_] Is there anything else you need?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "A little more ginger ale, please.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Very well, then.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh Daphne, this time make it shaved ice, not cubes.  And I don't like those straws.  Can I have the bendy kind?  And the saltines, they're too salty.  I need the low-sodium.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Your wish is my command.  _She turns to leave again.  This time, she is stopped by Niles, who is just entering the room._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Hello, Daphne.  Is he in pain?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Not enough. _She exits.  Niles bends over Frasier, covering his mouth with his handkerchief._",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Frasier, I brought you something.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Niles!  Put the hanky down, for God's sake!  It's not the plague! _Niles does, carefully folding the handkerchief and placing it on the bed before sitting down.  He's carrying a plastic bag with a slime- green pouch inside, with a lanyard around it._ ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well, look.  This is from Marta, our maid.  It's a poultice you wear around your neck.  The recipe comes from her remote mountain village in Guatemala.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_catches a whiff_] I can see why her village is remote!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well yes, it is pungent. [_drapes it around Frasier's neck_] But, by inhaling these herbs, many of the villagers live to be well over a hundred.  Marta herself is seventy-eight, and you should see her scramble up the stairs when Maris rings her little bell.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, Niles, would you mind?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Of course.  _Obligingly, Niles gets off the bed and walks to the phone. Eddie scampers into the room and bounces up onto Frasier's bed next to him._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, hello Eddie!  For once I'm actually glad to see you! Here.  _He drapes the poultice around the dog's neck.  Horrified, Eddie runs out of the room.  Frasier laughs to himself.  Niles returns to the bed, phone in hand._ ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_returning to the bed, phone in hand_] Uh, it's for you. It's - Roz?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_taking the phone and speaking weakly_] Hello.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "So, how are you feeling?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Awful, thank you.  _Reset to: we see Roz standing at the payphone outside the studio, as Gil still goes on with his show._ ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Well, I'm sorry to hear that.  Because I really think you should get your butt back down here.  You were right about Gil, Frasier.  He's lobbying for our slot.  I was talking to Millie in Traffic and she overheard Gil talking to the station manager.  It was all about how our timeslot is perfect for his show because it's mid-afternoon and everyone is making [_posh accent_] dinner plans!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I knew it, I knew it!  Geez... OK, Roz, you can count on me. I'll be there tomorrow.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Well, you'd better be!  I don't trust that greedy, finger- Licking runt as far as I can throw him.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Gil"
+    },
+    {
+        "speaker": "Gil",
+        "text": "[_sticking his head out of the booth_] I say, Roz, how am I doing so far?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "[_fake_] Fabulous!  ",
+        "prevSpeaker": "Gil",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "OK, I'll be in tomorrow. ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Frasier, you can't be serious about going in tomorrow.  Your pupils are dilated. [_he touches his brother's forehead_] You have a fever.  _He wets a cotton swab with the alcohol and meticulously cleans his hands._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "You go in in that condition, you won't even make it to the...",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, I just don't trust Gil Chesterton.  I think he's after my timeslot. [_exasperated_] Oh Niles, will you stop it with the alcohol!  _Niles reluctantly places the cotton wool into the plastic bag that once held the poultice._ ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I just can't let that smarmy little chowhound do my show for another day!  Oh God, anybody would be better! [_inspiration strikes_] Niles, Niles, would you do my show for me?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Frasier, I think that fever of yours is making you delusional.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, no!  I filled in for you when you were too sick to meet with your \"Fear of Intimacy\" group!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_heading into the bathroom_] I wasn't sick.  They were just getting too close.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, I guess you're right.  It's probably a bad idea.  Doing my show requires a set of abilities that you just don't possess. You have to be able to size up your patients very quickly, and then dispense your advice in an entertaining and insightful manner.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_re-entering the room_] Frasier, this pathetic attempt at reverse psychology is beneath you.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_knowingly_] Then you're not going to do my show?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_defiantly_] No, I AM going to do your show, and I'm going to do it better than you ever DREAMED of doing it!  _Niles walks out, and Frasier is happy -- until Eddie scampers in with the poultice in his teeth.  He drops it back onto Frasier's chest then scampers out again.  Frasier stares after him venomously.  FADE TO:  Scene Four -- KACL Roz and Niles are in Frasier's booth.  She is showing him around the control panel._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "[_pointing_] And here's the cough button in case you need to cough or clear your throat. [_holds up a blue cart_] And most important, here's an extra-long commercial to use if you need a bathroom break.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Thank you, but those won't be necessary.  I have no cough reflex, and excellent bladder control.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "[_sarcastically deadpan_] It's true - all the good ones ARE married. [_leaving for her booth_] You're on in ten seconds and your first caller is Marcia.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Marcia... _He places the headphones around his neck and sits down, covering the mike with his hand.  Clearing his throat, he tries out catchphrases._",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "\"Hello, Marcia, I'm listening.\"  That is so trite.  \"Hello, Marcia, tell me where it hurts.\" No, no... \"Hello, Marcia, I hear you.\"  No... _Roz points to him.  Not understanding, he points back to her, while continuing to mutter to himself.  Roz points at him again, more urgently.  He still doesn't understand that he is on._ ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "[_speaking into her mike_] Good afternoon, Seattle!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, yes! [_puts on his headphones_] Hello!  This is Dr. Niles Crane, filling in for my ailing brother, Dr. Frasier Crane. Although I feel perfectly qualified to fill Frasier's radio shoes, I should warn you that while Frasier is a Freudian, I am a Jungian.  So there'll be no blaming Mother today.  _He is proud of himself for having gotten thus far, and doesn't notice Roz sigh and sink back into her chair._ ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Ooh-kay, Roz, who's my first caller?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "We have Marcia on line three.  She's in love with her husband's brother.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "This day promises not to disappoint. [_jabs a button professionally_] Hello, Marcia.  \"Let's get better!\"  _Pleased with himself, he gives Roz a \"how's that?\" shrug. Surprised, she gives him a \"hey, not bad\" signal back.  Reset to: Frasier's bedroom.  He is listening to the radio as Daphne takes his temperature again, laughing at Niles's performance._ ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_on radio_] But before we get into the specifics of your problem, why don't I give you a little historical background? The psychiatrist Sigmar Bromnoh - that's B-R-O-M-N-O-H - in the late 1950s, wrote extensively on the problem you are facing.  Which is all the more amazing when you realise that Bromnoh was a prominent Reichian, although...",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_gleefully_] Listen to him!  He's terrible!  ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "And, I'm afraid, so are you.  Your temperature's up to one hundred and three.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, it could go up to a hundred and five, I couldn't be better!  My timeslot is safe.  Niles is as dry as this toast you brought me - with the crust still on.  I'm sure when I'm ready to go back, they'll send a limo!",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Well, I'll just go get you another drink.  Was that last straw bendy enough?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Perfect, thank you. [_she starts to leave_] Oh Daphne, Daphne, look. [_points at a tissue box on the bed next to him_] Here, take these tissues away.  I, they hurt my nose.  I want that kind with the little moisturizer droplet between the sheets. And the rose petals in the humidifier - I think they're starting to wilt.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Oh, of course.  Anything you like.  Fresh rose petals, crust-less toast, soft tissues... [_turning to leave, muttering bitterly_] acupuncture needles where you least expect them...  _End Of Act One (Time: 10:05)  Act Two.  Scene One - KACL Niles is pacing the booth, with his jacket off and his shirtsleeves rolled up.  He is holding the mike and speaking animatedly into it._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Howard, Lois, I could stay on the air counseling you all day, but -- [_glances at the clock_] we're coming to the end of our hour, so I'm just going to cut to the quick.  If one of you doesn't say, \"I love you\" right now - _right now_ - frankly, I don't see how you could have any kind of future together. So, which of you has the courage to say, \"I love you?\"  ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Lois"
+    },
+    {
+        "speaker": "Lois",
+        "text": "[_v.o._] Howard... I love you.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_thrilled_] Yes!  Yes!  Howard, she loves you!  What about you?",
+        "prevSpeaker": "Lois",
+        "nextSpeaker": "Howard"
+    },
+    {
+        "speaker": "Howard",
+        "text": "[_v.o._] I, uh...",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Howard?  Are you going to just pack up your emotional tent and walk away... Howard?  Howard, it's up to you!  Can you say it?!  Can you?!",
+        "prevSpeaker": "Howard",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "[_caught up in the excitement_] Come on, Howard!  Come on, Howard!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Howard"
+    },
+    {
+        "speaker": "Howard",
+        "text": "I... I love you too, Lois!",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "YES!  _SMASH CUT TO: Frasier's bedroom, where the three members of the Crane household are listening to Niles's triumphant broadcast.  Martin, in his chair by the bed, laughs.  Daphne happily jumps on Frasier's back -- which she can do because Frasier is face-down on the bed, writhing in envy. _",
+        "prevSpeaker": "Howard",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "He said it, he said it!",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_on radio_] But I'm afraid we're going to have to interrupt this radio moment with a commercial... [_Daphne turns off the radio_]",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Hey, Niles is pretty good!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Good?   Good?!  The little rat is scintillating!  Oh, why couldn't he just do what's expected of him for once and stink?!  He's even better than Gil Chesterton!  Oh, God - they're trying to make me look bad!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Aw, geez.  This high temperature of yours is making you zooey.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No!  No!  It's made me clear-headed.  I've gotta get down there, go to that station, reclaim what's rightfully mine!  ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "There'll be no more filling in by anybody!  No way, no how! No way, no...",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_stands_] Frasier, you're not going anywhere.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_facing off with his dad_] Oh, who's going to stop me?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "I am.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, how are you - a man with a limp and a cane - going to stop a man in the prime of his life? _Martin pokes Frasier in the chest, and the latter falls pathetically back onto the bed, groaning loudly._ ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_over Frasier's whining_] And I wasn't even leaning on my cane. Come on, Daphne. ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Boy, he really is sick.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Huh!  You want to talk sick?  1962, World's Fair.  The Tilt-A- Whirl was right next to the \"Little Taste Of India\"... **I GO TO PIECES**  _Scene Two -- KACL Frasier is back doing his show, with Roz in her booth._ ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "As you know, I was out sick most of the week, and I'd like to take this opportunity to express my sincere gratitude to Gil Chesterton and to my brother Niles for doing such a great job of filling in for me. _Oddly enough, Niles and Gil are both standing ominously at a half- screened window behind Frasier._ ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I really appreciate it, guys. _Turning to the window, he waves cheerily.  Both Niles and Gil lift their hands to return the wave at exactly the same time, looking decidedly sinister._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well Roz, now that I'm back to normal and feeling great, who's our first caller?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "We have Sonya from Auburn on line three.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Let's just hear what Sonya has to say... _He presses a button on his console.  BANG!  A bomb under his chair explodes, vaporizing him.  Roz looks upwards, bewildered, as debris rains down on Frasier's console.  SMASH CUT TO: Frasier's Bedroom Frasier (still sick), wakes up screaming._ ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "DAPHNE!  DAPHNE!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "What is it this time?!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I had a dream!  I had a dream!  They are plotting against me!",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Oh, now now, Dr. Crane.  I thought we went over this already. It's just your fever talking!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_suspiciously_] Oh, that's just what you want me to think! You're probably in league with Niles!  I know about the two of you!  Oh, you pretend not to know, but you know!  [_N.B. Frasier almost blew Niles's secret right here!!!  In fact, Jane Leeves, who says she knows more about Daphne than the writers who created her, always maintained that Daphne has always been aware of Niles's feelings for her, but sublimates them out of feelings of inferiority. -- Mike Lee_] _Frasier grabs his prescription pad off the desk and starts scribbling on it._ ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I've gotta get back down there and take my show back!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "But you can barely function!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, well, these prescriptions will take care of that and more. [_rips off a slip and passes it to her_] Now here, run down to the drugstore, post-haste!",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "[_reading it_] Syducane?!  This'll have you high as a kite!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "That's only until I take a couple of these!  _He rips off another slip and gives it to her.  As he climbs out of bed, she reads it and her eyes widen._  [_N.B. A play on the name of series writer Sy Dukane._] ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Oh now, Dr. Crane, I really don't think you're in any shape...",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Thank you!  But the moment I give a fig for what you think is the day that England produces a great chef, a world-class bottle of wine, and a car that has a decent electrical system!  ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "[_furious_] You know, being a health-care provider, I try to be sympathetic towards my patients.  But I have reached the end of my tether with you, Doctor!  You are by far the most ungrateful, disagreeable, self-centered, whiny fusspot I've ever had the misfortune of dealing with!  I've had patients on their deathbeds who were more considerate, and a damn sight more jolly too!  As far as I'm concerned, you can lay in those sweaty sheets until you're one giant bedsore!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Are you done?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "[_calming down somewhat_] Yes.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Then scurry on down to the drugstore and get those filled while I get dressed!  _He turns toward his closet, as Daphne stalks out of the bedroom.  FADE TO:_  **RADIO DAZE**  _Scene Three - KACL Outside the studio, Gil is talking to another employee.  Frasier walks in, unkempt and with a goofy smile on his face._ ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Gil"
+    },
+    {
+        "speaker": "Gil",
+        "text": "Oh, Frasier!  What a surprise to see you here today!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, it's no wonder.  I've taken some wonder drugs, I feel wonderful! [_laughs_] So I'm going to go do my show now - so ta-ta, Pieman! _He pulls open the door and enters, as Gil looks confused and a little alarmed.  Inside the booth, Niles is talking.  Roz notices Frasier first._ ",
+        "prevSpeaker": "Gil",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Thank you, Greta.  It's always satisfying to know I've changed someone's life. [_sees Roz signaling and looks_] Oh, look who's just wandered into my booth, it's my brother Frasier.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Hello, Niles.  I've come to take back the reins of my show, so you can just scoot out of there. [_Roz comes in_]",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I think this might be a good time to go to a commercial. [_tosses Roz the blue \"extra-long\" cart, she plugs it in_] This is Dr. Niles Crane, \"let's get better.\"  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "[_hesitantly_] You OK, Frasier?  Your eyes look a little glassy.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_dismissively_] I'm fine!  It's just that the drugs I took have some minor slide effects...  _He settles into his chair, as Roz and Niles trade an alarmed look. Roz grabs his chair and wheels him to face her._ ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Frasier, look at me.  Do you see trails when I do this?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Whoa! [_laughs_] Ha!  It wasn't doing that before!  ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Listen, you're not going on the air like this. [_shakes a finger in Frasier's face_] Stop it, stop... _Niles realizes Frasier is bobbing his head in time with Niles's finger, and holds Frasier's chin more tightly._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "This is what you're going to do.  You're going to bed, you're going to get rest, and you're going to get rid of this fever, so you can be as good as new.  \"Let's get better!\"  All right? [_removes his fingers_] All right?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_docilely, seeming appeased_] All right... OK...  ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Maybe... maybe the two of you could help me find someone to drive me home?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "[_opens the door_] Oh, that's the most sensible thing you've said so far, Frasier-  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "[_yelling_] Frasier!  FRASIER! _She runs down the hall to her door even as Frasier rushes madly across his booth into hers.  He locks her door too, laughing wildly.  Frasier sits back down in his chair as he pulls the headphone on. Roz and Niles look in helplessly after banging on the door a few more times._ ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Hello, Seattle, I'm back!  This is Dr. Frasier Crane. I promise I  will never leave you again... so, let's take our first caller. [_presses a button_] Hello, I'm listening.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Robert"
+    },
+    {
+        "speaker": "Robert",
+        "text": "[_v.o._] Hi, Dr. Crane.  Thanks for taking my call. I'm a little nervous, okay?  My name is Robert.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "And your name is?",
+        "prevSpeaker": "Robert",
+        "nextSpeaker": "Robert"
+    },
+    {
+        "speaker": "Robert",
+        "text": "...My name is Robert.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, I'm sorry.  We've already had a Robert on the show today. Goodbye! _He presses a button to disconnect Robert.  Outside the booth, Roz is on the office phone._ ",
+        "prevSpeaker": "Robert",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Tony, it's Roz.  Could you get security up here?  Captain Kirk's got control of the bridge and he's gone insane.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Who is this?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Janice"
+    },
+    {
+        "speaker": "Janice",
+        "text": "I'm Janice.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, Janice, what's your problem?",
+        "prevSpeaker": "Janice",
+        "nextSpeaker": "Janice"
+    },
+    {
+        "speaker": "Janice",
+        "text": "Well, I'm having a problem breaking through a barrier with my in-laws.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Boring! _He jabs another button and disconnects her, then picks up on another line._ ",
+        "prevSpeaker": "Janice",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Hello!  You're on the crane with Frasier Air!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Marjorie"
+    },
+    {
+        "speaker": "Marjorie",
+        "text": "Hi, Dr. Crane.  This is Marjorie.  You see, I'm... I'm having a problem with my boss.  He doesn't seem to respect me, and I don't have the courage to confront him.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "OK, OK, Marjorie.  Well, let's, let's see... Let's do a little role-playing, OK?  Look, I'll be your boss, you be yourself, you be Marjorie... and uh - come on in and talk to me in a very forceful way.  Tell me what you think, and you just might be surprised by what happens!",
+        "prevSpeaker": "Marjorie",
+        "nextSpeaker": "Marjorie"
+    },
+    {
+        "speaker": "Marjorie",
+        "text": "Well, OK.  \"Listen, Mr. Ross.  I've worked for this company for six years and I've never missed a day.  But you've constantly promoted people less qualified than I am, and I don't think that's fair.\"  _As she speaks, Frasier makes a shooing motion with his right hand and presumably starts seeing trails again.  He keeps waving his hand until she stops talking._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "\"Well, Marjorie, I must say I admire your forthrightness, and uh... I wished more of my employees came and spoke to me with an open mind.  You know, you're going to get that promotion!\"",
+        "prevSpeaker": "Marjorie",
+        "nextSpeaker": "Marjorie"
+    },
+    {
+        "speaker": "Marjorie",
+        "text": "Hey, that was great!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_excited_] Yeah!  Wasn't it?  Wasn't it?  OK, it's my turn! I'm Marjorie and you're the boss now!  Come on!  Come on...  _At this point, the door has been forced open and Niles comes in with some uniformed security guards._ ",
+        "prevSpeaker": "Marjorie",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_gently_] Frasier, these nice men are going to take your home.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_in dazed confusion_] I'm - I'm, I'm doing my show! [_a guard takes the headphones off his ears_] I can't!  I'm on the air!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "No, you're not.  We cut you off.  You're on commercial.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Don't you worry your little mucous-filled head about anything.  Everything's under control.  _The guards have been slowly pushing Frasier out of the booth in his swivel chair._ ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "But it's my show, it's my booth... [_exiting the door_] Hey, this is fun!  Ha!  Make it go faster!  Whee!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "[_urgently_] Five seconds, Niles! _She rushes into her booth.  Niles puts on the headphones and Roz cues him by pointing._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Hello!  This is Dr. Niles Crane again and no, we haven't taken leave of our senses.  That bit of inspired lunacy you heard just before the commercial was just a little docudrama Frasier and I put together on the dangers of over-medication.  _At this point, we see Frasier in the hallway behind the studio, running wildly away as the guards chase him off the screen. Concerned, Roz looks after him._ ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Bravo, Frasier, for so brilliantly demonstrating why they call it \"dope!\" _FADE TO:  Scene Four -- Frasier's Bedroom Frasier bolts awake, as he did earlier in the show, and starts yelling again. _ ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_hysterically_] Daphne!  Daphne!  ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Whaaat?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I had another dream!  I dreamt I went down to the station all doped-up and tried to take over my show and made a big fool out of myself, and they-they dragged me out of there like a lunatic in a butterfly net!",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "[_comfortingly_] Now, now, that was just a dream.  You go back to sleep.  You'll feel better in the morning.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, Daphne.  Can I have a little lemonade?  With fresh lemons and maybe a little sprig of mint?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "[_sweetly_] Anything you want.  _Frasier falls back onto his bed, asleep.  Martin is waiting in the doorway._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Why'd you tell him it was a dream?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "No fun telling him the truth now, when he's all doped up. I'll wait till tomorrow morning - when he's good and lucid.  _They laugh and exit.  End Of Act Two (Time: 22:00)_ ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Credits"
+    }
+]

@@ -1,0 +1,1197 @@
+[
+    {},
+    {
+        "speaker": "Frasier",
+        "text": "Hello Steven, I'm listening.",
+        "prevSpeaker": "No Previous Speaker",
+        "nextSpeaker": "Steven"
+    },
+    {
+        "speaker": "Steven",
+        "text": "[_v.o:_] Well, you see Dr. Crane, my wife Tracy and I are having a baby and I know we're getting a little ahead of ourselves. But there seems to be a lot of different advice about whether it's okay to let your kid climb into bed with you in the morning.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Ah!  Stop right there, Steven.  It's okay.  All relationships require that kind of close and undivided attention.  Isn't that so, Roz?",
+        "prevSpeaker": "Steven",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "[_nonchalantly responds only to name:_] Uh-huh.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Steven"
+    },
+    {
+        "speaker": "Steven",
+        "text": "But what if you and your wife enjoy, you know, making love in the morning?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Trust me, after the baby comes that won't be an issue anymore. [_presses button:_] This is Dr. Frasier Crane on KACL.  We'll be back after these messages.  ",
+        "prevSpeaker": "Steven",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Roz!  How can you be reading now?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Oh, I don't know, it's something I picked up in elementary school and it stuck.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Just what is it that's so captivating?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "[_holds up book_] \"Slow Tango in South Seattle.\"",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh God, not you too!  Why is that every woman I see is carrying that book around?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Because it's impossible to put down.  Just read the first paragraph.  I guarantee you'll be hooked.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_reads:_] \"There are tangos that come flowing from the wine seas, from the rust of a hundred sunken ships.  This is one of those dances.\"",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Well?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "There are books that make your stomach lurch and thrust your lunch ever upwards.  This is one of those books!  ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "You men are all alike, you have no soul.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh...",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Except for this one. [_points to author's picture on back of book:_] The future Mr. Roz Doyle: Thomas Jay Fallow.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh my God, it's him!",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "What?  Do you know him?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes.  Yes, he used to drop into a neighborhood bar I frequented back in Boston.  He's a bit pretentious, though; he stuck out like a sore thumb.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "You used to drink with Thomas Jay Fallow?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, actually I spent a lot of my time helping him get through his writer's block.  In future I'll remember to use my powers for good and not for evil.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Well, I don't care what you think about him, he's coming here to the station tomorrow to be on Amber Edwards's \"Book Chat\" and you're going to introduce us.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, no, no, no, no, I can't see him.  I'll have to tell him how much I liked his book.  You know how hard it is to lie to someone's face.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Oh no, it's easy for someone as bright and charming and articulate as you.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, then perhaps you're right.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "See how easy it is? **HE WAS NOT YET A MAN, YET OH SO MUCH MORE THAN A BOY**  _Scene Two - Frasier's Apartment Martin is on the floor doing his exercises with Daphne.  However, Eddie keeps on getting between them.  Daphne is helping Martin pull and push his legs._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Eight... nine... Stop it, Eddie!",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh, he just wants to play, huh boy?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Yeah, well, therapy is not a game!  Stop it!  Stop it, I said. [_doorbell_] If he keeps this up then there's no point in us going on with these exercises.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Atta boy!  ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Hello, Dr. Crane.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Hello, Daphne.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Hey, Niles.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Ah!  Doing your exercises I see?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Yes, and if someone doesn't let us get on with them, he's gonna get a little spank on his fanny. _Niles, thinking she's talking to him, stands frozen in shock for a long beat._",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_thinking she's talking about him:_] Well... [_confused_] Don't let me.... unless you want to...",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "What's up?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well, when I brought you a beer in your room the other day I couldn't help but notice you had pictures of Frasier and Frederick and an autographed one from someone named Ken Griffey Jr., but none of Maris and me.  So I brought you this. _Niles hands a picture in a frame to Martin.  Of course, we do not get to see the image._ ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Gee, thanks.  What's Maris doing wearing jodhpurs?  She hasn't taken up horseback riding, has she?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "No, no.  She wanted to, but unfortunately her little quadriceps are so tight she's incapable of straddling anything larger than a border collie!  ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I can't believe this!  I simply can't believe this!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "What are you bappin' about?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "This, this book!  It's written by a man I knew.  He's taken an incident from my own life, something I shared with him in confidence one night; he's turned it into this trash!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "[_notices:_] \"Slow Tango\"? Well, I just started reading that. You mean to tell me that young man is based on you, Dr. Crane?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, he is.  But did Thomas Jay Fallow have the grace to thank me?  No!  My name isn't even listed in his acknowledgements.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "What's it about anyway?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "That is not important.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "It's about his first time.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Thank you, Daphne.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_innocent:_] Your first time doing what?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_sarcastic:_] Changing a flat tire!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_realises:_] Oh!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "So this whole book is about the night you conceived Frederick.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Very funny, dad.  I'll have you know that wasn't my first time.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Hey, I'm happy to know it wasn't your only time!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Just who was this charitable lass?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "That is not important!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "His piano teacher.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "His piano teacher?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Thank you again, Daphne!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "It's not like it's a secret, it's all right there in black and white.  About your awkward teenage lunging and how you used to call your chest hair your \"Rug of Love.\"",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, not all of it's true.  He did take some literary license.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Oh, then you're not really able to \"bring a woman to hidden realms of ecstasy with your panther-like prowess?\"",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_boasting:_] Well, that part he got right!",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Boy, this really fries me.  You know, that woman taking advantage of our kid.  Not to mention I was putting out ten bucks a week for piano lessons so you could get your hedge trimmed!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Wait a minute!  We're not talking about Miss Warner?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Don't tell me this was going on in your lessons too?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "No, you'll be relieved to know that while Frasier was getting his Rachmaninoffs I was actually studying music.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_angry:_] Now look!  This was not some tired older woman lusting after young flesh.  Clarice and I cared for each other.  She showed me a world I'd never known, and... wouldn't know again for six and a half years.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "It's true.  As Mr. Fallow put it, \"she saw his sensitive, poetic side and you couldn't help noticing the way her ripe, heaving bosom would brush your cheek when she reached for the metronome.\" [_Niles sighs deeply at Daphne_]",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I can't believe a man who drank so heavily remembered so much!",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "And yet he so conveniently forgot who told him the story.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, well he's going to get a little reminder today!  _Frasier exits with the book to the station.  After he leaves it's only a couple of seconds before Niles and Martin are fighting over Daphne's copy of the book.  FADE TO:  Scene Three - Radio Station It's Amber Edwards's \"Book Chat.\"  Amber is interviewing Thomas Jay Fallow whilst Frasier and Roz peer in through the window.  Thomas is reading from his book._ ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Thomas"
+    },
+    {
+        "speaker": "Thomas",
+        "text": "\"I budded when you kissed me, I withered when you left me, I bloomed a few months while you loved me.\"  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Will you calm down?",
+        "prevSpeaker": "Thomas",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Not until I have exacted my pound of flesh.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Could you at least wait until I get my book signed?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Here, let me sign it for you.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Stop it!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Roz, Roz, you haven't told anyone about this, have you? They'll have a field day with me.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Frasier, give me credit for a little discretion, would you?  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "Hey, Piano Boy!  Way to pound those ivories!",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Bulldog, Bulldog.  Listen, it is imperative that this is not commonly known.",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "Hey doc, it's no big deal.  _Bulldog whacks his head against the vending machine and gets some chocolate from it._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "Anything for you?  I've still got some feeling on the other side of my head. [_Frasier shakes his head_] I had a similar experience when I was sixteen, with an older woman who introduced me to the mysteries of love.  Of course, she was a hooker. [_Roz looks shocked_] Hey, it was a birthday present from my dad, okay?  You wanna know the ironic thing, doc?  All I wanted was a bike!  ",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Oh come on Frasier, how did you expect me not to tell anybody?  You can't keep something like that all bottled up! I only told one person.  ",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Gil"
+    },
+    {
+        "speaker": "Gil",
+        "text": "Hello Frasier, Roz.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Hi, Gil.",
+        "prevSpeaker": "Gil",
+        "nextSpeaker": "Gil"
+    },
+    {
+        "speaker": "Gil",
+        "text": "I was just finishing my restaurant review for my show this afternoon when I came across a perfect sandwich named after you, at Rosenthal's Deli.  \"Frasier Crane's Double Decker.\" It consisted of aged pheasant, spring chicken and of course, plenty of tongue.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "[_laughs, then reads from book:_] \"I wept as our bodies made the music of love.\"",
+        "prevSpeaker": "Gil",
+        "nextSpeaker": "Gil"
+    },
+    {
+        "speaker": "Gil",
+        "text": "[_reading:_] \"I'm your rhapsody, play me!\"",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "\"Crescendo, my young maestro, crescendo!\"",
+        "prevSpeaker": "Gil",
+        "nextSpeaker": "Gil"
+    },
+    {
+        "speaker": "Gil",
+        "text": "My vessel yearns to dock in the magnificence of your harbor.",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "[_laughs, then:_] Hey, that's not in the book! _Bulldog and Gil exit down the corridor.  Meanwhile, Amber carries on with her show._ ",
+        "prevSpeaker": "Gil",
+        "nextSpeaker": "Amber"
+    },
+    {
+        "speaker": "Amber",
+        "text": "There's one thing I must ask you.  What was your inspiration for this poignant love story?  ",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Quiet, quiet, it's his last chance.  ",
+        "prevSpeaker": "Amber",
+        "nextSpeaker": "Thomas"
+    },
+    {
+        "speaker": "Thomas",
+        "text": "Well, Amber, it was given to me... by God.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_angry:_] By God?!  Do you believe this guy's grandiosity? I'm God and he knows it!  ",
+        "prevSpeaker": "Thomas",
+        "nextSpeaker": "Amber"
+    },
+    {
+        "speaker": "Amber",
+        "text": "Well, we'll be right back with the divinely-inspired Thomas Jay Fallow right after this station break. [_presses button then gets up:_] Will you excuse me, I want to call my husband and see if he can take a long lunch.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Thomas Jay Fallow!",
+        "prevSpeaker": "Amber",
+        "nextSpeaker": "Thomas"
+    },
+    {
+        "speaker": "Thomas",
+        "text": "Frasier!  Frasier Crane, I can't believe it!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, I see my name hasn't entirely escaped your sieve-like memory.",
+        "prevSpeaker": "Thomas",
+        "nextSpeaker": "Thomas"
+    },
+    {
+        "speaker": "Thomas",
+        "text": "My what?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, it didn't make it into your list of acknowledgements, you, you... egomaniacal thief!",
+        "prevSpeaker": "Thomas",
+        "nextSpeaker": "Thomas"
+    },
+    {
+        "speaker": "Thomas",
+        "text": "You read my book.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I didn't have to read it!  I lived it!  Not that anybody would know that from reading your three pages of acknowledgements, in which you mention everyone from your kindergarten teacher to the man who designed the typeface.  But no mention of me? No, I'm only the man who gave you the story which you have ruthlessly merchandised into this million-dollar treacle machine! [_silence_] I'm finished now.",
+        "prevSpeaker": "Thomas",
+        "nextSpeaker": "Thomas"
+    },
+    {
+        "speaker": "Thomas",
+        "text": "I'm so sorry.  I don't know how I could have been so thoughtless.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Thomas"
+    },
+    {
+        "speaker": "Thomas",
+        "text": "I owe you everything!  ",
+        "prevSpeaker": "Thomas",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Oh my God, Frasier what have you done now?  ",
+        "prevSpeaker": "Thomas",
+        "nextSpeaker": "Amber"
+    },
+    {
+        "speaker": "Amber",
+        "text": "What happened?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Frasier made him cry!  _Frasier exits quietly.  END OF ACT ONE  ACT TWO_  **THE TEARS IT TAKES A SUMMER WIND TO DRY...**  _Scene One - Frasier's Apartment Niles and Martin are having a chat._ ",
+        "prevSpeaker": "Amber",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Maris is reading \"Slow Tango In South Seattle.\"  I think it's put thoughts in her head.  This morning I found her cooing over the college student who skims the koi pond.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "I wouldn't concern myself.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Do you think it's just innocent flirting?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "No, I just wouldn't concern myself.  ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Frasier, congratulations.  Maris was listening to \"Book Chat\" during her seaweed wrap and heard Thomas Jay Fallow acknowledge his enormous debt to you.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, I had a little chat with him this afternoon.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Did he seem properly contrite?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I made him cry.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "That's my boy!  I guess you're feeling pretty good, eh?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, actually dad the entire incident has left me strangely unsatisfied.  I don't know, I still feel sort of empty.  It's been churning around in my mind all day.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "You kill me, you know.  You've got exactly what you wanted and you're still not happy.  Frasier, life is not hard, you make it hard.  You don't just let things happen and enjoy it.  You've got to analyze everything that you can.  You know, you can learn a big lesson from this dog here.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "You know what makes him happy?  A sock!  Come on, Eddie.  ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Ignore him.  Obviously what's troubling you goes deeper than your usual malaise.  ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Shame on you!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "What for?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "What for?  You just ran out on her. [_reads:_] \"Leaving her bed as empty as a swallows nest after fall's first frost.\" And you ask me what for?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I'd just been accepted to Harvard.  What else was I gonna do?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Oh, so you just leave in the middle of the night without so much as a kiss on the forehead. [_Daphne exits_]",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "You never said goodbye to Miss Warner?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, she was sleeping so peacefully.  She had an early lesson!  I left a rose on her pillow.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "A-ha!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "\"A-ha,\" what?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "\"A-ha\" this, I have a theory.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, why else would you say \"a-ha\"?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "No, no, no.  Just listen.  You thought you were angry at Thomas Fallow for failing to thank you for the contribution you made to his life.  But perhaps the person you're really angry at is yourself.  You never thanked Miss Warner for the contribution she made to your life.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I was only seventeen years old, I'm sure she understood.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Perhaps she didn't.  She was a vulnerable, lonely, middle-aged woman.  It is possible that her feelings for you ran deeper than you realized?  Feelings which you crushed when you disappeared without so much as a thank you or a goodbye.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes well, thank you and goodbye!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Fine, I'll just leave you with this thought: your encounter with Thomas Jay Fallow was unsatisfactory because it failed to provide you with the closure you were seeking.  For that you will have to make amends with Miss Warner - A-ha! _Niles opens the door and exits.  Then Eddie runs in and drops a white sock at Frasier's feet._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_shouts_] Very funny, dad!  _FADE TO:  Scene Two - Frasier's Apartment - Night Frasier is sat in his wing back leather chair upstage.  He is reading a copy of \"Slow Tango In South Seattle.\"_ ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_v.o:_] \"He had been a teenage Balboa, an explorer of the rising pinnacles and gently curving slopes of my body.  Then in one explosive burst of discovery he had staked claim to the Pacific ocean that was my soul.  But now he was leaving, going, vanishing like a solitary boat on a lonely horizon. Departing like a train, rolling ceaselessly through the night.  Exiting swiftly like...\"  _The voice-over stops and Frasier finishes the page.  He turns over a page, another page and several pages.  After many pages he reads:_ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_v.o:_] \"And so he was gone.\"  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_v.o:_] \"And now in the cool of the evening I play my piano. And his last words resonate through the notes: \ufffdI'll come back to you, my cherished one.'  But he never did and all that remains of him are the withered petals of the rose he left upon my pillow.\"  _Frasier sits back and remembers the times.  Then Daphne storms in, smacks him with her copy of the book, and storms out again.  FADE TO:_  **I FEEL OLDER SINCE HIS SHADOW LEFT MY DOOR**  _Scene Three - Clarice Warner's Living Room Frasier walks up to the front door and sees an elderly pensioner, looking in her late seventies, playing \"The Blue Danube\" on the piano.  Frasier looks in._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Clarice?  Time, the sole thief of youth.  _Frasier knocks on the door.  Miss Warner looks up from the piano and obviously doesn't recognise Frasier.  She opens the door and he steps in._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Warner"
+    },
+    {
+        "speaker": "Warner",
+        "text": "Hello.  May I help you?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Miss Warner?",
+        "prevSpeaker": "Warner",
+        "nextSpeaker": "Warner"
+    },
+    {
+        "speaker": "Warner",
+        "text": "Yes?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I'm Frasier Crane.",
+        "prevSpeaker": "Warner",
+        "nextSpeaker": "Warner"
+    },
+    {
+        "speaker": "Warner",
+        "text": "I'm sorry, my memory's not what it used to be.  But please come in.  Would you like to sit down?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, I would.  ",
+        "prevSpeaker": "Warner",
+        "nextSpeaker": "Warner"
+    },
+    {
+        "speaker": "Warner",
+        "text": "So, we know each other?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well... we were friends.  More than friends, actually. You really don't remember?",
+        "prevSpeaker": "Warner",
+        "nextSpeaker": "Warner"
+    },
+    {
+        "speaker": "Warner",
+        "text": "I'm trying! [_laughs_]",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You must have some recollection.  A fair-haired boy outside your door, at the piano... on the piano...",
+        "prevSpeaker": "Warner",
+        "nextSpeaker": "Warner"
+    },
+    {
+        "speaker": "Warner",
+        "text": "No, I'm sorry.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, listen, before the memories come flooding back to you. I should tell you that we had a romance that didn't have the happiest of endings.",
+        "prevSpeaker": "Warner",
+        "nextSpeaker": "Warner"
+    },
+    {
+        "speaker": "Warner",
+        "text": "[_cheerful:_] Oh!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "That's why I'm here.  You see, our last evening together we \"walked through a summer storm and I kissed the raindrops on your nose and promised we'd always be together.\"  And I broke that promise. You helped a shy adolescent take his first uncertain steps towards becoming a man and how did I repay that kindness?  By running off and leaving you with nothing but your memories.",
+        "prevSpeaker": "Warner",
+        "nextSpeaker": "Warner"
+    },
+    {
+        "speaker": "Warner",
+        "text": "And not many of those either! [_laughs_]",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, can you ever forgive me?",
+        "prevSpeaker": "Warner",
+        "nextSpeaker": "Warner"
+    },
+    {
+        "speaker": "Warner",
+        "text": "Oh, you're so sweet.  Of course I can forgive you.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Thank you, thank you.  ",
+        "prevSpeaker": "Warner",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "It's such a relief to get that off my chest.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Clarice"
+    },
+    {
+        "speaker": "Clarice",
+        "text": "[_o.s:_] Mother, mother, I'm going now.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Warner"
+    },
+    {
+        "speaker": "Warner",
+        "text": "You run along, Clarice.",
+        "prevSpeaker": "Clarice",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_realising:_] Clarice?",
+        "prevSpeaker": "Warner",
+        "nextSpeaker": "Clarice"
+    },
+    {
+        "speaker": "Clarice",
+        "text": "[_walks in:_] Oh, excuse me.  _Clarice Warner is an extremely well-preserved (and sexy) woman in her late sixties who doesn't look a day over forty.  She's also dressed very sprucely._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Warner"
+    },
+    {
+        "speaker": "Warner",
+        "text": "Dear, this is Frasier Crane.  Apparently we were quite an item once. [_holds Frasier's hand_]",
+        "prevSpeaker": "Clarice",
+        "nextSpeaker": "Clarice"
+    },
+    {
+        "speaker": "Clarice",
+        "text": "Frasier Crane.  Well, what are you doing here?",
+        "prevSpeaker": "Warner",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Obviously making an enormous mistake. [_looks at Warner_]",
+        "prevSpeaker": "Clarice",
+        "nextSpeaker": "Clarice"
+    },
+    {
+        "speaker": "Clarice",
+        "text": "Mother, would you get us some iced tea, please?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Warner"
+    },
+    {
+        "speaker": "Warner",
+        "text": "[_to Frasier:_] She's getting rid of me, but I'll be back! [_exits_]",
+        "prevSpeaker": "Clarice",
+        "nextSpeaker": "Clarice"
+    },
+    {
+        "speaker": "Clarice",
+        "text": "My God, well I can't believe you're here.  It's got to be twenty...",
+        "prevSpeaker": "Warner",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Twenty-five.",
+        "prevSpeaker": "Clarice",
+        "nextSpeaker": "Clarice"
+    },
+    {
+        "speaker": "Clarice",
+        "text": "Twenty-five years? Ah, and look at you.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Look at you, you look incredible.",
+        "prevSpeaker": "Clarice",
+        "nextSpeaker": "Clarice"
+    },
+    {
+        "speaker": "Clarice",
+        "text": "Well sure, compared to my mother!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "That's not what I mean, you look stunning.",
+        "prevSpeaker": "Clarice",
+        "nextSpeaker": "Clarice"
+    },
+    {
+        "speaker": "Clarice",
+        "text": "Thank you.  Look at you.  You've become a very handsome man. And successful, too.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Thank you.",
+        "prevSpeaker": "Clarice",
+        "nextSpeaker": "Clarice"
+    },
+    {
+        "speaker": "Clarice",
+        "text": "You're here because of that book, aren't you?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes and I'd like to apologise right off.  Er, I told that story to Mr. Fallow in confidence.  It was never meant to be in print.",
+        "prevSpeaker": "Clarice",
+        "nextSpeaker": "Clarice"
+    },
+    {
+        "speaker": "Clarice",
+        "text": "There's no need to apologise.  That was a lovely time in my life.  It was nice to re-live it.  So, are you married?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Divorced.  You?",
+        "prevSpeaker": "Clarice",
+        "nextSpeaker": "Clarice"
+    },
+    {
+        "speaker": "Clarice",
+        "text": "I've never married.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I came here to apologise about more than just the book. I never felt quite right about the way I left things. I abandoned you, it was selfish and cowardly.",
+        "prevSpeaker": "Clarice",
+        "nextSpeaker": "Clarice"
+    },
+    {
+        "speaker": "Clarice",
+        "text": "Oh Frasier, relax.  I always felt guilty for short-changing you on your music lessons.  Do you still keep it up?  _Frasier gives Clarice a look at these words of confusion and then realises her meaning._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, the piano!  Yes!  Gee, I was a little nervous about coming here but now it feels like old times.  Sit at middle C. [_he sits at the piano_]",
+        "prevSpeaker": "Clarice",
+        "nextSpeaker": "Clarice"
+    },
+    {
+        "speaker": "Clarice",
+        "text": "Then the metronome.  _Clarice leans past him and Frasier stares at - how the book puts it - \"her ripe, heaving bosom.\"  Frasier nervously stands up._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Maybe I should get going.  Clarice, at the risk of sounding a little forward - would you like to have a cup of coffee with me?",
+        "prevSpeaker": "Clarice",
+        "nextSpeaker": "Clarice"
+    },
+    {
+        "speaker": "Clarice",
+        "text": "Thanks, but I'll have to say no.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "If you're worried about the age difference, don't worry. That's no longer an issue.  _Then we hear a knock at the door.  We see a young man at the door in his early twenties._  Man:Hi honey, are you ready to go?",
+        "prevSpeaker": "Clarice",
+        "nextSpeaker": "Clarice"
+    },
+    {
+        "speaker": "Clarice",
+        "text": "I'll be right out.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Are you and he...",
+        "prevSpeaker": "Clarice",
+        "nextSpeaker": "Clarice"
+    },
+    {
+        "speaker": "Clarice",
+        "text": "Uh-huh.  I weren't interested in forty-year-old men then and I guess I'm still not.  Great to see you again, though. [_kisses him_] Bye, mom!  _Clarice exits with the man.  Frasier shudders as he turns round to face the elderly Miss Warner who arrives with the iced tea._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Warner"
+    },
+    {
+        "speaker": "Warner",
+        "text": "Good, now we're alone. [_puts a drop of ice tea on her nose:_] See what I did?  I put a raindrop on my nose!  _Frasier shudders.  END OF ACT TWO_",
+        "prevSpeaker": "Clarice",
+        "nextSpeaker": "Credits"
+    }
+]

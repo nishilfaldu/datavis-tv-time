@@ -1,0 +1,1503 @@
+[
+    {},
+    {
+        "speaker": "Skyline",
+        "text": "A crane is seen hoisting an object over the skyline._   [_Scene 1 - KACL Frasier is ending his show._] ",
+        "prevSpeaker": "No Previous Speaker",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, I think we've got time for one last caller.  Go ahead, Mindy, I'm listening.",
+        "prevSpeaker": "Skyline",
+        "nextSpeaker": "Mindy"
+    },
+    {
+        "speaker": "Mindy",
+        "text": "[_v.o., softly_] It's about my mother, Dr. Crane.  Ever since I got married, she's been...yes, the cashmere turtleneck is $39.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Excuse me, what?",
+        "prevSpeaker": "Mindy",
+        "nextSpeaker": "Mindy"
+    },
+    {
+        "speaker": "Mindy",
+        "text": "Sorry, I work in catalog sales, and my boss just walked past. So, anyway, my mom...yes, it's on sale till the end of the month.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Mindy, we are pressed for time.",
+        "prevSpeaker": "Mindy",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Hold on, Frasier.  Cashmere for under 40 bucks?  I'll take one in black.  In medium.  Wait, is that medium-medium or unrealistic- anorexic-model-medium?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Mindy"
+    },
+    {
+        "speaker": "Mindy",
+        "text": "It sounds like you might want to go for the large.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Oh, really.",
+        "prevSpeaker": "Mindy",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_cutting them off_] And that's our show.  What size will Roz order?  Will she accesorize?  Tune in tomorrow for the exciting conclusion.  Good day, Seattle.  [_Frasier signs off.  Kenny enters._] ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "Dynamite show, Doc, one of your best.  Rosalinda, great work on the control panel.  I'm going to start calling you \"Control Freak.\"  Well, you're probably wondering, \"Who put a quarter in him today?\"  I just got a call from my lawyer.  My divorce: final.  I'm back to my tomcat days.  [_yelling with mock enthusiasm_] Lock up your daughters, Seattle!  Kenny Daly's on the loose!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "You might want to lose the wedding ring, tomcat.",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "Oh, yeah.  Time to remove my shackle. [_He attempts to remove the ring, but it won't budge._] Well, that's weird.  Ooh, that's really stuck!  Funny.  That's how my wife described our marriage. [_He continues to work at the ring, and begins to shake his entire hand violently._] \"Stuck!\"  [_letting his real feelings escape_] Well, you're not stuck anymore, are you?! Oh, damn it, damn it!  [_Kenny breaks into sobs and collapses with his head on the radio console._] ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Kenny, Kenny, come on, come on.  Come and sit down.  All right, here.  Take a deep breath.",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "[_recovering_] I'm sorry.  This thing's hit me like a ton of bricks.  The only good news is I'll start getting a check every month.  [_Frasier and Roz exchange a look._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Kenny, um, divorce can be one of life's most difficult transitions. Have you considered seeing a professional once or twice a week?",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "I've thought about it, but prostitutes are expensive.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "He means a psychiatrist, Kenny.  That is what you meant, right?  [_Frasier nods yes._] ",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "A shrink?  Oh, geez Louise.  I don't think I'd be comfortable talking to a psychiatrist.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, I'm a psychiatrist.  You're comfortable talking to me, aren't you?",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "Are you offering to be my shrink?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No.",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "Well, I could probably handle that.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I was going to refer you to someone.",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Well, can't you help him, Frasier?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, I don't know, Roz.  Giving psychotherapy to my employer? It's a bit of a gray area, isn't it?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "[_laughing_] Oh, come on, it's not like he's a real boss.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "[_rising_] Yeah, Roz is right.  Come on, Doc, I could use a little help.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, I suppose if you'd like to stop by my place and discuss your feelings informally, there'd be no harm in that.",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "Thanks, Doc. [_They embrace._] And I'm paying you for your time.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No, no, that's hardly necessary.",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "No, no, no, I insist, now what do you get?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Kenny, don't worry about it, I'll gladly do it for free.  What do you say we get together Friday night?",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "Thanks, Doc.  I wish my ex-wife was as agreeable as you.  And dead.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Okay, maybe tonight's better.  [_Kenny exits.  Fade out._]  [_Scene 2 - Frasier's apartment Kenny is lying on the Coco Chanel couch.  Eddie is perched on the back of the couch, watching._] ",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "[_intermittently sobbing_] And the one time I was winning, my dad \"accidentally\" knocked over the checkerboard.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Ah.",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "And he made me pick up all the pieces, too.  Fortunately, my mom was there with an extra piece of cake. [_He breaks down and cries more freely._]  [_We see that Frasier is sitting cross-legged on the Eames chair, which he has moved between the couch and Martin's chair, and is holding his clipboard._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I see. A controlling, narcissistic father and an overprotective mother.  It has all the earmarks of a classic Oedipus complex. [_speaking to the clipboard_] Well, well.  Old friend, we meet again. [_to Kenny_] Now, let me tell you, your deep-rooted feelings of castration...[_A watch alarm beeps._] I'm afraid our time is up.",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "[_still sobbing_] Wait, what?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "This has been fascinating.  I believe we are finally on the brink of discovering a road into some real insights.  I can't tell you, I believe I'm as exhilirated as you are.  [_He chuckles warmly.  He has moved to the door.  Kenny has slowly risen from the couch.  Frasier moves to open the door._] ",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "[_far from exhilirated_] Yeah.  When are we going to talk about my divorce?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Ah, you may not know it, Kenny, but we already are.  Now, for out next session, I want you to write a letter telling your father how you feel.  Don't send it, just write it.",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "[_exiting and turning back around_] Homework?  You never said there was going to be any homework.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "It's all part of the process.  Good night, Kenny.",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "But I...  [_Frasier closes the door and turns around beaming, quite oblivious to Kenny's concerns.  Martin enters from the kitchen._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Geez, I thought that would never end.",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Dad, how long have you been in there?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "The whole damn time!  I went in for a beer, and Kenny came in and started crying and I was trapped. [_He gets his coat._] So how's talking about checkers supposed to help him through a divorce?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Dad, the inability to maintain adult relationships often has its roots in parent-child trauma.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "What's your generation gonna do when we're all gone and there's no one left to blame?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You know, I really can't tell you how exciting it is to roll up my sleeves again and delve into someone's psyche.  I don't even know where to begin, although you know, I do think it's particularly salient that the father never showed any interest in the things that were most important to his son.  [_During this speech, Frasier has seated himself on Martin's chair. Martin has largely ignored him and headed for the door._] ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Sounds good, Fras.  Bye.  [_Martin exits the apartment.  He finds Kenny standing outside the elevator._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "Hey, Martin!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh, hi, Kenny, I didn't know you were here.  How's it going?",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "Okay, I guess. [_He pauses._] I have an emotionally crippled father.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "You don't say. [_He calls the elevator, which Kenny apparently had not done._]",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "So, where you headed?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Uh, gonna grab a beer at McGinty's.",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "Really?  Well, I'm sure dehydrated after all that crying.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "You don't say.  [_He has become uncomfortable, and impatiently hits the elevator call button again._] ",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "You mind if I tag along with you?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Sure, why not?  [_The elevator arrives.  They both step in._] ",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "Oh, thanks, Martin.  I really appreciate it.  I bet you were a great dad. [_He starts to sob again._]",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh, geez.  [_The elevator closes.  Fade out._]  [_Scene 3 - Cafe Nervosa Niles and Daphne are seated, in the middle of a conversation._] ",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "If you want to learn yoga, why do we need some fancy private teacher?  There are classes we could take together down at the Y.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Yes, and afterwards there are anti-fungal lotions we can use together, too.  [_Daphne rolls her eyes._] ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Just give Ahmrit a chance.  If we don't achieve physical and spiritual harmony, the second lesson's free.  [_Frasier enters, carrying a small stack of books._] ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, hello, you two.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Hey, Frasier.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Hi.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Ooh, Freud, Bettelheim...Jung!  Someone's playing with the big boys.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_chuckling with satisfaction_] Yes, well, it's for my patient.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_surprised_] You're seeing patients again?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, just this one for the past three weeks.  Very challenging case, too.  The man has father issues, any number of neuroses, and a phobia or two.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Sounds to me like you've hit the crackpot.  [_They exchange a laugh at Niles's quip.  Daphne gives a silent groan with her eyes._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I'm sorry.  I heard it at a convention.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, yes. [_He continues to chuckle._]",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "So how did you meet this new patient?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, I can't really say, Daphne.  You know, doctor-patient confidentiality...  [_Kenny enters, interrupting him._] ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "Hey, shrink buddy!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Hello, Kenny.  How are you?  Well, if you'll excuse us, we're off to buy sticky mats.  [_They all rise._] ",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "[_giving in_] All right. [_Niles and Daphne exit._]",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Kenny, have a seat, have a seat.  So, uh, how are you feeling?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "Like a new man!  Last night was just what I needed.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I can't tell you how gratifying it is to hear that.",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "Yeah.  Me and your dad shut down McGinty's.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_a bit surprised_] Really?  You and Dad?",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "Yeah, actually, I'm meeting him here for coffee.  Man, is he a hoot.  He made me completely forget about my problems.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, good for you!  Of course, the object is not to forget about one's problems.  It's to understand them.  Of course, that can take a lot of work.",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "Yeah, about the work part...your dad said something last night that made a lot of sense.  He said I should get out more, and I was thinking, that's going to be tough to do if I'm seeing you twice a week, plus doing all this homework.  I guess what I'm saying is...I want to quit.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Kenny, I understand it must be painful to uncover what is a very painful past.  But I must warn you that if you run away from this now, you will only be repeating a pattern that will prolong your unhappiness.",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "I'm okay with that.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_agitated_] In these past few sessions, we have uncovered territory that usually takes months to reach!  I don't mean to toot my own horn, but I've been on fire!",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "Don't get me wrong, Doc, you've been great.  It's just...it's not for me.  [_Martin enters._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Hey, guys!",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "Hey, hey, it's Party Hearty Marty!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Hey, hey, it's, uh...[_He can't remember Kenny's bar nickname._]",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "Sir Shots-a-lot.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Right, hey!",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Dad, can I have a word with you for a second?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Yeah, sure.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "Oh, I'll get us some coffee. [_He goes to the counter._]",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Nice guy.  Doesn't hold his liquor like you think he would.",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Did you tell him that he should go out more?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Yeah, what's wrong with that?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, he is using it as an excuse to quit therapy.  After one night out with you in a bar, the man is ready to throw away three weeks of intense analysis!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well, Fras, the guy's finally having a little fun.  Don't you want him to be happy?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I am not trying to make him happy.  I am trying to cure his depression!  [_Martin gives a look of puzzlement at the paradox Frasier has just uttered.  Kenny returns._] ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "Hey, Marty, does this remind you of anything?  [_He tips his head back and downs his coffee as he would a shot of liquor._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "Ow, hot, hot!",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_rising_] Get the man some water.  [_Kenny doubles over in pain.  Fade out._]  _END OF ACT I   ACT II_  [_Scene 4 - Niles and Daphne's apartment The two of them are on their mats, bended with their legs straight and their hands on the mats.  The yoga instructor, Ahmrit, wearing a long white jacket, walks between them._] ",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Ahmrit"
+    },
+    {
+        "speaker": "Ahmrit",
+        "text": "And breathe...Daphne, that is an amazing Downward Dog.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Thank youl.",
+        "prevSpeaker": "Ahmrit",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_knees shaking_] What about me, Yogi?  How does my Downward Dog look?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Ahmrit"
+    },
+    {
+        "speaker": "Ahmrit",
+        "text": "Oh, dear.  Can we straighten these legs?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, I wish.  Congenitally shortened hamstrings are the curse of the Cranes.",
+        "prevSpeaker": "Ahmrit",
+        "nextSpeaker": "Ahmrit"
+    },
+    {
+        "speaker": "Ahmrit",
+        "text": "Well, let's try a different pose, then.  Slowly place your left leg between your hands, pivot your right heel down, straighten your legs, place your left arm on your ankle, raise your right arm, and...triangle pose.  Trikonasan.  [_Daphne effortlessly executes the pose.  Niles has problems, and cannot get his right arm in the air.  Ahmrit, maintaining his low-voiced, \"chant\" style of speech, approaches Niles to help._] ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Ahmrit"
+    },
+    {
+        "speaker": "Ahmrit",
+        "text": "Here's a block.",
+        "prevSpeaker": "Ahmrit",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "No, I don't like the block.  I'll use the...",
+        "prevSpeaker": "Ahmrit",
+        "nextSpeaker": "Ahmrit"
+    },
+    {
+        "speaker": "Ahmrit",
+        "text": "Use the block.  [_Niles places his left hand on the block and then raises his right arm._] ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Ahmrit"
+    },
+    {
+        "speaker": "Ahmrit",
+        "text": "[_moving to assist Daphne_] And breathe, and slowly bring your back leg up into Half-Moon pose.  [_Daphne again does this with ease.  Ahrmit concentrates on her.  Niles is apprehensive of even trying this._] ",
+        "prevSpeaker": "Ahmrit",
+        "nextSpeaker": "Ahmrit"
+    },
+    {
+        "speaker": "Ahmrit",
+        "text": "Now, feel your breath leaving your body like a note being blown from a flute. [_He accompanies this with a gesture._]",
+        "prevSpeaker": "Ahmrit",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Yes, I feel it!  [_Niles is having trouble getting his leg up, and his knee is bent._] ",
+        "prevSpeaker": "Ahmrit",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I'm a flute, too, Yogi!",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Ahmrit"
+    },
+    {
+        "speaker": "Ahmrit",
+        "text": "[_patiently_] Yes, of course you are.  Straighten that leg, Niles. [_He tries to assist him._] Straighten it out, straighten it out, there we are.  [_Niles's leg does not follow Ahmrit's hands._] Let's try it again, Niles.  You can do it.  Straighten that leg.  Marvel--[_He notices that Niles is pointing his index finger in the air._] Let's bend the finger, Niles.  [_He bends down Niles's finger, but it pops back up again.  His face expresses frustration, but he maintains his calm._] ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "[_beautifully maintaining the pose_] Isn't this wonderful, Niles?",
+        "prevSpeaker": "Ahmrit",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_finger still pointing and leg bent_] I love it.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Ahmrit"
+    },
+    {
+        "speaker": "Ahmrit",
+        "text": "[_giving up_] And breathe.  And be completely in this moment. Shut out the outside world entirely.  [_Niles's leg returns the floor, and with great effort, he raises it again, still bent.  A cell phone rings immediately after Ahmrit's speech. He answers it, reverting from his low-volume \"chant\" to a normal voice._] ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Ahmrit"
+    },
+    {
+        "speaker": "Ahmrit",
+        "text": "Oh, hi, Mom.  I'm kind of in the middle of something right now. Yes, I'm coming. I told you, I'm bringing the lentils. [_pause_] What do you mean again?  You love lentils. [_softer_] Niles, straighten the leg, straighten the leg. [_Niles collapses completely._] Okay, child's pose.  That's good.  [_Niles recovers, but looks exhausted, and remains seated on the mat._] ",
+        "prevSpeaker": "Ahmrit",
+        "nextSpeaker": "Ahmrit"
+    },
+    {
+        "speaker": "Ahmrit",
+        "text": "[_normal voice_] So what if Jerry brings a different dish to every meal?  It doesn't make him a god. [_becoming agitated_] Has Jerry achieved inner peace?  I'm just asking, Mom, has Jerry achieved inner peace? [_softly, aside to Niles and Daphne_] I have to take this call.  Would you pleas excuse me?  [_Ahmrit exits to the rear.  Daphne emerges gracefully from her pose._] ",
+        "prevSpeaker": "Ahmrit",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Oh, that was fantastic!  I feel so energized!",
+        "prevSpeaker": "Ahmrit",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, you are really good!  I hope I'm not holding you back.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "You're doing wonderfully.  He's paying you so much attention. I think he sees real potential. [_She towels off her hands._]",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_still seated on the mat_] You don't have to soothe my ego.  Yoga isn't about competition.  [_without enthusiasm_] It's about achieving enlightenment and integrating your inner and outer lives.  [_Niles folds his arms and pouts.  Daphne wants to speak, but is at a loss for words.  Fade out._]  [_Scene 5 - Cafe Nervosa Kenny and Martin are seated.  Frasier enters._] ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_suspiciously_] Hello.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "Well, this is awkward.  I believe you know Martin.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_shaking Martin's hand_] Yes, we've already met.  Kenny, there's no reason to feel awkward.  Believe me, I have other things to do with my evening than to share my expertise with someone who could use it.  Now if you'll excuse me. [_He goes to the counter._]",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "So are we still on for McGinty's tonight?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Yeah, sure.  And Kenny, I've been thinking about what you've been going through, and I've come up with the answer.  A suede jacket.  [_Kenny is slightly confused._] ",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_to the waiter_] Did you hear that?  A suede jacket.  I must have missed that lecture at Harvard Medical School.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "You look good in it, and women love to feel it.  It's like you're a feast for all the senses.  I used to have a suede coat when I was single.  Hester made me put it away, but I'd pull it out whenever we'd have a fight, and in a minute, she'd be purring like a kitten.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "You should break it out again.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh-ho, at my age?  It would kill me.  Hey, you got time to do a little shopping.",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "Sure, I think I've got my good credit card with me.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_who has had difficulty enduring the conversation about the jacket_] Leather won't cure your problems, Kenny.  It's a temporary high.  [_Martin and Kenny exit, meeting Niles and Daphne on the way in._] ",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Hey, guys!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Hi.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Hello.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, Niles, Daphne, hi, come join me.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_ordering_] Two low-fat lattes, a hazelnut biscotti, and...",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "And one blueberry scone.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Your brother set such a brisk pace walking over here, I could barely keep up with him.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Daphne, you don't need to do that.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Why not?  Shouldn't I be proud of my husband's brisk pace?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_explaining_] Daphne's trying to build up my ego because she outperformed me at yoga.  It's not a competition.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "You see.  He's already mastered the teachings.  Spiritually, you're way ahead of me.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Stop it!  Frasier, wasn't that your Patient X that was leaving with Dad?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Ah, yes, now my ex-Patient X.  Actually, I'd like to discuss it with you if you've got a few minutes.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Yes, well, coincidentally, I just read a fascinating paper on early termination.  Now, the hypothesis was...",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "I think I'll get something to eat.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, you have something here.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Something else.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, well, here, try mine.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Please, just let me go. [_She quickly leaves the table._]",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "So, so whose decision was it to terminate your sessions?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Kenny.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well, uh, early individuation can stem from anything from transference to delayed adolescent rebellion.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "If only it were that complicated, Niles.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "What happened?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, it's Dad.  He's been taking Kenny to McGinty's every night.  He's giving him therapy in the form of beer and fun.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Poor Kenny!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I know!  I've got to do something.  I-I-I can't just stand by while Dad undermines me.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, just be careful not to turn this into a competition.  As analysts, we have to be above that.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "[_who has been speaking at the counter to Daphne_] Hey, Niles! I hear Daphne kicked your ass at yoga.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_nyah-nyah_] Oh, yeah?  Well, Frasier just lost a patient.  [_Niles is immediately embarassed.  Frasier is mildly irritated, but shakes it off and drinks his coffee.  Fade out._]  [_Scene 6 - Niles and Daphne's apartment They and Ahmrit are all on mats in a prone position._] ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Ahmrit"
+    },
+    {
+        "speaker": "Ahmrit",
+        "text": "Nice Bhujangasana, Daphne.  And yours is very nice too, Niles. You're doing so much better this week.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Thank you.  I just did what you suggested, and imagined myself having the reptilian sinuousness of a lizard scuttling across the desert floor.",
+        "prevSpeaker": "Ahmrit",
+        "nextSpeaker": "Ahmrit"
+    },
+    {
+        "speaker": "Ahmrit",
+        "text": "I thought I said rain forest.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "You did, but I don't like the damp.",
+        "prevSpeaker": "Ahmrit",
+        "nextSpeaker": "Ahmrit"
+    },
+    {
+        "speaker": "Ahmrit",
+        "text": "[_rising_] This next move is a little trickier.  I'll demonstrate on Daphne.  First of all, bring up your knees like this.  Now bring your arms back towards your ankles.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "[_collapsing with sudden pain_] Ooh.  I don't think I can do this one, it hurts.",
+        "prevSpeaker": "Ahmrit",
+        "nextSpeaker": "Ahmrit"
+    },
+    {
+        "speaker": "Ahmrit",
+        "text": "Oh, don't push.  You should be feeling discomfort, not pain. If you feel pain, ease yourself gently back towards discomfort.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Is it something like this, Yogi?  [_Niles is performing the move perfectly, but his lips pursed.  He is controlling himself with great effort.  Daphne gasps._] ",
+        "prevSpeaker": "Ahmrit",
+        "nextSpeaker": "Ahmrit"
+    },
+    {
+        "speaker": "Ahmrit",
+        "text": "I'm impressed, Niles.  You know, perhaps one day, you might be able to achieve upward bow--Urdhbadhanurasana.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, you mean this one?  [_Niles turns on his back and arches upward, supported by his hands and feet.  His head is upside down.  He executes it perfectly._] ",
+        "prevSpeaker": "Ahmrit",
+        "nextSpeaker": "Ahmrit"
+    },
+    {
+        "speaker": "Ahmrit",
+        "text": "[_amazed_] Yes!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, remind me to tell Rosa to vacuum the sisal.",
+        "prevSpeaker": "Ahmrit",
+        "nextSpeaker": "Ahmrit"
+    },
+    {
+        "speaker": "Ahmrit",
+        "text": "I'm speechless, Niles.  I've never seen such a rapid improvement.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "How did you do that?  Oh, I think I tweaked a muscle on that last pose.",
+        "prevSpeaker": "Ahmrit",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_still arched upward_]  Oh, no, we should put some ice on that.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "[_rising_] Good idea.  I guess we know who's better at yoga now. [_She exits toward the kitchen._]",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Now, Daphne, there's no better.  It's all about achieving oneness of body and spirit.  [_Ahmrit approaches to help Niles out of the pose.  With Daphne gone, he feels safe to say the following to Ahmrit._] ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Okay, now I need _you_ to take me to the hospital. [_He painfully comes out of the pose._]",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Ahmrit"
+    },
+    {
+        "speaker": "Ahmrit",
+        "text": "What?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I broke my body.  I dislocated my shoulder and...I think that one of my ribs has achieved two-ness.  [_Ahmrit helps Niles to his feet.  Daphne re-enters._] ",
+        "prevSpeaker": "Ahmrit",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "What's going on?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_leaning on Ahmrit and concealing his pain_] Ahmrit and I were just going to go out and get a chai tea.  Can we get you one?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "[_going up the stairs_] No thanks.  You're amazing.  You have so much energy.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Ah, well...you know what they say. [_waiting for her to leave_] Quickly, quickly...",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Ahmrit"
+    },
+    {
+        "speaker": "Ahmrit",
+        "text": "Just imagine the pain leaving your body like a wisp of smoke.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Yes, if you could get the door, I'm starting to hemorrhage.",
+        "prevSpeaker": "Ahmrit",
+        "nextSpeaker": "Ahmrit"
+    },
+    {
+        "speaker": "Ahmrit",
+        "text": "Okay.  [_He helps Niles exit, and closes the door.  Niles thanks him with a gesture.  Fade out._]  **McGINTY'S: GOOD FOOD, GOOD FUN, BAD SECURITY**  [_Scene 7 - McGinty's Bar Kenny and Martin are seated at a table.  Frasier enters and appoaches. Kenny is wearing a suede jacket._] ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Hey!  What are you doing her, Fras?",
+        "prevSpeaker": "Ahmrit",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Just thought maybe the three of us could have a little chat.  [_A blonde approaches Kenny and he rises, placing his arm around her._] ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "Hey, Doc.  This is Trudy.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Ah.  Delighted I'm sure.",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Trudy"
+    },
+    {
+        "speaker": "Trudy",
+        "text": "[_drunkenly_] Hey!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "I'd love to stay and chat, Doc, but me and Trudy have a dinner date with the Colonel. [_Trudy continues to hang on him._]",
+        "prevSpeaker": "Trudy",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, if you think you're ready for that.",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "Well, I'm not hungry now, but I probably will be when we get there.  See you guys later.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Bye.",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Trudy"
+    },
+    {
+        "speaker": "Trudy",
+        "text": "Nice to meet 'ya.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Likewise, I'm sure. [_as they exit_] Have a great time! [_Kenny gestures happily back to Frasier._] He's doomed. [_He takes a seat._]",
+        "prevSpeaker": "Trudy",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "What are you talking about?  He scored, and she's a cheap date.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, Dad, please, he is not ready for a relationship.  How could you let him do something like this?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Don't blame me for that, it was the jacket.  He wasn't here ten minutes before she wanted to touch it.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You know what, all you're doing is allowing him to wallow in his state of denial.  And what if she rejects him, hmm?  The man already has abandonment issues.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh, will you cut out the psychological mumbo-jumbo?  Let the guy have a good time.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "What did you just say?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "I said let the guy have some fun.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No, before that.  You said \"psychological mumbo-jumbo.\"  So that's how you characterize my life's work?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "I'm just saying that I don't think therapy is for everybody. Like Kenny--he just needed to loosen up.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_angrily_] Oh, really?  So tell me, Dr. Party-Hearty-Marty. Who, in your expert opinion _does_ need therapy?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_thinking_] Well...Hitler.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_deeply shocked and taken aback_] Hitler?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Yes, and that woman with all the different personalities, um... Sybil.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_scowling_] Hitler.  And Sybil.  Anyone else?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_thinking_] No.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_jumping back suddenly_] Great!  An entire science devoted to Hitler and Sybil.  Do you believe that...that Niles and I have been wasting our lives? [_becoming passionate_] Do you think Mom wasted her life?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Now, you calm down, Frasier.  I'm just saying that you overcomplicate things.  Yes, Kenny needed to talk out some problems, but he didn't need to analyze every moment of his childhood.  That's where it gets into the mumbo-jumbo.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I'm just trying to get to the root of his problems.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "You know what, I think you needed to give therapy more than he needed to get it.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "And you know what I think?  I think I'm finished listening to you! [_He rises and quickly sits again._] All right, fine, maybe I did enjoy it.  Look, it's what I was trained to do, it's what I love to do, and I still think I was doing Kenny some good.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well, Frasier, you know, Kenny's not the only one with mental problems.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "And what's that supposed to mean?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "It means you can start seeing other patients.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_realizing that he was offended too easily_] Oh, right, right. Well, I've thought about that.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Why not, if you love it?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You know, perhaps I could start seeing people a couple of nights a week.  I could even convert Daphne's old room into an office.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well, if you do, while they're waiting, they're watching what  [_Kenny re-enters, looking depressed._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "Hey, guys.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Kenny!  What happened?",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Are you all right?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "I don't think Trudy and I are a fit.  When we got to the parking lot, her boyfriend pushed me down and took my jacket.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Aw, I'm sorry.",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "I feel like such a loser.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "No, you're not a loser.  And if you need to talk about this-- Frasier's pretty good at this sort of thing.",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, Kenny, I'll tell you what.  Whenever you're ready, okay? For the time being, why don't you let a couple of buddies get you a beer, okay? [_He raises his hand to call a server._]",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "Thanks.  You know it's too bad that Trudy was just setting me up to get mugged because up to that point, we were really cooking.  Well, here's to dating!  [_Kenny downs his beer.  Frasier and Martin roll their eyes at each other. Fade out._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Credits"
+    }
+]

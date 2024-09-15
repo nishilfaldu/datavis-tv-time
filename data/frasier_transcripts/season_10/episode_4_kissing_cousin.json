@@ -1,0 +1,1419 @@
+[
+    {},
+    {
+        "speaker": "Frasier",
+        "text": "Well, it's official.  Once again, there is no room for me at the Yo-Yo Ma Orchestral Fantasy Camp.  Hello.",
+        "prevSpeaker": "No Previous Speaker",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Frasier, this is my cousin Jen.  She's visiting this week, remember?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, yes, of course.  So how are you enjoying Seattle?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Jen"
+    },
+    {
+        "speaker": "Jen",
+        "text": "Well, I've been living in London, so Seattle seems a little lame. No offense.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, none taken.  So you like London?",
+        "prevSpeaker": "Jen",
+        "nextSpeaker": "Jen"
+    },
+    {
+        "speaker": "Jen",
+        "text": "Not really.  It's like a parody of itself.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "How so?",
+        "prevSpeaker": "Jen",
+        "nextSpeaker": "Jen"
+    },
+    {
+        "speaker": "Jen",
+        "text": "Oh, you know, double decker buses, bobbies, little pubs.  It's like EPCOT but even fakier.  So I bailed.  Went and spent some time in Florence.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Ah, _Firenze_.  How is she?",
+        "prevSpeaker": "Jen",
+        "nextSpeaker": "Jen"
+    },
+    {
+        "speaker": "Jen",
+        "text": "I gotta say, Florence is over.  It was probably cool, before all the Americans found out about it.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You mean three hundred years ago?",
+        "prevSpeaker": "Jen",
+        "nextSpeaker": "Jen"
+    },
+    {
+        "speaker": "Jen",
+        "text": "Exactly.  That's why I'm going to Vietnam.  Americans have never even heard of it.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Ah.  Well, you know, I'm afraid I have to bail on this conversation, I have a show to prepare for.  Roz, when are we doing those promos?  This evening?  [_He heads for Roz's side of the booth, they follow him._] ",
+        "prevSpeaker": "Jen",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Oh, I had to reschedule those 'cause Jen and I are goin' out tonight!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Jen"
+    },
+    {
+        "speaker": "Jen",
+        "text": "A guy I met on the internet is in a band.  We're going to go check them out, have a few drinks, watch all the losers.  Wanna come?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "While no stranger to the discoth\ufffdque, I'm afraid it will have to Be you and Roz this evening.",
+        "prevSpeaker": "Jen",
+        "nextSpeaker": "Jen"
+    },
+    {
+        "speaker": "Jen",
+        "text": "This is our first time going out since I was a kid.  When she used To baby-sit me, she was always dragging me on some wild adventure.  Like that time we changed the sign from \"SCHOOL ASSEMBLY\" to \"COOL ASS\"?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Oh, my God.",
+        "prevSpeaker": "Jen",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Charming.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Jen"
+    },
+    {
+        "speaker": "Jen",
+        "text": "No, you don't understand.  The town we grew up in, was totally boring.  It was like Kill Yourself, USA, right?  Roz was the only person who did anything fun.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Is that so?",
+        "prevSpeaker": "Jen",
+        "nextSpeaker": "Jen"
+    },
+    {
+        "speaker": "Jen",
+        "text": "Yeah.  My mom calls me \"Roz Junior,\" which is what passes for wit where we come from.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "And, our town has the world's... Together:  FOURTH LARGEST THERMOMETER!",
+        "prevSpeaker": "Jen",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, well, I can see why London really let you down.  [_He goes back to his side of the booth and closes the door as Kenny comes in the other._] ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "Hey, Doc.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Hi, Kenny.",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "Remember last month when you spent your whole show talking to that pregnant teenager?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes.",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "Well, it wasn't a total waste.  We just got nominated for an Excellence in Broadcasting Decency Award.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Really?  Well, that is quite an honor.  I don't think we've ever won one of those.  [_He sits._] ",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "It's a very prestigious award.  That's what makes it so special when they call your name.  You know, it's heavier than it looks. You don't want to drop one of those on your foot, let me tell you.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "So you won one.",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "Yeah, it's in a box in my office.  You can come by sometime and I'll show you.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Honestly, Kenny, when are you going to unpack those boxes?  Isn't Four years enough time to make that office your own?",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "Negatory, Doc.  Every time I unpack in a new job, I get fired. Tacoma, Moline, Moline again... I learned my lesson; those boxes stay packed.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "So that's why you haven't unpacked.  You know, all this time, I've been using you on my radio show as an example of procrastination. I had no idea you were just living in fear.",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "I prefer to see it as a healthy superstition.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Kenny, there's no such thing as a healthy superstition.",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "Oh yeah?  What do you call washing your hands after you go to the bathroom?  [_He leaves as Frasier is left without an answer.  Fade out._]  Scene 2 - Frasier's Apartment  [_Fade in.  Martin is watching baseball on TV when Frasier comes in from his room.  The living room is a mess._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Look at this place.  Dad, I don't believe you've thrown out a single paper since Daphne moved in with Niles.",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Hey, it was your idea to split up the chores.  Recycling is your deal.  Recycling and floors, remember?  I'm in charge of regular garbage and tabletops, both of which are nicely under control, I might add.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Really?  I count three snack plates around your chair, all of them on tabletops.  [_Martin grunts, then gathers the plates in a stack and puts them on the floor._] ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Not anymore.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "All right, what's it gonna take for you to start doing your share of the work around here?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_thoughtfully_]  Trade me floors for garbage.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You'll really take care of all the floors if I handle the garbage?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "That's right.  [_The doorbell rings and Frasier rises slowly while giving him a calculating look._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Okay.  Okay, you got a deal, Mister.  [_He opens the door to reveal Daphne._] ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Hi, Daph.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Hello.  Why's all your garbage stacked up in the hallway?  [_Frasier looks outside, stunned._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "That's right, why is that, Frasier?  [_Frasier glares at him and closes the door._] ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Your game is deep.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "My, things are a bit untidy around here, aren't they?  Maybe I'll Just clean up these dishes before we get started.  [_She grabs the plates and heads for the kitchen._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Daphne, you don't have to do that.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "That's true.  You're not our slave anymore.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "I'm not gonna do all of it, just the tabletops.  [_She goes into the kitchen._] ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Aw, that's sweet of you.  [_He smugly grins at Frasier._] ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Burn.  [_Frasier stands there fuming.  Fade out._]  Scene 3 - Cafe Nervosa  [_Fade in.  Roz and Jen are at a table, Frasier and Niles are standing around looking for a place to sit._] ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No, no.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well, there's room at Roz's table.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No!  I find her cousin Jen just a bit judgmental for my taste. Yesterday she told me my show was bourgeois.  I pointed out that anything that had mass appeal could be said to be bourgeois.  She then said that my argument was bourgeois.  Which I found to be jejeune.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "People in their twenties are always like that.  The world is so daunting at that age.  They comfort themselves with the idea that everything's just trash.  We were like that in medical school. Acting as if we were above it all, smarter than everybody.  It passes.  [_They go over to Roz's table._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Hello, Roz.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Niles, Frasier!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Hi, Roz.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Come join us.  Jen, this is Niles.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Pleased to meet you.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Jen"
+    },
+    {
+        "speaker": "Jen",
+        "text": "\"Niles\", whoa.  Thanks Mom and Dad, right?  [_Niles seems perturbed but he and Frasier sit anyway._] ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, Jen, good to see you again.  So, how was our night out, girls?",
+        "prevSpeaker": "Jen",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Well, it's still goin' on!  We went to this really great club called Zoo.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Excuse me, The Zoo?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "No, it was just called Zoo.  [_Jen lets out a snort._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Jen"
+    },
+    {
+        "speaker": "Jen",
+        "text": "Huh, \"The\".  [_She and Roz laugh._] ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Roz, is that glitter in your hair?",
+        "prevSpeaker": "Jen",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Oh, is it?  I thought it all came out in the car wash.  [_She heads for the ladies room.  Jen's cell phone rings and she answers it._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Jen"
+    },
+    {
+        "speaker": "Jen",
+        "text": "Oh, that's mine.  Hello? ... Oh, Anka.  You won't believe what huge Seattle cliche I'm in right now. ... I swear, my cousin Roz is like the only cool person in this whole city.  The rest are just drones. Apparently they don't believe in raw sugar.  [_rising_]  Excuse me.  [_She heads away._] ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You see what I mean about her.",
+        "prevSpeaker": "Jen",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "She's struggling through a typical phase of development.  Stop being so sensitive.  [_Jen comes back with sugar packets.  Niles rises as she sits._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Jen"
+    },
+    {
+        "speaker": "Jen",
+        "text": "Sorry about that.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Not at all.  [_The waiter brings Niles and Frasier's coffees._] ",
+        "prevSpeaker": "Jen",
+        "nextSpeaker": "Jen"
+    },
+    {
+        "speaker": "Jen",
+        "text": "So, tell me about you guys.  Roz says you're super competitive with each other.  Did your parents withhold affection or is just the penis thing?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_to waiter_]  Uh, I'll take mine to go.  [_Frasier looks on smugly.  Fade out._]  Scene 4 - KACL  [_Fade in.  Frasier is on the air._] ",
+        "prevSpeaker": "Jen",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Coming up next, This Day in Psychological History.  After the news.  [_Roz comes in from her side, yawning._] ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "It was a good show, Frasier.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "It's not over Roz, this is just a break.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "I'm sorry, I'm so exhausted.  I haven't slept since Jen got here.  [_Jen comes in ._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Jen"
+    },
+    {
+        "speaker": "Jen",
+        "text": "Hey, Roz, wanna go watch some backyard wrestling tonight?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "I don't know.  Maybe we should stay in tonight...rent a video? ",
+        "prevSpeaker": "Jen",
+        "nextSpeaker": "Jen"
+    },
+    {
+        "speaker": "Jen",
+        "text": "Rent a video?  You're turning into Aunt Mirabelle.  All you need is a beanbag ashtray and a tracheotomy.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Well, I'm not there yet. I just thought that maybe you could use a night off.",
+        "prevSpeaker": "Jen",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Say there, Jen, did you have a chance to explore that art gallery I suggested?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Jen"
+    },
+    {
+        "speaker": "Jen",
+        "text": "Yeah.  I know you're into that stuff so I don't want to put it down.  But it was like everything in there was trying to make us feel better about our corrupt, imperialistic, phallocratic heritage.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "They're landscapes.",
+        "prevSpeaker": "Jen",
+        "nextSpeaker": "Jen"
+    },
+    {
+        "speaker": "Jen",
+        "text": "But I picked up something for you on the way over here.  [_She hands him a shopping bag._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_rising_]  Really?",
+        "prevSpeaker": "Jen",
+        "nextSpeaker": "Jen"
+    },
+    {
+        "speaker": "Jen",
+        "text": "Mm-hm.  [_He reaches in._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well... a bust of Freud.  Well, that's really quite thoughtful of you.",
+        "prevSpeaker": "Jen",
+        "nextSpeaker": "Jen"
+    },
+    {
+        "speaker": "Jen",
+        "text": "I figured you'd appreciate the irony.  Since he's been proven wrong about practically everything.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I like to think that Freud's theories will withstand the test of time.",
+        "prevSpeaker": "Jen",
+        "nextSpeaker": "Jen"
+    },
+    {
+        "speaker": "Jen",
+        "text": "Really?  Have you read either of his books?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Excuse me, young lady...",
+        "prevSpeaker": "Jen",
+        "nextSpeaker": "Jen"
+    },
+    {
+        "speaker": "Jen",
+        "text": "Uh-oh, here comes the lecture.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, for once you are right, for a disquisition is indeed at hand. And may I suggest you roll your eyes back into the forward position, as I may actually employ some visual aids.  Now, our story begins with a young Greek woman of the name Clytemnestra...  [_N.B. In classical literature, the wife of King Agamemnon, who killed her husband when he returned from the Trojan Wars and ran off with her lover._]  [_Kenny comes into the booth._] ",
+        "prevSpeaker": "Jen",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Look, everybody, Kenny's here!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "Wow, I've never heard that before.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Jen, maybe Kenny can show you around the station.",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Jen"
+    },
+    {
+        "speaker": "Jen",
+        "text": "You already showed me around the station yesterday.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Yeah, but you know what?  I totally forgot to show you our ratings binders.",
+        "prevSpeaker": "Jen",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "You did?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Yeah.",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "Well, then you're in for a treat.  [_Jen starts out the door then notices what Kenny is holding._] ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Jen"
+    },
+    {
+        "speaker": "Jen",
+        "text": "What's that trophy for?",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "Oh, a little series I produced called \"Life Is My Favorite Drug of All\".",
+        "prevSpeaker": "Jen",
+        "nextSpeaker": "Jen"
+    },
+    {
+        "speaker": "Jen",
+        "text": "Sounds pretty lame.",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "[_pauses_]  Yeah, it was.  [_They leave and Roz closes the door behind them._] ",
+        "prevSpeaker": "Jen",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "All right, that girl is really getting under my skin.  When is she leaving?",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "She's not that bad.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, come on, Roz, she's running you ragged.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Oh, please, this is nothing.  I used to party every night.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, sure, at twenty you can do anything.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Hey, there's still a lot of candy left in this pinata.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "That's attractive.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Thank you.  [_She goes to her side, closing the door behind her.  Fade out._]  Scene 5 - KACL  [_Fade in.  Kenny opens the door to his office and leads Jen in._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "And this is my office.  The nerve center.  Where it all gdoes down.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Jen"
+    },
+    {
+        "speaker": "Jen",
+        "text": "Did you just move in here or something?",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "Oh, no.  No, but in AM radio you've got to be ready to go in a moment's notice.  One day you're operating a fifty thousand watt powerhouse in Cleveland, the next your spinning platters out of a barn in Tulsa Town.  You've gotta keep movin', it's all about the music.  When it isn't about news and talk.",
+        "prevSpeaker": "Jen",
+        "nextSpeaker": "Jen"
+    },
+    {
+        "speaker": "Jen",
+        "text": "I heard AM radio is dead.",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "Yeah, it is.  So, you're going to Vietnam?",
+        "prevSpeaker": "Jen",
+        "nextSpeaker": "Jen"
+    },
+    {
+        "speaker": "Jen",
+        "text": "I'm thinking about it.",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "That's such an original choice.  You're so cool.",
+        "prevSpeaker": "Jen",
+        "nextSpeaker": "Jen"
+    },
+    {
+        "speaker": "Jen",
+        "text": "You're the first person that hasn't thought I was totally crazy for wanting to go there.",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "Oh, what do they know?  I've always loved the idea of just taking off.  You know, seeing someplace exotic.",
+        "prevSpeaker": "Jen",
+        "nextSpeaker": "Jen"
+    },
+    {
+        "speaker": "Jen",
+        "text": "Why haven't you?",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "My wife.  She didn't like to travel.",
+        "prevSpeaker": "Jen",
+        "nextSpeaker": "Jen"
+    },
+    {
+        "speaker": "Jen",
+        "text": "But you just said you were separated.  So do it.  Blow all of it off, go to Vietnam.  Break out of this prison cell.",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "I could, couldn't I?  You know, I could just be free.  Just get a motorcycle, drive around the countryside, really start to live.",
+        "prevSpeaker": "Jen",
+        "nextSpeaker": "Jen"
+    },
+    {
+        "speaker": "Jen",
+        "text": "I never even thought of the motorcycle.  Now you have to do it.",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "People would think I was nuts.",
+        "prevSpeaker": "Jen",
+        "nextSpeaker": "Jen"
+    },
+    {
+        "speaker": "Jen",
+        "text": "I wouldn't.  [_Cut to - Frasier's booth.  He is on the air, speaking passionately._] ",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "When Freud's genius has OBVIOUSLY influenced every psychiatrist on the planet...  [_Roz gestures in surrender._] ",
+        "prevSpeaker": "Jen",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I haven't forgotten about you, callers.  Stay tuned, won't you?  [_He punches out and takes off his headset as Roz comes over to his side._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "I'm starting to feel guilty about pawning Jen off on Kenny like that.  He's been a little down lately, and Jen can be a little, well, negative sometimes.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I hadn't noticed.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "I just hope she doesn't send him spiraling down into some  kind of depression.  [_Cut to - Kenny's office.  He and Jen are on the couch, necking furiously._]  End of Act 1  Act 2  Scene 1 - Cafe Nervosa  [_Fade in.  Jen and Roz are at a table together.  Jen is staring at another customer._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Jen"
+    },
+    {
+        "speaker": "Jen",
+        "text": "So, Seattle still loves the Walkman, huh?  He's probably listening to \"Thriller\".  So, do you still want to go to that warehouse party tonight?  Doors open at eleven, so we should probably be there at one.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Look, I wish I could Jen, but I really have to sleep.",
+        "prevSpeaker": "Jen",
+        "nextSpeaker": "Jen"
+    },
+    {
+        "speaker": "Jen",
+        "text": "Don't worry, we'll have a few cocktails and you'll feel a lot better.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Forget it, I am not drinking again tonight.",
+        "prevSpeaker": "Jen",
+        "nextSpeaker": "Jen"
+    },
+    {
+        "speaker": "Jen",
+        "text": "So just drink beer.  I mean, Alice is still at her grandparent's, right?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Listen sweety, why don't you go out by yourself tonight.",
+        "prevSpeaker": "Jen",
+        "nextSpeaker": "Jen"
+    },
+    {
+        "speaker": "Jen",
+        "text": "Oh, come on, Mirabelle, have some fun.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Don't do that.",
+        "prevSpeaker": "Jen",
+        "nextSpeaker": "Jen"
+    },
+    {
+        "speaker": "Jen",
+        "text": "Do what, Mirabelle?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Knock it off, I'm serious.",
+        "prevSpeaker": "Jen",
+        "nextSpeaker": "Jen"
+    },
+    {
+        "speaker": "Jen",
+        "text": "You used to be so fun, but ever since you've got the condo and the SUV, you're all 401(k) or whatever.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "I'm exactly the same person I've always been.",
+        "prevSpeaker": "Jen",
+        "nextSpeaker": "Jen"
+    },
+    {
+        "speaker": "Jen",
+        "text": "Oh, yeah?  I checked your car radio.  It's not stuck on that classic rock station.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "For your information, classic rock is both classic and it rocks.",
+        "prevSpeaker": "Jen",
+        "nextSpeaker": "Jen"
+    },
+    {
+        "speaker": "Jen",
+        "text": "What happened to you?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "I'm old!  [_They both drink their coffee uncomfortably.  Fade out._]  Scene 2 - Frasier's Apartment  [_Fade in.  Martin is watching TV, Frasier is on the couch.  Daphne is straightening up.  The doorbell rings._] ",
+        "prevSpeaker": "Jen",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Daphne, would you get that?  [_She does.  It is Niles._] ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Sorry I'm late, I...  [_He notices her apron._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "What's going on?  [_Martin and Frasier share a worried look._] ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Uh-oh.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Steady...",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Your father and brother needed a little help.  The oven's all clean, I just have a bit of ironing left, I won't be a minute. And don't forget:  I've drawn baths for both of you.  [_Frasier and Martin weakly protest this.  She hurries off.  Niles stares at the other two, who avoid his gaze._] ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Are you proud of yourselves?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "We didn't ask her to do anything.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "She offered.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Then why is no one looking me in the eye?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I'm sorry, Niles, you're right.  Maybe we took advantage.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Absolutely.  We're way out of line, it won't happen again.  [_He tosses his popcorn bowl on the floor._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "What are you doing?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "What?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Are you going to leave that there?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "I'll clean it later.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well, that's the whole problem.  If you would just clean as you go, things wouldn't pile up, you wouldn't need Daphne's help.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "I guess.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "No, it's true, look at this.  Look how easy.  [_He picks up the bowl and Frasier's from the coffee table, and heads for the kitchen._] ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "See?  Small, consistent efforts, that's what it takes.  Just like managing one's cuticles.  [_He reaches the kitchen._] ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_calling_]  You know, there's a bowl of potato salad laying out, completely uncovered.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "It's getting tangy.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "The plastic wrap is right here.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "We really should help him.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Are you nuts?  He's about to make us dinner.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "He is not.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Twenty bucks says he is.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Forget money.  Let's wager something real.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "All right, if I get him to make dinner, you do all the chores.  If I don't, I'll do 'em.  [_Daphne comes back out._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "I'm ready, Niles.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_returning from the kitchen._]  Excellent, because tonight I am taking you to the finest bistro in the Pacific Northwest.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You're on!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Take your sweet time, why don't you?!  [_calling out_]  Hey, guys, Are you sure you don't want to stick around?  I was just going to open a can of spaghetti.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_stopping at the door_]  But, you have sea bass in the fridge.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh, it'll probably last another day.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, I think you should cook it tonight.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Fine.  I'll nuke it with some ketchup.  [_Frasier looks on warily._] ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "That's ridiculous.  You can't use your turkey recipe on fish.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well, what am I supposed to do?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well, just take one clove of garlic, two tablespoons of finely minced fresh ginger...  [_off Martin's confused look_]  Oh, for heaven's sake, I'll do it myself.  [_He heads for the kitchen, Daphne closes the door._] ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "I suppose I'll lay the table.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "No, no Daphne.  You've done enough for today.  That's Frasier's job.  [_He sits smugly as an irate Frasier gets up.  Fade out._]  Scene 3 - KACL  **HE'S ALSO SEEN BOSTON AND KANSAS**  [_Fade in.  Kenny is in his office, snacking and listening to Frasier on the speaker._] ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_v.o._] And so for our final hour today, I'd like to focus on First-time callers only.  We've heard a lot of familiar voices this week and I'd like to shake it up...  [_Jen comes in the door._] ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Jen"
+    },
+    {
+        "speaker": "Jen",
+        "text": "Hey.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "Hey.  [_He gets up and turns the speaker down._] ",
+        "prevSpeaker": "Jen",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "I looked for you at that warehouse party last night, but I didn't see you.",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Jen"
+    },
+    {
+        "speaker": "Jen",
+        "text": "Oh, I was in the old meat locker.",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "Oh, I didn't look in there.",
+        "prevSpeaker": "Jen",
+        "nextSpeaker": "Jen"
+    },
+    {
+        "speaker": "Jen",
+        "text": "Sorry we didn't hook up.  Did I leave my sunglasses in here?",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "Oh, yes, you did.  [_He gets them out of his desk._] ",
+        "prevSpeaker": "Jen",
+        "nextSpeaker": "Jen"
+    },
+    {
+        "speaker": "Jen",
+        "text": "So, I'm taking off.  I had a really cool time with you.  I hope you make your break from here soon.",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "Good news.  I just got off the phone with my travel agent.  She got me this great fare to Ho Chi Minh City and she said it'd be no problem to get you on the same flight.  This is gonna be awesome! I've never seen Asia before.  I've seen the band, of course, but not, you know...",
+        "prevSpeaker": "Jen",
+        "nextSpeaker": "Jen"
+    },
+    {
+        "speaker": "Jen",
+        "text": "Oh, well, about that, Kenny, um, I already booked a flight.",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "Oh, well maybe I can get on your flight.",
+        "prevSpeaker": "Jen",
+        "nextSpeaker": "Jen"
+    },
+    {
+        "speaker": "Jen",
+        "text": "Well, see, the thing is, I travel solo.",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "Oh.",
+        "prevSpeaker": "Jen",
+        "nextSpeaker": "Jen"
+    },
+    {
+        "speaker": "Jen",
+        "text": "It's kind of a rule I have.  I had this bad experience once...",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "Oh, no, please.  I totally get where you're coming from.  Solo's the way to go.  My high school French club went to Montreal once, nightmare!",
+        "prevSpeaker": "Jen",
+        "nextSpeaker": "Jen"
+    },
+    {
+        "speaker": "Jen",
+        "text": "You should still go.  You deserve to have some fun.",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "Okay.  Yeah.  Well, maybe I'll run into you over there.",
+        "prevSpeaker": "Jen",
+        "nextSpeaker": "Jen"
+    },
+    {
+        "speaker": "Jen",
+        "text": "I'd like that.  [_She kisses him on the cheek and leaves.  Kenny looks around wistfully and turns the speaker back up._] ",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_v.o._]  Our next caller is Stu, from Madrona. Go ahead, Stu, I'm listening.  [_Cut to - Frasier's booth as Stu speaks._] ",
+        "prevSpeaker": "Jen",
+        "nextSpeaker": "Stu"
+    },
+    {
+        "speaker": "Stu",
+        "text": "[_v.o._]  All right, it's like this:  I've been dating my girlfriend for six years and she keeps bugging me about movin' in..  But I know as soon as she does, my freedom is gone.  Everything's gotta be in the hamper, I can't eat over the sink, can't just go out whenever my buddies call, it's a lot to give up.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Okay, Stu, how old are you?",
+        "prevSpeaker": "Stu",
+        "nextSpeaker": "Stu"
+    },
+    {
+        "speaker": "Stu",
+        "text": "The calendar says forty-seven, but I feel eighteen, right?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Forty-seven?!",
+        "prevSpeaker": "Stu",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Now, Roz...",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "I have a suggestion for you, Stu:  Grow the hell up!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Stu"
+    },
+    {
+        "speaker": "Stu",
+        "text": "What?  I'm sorry?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "I'm thirty-eight.  And I FEEL thirty-eight.  Now, I know we're all supposed to act like perpetual teenagers these days, but you know what?  I like acting my age.  I like being a mom.  I like having a career.  And I like balancing my checkbook!  When did it become such a bad thing to be an adult?!",
+        "prevSpeaker": "Stu",
+        "nextSpeaker": "Stu"
+    },
+    {
+        "speaker": "Stu",
+        "text": "Dr. Crane?  Hello?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Now, don't get me wrong, I had a great time when I was younger, I did!  But after a while, that way of life just seems...empty.  You have to go deeper, and commit to things that really matter to you. Believe me, when you do that, you'll find out how amazing and rich life can be.",
+        "prevSpeaker": "Stu",
+        "nextSpeaker": "Stu"
+    },
+    {
+        "speaker": "Stu",
+        "text": "Hey, I know that voice.  You were at Zoo the other night.  [_Roz Looks nervous._]  You told me you were twenty-nine.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Thanks for your call, Stu, let's go to traffic.  [_He punches off, removes his headphones and goes over to Roz's side._] ",
+        "prevSpeaker": "Stu",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "I'm sorry, Frasier.  I guess I shouldn't have unloaded on that guy.  I've just been thinking a lot about age lately.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "That's all right, Roz.  I thought your speech was courageous.  And Who knows?  Even if it went right past Stu, maybe it reached somebody else out there on the Frasier Crane Radio Network.  [_They share a laugh.  Cut to - Kenny's office.  He is staring out the window, the speaker still on in the background.  He turns and shuts it off.  He then starts unpacking his boxes.  Fade out._]",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Credits"
+    }
+]

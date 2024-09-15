@@ -1,0 +1,1455 @@
+[
+    {},
+    {
+        "speaker": "Sherry",
+        "text": "Morning, sunshine!",
+        "prevSpeaker": "No Previous Speaker",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Morning, Sherry.",
+        "prevSpeaker": "Sherry",
+        "nextSpeaker": "Sherry"
+    },
+    {
+        "speaker": "Sherry",
+        "text": "Coffee's on, want a cuppa?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No thank you, caffeine only weakens the immune system. I'm fighting off a flu.  ",
+        "prevSpeaker": "Sherry",
+        "nextSpeaker": "Sherry"
+    },
+    {
+        "speaker": "Sherry",
+        "text": "Oh, I'm sorry.  Let me get you some breakfast.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No, no that's really not necessary.",
+        "prevSpeaker": "Sherry",
+        "nextSpeaker": "Sherry"
+    },
+    {
+        "speaker": "Sherry",
+        "text": "Oh, no, no, you'll feel much better once you've had my scrambled egg tacos and Spam patties.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, in keeping with the trusty adage, \"starve a cold, disgust a fever.\"",
+        "prevSpeaker": "Sherry",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Tea and dry toast?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, bless you.  _In the kitchen, Sherry removes fresh biscuits from the oven. Daphne enters the kitchen and begins washing a dish._ ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Sherry"
+    },
+    {
+        "speaker": "Sherry",
+        "text": "Oh honey, I was using that!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Oh, sorry.",
+        "prevSpeaker": "Sherry",
+        "nextSpeaker": "Sherry"
+    },
+    {
+        "speaker": "Sherry",
+        "text": "No problem.  Listen, why don't you just relax?  I'll clean up later.  ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "You know, not to criticise, but I usually serve Mr. Crane whole grain cereal for breakfast.  I try to avoid giving him fried foods.",
+        "prevSpeaker": "Sherry",
+        "nextSpeaker": "Sherry"
+    },
+    {
+        "speaker": "Sherry",
+        "text": "Oh, Marty loves fried foods.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Yes well, just because he likes something doesn't mean it's good for him.",
+        "prevSpeaker": "Sherry",
+        "nextSpeaker": "Sherry"
+    },
+    {
+        "speaker": "Sherry",
+        "text": "True, but just because something's good for him doesn't mean that he has to be stuck with it day after day. ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "It looks like it's going to be another scorcher.",
+        "prevSpeaker": "Sherry",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Hmm.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Radio said high nineties.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_not interested_] Yes, hot.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Yeah, well, I guess they'll be some more brown-outs.  I hate to think what it'll do to the crops.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Dad please, I'm trying to read.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh, sure, sorry. [_reading:_] Oh, another double homicide last night.  You know, with this heat wave going I'm not surprised. I wonder what started that?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Perhaps someone wouldn't stop talking about the weather.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "What?  Yeah, you might be right, it's a real scorcher out there.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Sherry"
+    },
+    {
+        "speaker": "Sherry",
+        "text": "Morning, handsome!  Did I say that before?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Before, _and_ after!  ",
+        "prevSpeaker": "Sherry",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Please, would you two spare me the single entendre this morning?  I'm trying to avoid getting sick.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Sherry"
+    },
+    {
+        "speaker": "Sherry",
+        "text": "Well there's nothing like one of momma's big biscuits if you're fighting something off. [_hands one to him_]",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, I'm sure with good aim it could bring down an elk!",
+        "prevSpeaker": "Sherry",
+        "nextSpeaker": "Sherry"
+    },
+    {
+        "speaker": "Sherry",
+        "text": "[_to Daphne:_] What about you, sweetie?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Oh, just half of one for me.",
+        "prevSpeaker": "Sherry",
+        "nextSpeaker": "Sherry"
+    },
+    {
+        "speaker": "Sherry",
+        "text": "[_places one on her plate:_] Oh come on, wouldn't hurt you to put on a few pounds.  Men like to see a little oomph in your walk-away.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Yeah, you ought to see them smile when Sherry leaves the room!",
+        "prevSpeaker": "Sherry",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "I can imagine. [_laughs with Frasier_]",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Sherry"
+    },
+    {
+        "speaker": "Sherry",
+        "text": "[_holds Daphne's face:_] Oh, now, you're so pretty.  I don't understand why men aren't just buzzing around you.  Frasier, you're not seeing anybody.  Here you are under the same roof, both cute as corn!  Why don't you two...",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Just stop right there.  I'm trying to have a peaceful morning and I do not want to be put on the spot, I do not want to eat some bizarre breakfast concoction, [_to Martin:_] and I do not want to discuss the weather.  I just want to try and conserve energy, sit here, and enjoy my paper.",
+        "prevSpeaker": "Sherry",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Sure, Fras.  _Martin, without speaking, mimes asking for something.  Sherry, without speaking, gives him a taco shell filled with scrambled eggs. They carry on doing this along with Daphne, completely irritating Frasier.  He pretends to ignore it and turns over his newspaper.  Eventually, the three take a big loud bite from their tacos which makes Frasier pick up his paper and leave.  FADE OUT  Scene Two - KACL. In Frasier's booth, Roz and Bulldog are fighting like a couple of ten-year-olds.  Several employees are watching them from the hallway and laughing.  Roz forces him face-down over the console and pounds him with her fist._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "I'm gonna break every bone in your bent little body!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "Hey, if you weren't a girl and I didn't kinda like this, I'd be pounding ya!  [_N.B. How like Ugolino and the Archbishop in Dante's \"Inferno.\"_] ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Bup-bup-bup!  Not another word!",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "But he...!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Bup!  I don't care who did what to whom or in what disgusting manner.  As we speak, hordes of viral Visigoths are hurling themselves over the battlements of my immune system, laying waste to my... Oh, dear God, you see how weak I am?  I can't even finish a simple Visigoth metaphor.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "Well, if you get sick don't go sneezing on everything. The last time the Happy Chef got a cold I was peeling lettuce off the mike for a week.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "You will not believe what he...",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Hey!  Roz, I meant what I said!  I simply cannot deal with other people's problems today.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Well, good news for Mark on line three, whose wife is keeping a pumpkin in a bassinet!  Hey, I know what'll make you feel better.  My friend Lisa's having a singles party tonight. I'm supposed to bring someone who I'm not interested in but who's a really good catch.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh... Roz, please, I need my rest.  You know, even if I didn't, I do not want to be poked and prodded by a bunch of desperate, alcohol-lubricated husband-hunters.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Oh, come on, it'll be fun! [_suggestively_] Cheryl from Sales was asking if you'd be there.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Cheryl - isn't she the one who, at the last company wedding, hip-checked you into the ice sculpture in her headlong rush to catch the bouquet?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "That is not what happened!  She thought the bartender said \"last call.\"  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "Look Roz, I'm not going to fight you anymore.  But I want you to know you said a lot of things that really hurt my feelings. Fun is fun, but I'm not made of stone.  So I want you to know as of this moment, we work together but we are no longer friends!",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Do you want to go to a party tonight?",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "I'm there! **CAT FIGHT ON A HOT TIN ROOF** _Scene Three - Frasier's Apartment. Martin and Sherry are playing cards in the living room, when Daphne Enters with the exercise mat._ ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Ready to do your exercises?",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "No, in a minute.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Sherry"
+    },
+    {
+        "speaker": "Sherry",
+        "text": "Just a couple more hands.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "You said that half an hour ago!",
+        "prevSpeaker": "Sherry",
+        "nextSpeaker": "Sherry"
+    },
+    {
+        "speaker": "Sherry",
+        "text": "[_to Martin:_] Guess I must be a bad influence.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Yeah, next thing you know you're going to have me smoking behind the gym! [_they laugh_]",
+        "prevSpeaker": "Sherry",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "I'm sorry, but it's for your own good.  I want you down on your back in two minutes and no arguments.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_to Sherry:_] Sounds a lot better when you say it! [_they laugh_]  ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Hello?  Speaking.  Oh, she did, did she?  Well, Sherry was mistaken, I don't go out with people I've never met.  Thank you anyway. [_puts phone down_] I can't believe it!  You gave my number to a total stranger?!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Sherry"
+    },
+    {
+        "speaker": "Sherry",
+        "text": "I thought it would be a nice surprise, you're not seeing anybody.  Kenny is a great guy!",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "He said his name was Jack.",
+        "prevSpeaker": "Sherry",
+        "nextSpeaker": "Sherry"
+    },
+    {
+        "speaker": "Sherry",
+        "text": "Oh, I forgot about Jack.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "There's more than one?!",
+        "prevSpeaker": "Sherry",
+        "nextSpeaker": "Sherry"
+    },
+    {
+        "speaker": "Sherry",
+        "text": "Well, I hope you're a lot nicer to Kenny when he calls.  He has a boat!",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Why don't you just squeeze me into a pair of hot-pants and drop me off down by the docks? _Sherry rises, insulted.  At the same moment, Frasier is getting in the elevator to go to his (hopefully) peaceful home.  No luck, I'm afraid.  A man gets into the elevator clearing his throat.  This makes Frasier nervous.  Suddenly, as the doors close, the man begins coughing violently, scaring Frasier.  However, when Frasier gets up to his floor, violence takes on a new meaning.  In the apartment, things are going bad._ ",
+        "prevSpeaker": "Sherry",
+        "nextSpeaker": "Sherry"
+    },
+    {
+        "speaker": "Sherry",
+        "text": "Maybe you wouldn't be so touchy if you didn't wake up on the wrong side of _no one_ every morning.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "That's your answer to everything, sex!  It's like you're part rabbit!  People ought to rub your feet for luck!",
+        "prevSpeaker": "Sherry",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Come on now, you don't want to say something you're going to regret!  Now you're acting like a couple of fishwives! [_they both stare at him, offended_] See, I'm regretting that one already.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Maybe I'd be less touchy if I didn't spend half my time cleaning up after you, and the other half on the phone to the garbage disposal repair man because one of your bloody big biscuits broke the blade!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Sherry"
+    },
+    {
+        "speaker": "Sherry",
+        "text": "There's a lot of \"B\" words for a little girl.  Here's one you forgot...",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Sherry/Daphne"
+    },
+    {
+        "speaker": "Sherry/Daphne",
+        "text": "B-!/Oh, don't you dare!",
+        "prevSpeaker": "Sherry",
+        "nextSpeaker": "Sherry"
+    },
+    {
+        "speaker": "Sherry",
+        "text": "What do you mean don't I dare! _They carry on arguing as Frasier enters.  They all stop when he slams the door._ ",
+        "prevSpeaker": "Sherry/Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Is Seattle experiencing a Prozac shortage?!",
+        "prevSpeaker": "Sherry",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh, Daphne and Sherry have a little problem.  Actually, maybe you can settle it.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Sorry Dad, it was all I could do to get through my show. King Solomon has split his last baby for the day, my health is hanging by a thread. [_they start to protest_] Bup-bup-bup! You're just going to have to settle this amongst yourselves, quietly!  ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "You've got a lot of nerve talking to me that way!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Sherry"
+    },
+    {
+        "speaker": "Sherry",
+        "text": "Me?  You're the one who started it, didn't she, Marty?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Hey, you're not putting me in the middle of this.",
+        "prevSpeaker": "Sherry",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "I didn't start anything.  You've had your big conk in my business all day!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Sherry"
+    },
+    {
+        "speaker": "Sherry",
+        "text": "That better mean \"nose\"!",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "And what if it doesn't?",
+        "prevSpeaker": "Sherry",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Hey!  Come on, knock it off.  Now, I said I wouldn't get involved in this, but... Daphne, you know, Sherry was only trying to be nice.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "[_picks up her bag_] Of course you'd take her side, she's the one who keeps your hammer toes warm at night.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "What the hell's that supposed to mean?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Oh, figure it out!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh, come on, Daph...  _Daphne leaves, slamming the door behind her.  FADE TO:_  **SUDDENLY THIS SUMMER**  _Scene Four - Niles's Apartment Niles is sitting on his couch, sipping wine and reading a book, with his cockatoo sitting on his shoulder.  He is dressed all in white, and there is a large fan blowing in one corner, but the heat still makes it hard for him to concentrate on his book or his wine._  [_N.B. All-white ensembles are a trademark of Tennessee Williams's plays - as are atmospheres of high sexual tension._] _The doorbell rings, which of course makes Baby shriek and dig her claws in._",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Ow, ow!  Baby, go to your perch, go to your perch. _She does.  Niles gets up and flexes his shoulder before answering the door to a rather hot-and-bothered Daphne._ ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Daphne?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "I'm so sorry to bother you, Dr. Crane, but I had an awful row with Sherry and I can't go back there.  I tried a couple of my girlfriends, but they weren't home.  So... may I spend the night here?  _Niles stares at her in disbelief.  CUT TO: a few moments later. He is lying on the couch after fainting.  Daphne is reviving him._ ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Relax, Dr. Crane, I'm just unbuttoning your shirt.  _He faints again.  End of Act One. (Time: 11:27)  Act Two.  Scene Five - Niles's Apartment Later, Niles awakes in the same position._ ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Are you feeling any better?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Yes.  I don't know what happened, my knees never buckled like that before.  The wine and the heat must have made me dizzy.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Yes, it is rather steamy in here.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I apologise for the lack of air conditioning.  It seems in order to live in an exclusive landmark building, one must have to sweat through the odd heat wave like a tortured character in a [_trails off as Daphne lifts her shirt up over the fan_] Tennessee... Williams... play.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "I can't imagine what you must be thinking.  Me barging in, asking to stay the night... [_bends over and lets the air blow down the front of her shirt_]",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well, gee I'm just thinking so many things. [_takes a long sip of his wine_]",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Sherry just makes me so mad. [_turns around and lets it blow up her back_] She's been giving my number to strange men so they'd call and ask me out.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "How dare she!  Why would she do such a thing?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Because she says I'm too rigid.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Nonsense!",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "And that I'm too picky.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Poppycock!",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "And that I'd be much happier if I just went out and had sex with someone. _Niles stays quiet and sits next to Daphne thinking about a possible, but unlikely, future._ ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Just to play Devil's advocate...",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Don't tell me you agree with her!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "No, no.  It's much too hot for hell to have frozen over.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "I mean, it's like caveman thinking!  \"All Daphne needs is a quick roll in the hay!\"",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_turned on:_] Yes, well...",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "\"A little slap and tickle would solve all her problems!\"",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Yeah, um...",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "The worse part is... I think she might be right.  Maybe part of why I got so mad at her is because she hit a nerve.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "It's very possible.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "[_lying back:_] I mean, I have been keeping myself on the shelf lately.  I'm feeling a little like the good China.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Someone should be eating off you everyday.  ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Hmm... music?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Lovely.  ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "You know, I hope this doesn't sound terribly forward, but I'm _Niles cannot believe what he has just heard.  At his waist level the CD player pops open (rather imitating something else).  He pushes it closed again._ ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Would it be all right if I took a cool bath?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Yes, of course.  It's upstairs, third door on your left.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Thank you. [_runs up to the first balcony_]",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "There are fresh towels in the linen closet - use the Indian cotton, it will be more gentle on your skin.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Oh, Dr. Crane, you're always thinking of me. [_she leaves_]",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_to himself:_] You have no idea! **THE NIGHT OF THE I WANNA** _Scene Six - Niles's Apartment. Later, Niles is setting up the living room: Passion fruit has been laid out in a tray.  He takes a bottle of champagne from an ice bucket and is starting to open it when Daphne enters, wearing one of his dressing gowns._ ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Dr. Crane?  Ooh, that fan feels good. _As Daphne comes down the stairs, the fan blows open the dressing gown below the belt, revealing her legs and a glimpse of her underwear. She laughs and covers up.  In Niles's hand, the champagne pops open and overflows (again imitating something else)._ ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, sorry!",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "That's quite all right.  Thanks for lending me your dressing gown.  Don't you just love the feel of silk on your skin?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Yes, there's nothing quite like it.  Passion fruit?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Thank you! [_sits on the couch and takes a bite_] You know, if you keep treating me like this I'll never want to leave.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_laughs, then:_] Champagne?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Oh, you shouldn't have! [_laughs_]",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I love champagne, but it's a drink for two and I never have anyone to share it with. [_pours two_]",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Yes, there are things you miss when you're on your own: champagne, another person's touch - even if it's just holding hands.  I guess you've been missing that sort of thing too since you and Mrs. Crane split up. [_touches Niles's hand_]",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well actually, Maris never held hands.  She had a slight webbing which made her self-conscious.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Well, I'm sure there are other intimacies you miss.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well, actually I still have a longing for... [_she chuckles_] I still have a desire for, um, to have... Daphne/Niles: Sex?/[_offering:_] Fruit?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I mean, yeah, sex.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "I'd love some.  ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "[_laughs:_] I mean fruit!  Although sex is good too!  ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "I'm sorry, Dr. Crane, I guess I just have sex on the mind tonight!  _Niles watches as she dips her passion fruit into her champagne and sucks it sensually._ ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well, that happens.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "And this weather doesn't help, does it? [_lays back:_] The heat gets inside you... it makes you so aware of your body.  It's like nature's way of letting you know you're still an animal. _Niles lets out a low growl.  Daphne exhales and droops back over the couch._",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "God, it's hot in here.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "It seems to be getting hotter every minute.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_taking some ice from the wine cooler_] Ice?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Oh yes, I could use some right now. _She takes one of the two pieces in his hand, but instead of dropping it in her glass she rubs it over her neck (and steals a glance at his butt)._",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "[_Moaning:_] Ohhh... Oh yes, that's better... _Staring at her in his daze, Niles doesn't know whether he's in heaven or not._ ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Where's your piece?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_snaps out of it, opens his hand:_] It melted.  I'll get another.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "You know, unless it cools down, I'm afraid we won't be getting much sleep tonight.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Shame we have just the one fan.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Oh, really? [_plain:_] Yes, that is a shame.  The two of us and just one fan... _The sexual tension between the two is now at its height.  It is obvious that not only is Niles thinking about jumping into bed with Daphne, but Daphne wants the same.  They both stare into the fan, waiting for events to happen.  Who will be the first to crack?_ ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Well of course, you're the host, you take it.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "No, no, I couldn't sleep at all knowing you were in the next room all hot and... hot.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Well... I suppose, under the circumstances... we could both sleep in the same room.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_his heart pounding:_] It does... oscillate.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "[_mouth wide open:_] What?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "The fan.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Oh...  _They both are ready for sex, until a little bell on Daphne's watch goes off._ ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Oh, dear.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "What?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "It's time to take my pills.  I forgot all about them, they're back at the apartment.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "What pills?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "It's my thyroid.  Nothing serious, it's just a bit overactive. If I don't take my pills I tend to faint dead away.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "What's the point in a fainting couch if you can't use it once in a while?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "I'll just run over and get them.  I'll come right back.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "No!  We'll go together and I'll run up for you.  If you and Sherry get into the same room together the two of you might make up... [_covering:_] ...more reasons to fight with one another. _Daphne agrees and goes to get changed. Niles is now the one who is hot under the collar so he cools himself off on the fan.  FADE TO:_  **THE BATH MENAGERIE**  _Scene Seven - Frasier's Apartment Niles enters Frasier's apartment silently.  Sherry is trying to settle things with Martin in the kitchen.  It seems that Sherry has forgiven Daphne, and that she will make it up with her.  Niles silently creeps around to find Daphne's pills.  However, Sherry spots him._ ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Sherry"
+    },
+    {
+        "speaker": "Sherry",
+        "text": "Nilesy!  Where did you come from?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "What are you doing here?",
+        "prevSpeaker": "Sherry",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Daphne's taken refuge at my apartment for the night.  I just stopped by to get a few of her things. [_moves away_]",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Back!  You weren't going to tell us, you were going to let us worry all night?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "No, I was going to tell you on my way out.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh this is stupid, I'm going to call her and get her back here and we're going to work this whole thing out.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Dad, it's a waste of time, she's so upset there is no way she'll ever set foot in this apartment tonight!  ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "If you don't believe me, you can ask her yourselves.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "I just remembered, my pills aren't in the medicine cabinet, they're on my dresser.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "What courage, pulling yourself together like this, just scurry on down to the car, and I'll only be a moment. [_Martin holds him back_]",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Er Daphne, Sherry and I talked about this, and we really feel bad about this.  You know, the whole thing is just a misunderstanding.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Sherry"
+    },
+    {
+        "speaker": "Sherry",
+        "text": "If you want, I suppose we could sit down and talk it out.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Well, I suppose we could.",
+        "prevSpeaker": "Sherry",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Obviously these two wildcats can't come to terms.  The best thing will be for them to be apart.  I know, I'm a psychiatrist.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Sherry"
+    },
+    {
+        "speaker": "Sherry",
+        "text": "No, your dad is right.  Now Daphne just misunderstood.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "I didn't exactly misunderstand.  You did set me up with a total stranger!",
+        "prevSpeaker": "Sherry",
+        "nextSpeaker": "Sherry"
+    },
+    {
+        "speaker": "Sherry",
+        "text": "Oh, but he's not a stranger, he comes in the bar all the time.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Oh, a barfly!  Much better.",
+        "prevSpeaker": "Sherry",
+        "nextSpeaker": "Sherry"
+    },
+    {
+        "speaker": "Sherry",
+        "text": "Oh, there you go again!",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Me!",
+        "prevSpeaker": "Sherry",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_trying to mend_] You know, you two are really a lot alike.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Both"
+    },
+    {
+        "speaker": "Both",
+        "text": "How dare you!/I'm nothing like her.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_happy about the arguments, he runs to the medicine cabinet:_] Talk amongst yourselves!  _Martin leaves and even Eddie buries his head in a pillow, tired of the arguing.  Meanwhile, in his bathroom, Frasier is soaking up his troubles in a bath of bubbles.  His eyes are closed, under a therapeutic mask._ ",
+        "prevSpeaker": "Both",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_o.s._] Frasier?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_wakes up_] I'm taking a bath.  ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Bubbles?!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "They're aromatherapeutic.  And exactly what part of \"I'm taking a bath\" did you take to mean \"come on in\"?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well, I'm sorry to tax your delicate system, but Daphne is back, and she and Sherry are at it again, and I don't know what to do and this is your department!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, all right, unless blood has been spilled, and on a carpeted area, I don't care.  Now get out!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Sherry"
+    },
+    {
+        "speaker": "Sherry",
+        "text": "[_walks in:_] There you are!  Marty, I tried, but that girl has no manners whatsoever. [_sits on bath_] Hey, Frasier.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Do you mind!",
+        "prevSpeaker": "Sherry",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "[_entering:_] I knew I'd find you in here! [_to Frasier:_] Whatever they're telling you about me, it's not true.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Daphne, please, you can't come in here.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Why not?  She can!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No, she can't, no-one can!",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_entering with Daphne's things:_] Frasier, have you no decency? Daphne, let's go!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "All right!  I am moments away from succumbing once and for all to this flu.  I am going to take one stab at this and then I am going to sink, Hippopotamus-like, beneath the bubbles. I think what this all comes down to is a dispute over turf. Daphne and Sherry are like two animals scent-marking their territory, which in this case is you, Dad.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "You couldn't come out with a less disgusting comparison?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "All right, all right, fine, it's like the Roman emperor Tiberius, his mother Livia, and his wife Vipsania.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "What?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Sherry"
+    },
+    {
+        "speaker": "Sherry",
+        "text": "Huh?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Who?",
+        "prevSpeaker": "Sherry",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Go on.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Fine!  Daphne: your primary role in this household is to take care of Dad.  Sherry: you also enjoy taking care of Dad.  I suspect that your attempts to find Daphne a boyfriend are really an unconscious ploy to get her out of the way. [_she starts to protest_] It's unconscious.  ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Daphne, naturally you are threatened by this and you feel you are no longer needed.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Yes, I have been feeling a bit unwanted lately.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well, a night without your services will have them singing a different tune, let's go.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Nobody's going to be singing anything tonight!  Daphne, I think we now all understand why you stormed out of here earlier. A strong emotion like not feeling wanted can drive anyone into a rash and impulsive act.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "[_glances at Niles_] Yes, it nearly did... I mean, yes it did.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, at the root of this, you're both just feeling insecure.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Exactly!  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Though it could probably have been avoided if Dad had been sensitive enough to remind you that you are both important in his life.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "What are you saying?  That it's my fault?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Well I must admit, a few reassuring words might just have done the trick.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Sherry"
+    },
+    {
+        "speaker": "Sherry",
+        "text": "Marty does have difficulty expressing his feelings.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "No, I don't!",
+        "prevSpeaker": "Sherry",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Oh, Sherry...",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Sherry"
+    },
+    {
+        "speaker": "Sherry",
+        "text": "Oh, save it honey, it wasn't our fault.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Yes, it was! [_to Sherry:_] You said that she was skinny and [_to Daphne:_] you said that she was big-mouthed.",
+        "prevSpeaker": "Sherry",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Now, that is not important.  We all feel better now.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well, I don't!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh look, I am running out of patience, I am running out of strength, and I am running out of bubbles!  Please, the lecture has ended!  ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "You're a good psychiatrist, Dr. Crane.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Sherry"
+    },
+    {
+        "speaker": "Sherry",
+        "text": "You sure are, hon'. [_as they leave:_] You see, Marty, it isn't just a lot of hooey! _Frasier, too tired to be insulted, sinks into his bath.  Niles is the only one left._ ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_sarcastic:_] Thank you very much!",
+        "prevSpeaker": "Sherry",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh please, Niles.  Look, unconsciously you knew it wasn't right.  That's why you brought Daphne back here.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "No, we came back to fetch her damn thyroid pills.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You're a doctor.  Why didn't you just use your prescription pad?  ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh my God...",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Isn't there an all-night pharmacy across the street from your building?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh my God!  _Niles leaves nearly in tears, whilst Frasier ignores him and sinks under the bubbles.  However, the bubbles just cause him to come up and sneeze._  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Credits"
+    }
+]

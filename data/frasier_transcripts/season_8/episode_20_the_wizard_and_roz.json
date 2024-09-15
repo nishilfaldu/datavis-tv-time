@@ -1,0 +1,1575 @@
+[
+    {},
+    {
+        "speaker": "Daphne",
+        "text": "Hello",
+        "prevSpeaker": "No Previous Speaker",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Hey.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Ah, the weekend warriors have returned.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Yeah.  You better watch out, Dr. Crane, I'm getting pretty good at kickboxing.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "It's true.  She hits so hard they're calling her \"The British Pound.\"",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "You hit pretty hard yourself there, \"Nails.\" [_She kisses him._] I'm going to hop in the shower.  ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "\"Nails\"?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, you scratch one guy... Oh, my electrolytes are plummeting. Care to join me in a sherry?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Ah, actually, I'd love to, Niles, but I'm off to see Dr. Tewksbury.  ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, I didn't realize your mentor was still in town.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, and because of it, I've been the fortunate recipient of some informal therapy.  It's really been quite enlightening. You know, I consider myself lucky to be in the hands of such a master.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well, I'm happy for you, Frasier.  He is a gifted psychiatrist, even if I don't share your god-like worship of him.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, I simply have a healthy respect for the man, Niles. It's hardly worship.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, please.  You're one step away from seeing his image appear in a tortilla.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Niles, thank heavens you're still here!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "What's wrong?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "You can't go to Nervosa today.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Why not?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "I just had a psychic vision that something bad's going to happen to you.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, come on, Daphne...",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Niles, I'm serious!  I know you don't believe in visions, but it's important to me.  Promise me you won't go.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "All right, if it means that much to you, I won't go.  I'll go straight home.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Thank you.  I feel much better. [_She gives him a kiss._] I'll see you later.  _She heads to her room again.  Frasier opens the door and Niles turns to leave with him._ ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Wow, that was scary.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Don't tell me you believe in that stuff...",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No, I meant the way she can manipulate you like that.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, please, I was just being diplomatic.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Tell me, is it difficult to kickbox without a spine?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "You're gonna find out.  _They exit.  FADE OUT.  Scene 2 - Cafe Nervosa  Fade in.  Frasier is sitting at a table, drinking coffee and reading. Roz comes in with some bags._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Hello, Frasier.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, hi, Roz.  Oh, been on a shopping spree, I see.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Yes, Alice is been visiting her grandmother for the week. So, I finally have some time to myself.  I tell you, it's great shopping without her pulling down a display rack.  Not only that, I actually woke up today without someone jumping on the bed and sticking her little fingers up my nose.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "And I didn't have to spend half the morning combing knots out of that little girl's curls...",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_hands her his cell phone_] Give Alice my love.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "[_getting up_] Thank you, I will.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Psst, Frasier.  Can you get me a latte?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Why don't you just get it yourself, Niles?  Oh, that's right: it's bad moogambo for you to enter.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "You know I promised Daphne.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_rising_] Yes, yes, and woe betide he who disobeyeth the oracle!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "All right, all right, wait.  Maybe if I get it to go, and don't sit down, I won't actually be breaking my promise to Daphne.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Step aside everybody, big set of onions coming through!  ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Latte to go, please.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Tewksbury"
+    },
+    {
+        "speaker": "Tewksbury",
+        "text": "Hello, Frasier.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Dr. Tewksbury.  Well, gosh, this is quite a surprise.  What are you doing here?",
+        "prevSpeaker": "Tewksbury",
+        "nextSpeaker": "Tewksbury"
+    },
+    {
+        "speaker": "Tewksbury",
+        "text": "Well, I've heard you mention how good their coffee is here, I thought I'd give it a try.  May I join you?  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, yes, of course.  I'm terribly sorry.  Oh, Roz, meet Dr. Tewksbury.  Dr. Tewksbury, this is my producer Roz Doyle. And my brother Niles.  Niles, Dr. Tewksbury.",
+        "prevSpeaker": "Tewksbury",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Hello, how do you do?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Tewksbury"
+    },
+    {
+        "speaker": "Tewksbury",
+        "text": "I don't believe we've ever met, but I seem to recall reading a fascinating paper of yours recently.  ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, yes, it was probably the one about phobias.  Oh, can't sit, can't sit.",
+        "prevSpeaker": "Tewksbury",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "It's a long story.  Anyway, Dr. Tewksbury, I was just wondering, did you happen to read the article on behavior modification in...",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Tewksbury"
+    },
+    {
+        "speaker": "Tewksbury",
+        "text": "Now, Frasier, let's not talk shop.  You don't want to bore Roz.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Oh, it's all just white noise to me, now. [_Tewksbury laughs_]",
+        "prevSpeaker": "Tewksbury",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, all right.  Niles, please, would you stop hovering and please sit down?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "All right.  What could it hurt?  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Niles!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Daphne!  ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "How could you come down here?  You broke your promise!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "And my patella!",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Well, nothing bad would have happened if you'd paid attention to my premonition!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well, actually, nothing bad would have happened if you hadn't shown up.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Well, it wouldn't have not happened had I not shown up.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well, it wouldn't not have happened if you hadn't not shown up!",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "And I wouldn't have shown up had I not known that you wouldn't have been able to not come down here!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well, I'm not... not... not... what?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "My point exactly!  You don't listen. ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Daphne!",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Niles, Niles, you all right?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, no, I've aggravated my old bossa nova injury.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, perhaps I better drive you.  I'm sorry, Dr. Tewksbury.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Tewksbury"
+    },
+    {
+        "speaker": "Tewksbury",
+        "text": "I understand.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Bye, Roz.",
+        "prevSpeaker": "Tewksbury",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Bye!  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Tewksbury"
+    },
+    {
+        "speaker": "Tewksbury",
+        "text": "Well, what was that all about?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Well, she thinks she's psychic, but he doesn't believe her.",
+        "prevSpeaker": "Tewksbury",
+        "nextSpeaker": "Tewksbury"
+    },
+    {
+        "speaker": "Tewksbury",
+        "text": "Well, no matter who's right or wrong, Niles needs to set up stricter boundaries with his patients.  I learned that from years of practice.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "No, no.  She's not his patient, she's his girlfriend.",
+        "prevSpeaker": "Tewksbury",
+        "nextSpeaker": "Tewksbury"
+    },
+    {
+        "speaker": "Tewksbury",
+        "text": "Oh, well in that case, no matter who's right or wrong, HE's wrong.  I learned that from years of marriage.   **DON'T FORGET THE GEIGER COUNTER AND THE DIVINING ROD**   ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Is there anything I can get you, Niles?  Perhaps a cold pack, perhaps?",
+        "prevSpeaker": "Tewksbury",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "No, no.  If Daphne ever comes out of her room, I'll just use her icy stare.  Frasier, if you don't mind, I'm going to have to cancel on the opera tonight.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, Niles, you know I hate going to the opera alone. Throwing a woman's shawl over the seat next to me and glancing expectantly back at the ladies room all night.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "You do that?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Hey, why don't you ask Dr. Tewksbury if he'd like to go?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, no.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, come on.  Ever since his divorce I'm sure he's anxious to get out of the house.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, we're in a quasi-therapeutic relationship right now. Truth be told, I was actually a little uncomfortable socializing with him at Nervosa.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, I understand.  You don't want to see the wizard behind the curtain.  Everyone needs an idol, someone who represents a higher plateau of truth and knowledge.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Very insightful, Niles.  For so many years I must have represented that plateau to you.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Thank you, Frasier, laughter is indeed the best medicine.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_rising_] Oh, Daphne.  My knee's feeling much better.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "[_deadpan_] Oh, good.  ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well I hope she doesn't expect me to run in there after her.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Good for you, Niles!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "With this knee I can only hobble.  _And he proceeds to hobble in there after her.  Reset to: the kitchen as he enters._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Daphne, I'm sorry.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Are you sorry for breaking your promise or for not believing me?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I'm sorry for breaking my promise.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "So you still don't believe I had a premonition?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well, it wasn't a premonition...",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "It certainly was!  I told you if you went to Nervosa, something bad would happen, and you hurt your knee.  What more proof do you need?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Something a little more scientific than that, I'm afraid.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "You need scientific proof?  Well, I think we can do something about that.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "What do you mean?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "There are people around who do this sort of research.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Are those people here now?  ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "No!  I'm talking about legitimate professionals.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "All right, all right.  But it has to be a real scientist. Not some huckster who comes here with crystals and a ghost- o-meter.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "As long as you have an open mind.  And it's pronounced \"ghost-ah-meters\".",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I'm glad we worked this out.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Me too.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "And now that we've made up, maybe we could...  ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Well, I guess we know who's not psychic.   **THE DOCTOR MAKES A HOUSE CALL**   _Fade in.  There is a knock at the door.  Roz, in her nightgown and robe, opens the door to reveal Frasier._ ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Frasier!  I thought you were the pizza guy.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I thought we were writing promos tonight.  You forgot, didn't you?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "NO!  Yes.  I'm sorry. _Dr. Tewksbury comes in from the other room wearing one of Roz's short silk robes._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Tewksbury"
+    },
+    {
+        "speaker": "Tewksbury",
+        "text": "Pizza!  We're gonna have pizza!  We... [_stops and puts on his glasses_] Frasier!  Hello.  What are you doing here?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, just, ah... wearing clothes.",
+        "prevSpeaker": "Tewksbury",
+        "nextSpeaker": "Tewksbury"
+    },
+    {
+        "speaker": "Tewksbury",
+        "text": "Oh, right.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Frasier brought over some work from the office.",
+        "prevSpeaker": "Tewksbury",
+        "nextSpeaker": "Tewksbury"
+    },
+    {
+        "speaker": "Tewksbury",
+        "text": "Ah.  I'll just... go get dressed.  ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I've gone blind.  And ten seconds too late.  So, since when have you and Dr. Tewksbury been seeing each other?",
+        "prevSpeaker": "Tewksbury",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Well, uh, the other day at Nervosa we really hit it off after you left and he asked me out for dinner and... we've been out every night since.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Really?  Well, I must say I'm a bit surprised.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Why?  He's smart, very insightful. and he's such a great listener.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, well, I'm happy for you, Roz.  It's just a little difficult imagining the two of you together.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "You don't think I can appreciate a sophisticated man?  You know, it's not just about sex for me, Frasier.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Tewksbury"
+    },
+    {
+        "speaker": "Tewksbury",
+        "text": "Uh, do you have a stepladder?  My pants are stuck in the ceiling fan.  _Roz and Frasier share a look and, realizing neither is really the winner, Frasier walks off and Roz closes the door.  FADE OUT._ ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Tewksbury"
+    },
+    {
+        "speaker": "Tewksbury",
+        "text": "Frasier, listen.  Before we begin, I hope it wasn't too awkward seeing me with Roz last night.",
+        "prevSpeaker": "Tewksbury",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Not at all.  Well, it was just a little... jarring to see you out of context that way.  But your personal life is your business.  Speaking of which, let's, let's get down to business: The Crane mind!",
+        "prevSpeaker": "Tewksbury",
+        "nextSpeaker": "Tewksbury"
+    },
+    {
+        "speaker": "Tewksbury",
+        "text": "Yes, let us.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Tewksbury"
+    },
+    {
+        "speaker": "Tewksbury",
+        "text": "Now, last time we had just broached the subject of your father's expectations and their effect on your early adulthood. _Frasier tries to control his upset at the image of the robed doctor, unsuccessfully.  He grows more uncomfortable as Tewksbury sits on the desk and puts a hand behind his head._ ",
+        "prevSpeaker": "Tewksbury",
+        "nextSpeaker": "Tewksbury"
+    },
+    {
+        "speaker": "Tewksbury",
+        "text": "As we know, the internalization of a parent's moral code is crucial to the development of a superego.  And considering the strict nature of your father's strictness...  Frasier, is everything all right?  ",
+        "prevSpeaker": "Tewksbury",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, yes, of course.  Please, continue.",
+        "prevSpeaker": "Tewksbury",
+        "nextSpeaker": "Tewksbury"
+    },
+    {
+        "speaker": "Tewksbury",
+        "text": "Well you must admit that having a father whose very job is the enforcement of the moral code, would lead to an overdeveloped superego.  _As he leans across the desk, the image of him in the robe once again appears to Frasier._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Tewksbury"
+    },
+    {
+        "speaker": "Tewksbury",
+        "text": "I believe I have a paper on this subject.  _He goes to a filing cabinet and leans down to the bottom drawer, making Frasier VERY uncomfortable._ ",
+        "prevSpeaker": "Tewksbury",
+        "nextSpeaker": "Tewksbury"
+    },
+    {
+        "speaker": "Tewksbury",
+        "text": "It's right here.  _Frasier tries to look away and back, but the image won't go away. FADE OUT.  End of Act 1  Act 2  Scene 1 - Frasier's Apartment_  _Fade in.  Martin is sitting in his chair, reading.  Frasier comes in the front door._ ",
+        "prevSpeaker": "Tewksbury",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, hey, Dad.",
+        "prevSpeaker": "Tewksbury",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Hey.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "How was your day?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Why don't you just tell me what happened to you?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "What are you talking about?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well, you know how my day goes: play with Eddie, watch TV, do my stretches.  You only ask so I'll ask you about your day, so I'm askin'.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I am hurt.  You're my father, of course I care about your day.  ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh, well, uh, I played with Eddie, watched TV, did my stretches.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, good.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "So, how was...",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I just came from Dr. Tewksbury.  Throughout the entire session, I just couldn't focus on anything he was saying.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Wasn't he talkin' about you?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, yes, but recently I saw him in... well, a less than dignified light.  And ever since, I've just found it impossible to take him seriously.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "I know exactly what you're talking about.  In Korea, I had this commanding officer, Lieutenant Franks.  I would have followed that guy into the gates of hell.  I saw him a few years later, he was flippin' hamburgers in a fast food place. That was hard to handle.  I mean this guy took me under his wing and molded me.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Like a mentor?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Yeah, exactly.  He always used to say that one day he'd be takin' orders from me.  I just never thought it'd be for extra onions.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "So how did you handle it?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well, I just realized it was my problem, not his.  And I wasn't gonna let it erase all that he'd meant to me.  So I marched right back into that kitchen and saluted him. And after we were talkin' a while, I realized nothin' had changed.  He was still the same hard-chargin' man's man who wasn't afraid to get his hands dirty.  Which is why I never ate there again.  _Frasier and Martin share a laugh.  Daphne and Niles come in from her room._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Uh, if you two don't mind, Daphne's psychic evaluator is on the way over and we'd like to use the living room.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_rising_] Ooh, fine by me.  That stuff creeps me out anyway.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Niles I still can't believe you ever agreed to this.  Those tests are based on nothing more than subjective evidence and lucky guesses.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Yes, nothing at all like the subjective evidence and lucky guesses psychiatry is based on.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_smugly_] Thank you.  ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Don't worry, I will thoroughly appraise the examiner and his testing methods.  ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Good luck.  ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "That'll be him.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Come in.  I'm Dr. Niles Crane, this is Daphne Moon.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Hello.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Morey"
+    },
+    {
+        "speaker": "Morey",
+        "text": "Hello, I'm Dr. Sheldon Morey.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, doctor?  Doctor of...?",
+        "prevSpeaker": "Morey",
+        "nextSpeaker": "Morey"
+    },
+    {
+        "speaker": "Morey",
+        "text": "Spookology! [_then_] Kidding.  That's just what most people expect.  Actually I'm a professor of psychiatry at Seattle University.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Really?  Please, have a seat.",
+        "prevSpeaker": "Morey",
+        "nextSpeaker": "Morey"
+    },
+    {
+        "speaker": "Morey",
+        "text": "Thank you.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "So, hmm, you're more of a debunker.",
+        "prevSpeaker": "Morey",
+        "nextSpeaker": "Morey"
+    },
+    {
+        "speaker": "Morey",
+        "text": "Well, no, not at all.  Actually, I apply scientific principles to the search for paranormal phenomena.  Believe me, nothing would make me happier than discovering a legitimate psychic.  ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, so, then you've never found one.",
+        "prevSpeaker": "Morey",
+        "nextSpeaker": "Morey"
+    },
+    {
+        "speaker": "Morey",
+        "text": "Well, if by \"psychic\" you mean people with above-normal prescience, then a few.  If you mean somebody who could beat the house in Vegas, then no.  I thought I had one for a while, but, uh... no.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "So, Daphne, do you still want to go through with this?",
+        "prevSpeaker": "Morey",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "I'm ready if you are.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "All right, Doctor, she's all yours.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Morey"
+    },
+    {
+        "speaker": "Morey",
+        "text": "Great.  Now, I've got a card...",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Ace of spades!",
+        "prevSpeaker": "Morey",
+        "nextSpeaker": "Morey"
+    },
+    {
+        "speaker": "Morey",
+        "text": "...with my office and fax number on it.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "And your address!",
+        "prevSpeaker": "Morey",
+        "nextSpeaker": "Morey"
+    },
+    {
+        "speaker": "Morey",
+        "text": "Correct.  _He hands the card to Niles.  DISSOLVE TO: later,  Daphne and Morey are at the dining table and he's giving her a standard test with cards._ ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Star...  Circle.",
+        "prevSpeaker": "Morey",
+        "nextSpeaker": "Morey"
+    },
+    {
+        "speaker": "Morey",
+        "text": "And finally?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Circle.",
+        "prevSpeaker": "Morey",
+        "nextSpeaker": "Morey"
+    },
+    {
+        "speaker": "Morey",
+        "text": "That's it.  That was your final test.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "And I'm psychic, right?",
+        "prevSpeaker": "Morey",
+        "nextSpeaker": "Morey"
+    },
+    {
+        "speaker": "Morey",
+        "text": "Well, first we have to compare your results to those of the rest of the control group.  It'll just take me a few minutes to run these numbers, okay?  ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "So?  How do you think you did?",
+        "prevSpeaker": "Morey",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "I think I did pretty well on the cards.  The premonition test was a little tricky, but all in all I was in the zone.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well, we'll soon find out.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Morey"
+    },
+    {
+        "speaker": "Morey",
+        "text": "You know, Daphne, I'm always curious: when was it that you first suspected you had psychic ability?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Oh, years ago, when I was a little girl.  Grammy Moon first saw the gift in me.  See, I was a girl in a house full of boys, which I hated, until Grammy told me that only Moon women had second sight.  She had it, her mother had it and so on. After that, I noticed I could sense things before they happened, sort of like a secret power.  Anyway, it's just always been a part of who I am.",
+        "prevSpeaker": "Morey",
+        "nextSpeaker": "Morey"
+    },
+    {
+        "speaker": "Morey",
+        "text": "I see.  Well, we have your results.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "All right.  I don't know why I'm a bit nervous.",
+        "prevSpeaker": "Morey",
+        "nextSpeaker": "Morey"
+    },
+    {
+        "speaker": "Morey",
+        "text": "So, Daphne, from what I see here...",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Wait, uh...  Wait.  I don't think we should this, I don't want to know.",
+        "prevSpeaker": "Morey",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "What do you mean?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I'm sorry, I think this was a bad idea.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Well, I thought you wanted scientific proof.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I changed my mind.  I don't need a stranger telling me... anything about who you are.  I want us to get to know each other on our own.  Over time.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "I knew you were going to say that!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "You did?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "No, but I loved hearing it.  ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "I'm sorry, Dr. Morey, we wasted your time.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Morey"
+    },
+    {
+        "speaker": "Morey",
+        "text": "It's okay.  The dog told me a couple of funny jokes while we were waiting.  ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Morey"
+    },
+    {
+        "speaker": "Morey",
+        "text": "I'm kidding.  They weren't that funny.   **THE BIG CITY PROVES TOO MUCH FOR PETERSON**   _Fade in.  Frasier is again sitting in front of Tewksbury's desk, receiving analysis._ ",
+        "prevSpeaker": "Morey",
+        "nextSpeaker": "Tewksbury"
+    },
+    {
+        "speaker": "Tewksbury",
+        "text": "All right, Frasier, let's start with our last session. As I recall, you were having difficulty getting rid of a certain image in your mind?",
+        "prevSpeaker": "Morey",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "That is correct.",
+        "prevSpeaker": "Tewksbury",
+        "nextSpeaker": "Tewksbury"
+    },
+    {
+        "speaker": "Tewksbury",
+        "text": "Well, perhaps we should confront that.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, dear lord, I assumed that was Roz's.",
+        "prevSpeaker": "Tewksbury",
+        "nextSpeaker": "Tewksbury"
+    },
+    {
+        "speaker": "Tewksbury",
+        "text": "It is.  I was at her apartment this morning, I started thinking about your issue with the robe, and I decided to bring it with me. [_He puts the robe on._] Now Frasier, you consider me a competent psychiatrist, don't you?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Of course I do.",
+        "prevSpeaker": "Tewksbury",
+        "nextSpeaker": "Tewksbury"
+    },
+    {
+        "speaker": "Tewksbury",
+        "text": "Does seeing me dressed like this diminish that?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No, of course not.  It's just, well... I know, on a conscious level, that the garment does not change who you are.  But on, on an unconscious level, I'm all weirded out!  You're my mentor, and you're wearing Roz's robe.",
+        "prevSpeaker": "Tewksbury",
+        "nextSpeaker": "Tewksbury"
+    },
+    {
+        "speaker": "Tewksbury",
+        "text": "I'm still the same person.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, but, it's Roz's robe.",
+        "prevSpeaker": "Tewksbury",
+        "nextSpeaker": "Tewksbury"
+    },
+    {
+        "speaker": "Tewksbury",
+        "text": "And what does Roz's robe signify to you?  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Roz.",
+        "prevSpeaker": "Tewksbury",
+        "nextSpeaker": "Tewksbury"
+    },
+    {
+        "speaker": "Tewksbury",
+        "text": "Then maybe this isn't about you and me.  Maybe this is about your relationship with Roz.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Tewksbury"
+    },
+    {
+        "speaker": "Tewksbury",
+        "text": "Seeing me dressed like this brings up deep feelings.  Don't be afraid of those feelings, go with them. [_He notices the student._] Ah, Peterson.  Here for your make-up test?",
+        "prevSpeaker": "Tewksbury",
+        "nextSpeaker": "Peterson"
+    },
+    {
+        "speaker": "Peterson",
+        "text": "I was.  But I'll just take the D. _He leaves.  Frasier and Tewksbury both realize there's not a lot they can say.  FADE OUT._  Scene 3 - Roz's Apartment  _Fade in.  There is a knock at the door, Roz answers it to reveal Frasier._ ",
+        "prevSpeaker": "Tewksbury",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Oh, Frasier.",
+        "prevSpeaker": "Peterson",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You got a minute?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "We're not supposed to be working, are we?  'Cause I'm kinda busy right now.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "It's not about work.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Oh, come on in.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Have a seat.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Thanks.  ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Listen, uh, something's been troubling me ever since I saw Dr. Tewksbury in your robe and, uh, at first I thought it was about the toppling of a hero, but I've since discovered that it's really about you.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Let me guess: I'm not good enough for your precious mentor.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No, that's not it, Roz.  Uh...  When you were describing what attracted you to Dr. Tewksbury, I couldn't help thinking \"That very well could have been me.\"",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "So?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "So, Roz, I've known you for, what, eight years now.  And in that time I've seen you date hundreds of...",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Careful!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "All right, dozens of men.  Yet you never showed any interest in me.  Well, except for that one drunken flirtation at the station retreat.  ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, anyway, I assumed it was because I wasn't your type. Then I see you drawn to someone who's similar to me.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "You're jealous?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, no, not jealous, not exactly.  It's more along the lines of \"Why everybody else and not me?\"",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Frasier, did you ever stop to think there may be something special about not being picked?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Roz, that didn't work when I was cut from pee-wee football, it's not gonna work now.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Okay, I'll be honest with you.  When we first started working together, I had a little crush on you.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Really?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Yeah, sure.  I mean, you were handsome and sophisticated and you had your French suits and your Italian shoes...",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Actually, it was vice-versa, but go on, go on.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "But you were coming off this divorce, and you were my boss, and the whole thing was just too weird, so I never acted on it.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "And you were right.  You were.  Anyway, it's nice to know how you felt.  Thanks.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Sure.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "So, just for the record, though: you did have the hots for me?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Yes, yes.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You're not just saying that?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "No.  But, can you imagine the two of us together?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, gosh, no. [_rising_] Strange idea, isn't it?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Really strange.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Gosh, it's really hard to picture, isn't it?  Of course, I mean, it wouldn't be your problem.  It would be all me, trust me, all me.  I mean, you're a perfectly wonderful person.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "What are you doing?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, I'm just saying how great you are.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "No, you're giving me the \"It's not you, it's me\" speech.  If anyone should be giving that speech, it's me, not you.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, whatever you have to tell yourself, Roz.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "All right, get out!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Sounds to me like somebody still has a soft spot for the ol' boss man.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "OUT!  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Credits"
+    }
+]

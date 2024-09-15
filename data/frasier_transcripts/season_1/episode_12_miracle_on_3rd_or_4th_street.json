@@ -1,0 +1,1299 @@
+[
+    {},
+    {
+        "speaker": "Frasier",
+        "text": "[_on air_] Well, I'd like to take this opportunity to wish you The very, very best of holidays.  Like many of you, I'll be spending the time in the loving embrace of my family - which should give us all plenty to talk about in the new year. Meanwhile, this is Dr. Frasier Crane, KACL 780, Talk Radio.  ",
+        "prevSpeaker": "No Previous Speaker",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Come on, Frasier.  There's a gin-and-tonic out there with my name on it.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "You can tell Father Mike's had a few.  He's trying to get everyone to re-enact the Nativity scene.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "[_to Bulldog, as she exits_] Well, we know who we could get to be the ass.",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "[_gives a dog growl, then to Frasier_] I'm wearing her down.  ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "Who's that for?",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "It's for Roz.",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "[_reading the box_] \"Amazing trick microphone, squirts water.\" Nice.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "It's a gag.  We agreed not to exchange gifts.",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "Listen doc.  I'm scheduled to do the noon-to-four on Christmas.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No.",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "But doc, my whole family's getting together in Chicago for the first time in five years.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I am touched, and I don't care.",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "But my-my-my sister and her new baby...",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Listen Bulldog, my son Frederick is flying in tomorrow afternoon to spend the holidays with me.  Now, I've never looked so forward to a Christmas since I was... well, your size.  ",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Dave"
+    },
+    {
+        "speaker": "Dave",
+        "text": "DID YOU TELL HIM YET, BULLDOG?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "Okay, you don't have to yell.  You're not in the chopper giving us a traffic report.",
+        "prevSpeaker": "Dave",
+        "nextSpeaker": "Dave"
+    },
+    {
+        "speaker": "Dave",
+        "text": "I WAS YELLING?",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "[_gives up_] Hey, doc.  You know, ah, Bonnie Weems, right?",
+        "prevSpeaker": "Dave",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, ah, I don't actually know her, but she does the auto show, right?",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Dave"
+    },
+    {
+        "speaker": "Dave",
+        "text": "RIGHT.  Bonnie tends to drink a little more than she should at these parties, so the newest on-air personality always drives her home!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "That's you, rookie.",
+        "prevSpeaker": "Dave",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, that sounds like a good tradition, I'd be delighted to drive her home.",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "And she'll be delighted to hear that. _Bulldog and Dave exit, giggling.  Frasier follows them into the corridor and helps himself to a glass of punch.  Elizabeth, an elderly employee, comes up to him._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Elizabeth"
+    },
+    {
+        "speaker": "Elizabeth",
+        "text": "Merry Christmas, Dr. Crane.",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, Merry Christmas, Elizabeth.",
+        "prevSpeaker": "Elizabeth",
+        "nextSpeaker": "Elizabeth"
+    },
+    {
+        "speaker": "Elizabeth",
+        "text": "I baked you some sugar cookies. [_hands over box_]",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, how sweet of you.  Sweets from the sweet.",
+        "prevSpeaker": "Elizabeth",
+        "nextSpeaker": "Elizabeth"
+    },
+    {
+        "speaker": "Elizabeth",
+        "text": "Would you by any chance know who's driving Bonnie Weems home tonight?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, I am.  And maybe you can tell me why everyone...",
+        "prevSpeaker": "Elizabeth",
+        "nextSpeaker": "Elizabeth"
+    },
+    {
+        "speaker": "Elizabeth",
+        "text": "[_to crowd_] Hey, everybody!  It's the doc! _The entire party starts laughing.  Confused, Frasier goes back into the booth.  Roz is there._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Roz, would you mind telling me why everyone breaks into hysterics whenever I say I'm driving Bonnie Weems home... [_Roz bursts out laughing_] Oh, what is that?!",
+        "prevSpeaker": "Elizabeth",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Well, Bonnie Weems is kind of an office legend.  She gets a couple of drinks under her belt, and she gets a little amorous. And she will not take \"No\" for an answer.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Is that all?  Oh, I'm a big boy, I can take care of myself.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Okay.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_picking up present_] Now, listen Roz, Roz, now I know we promised not to, but I couldn't help it.  I was out shopping, and...",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "[_really excited_] Oh, no!  Don't worry, Frasier, I couldn't help myself either.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh no, really?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Yes. [_hands over gift_] Merry Christmas!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh Roz, you shouldn't have.  This is just...  ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_worried_] Oh, Roz.  Roz, you _really_ shouldn't have.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Now it's my turn. [_starts opening her gift_]",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, no-no-no.  Maybe, you know, maybe you should just think about, ah... keeping it under the tree.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Oh, me wait to open a Christmas present?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yeah.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "[_opens box, but manages to fake enthusiasm for the gag gift_] Oh my god!  It's great!  It's great because I'm in radio!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Ah, that's what I was going for, yes.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Well, thanks a million, Frasier. [_kisses him_] Have a happy, happy holiday and I'll see you next week.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Okay.  Merry Christmas.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Merry Christmas. _She leaves.  Bonnie Weems, a very attractive blond, appears in the doorway with a drink in her hand._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Bonnie"
+    },
+    {
+        "speaker": "Bonnie",
+        "text": "Dr. Crane?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes?",
+        "prevSpeaker": "Bonnie",
+        "nextSpeaker": "Bonnie"
+    },
+    {
+        "speaker": "Bonnie",
+        "text": "I'm Bonnie Weems.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, hello.  It's a, uh, a pleasure to meet you.  I'll be driving you home tonight.",
+        "prevSpeaker": "Bonnie",
+        "nextSpeaker": "Bonnie"
+    },
+    {
+        "speaker": "Bonnie",
+        "text": "I'm sorry to put you out.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, it's no problem at all.  Tell you what, you just go, enjoy the party, you let me know when you're ready to go.",
+        "prevSpeaker": "Bonnie",
+        "nextSpeaker": "Bonnie"
+    },
+    {
+        "speaker": "Bonnie",
+        "text": "[_downs her shot in one_] I'm ready now, baby. _She lifts Frasier by the waist, puts him over her shoulder and carries him out.  Scene B: Frasier's Apartment. Niles is there, drinking eggnog.  He puts his glass down to clean a mark on his shoe.  Eddie immediately takes a few laps from it, sitting back down before Niles picks it up and takes a sip.  Frasier enters with a pile of presents.  Niles starts, looking like a kid caught with his hand in the cookie jar._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_nervously_] Hello, Frasier.",
+        "prevSpeaker": "Bonnie",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, hello Niles.  Merry Christmas.  To what do I owe this occasion?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, nothing.  Just stopped by to get an opinion on a gift I was considering for Maris.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Well, it pinches a bit under the arms, but you be the judge. [_does a little twirl_] Oh, hello, Dr. Crane.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_glaring at Niles_] Daphne.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "[_to Niles_] Shall I put the little red one back on so you can Make your choice?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I think Niles has all the information he needs, thank you.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Fair enough.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "You know, Maris and Daphne are roughly the same size!",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Give or take a foot.  ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Hey, Frasier.  Where've you been?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, after the Christmas party I poured a colleague into a cab, said a quick prayer for the driver, dislodged the wedgie of a lifetime, then went on to do a little bit of last minute shopping.  Niles, some sherry?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Ah, thank you.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You know, Santa is going to be very, very good to Frederick This year.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh, by the way, Bulldog called a couple of times.  He wanted to know if you'd take his slot on Christmas day.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I already told him no.  How long will that man nag me? [_Martin heads towards the door with a cheap, plastic wreath_] Dad, what are you doing with that?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "I'm gonna hang it on the front door, like I always do.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "But it's plastic.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_hanging it_] Well, of course it's plastic.  Do you think a real one would've lasted since 1967? _As Frasier hands Niles a sherry, Daphne enters carrying the two cocktail dresses._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Here you go.  Ooh, I'm glad to be out of that black one-- I had to take me undies off just to get the zipper up. _Niles drops his glass, shattering it on the table and spilling sherry all over it._ ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Oh, dear!  Let me get that. _As she starts to clean up, Niles sinks onto the couch, still bringing himself together.  The phone rings.  Martin answers._ ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Hello.  Oh, hi. [_to Frasier_] Frasier, it's for you.  It's the nag.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, lord. [_on phone_] Now, listen Bulldog, I already told you... Oh.  Hello, Lilith.  Well, you know, maybe, ah, I should take this in the bedroom. [_exits_]",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Niles?  Everything's all set for tomorrow, right?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Yes, yes.  Maris and I are driving up to the cabin tonight. We'll expect you, Frasier and Frederick tomorrow around noon.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Oh, I wish I was coming with you.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "So do I.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_passing the phone, hearing Frasier and Lilith arguing_] Oh, Shut the hell up, will you? [_puts phone back on hook_]",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Daphne.  Daphne, you should come.  We have the most wonderful traditional Christmas, it's an actual log cabin.  With actual deer grazing in the snow on our front yard.  Of course, Maris fires off her shotgun from time to time to scare them away from our garbage, but still, it's enchanting.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Yeah.  You sure you can't come, Daph?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "No, I promised my Uncle Jackie I'd fly down to San Francisco to be with him.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well, I guess you should be with your family at this time of year, it's more traditional.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Except that Jackie's a transvestite.  Getting a bit long in the tooth for it too, if you ask me.  Last Thanksgiving he ate too much turkey and I had to cut him out of his pantyhose.  ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, Merry Christmas, everybody!  Lilith isn't sending Frederick!",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "What?  Why not?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, apparently he has this once-in-a-lifetime opportunity for an incredible Christmas.  A friend of hers has rented a home in Austria.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "What's the matter with the good old U.S.A.?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, apparently it's the same house that they filmed \"The Sound Of Music\" in, and that happens to be Freddie's favorite movie.  Well, Julie Andrews is singing with the Salzburg Choral, they're having dinner with her afterwards, and some nonsense about a horse-driven sleigh ride through the snow, and a toboggan, and a balloon trip through the Alps, and apparently on their way back they're gonna spend an entire day at Euro-Disneyland!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "...Well, up at the cabin, there's an old stump that the local children seem to enjoy kicking.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "You know you have to let him go, don't you?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, of course I have to let him go.  Thank you for pointing out that you know what's right.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Hey!  I was just making sure that you did, that's all.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, how would I ever live without you?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Now now, boys, that's enough.  Dr. Crane, you're being a good father, letting Frederick go.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "That's right.  It doesn't have to ruin your Christmas.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Yeah, come on.  Let's finish decorating the Christmas tree. I brought up the good lights from the storage room.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, dad, you know what, I don't want to use those lights this year.  I picked up these just yesterday. [_brings out a box of lights_]",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Chili peppers?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, yes, they're very fashionable.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Chili peppers aren't Christmas.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, for that matter, neither are scotch pines or snow ornaments.  For God's sakes, if you want to be technical, Bethlehem was in the desert.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Fine.  Why don't we decorate a palm tree?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I don't need your sarcasm.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "But I always use those lights.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Dad, dad.  This is my house, these are my decorations, just once, could I have just one thing I wanted this Christmas?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Hey, look.  Wait a minute.  I know you're upset about Freddie, but don't take it out on me.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh fine.  Now you're the psychiatrist?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh, I give up.  Go ahead, decorate the thing.  Use your chili peppers!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "All right, I won't anymore!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Use 'em!  Why don't... maybe we could hang a few radishes, put a nice broccoli on top!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I hope you two aren't going to be behaving this way up at the cabin?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, we won't!  Because I'm not going to the cabin!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "What do you mean, you're not going to the cabin?  Where the hell are you going?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I'm staying right here.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well, you can't stay alone on Christmas. [_by this time, Eddie Has his head under a cushion_]",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I've decided to fill in for Bulldog!  At least somebody will have a Merry Christmas!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_mad_] Well, Merry Christmas!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "MERRY CHRISTMAS!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "MERRY CHRISTMAS!!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "MERRY CHRISTMAS!!! _Eddie pops his head out, decides it's still not safe, and sticks it back under the cushion._  _End of Act One  Act Two.  Scene A: Radio Station. Frasier walks down the hallway, unshaved and wearing an old sweatshirt and jeans. He is following Roz, who is much cleaner, but wearing a very large scowl._ ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, Roz... I didn't realize when I volunteered to work on Christmas that I would ruin your plans for the day, I... please don't be mad. [_they enter the booth_]",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Mad?  What for?  My mother just flew all the way in from Wisconsin to be here with me today.  But instead I'm back in this stinking hellhole on Christmas Day, when only the loneliest and most depressed people on the planet would EVER call in.  But, look how nice you made yourself look for me!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Roz, try to see this thing from my position.  I, I couldn't see my son, I had a terrible fight with my father, I was facing a horrible Christmas, and then I thought, you know, maybe if by trying to help other people through their troubles it might get me through mine, and I think if we really try hard, we can maybe have the best Christmas we've ever had. What do you say?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Okay.  I'm not mad.  Get ready.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, I need a hug, just to prove that we're still friends.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Frasier, I am not hugging you.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Come on.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "No, you're grungy.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Come to papa.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "All right! [_hugs_] We're friends.  Now get ready, we're on. ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_on air_] Merry Christmas, Seattle!  Yes, this is Dr. Frasier Crane coming to you on Christmas Day.  Christmas, that very magical time of the year, when each moment is as unique as a snowflake, never to be recreated.  ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "I'm sorry Frasier, the news went over you.  You're gonna have to do that again.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Merry Christmas, Seattle...! _DISSOLVE TO: Later  Time lapse.  Frasier and Roz are still on the air, both looking VERY depressed._",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, as we head into our second hour, I'd like to lighten things up a bit.  Although, Ned, we were certainly glad to hear from you, and how you got mugged on your way home from the soup kitchen.  Roz, who's next?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "We have Don on line five, he wants to tell us about the time he was filled with the Christmas spirit.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "It's about time!  Hello, Don.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Don"
+    },
+    {
+        "speaker": "Don",
+        "text": "[_v.o._] Hello, Dr. Crane.  Something happened the other day that sums up why we call this the season of giving.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well then, swaddle me in Christmas cheer.",
+        "prevSpeaker": "Don",
+        "nextSpeaker": "Don"
+    },
+    {
+        "speaker": "Don",
+        "text": "Okay.  Well, you see, I was driving home from the gym, and I suddenly realized I had left my favorite old pair of sneakers on the roof of the car.  So, I look back and there's this homeless guy, and he'd already picked them up, and he's putting 'em on.  So I just thought, what the hell, and kept on driving.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "So your experience of the Christmas spirit would be that you didn't slam the car into reverse, speed back there, and rip a pair of smelly old sneakers out of a homeless man's hand? Well Roz, this is special, I think we've got Santa Claus himself on the line! _DISSOLVE TO: Later  Time lapse.  Frasier is listening to Barry, a caller who can't stop crying long enough to say what his problem is._",
+        "prevSpeaker": "Don",
+        "nextSpeaker": "Barry"
+    },
+    {
+        "speaker": "Barry",
+        "text": "[_v.o._] I'm sorry.  That was the last time.  I'm okay now, I'm okay. [_bursts into tears again_] No, I'm not!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Barry, I've got to put you on hold for a bit, while you pull yourself together, but please, please stay on the line, I'd really like to help you.",
+        "prevSpeaker": "Barry",
+        "nextSpeaker": "Barry"
+    },
+    {
+        "speaker": "Barry",
+        "text": "It's alright, I think I've got a hold of myself... [_starts crying again_] _DISSOLVE TO: Later  Time lapse._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Gladys"
+    },
+    {
+        "speaker": "Gladys",
+        "text": "[_v.o._] So you see, Dr. Crane, I've fallen in the shower so many times, they can't fit any more pins in my hip.",
+        "prevSpeaker": "Barry",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Gladys, Gladys?  Ah, listen, can I put you on hold for a second?  There's somebody else I have to check on. [_switches lines_] How's it going there, Barry?  ",
+        "prevSpeaker": "Gladys",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "My sentiments exactly. _DISSOLVE TO: Later  Time lapse.  By this time, Roz has her head on the desk, and Frasier is tilted back in his chair, the mike balanced on his chest._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Tom"
+    },
+    {
+        "speaker": "Tom",
+        "text": "[_v.o._] It still traumatizes me, Dr. Crane.  I wake up nights, and I remember that Christmas morning.  I walked into my mother's bedroom, tears running down my face, and I said, \"Mommy... the puppy Santa gave me won't wake up.\"",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Okay, Tom.  You win the prize for the saddest Christmas story we've heard today.  Happy holidays.  _He goes to a commercial break, sees Roz with her head down and rushes into her booth._ ",
+        "prevSpeaker": "Tom",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Roz?  Roz!  Oh, have you been crying, Roz?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "[_weeping_] Just for the last hour.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Ooh... oh, listen, why don't you just go home, honey?  I can take over for the next two hours.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "But you can't do this on your own.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, sure I can!  Why don't you go home, be with your mom?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Wouldn't it be even be sadder?  With you here all by yourself?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I don't think that's possible.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Well, if you really mean it, I'll go.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I mean it.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "But Frasier, promise me one thing?  Don't sit here and get more depressed.  You'll see your little boy again soon.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I know I will.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Okay.  Hug-hug-hug? [_they hug_] Merry... [_bursts into tears again_] Christmas!  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_on-air_] Hi, we're back.  Well, you know what?  I, I realize it's been a pretty tough day out there for most of you, and uh, I'd like to hear now from someone who's having a GOOD Christmas.  Um, you know, someone who's learned a way to beat the holiday blues.  Well, let's take our first call here. [_presses button_] Hello, you're on the air.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Jeff"
+    },
+    {
+        "speaker": "Jeff",
+        "text": "[_v.o._] This is Jeff.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Hello, Jeff!  Well, Merry Christmas!",
+        "prevSpeaker": "Jeff",
+        "nextSpeaker": "Jeff"
+    },
+    {
+        "speaker": "Jeff",
+        "text": "Well, Merry Christmas to you.  I used to get depressed on Christmas.  And then I found a surefire way to beat it: I'd pop my favorite movie, \"The Sound Of Music\" in the VCR. Watching Julie Andrews lead those adorable little tykes through the streets of Salzburg... Nobody could be depressed! I mean, nobody!  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Jeff, are you a betting man?  _DISSOLVE TO:  Time lapse.  Frasier is wrapping up._ ",
+        "prevSpeaker": "Jeff",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, we're just about out of time.  My, my, this day has flown by.  I'd like to wish all of you revelers out there a Merry Christmas, and for the rest of you, why don't you go out and treat yourself to something special?  Personally, I'm going to go get myself a meal at one of Seattle's fine eateries.  I don't know where, but I promise you one thing: it'll have a liquor license.  Just kidding.  Don't drink and drive.  This is Dr. Frasier Crane, KACL 780, Talk Radio.   **MIRACLE ON THIRD OR FOURTH STREET**  _Scene B: A Diner. Through the window we see Frasier park his car.  He gets out and enters, taking a seat at the counter._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Waitress"
+    },
+    {
+        "speaker": "Waitress",
+        "text": "[_mechanically_] Merry Christmas.  Welcome to Lou's.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Thank you.  I'm sure glad you're open, all the other places in town are either closed or are all booked up.",
+        "prevSpeaker": "Waitress",
+        "nextSpeaker": "Waitress"
+    },
+    {
+        "speaker": "Waitress",
+        "text": "That's what makes us so special.  I can bring you a menu, but almost everybody's having the Christmas platter.  That's a turkey log with mashed potatoes, then yule log for dessert.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "How much more appetizing food always becomes when you add the word \"log.\" [_she stares at him_] I'll just have the Christmas platter.",
+        "prevSpeaker": "Waitress",
+        "nextSpeaker": "Waitress"
+    },
+    {
+        "speaker": "Waitress",
+        "text": "[_she yells_] PLATTER!  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Tim"
+    },
+    {
+        "speaker": "Tim",
+        "text": "How you doin'?",
+        "prevSpeaker": "Waitress",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Okay.",
+        "prevSpeaker": "Tim",
+        "nextSpeaker": "Tim"
+    },
+    {
+        "speaker": "Tim",
+        "text": "Are you havin' a merry Christmas?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, now that you ask, no I'm not.  Can't be with my son, had a terrible argument over something stupid with my father. That's why I'm alone.  How about you?",
+        "prevSpeaker": "Tim",
+        "nextSpeaker": "Tim"
+    },
+    {
+        "speaker": "Tim",
+        "text": "Pretty good, actually.  Just yesterday, I was crossing the street, and this beautiful pair of sneakers flew off the back of the car, and landed on my feet! [_holds them up_]",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Merry Christmas.",
+        "prevSpeaker": "Tim",
+        "nextSpeaker": "Waitress"
+    },
+    {
+        "speaker": "Waitress",
+        "text": "[_bringing him his platter_] Here you go.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, the chef didn't exactly dally over the Remoulade, did he?  _DISSOLVE TO:  Time lapse.  Frasier has almost finished his meal.  Tim is asleep on his shoulder. A man (Bill) enters._ ",
+        "prevSpeaker": "Waitress",
+        "nextSpeaker": "Bill"
+    },
+    {
+        "speaker": "Bill",
+        "text": "Hey, Tim.  Merry Christmas.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Tim"
+    },
+    {
+        "speaker": "Tim",
+        "text": "Hey Bill, same to you.  Glad you could make it.",
+        "prevSpeaker": "Bill",
+        "nextSpeaker": "Bill"
+    },
+    {
+        "speaker": "Bill",
+        "text": "Well, I wouldn't miss this.  Hey, how's that turkey platter? Good as last year's?",
+        "prevSpeaker": "Tim",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I'm not sure this isn't last year's.  Listen, I'm done here, why don't you go ahead and take this seat?",
+        "prevSpeaker": "Bill",
+        "nextSpeaker": "Bill"
+    },
+    {
+        "speaker": "Bill",
+        "text": "Jeez, thanks pal.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You bet.  ",
+        "prevSpeaker": "Bill",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Ah, excuse me miss, something rather embarrassing has just happened.  I seem to have lost my wallet.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Waitress"
+    },
+    {
+        "speaker": "Waitress",
+        "text": "You mean you can't pay!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh no, I can pay, I can pay, I must have just left it at the office.",
+        "prevSpeaker": "Waitress",
+        "nextSpeaker": "Waitress"
+    },
+    {
+        "speaker": "Waitress",
+        "text": "Uh-huh.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, I can just go back there and get it.",
+        "prevSpeaker": "Waitress",
+        "nextSpeaker": "Waitress"
+    },
+    {
+        "speaker": "Waitress",
+        "text": "Mmm.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Tim"
+    },
+    {
+        "speaker": "Tim",
+        "text": "Hey, Lou.  It's all right.  This one's on me.",
+        "prevSpeaker": "Waitress",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, no-no-no.  You don't understand.  You see, I...",
+        "prevSpeaker": "Tim",
+        "nextSpeaker": "Tim"
+    },
+    {
+        "speaker": "Tim",
+        "text": "It's okay, buddy, we've all been there.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, but you see, I really did misplace my wallet.",
+        "prevSpeaker": "Tim",
+        "nextSpeaker": "Tim"
+    },
+    {
+        "speaker": "Tim",
+        "text": "I know you did, and Bill here misplaced his Wall Street portfolio. Here Bill, help me out. [_starts a whip round_]",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh no, you don't...",
+        "prevSpeaker": "Tim",
+        "nextSpeaker": "Tim"
+    },
+    {
+        "speaker": "Tim",
+        "text": "Hey, everybody!  People.  Come on, let's help the poor man get a nice Christmas dinner.  Even pennies.  It doesn't matter.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Please, please, you don't understand.  I make a very decent living.  I really do.  This is not necessary.  ",
+        "prevSpeaker": "Tim",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, I must say I've never been so touched in my life.  To think that you people would give up your money, which you can ill afford, to help out a fellow human being.  I'm just so embarrassed.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Tim"
+    },
+    {
+        "speaker": "Tim",
+        "text": "Don't be embarrassed.  Look at it this way: the rest of the year belongs to the rich people, with their fancy houses, [_points to Frasier's BMW_] expensive foreign cars, but Christmas?  Christmas belongs to guys like us.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Right.  Well, I never will forget this Christmas.  Thank you. Thank you all. _Frasier leaves the diner and goes to his car, but turns to see everyone in the diner waving at him.  He waves back, then waits until they turn back and ducks down beneath the sill, to crawl into his car._ ",
+        "prevSpeaker": "Tim",
+        "nextSpeaker": "Waitress"
+    },
+    {
+        "speaker": "Waitress",
+        "text": "[_picking up something from the floor_] Hey.  Somebody lose a set of car keys?  _Frasier crawls out of his car and enters the diner again.  He begins searching the floor for his keys._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Tim"
+    },
+    {
+        "speaker": "Tim",
+        "text": "Hey.  We're not buying you dessert.",
+        "prevSpeaker": "Waitress",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No.  No, you see, I forgot... I forgot, ah... _He pauses for a moment, torn between preserving the moment and getting his car back.  He picks the former._ ",
+        "prevSpeaker": "Tim",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "To wish you a Merry Christmas!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "All"
+    },
+    {
+        "speaker": "All",
+        "text": "Merry Christmas.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Tim"
+    },
+    {
+        "speaker": "Tim",
+        "text": "Hey, bud.  Since you're here, [_gives Frasier a quarter_] go call your old man.",
+        "prevSpeaker": "All",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Thank you.  I think I will.  _He leaves, deciding to walk home.  End of Act Two._ ",
+        "prevSpeaker": "Tim",
+        "nextSpeaker": "Credits"
+    }
+]

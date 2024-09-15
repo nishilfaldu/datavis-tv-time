@@ -1,0 +1,1455 @@
+[
+    {},
+    {
+        "speaker": "Niles",
+        "text": "Hello?  Yes, Buck?  It's Dr. Crane.  I'm calling to see if the cabin is ready for us.  You've got the case of Montrachet? Good, good.  And the Thanksgiving feast will be delivered promptly at three?  Good.  And the woodpile's been thoroughly inspected for spiders?  Excellent!  Thank you. [_He hangs up._] Well, we're ready to rough it in the great Northwest! [_He goes to get a sherry._]",
+        "prevSpeaker": "No Previous Speaker",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "If you don't mind me asking, are you taking along anything to keep your nephew amused?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Yes, his grandfather.  Oh, by the way, what time are Lilith and Frederick flying in tomorrow?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Her broom touches down at eleven.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "All right, now, when you mist the plants, make sure that the water is not too cold.  I know I'm harping on and on about this, but I know you're not used to dealing with delicate flowers.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "I've produced your show for three years, haven't I?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I'll leave you our number at Niles's cabin, in case anything goes wrong.  Oh, yes, and by the way, I frown on overnight guests.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Then you're not doing it right.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "I'll leave you my number in San Francisco, too.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "You're not going to the cabin with them?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No, no, Daphne's decided to spend a traditional Thanksgiving with her transvestite Uncle Jackie.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Come on, Roz, I'll show you around the kitchen.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "So, this uncle of yours, does he dress like a woman all the time?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Oh, certainly not for work.  His congregation would never stand for it.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "What's wrong?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, just a little depressed.  It's my first Thanksgiving without Maris.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh, yeah, I know, son.  It's hard.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Do you remember the year I plopped that big wedge of pumpkin pie in front of her, and we all laughed? [_They all share a chuckle._] Then I put a big scoop of whipped cream on top of it and we laughed some more! [_Another chuckle._] Then her eyes welled up with tears and we all knew it was time to stop.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yeah.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Hello?  Yes, Lilith.  Yes, Lilith.  Yes, Lilith.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Gee, it's like they're still married. _CUT TO: the kitchen. Daphne has grabbed a bottle from the liquor shelf.  Roz has the glasses._",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "If you change the paper towels, he likes the flap facing the front.  If you change the bathroom tissue, the flap faces the back, don't ask me why.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "I don't know how you live with him.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Huh, I don't know how you work with him.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Well, I have learned a trick: when he's really bugging me, I ask if he hasn't lost a little weight.  Before you know it, he's checking his butt out in the glass of the candy machine.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "[_laughing_]  Really?  I tell him he's gained weight.  He skips dinner, sulks in his room, and I have the whole evening to myself. _They laugh and clink glasses.  CUT TO: the living room._",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "OK, you tell Frederick I said \"Bravo!\" [_He hangs up._] Frederick just passed the qualifying exam for the Marbury Academy!",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Huzzah!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "What is that?  Some school?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "\"Some-school?\"  Oh, Dad, please.  The Marbury Academy is the most exclusive private school in all of Boston.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "It's a breeding ground of power and privilege.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Lilith and I have to be interviewed by the headmaster. He's got such a busy schedule, he's agreed to see us on Thanksgiving morning.  Now this, of course, changes our plans.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Wait, you mean I don't get to see my grandson?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Of course you do.  We'll move our whole Thanksiving celebration to Boston.  I'll call the airline.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_Pulling out his cell phone_]  Yes, I better cancel our rustic Thanksgiving. [_into phone_] Hello, Buck?  It's Dr. Crane.  Take the mints off the pillows. _FADE OUT  Scene 2 - Lilith's Kitchen Fade in.  Lilith is working on dinner._",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Lilith"
+    },
+    {
+        "speaker": "Lilith",
+        "text": "Frederick, your father is here. _Freddie runs to the door and goes out, shouting \"Dad!\"  The three men all greet him cheerily.  Martin and Niles come in with the bags. Niles has a bottle of wine._",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Hi, Lilith, how ya doin'?",
+        "prevSpeaker": "Lilith",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Happy Thanksgiving, Lilith.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Lilith"
+    },
+    {
+        "speaker": "Lilith",
+        "text": "Martin, Niles.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Nice neighborhood.  Noticed a whole bunch of kids Freddie's age playing in the street.",
+        "prevSpeaker": "Lilith",
+        "nextSpeaker": "Lilith"
+    },
+    {
+        "speaker": "Lilith",
+        "text": "Yes, he's spent many happy hours at his window observing their play patterns.  Niles, I'm afraid with this interview, I'm running a little behind schedule.  So, I'm enlisting you to help with the turkey.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, well, I've never cooked a turkey before, but the recipe's here, I guess I can fumble my way through.  How far along are you?",
+        "prevSpeaker": "Lilith",
+        "nextSpeaker": "Lilith"
+    },
+    {
+        "speaker": "Lilith",
+        "text": "I'm nearly done defrosting.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_unable to resist_] And the turkey?",
+        "prevSpeaker": "Lilith",
+        "nextSpeaker": "Lilith"
+    },
+    {
+        "speaker": "Lilith",
+        "text": "Might I suggest you stuff it?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "So the rabbit said to the bear, \"No, no, I said 'oedipal,' not 'edible!'\"",
+        "prevSpeaker": "Lilith",
+        "nextSpeaker": "Freddie"
+    },
+    {
+        "speaker": "Freddie",
+        "text": "Good one, Dad.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Hello, Lilith. [_kisses her cheek_]",
+        "prevSpeaker": "Freddie",
+        "nextSpeaker": "Lilith"
+    },
+    {
+        "speaker": "Lilith",
+        "text": "You're late.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, well, happy Thanksgiving to you, too.  Well, there Frederick. [_puts him down_] Now, Mommy and Daddy have to head off to this meeting, then I'm all yours.  Meanwhile, why don't you head off upstairs and show Grandad and Uncle Niles your brand-new computer.",
+        "prevSpeaker": "Lilith",
+        "nextSpeaker": "Freddie"
+    },
+    {
+        "speaker": "Freddie",
+        "text": "OK.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Come on, sport.",
+        "prevSpeaker": "Freddie",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "My God, are you half as nervous as I am?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Lilith"
+    },
+    {
+        "speaker": "Lilith",
+        "text": "And then some.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "We have got to master our nerves.  It is vital that we appear to be well-adjusted, responsible parents.  Lilith, do you still keep the Valium with the contraceptives?",
+        "prevSpeaker": "Lilith",
+        "nextSpeaker": "Lilith"
+    },
+    {
+        "speaker": "Lilith",
+        "text": "Sorry, I needed the last one just to go in and pick up the application.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I'll assume you meant the Valium.",
+        "prevSpeaker": "Lilith",
+        "nextSpeaker": "Lilith"
+    },
+    {
+        "speaker": "Lilith",
+        "text": "Perhaps before the interview, you should sheath that butter-knife sharp wit of yours.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Perhaps we could find the appropriate kitchen tool to ratchet down that butt of yours a notch or two!",
+        "prevSpeaker": "Lilith",
+        "nextSpeaker": "Lilith"
+    },
+    {
+        "speaker": "Lilith",
+        "text": "Frasier, stop.  We should be focusing on our son.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You're right, of course.  We've always had our differences but we've been able to put them aside for the welfare of Frederick.",
+        "prevSpeaker": "Lilith",
+        "nextSpeaker": "Lilith"
+    },
+    {
+        "speaker": "Lilith",
+        "text": "And this may be the most important thing we ever do to ensure his happiness.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Not counting our divorce.",
+        "prevSpeaker": "Lilith",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Hey, Freddie and I are gonna break in this new mitt I bought him.  [_He musses Freddie's hair._]",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Lilith"
+    },
+    {
+        "speaker": "Lilith",
+        "text": "[_smoothing Freddie's hair_] Uh, Frederick doesn't play ball.  He was just about to watch \"Pocahontas\" and write a satirical essay on the historical inaccuracies.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, we're off.",
+        "prevSpeaker": "Lilith",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, no, wait, where do you keep your saffron?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Lilith"
+    },
+    {
+        "speaker": "Lilith",
+        "text": "Third cupboard.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Mm-hmm, and where do you keep your shallots?",
+        "prevSpeaker": "Lilith",
+        "nextSpeaker": "Lilith"
+    },
+    {
+        "speaker": "Lilith",
+        "text": "In the crisper.  By the way, you still have to remove the entrails from the chest cavity.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "In that case, where do you keep your ten-foot pole?",
+        "prevSpeaker": "Lilith",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "All right, now, Freddie.  Mommy and Daddy are going to see you're wearing a Marbury blazer or die trying.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Dad, maybe you should remove the entrails.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "No can do.  Freddie and me are gonna play catch.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Freddie"
+    },
+    {
+        "speaker": "Freddie",
+        "text": "Mother says balls are for the slow children.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Yeah?  Well, Grandpa's in charge now.  You're gonna love baseball, it's easy as riding a bike.",
+        "prevSpeaker": "Freddie",
+        "nextSpeaker": "Freddie"
+    },
+    {
+        "speaker": "Freddie",
+        "text": "Mother says bikes are for the...",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Yeah, I know, I know. **STOP SAYING \"DOCTOR\"** _Scene 3 - Dr. Campbell's House. Fade in.  It is a very fancy sitting room.  The doorbell rings. Dr. Campbell opens the door to reveal Lilith and Frasier._",
+        "prevSpeaker": "Freddie",
+        "nextSpeaker": "Lilith"
+    },
+    {
+        "speaker": "Lilith",
+        "text": "Dr. Campbell.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Campbell"
+    },
+    {
+        "speaker": "Campbell",
+        "text": "Dr. Sternin.",
+        "prevSpeaker": "Lilith",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Dr. Campbell.",
+        "prevSpeaker": "Campbell",
+        "nextSpeaker": "Campbell"
+    },
+    {
+        "speaker": "Campbell",
+        "text": "Dr. Crane.  Please come in.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Lilith"
+    },
+    {
+        "speaker": "Lilith",
+        "text": "You have a lovely home.",
+        "prevSpeaker": "Campbell",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, and thank you so much for seeing us today.",
+        "prevSpeaker": "Lilith",
+        "nextSpeaker": "Campbell"
+    },
+    {
+        "speaker": "Campbell",
+        "text": "You're quite welcome.  Make yourselves comfortable, I'll get us some coffee.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Lilith"
+    },
+    {
+        "speaker": "Lilith",
+        "text": "Thank you.",
+        "prevSpeaker": "Campbell",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I think that went rather well, don't you?",
+        "prevSpeaker": "Lilith",
+        "nextSpeaker": "Lilith"
+    },
+    {
+        "speaker": "Lilith",
+        "text": "So far, so good.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh my God, we have just got to get Frederick into this school.",
+        "prevSpeaker": "Lilith",
+        "nextSpeaker": "Lilith"
+    },
+    {
+        "speaker": "Lilith",
+        "text": "I am so nervous, I feel as though all the color has drained from my face.  How is my makeup? [_They sit._]",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, you could use a pinch.",
+        "prevSpeaker": "Lilith",
+        "nextSpeaker": "Lilith"
+    },
+    {
+        "speaker": "Lilith",
+        "text": "Do I have time?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No, you could use a pinch. [_He pinches her cheeks hard to put some color in them._]",
+        "prevSpeaker": "Lilith",
+        "nextSpeaker": "Lilith"
+    },
+    {
+        "speaker": "Lilith",
+        "text": "Thank you. _Frasier plucks at something on the chair, a long thread comes out in his hand._",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, oh lord.  Oh, dear.",
+        "prevSpeaker": "Lilith",
+        "nextSpeaker": "Lilith"
+    },
+    {
+        "speaker": "Lilith",
+        "text": "What?  What?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, I just reached down to pull a thread off what I thought was my jacket, it seems it attached to this cushion. Oh, look, now this little bird has no beak!",
+        "prevSpeaker": "Lilith",
+        "nextSpeaker": "Lilith"
+    },
+    {
+        "speaker": "Lilith",
+        "text": "Stop doing that!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Give me your nail clippers.",
+        "prevSpeaker": "Lilith",
+        "nextSpeaker": "Lilith"
+    },
+    {
+        "speaker": "Lilith",
+        "text": "I didn't bring them, just bite it off. _Frasier does, getting down on his knees and biting the thread off close to the cushion.  Dr. Campbell comes back with the coffee as Frasier scrambles back to his seat._",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Campbell"
+    },
+    {
+        "speaker": "Campbell",
+        "text": "Does either of you take cream?",
+        "prevSpeaker": "Lilith",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, yes, thank you.",
+        "prevSpeaker": "Campbell",
+        "nextSpeaker": "Campbell"
+    },
+    {
+        "speaker": "Campbell",
+        "text": "[_sitting_] Then let me begin by saying that the child who fills this opening need not worry for the future.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Lilith"
+    },
+    {
+        "speaker": "Lilith",
+        "text": "Opening?  There's only one?",
+        "prevSpeaker": "Campbell",
+        "nextSpeaker": "Campbell"
+    },
+    {
+        "speaker": "Campbell",
+        "text": "Yes.  Well, children of alumni and certain generous benefactors are of course given preference.",
+        "prevSpeaker": "Lilith",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, of course.",
+        "prevSpeaker": "Campbell",
+        "nextSpeaker": "Lilith"
+    },
+    {
+        "speaker": "Lilith",
+        "text": "Of course.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Campbell"
+    },
+    {
+        "speaker": "Campbell",
+        "text": "Now, regarding your Frederick.  His scores are of course excellent and I've no doubt he's being courted by other prestigious schools.",
+        "prevSpeaker": "Lilith",
+        "nextSpeaker": "Lilith"
+    },
+    {
+        "speaker": "Lilith",
+        "text": "Oh, yes.",
+        "prevSpeaker": "Campbell",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, that goes without saying.",
+        "prevSpeaker": "Lilith",
+        "nextSpeaker": "Campbell"
+    },
+    {
+        "speaker": "Campbell",
+        "text": "Still, we like to think we are a cut above.  Our sixth grade talent show just formed a highly successful cast album.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Lilith"
+    },
+    {
+        "speaker": "Lilith",
+        "text": "Frederick has perfect pitch.",
+        "prevSpeaker": "Campbell",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, we often use him to tune the piano.",
+        "prevSpeaker": "Lilith",
+        "nextSpeaker": "Campbell"
+    },
+    {
+        "speaker": "Campbell",
+        "text": "Excuse me. [_answers_] Hello?  Ah, Senator Geiger.  I thought I made it perfectly plain that you'd be notified by mail.  Well, Senator, rules may not mean anything on Capitol Hill, but they still mean something to me.  And that is why young Noah will be seeking his education elsewhere.  Do I SOUND flexible?  Marbury thanks you for your interest.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Lilith"
+    },
+    {
+        "speaker": "Lilith",
+        "text": "Frasier, your coffee.",
+        "prevSpeaker": "Campbell",
+        "nextSpeaker": "Campbell"
+    },
+    {
+        "speaker": "Campbell",
+        "text": "Oh, yes, please be careful.  Those chairs have been in the family for three generations. _FADE TO:  Scene 4 - Lilith's Kitchen Fade in.  Niles is cooking, Martin has an ice pack over Freddie's face._",
+        "prevSpeaker": "Lilith",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "OK, let's take a look. [_There is a huge bruise on one eye._] Oh, it's not so bad.",
+        "prevSpeaker": "Campbell",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "AHH! [_then:_] Ya hardly notice it. [_He takes a drink._]",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Freddie"
+    },
+    {
+        "speaker": "Freddie",
+        "text": "Uh-oh, I lost my MedicAlert bracelet.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well, maybe it fell off when we were playin' catch.",
+        "prevSpeaker": "Freddie",
+        "nextSpeaker": "Freddie"
+    },
+    {
+        "speaker": "Freddie",
+        "text": "I'll go look.  [_He goes outside._]",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "All right.  I still don't know how it happened.  I lobbed it right to him.",
+        "prevSpeaker": "Freddie",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "When are you going to learn, Dad?  The only thing the Crane boys are skilled at catching is sarcastic nuance and the occasional virus. [_He opens the fridge looking for something._] Let's make a pact that while we are guests of Lilith's we'll avoid all activities that could possibly harm Frederick. Where are those pie crusts?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Freddie"
+    },
+    {
+        "speaker": "Freddie",
+        "text": "[_coming in_] Found it. _Just as he gets fully into the kitchen, Niles quickly pulls open the freezer side door.  There is a thump, and when he closes it, Freddie is standing there holding his nose._",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Freddie"
+    },
+    {
+        "speaker": "Freddie",
+        "text": "I taste blood.",
+        "prevSpeaker": "Freddie",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Now you've done it!",
+        "prevSpeaker": "Freddie",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, God, Frederick, I am so sorry. _He gives Freddie his handkerchief and tells him to pinch his nose. There is the sound of a car pulling up._",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "It's them!  Hey, pal, why don't we go find some cotton upstairs for that thing, huh?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Dad, wait, wait, how am I going to explain this to Lilith?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well, I don't know.  How did you give Maris bad news?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Usually by breaking a tranquilizer in her Slim Fast. _Martin and Freddie go off, Niles checks the fridge, then quickly steps to the stove as Frasier and Lilith enter._",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Lilith"
+    },
+    {
+        "speaker": "Lilith",
+        "text": "Did you notice how those patrician eyebrows of his arched when you mentioned Frederick's National Science Award?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes.",
+        "prevSpeaker": "Lilith",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I take it Dr. Campbell was favorably impressed.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Lilith"
+    },
+    {
+        "speaker": "Lilith",
+        "text": "We had an initial bout of nervousness, but after that, we did an absolute bang-up job.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Speaking of bang-up jobs...",
+        "prevSpeaker": "Lilith",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You know, Lilith, there's just one question I wished we'd answered differently.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Lilith"
+    },
+    {
+        "speaker": "Lilith",
+        "text": "Which one?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Remember when he mentioned that Frederick was being courted by other schools?  I wonder if we shouldn't have made it clear that Marbury is far and away our first choice.",
+        "prevSpeaker": "Lilith",
+        "nextSpeaker": "Lilith"
+    },
+    {
+        "speaker": "Lilith",
+        "text": "Frasier, if you over-analyze every detail, you will rob us of the joy of the moment.  It will be our wedding night all over again.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Speaking of hard-to-explain bruises...",
+        "prevSpeaker": "Lilith",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, you know, you're right, you're right, of course.  I'm sure everything's fine.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Lilith"
+    },
+    {
+        "speaker": "Lilith",
+        "text": "Unless we didn't convey to him how highly we regard Marbury.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, you see, that is my worry.",
+        "prevSpeaker": "Lilith",
+        "nextSpeaker": "Lilith"
+    },
+    {
+        "speaker": "Lilith",
+        "text": "We must correct this.  [_She picks up the phone._]  What should I say?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, Lilith, stop, stop.  Remember what happened when the senator called.  We need a ruse.",
+        "prevSpeaker": "Lilith",
+        "nextSpeaker": "Lilith"
+    },
+    {
+        "speaker": "Lilith",
+        "text": "You're right.  How's this?  We go back and I say that I lost my earring in his living room.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "And while we're looking for it, we casually mention that Marbury is Frederick's first and only choice.",
+        "prevSpeaker": "Lilith",
+        "nextSpeaker": "Lilith"
+    },
+    {
+        "speaker": "Lilith",
+        "text": "Perfect.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Let's go.",
+        "prevSpeaker": "Lilith",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Speaking of dumb-ass ideas... _He drinks.  FADE OUT  End of Act 1  Act 2  Scene 1 - Dr. Campbell's house. Fade in.  Frasier and Lilith are outside the door; they ring the bell and Dr. Campbell, in an apron, answers._",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Ah, yes, Dr. Campbell, I hope we're not disturbing anything important.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Campbell"
+    },
+    {
+        "speaker": "Campbell",
+        "text": "Well, actually, I'm a bit frazzled trying to get my Thanksgiving dinner together.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Lilith"
+    },
+    {
+        "speaker": "Lilith",
+        "text": "I'm afraid I lost an earring here this morning.",
+        "prevSpeaker": "Campbell",
+        "nextSpeaker": "Campbell"
+    },
+    {
+        "speaker": "Campbell",
+        "text": "Well, I'll have a look around and call you if it turns up.",
+        "prevSpeaker": "Lilith",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, um...",
+        "prevSpeaker": "Campbell",
+        "nextSpeaker": "Lilith"
+    },
+    {
+        "speaker": "Lilith",
+        "text": "Do you think I might be able to take a peek right now?  I wouldn't even think of asking, but it was a treasured gift from... Golda Meir.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Campbell"
+    },
+    {
+        "speaker": "Campbell",
+        "text": "Very well. [_They come in._]",
+        "prevSpeaker": "Lilith",
+        "nextSpeaker": "Lilith"
+    },
+    {
+        "speaker": "Lilith",
+        "text": "Thank you.",
+        "prevSpeaker": "Campbell",
+        "nextSpeaker": "Campbell"
+    },
+    {
+        "speaker": "Campbell",
+        "text": "Forgive me.  I must turn the heat down on the pumpkin soup. [_He exits to the kitchen._]",
+        "prevSpeaker": "Lilith",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Lilith, we rehearsed everything we were going to say on the ride over.  Where the hell did Golda Meir come from?",
+        "prevSpeaker": "Campbell",
+        "nextSpeaker": "Lilith"
+    },
+    {
+        "speaker": "Lilith",
+        "text": "Well, I admit it wasn't half as clever as \"Umm...\" but it got us in.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Campbell"
+    },
+    {
+        "speaker": "Campbell",
+        "text": "[_from kitchen_] Any luck?",
+        "prevSpeaker": "Lilith",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Not yet.",
+        "prevSpeaker": "Campbell",
+        "nextSpeaker": "Lilith"
+    },
+    {
+        "speaker": "Lilith",
+        "text": "We're so sorry for this.  The whole ride over, we kept saying \"Why did this have to happen at the only school that matters to us?\"",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, as you know, Marbury is our first choice.",
+        "prevSpeaker": "Lilith",
+        "nextSpeaker": "Lilith"
+    },
+    {
+        "speaker": "Lilith",
+        "text": "Oh, look, here it is.  That was lucky.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Campbell"
+    },
+    {
+        "speaker": "Campbell",
+        "text": "Remarkably so, considering that wasn't the chair you were sitting in.",
+        "prevSpeaker": "Lilith",
+        "nextSpeaker": "Lilith"
+    },
+    {
+        "speaker": "Lilith",
+        "text": "Umm...",
+        "prevSpeaker": "Campbell",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, I suppose it's time we be shoving off.",
+        "prevSpeaker": "Lilith",
+        "nextSpeaker": "Campbell"
+    },
+    {
+        "speaker": "Campbell",
+        "text": "I'm curious.  I've always been a great admirer of Mrs. Meir.  How did you meet?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Lilith"
+    },
+    {
+        "speaker": "Lilith",
+        "text": "Oh, well, it's a funny story.  Frasier you tell it much better than I do.",
+        "prevSpeaker": "Campbell",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, yes, yes, yes.  Back in college days, Lilith spent a summer at a kibbutz.  And, uh, was dating her grandson, Oscar.",
+        "prevSpeaker": "Lilith",
+        "nextSpeaker": "Campbell"
+    },
+    {
+        "speaker": "Campbell",
+        "text": "That would be Oscar Meir?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, well just imagine the ribbing he took.",
+        "prevSpeaker": "Campbell",
+        "nextSpeaker": "Campbell"
+    },
+    {
+        "speaker": "Campbell",
+        "text": "[_leading them to the door_]  Indeed.  Well it was so good seeing you both again.  Enjoy you're Thanksgiving. Marbury thanks you for your interest.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Wait, wait a minute.  \"Marbury thanks you for your interest.\"  We know what that means.",
+        "prevSpeaker": "Campbell",
+        "nextSpeaker": "Campbell"
+    },
+    {
+        "speaker": "Campbell",
+        "text": "Oh good, then you'll have no trouble interpreting this. _He slams the door in their faces.  FADE TO:  Scene 2 - Lilith's Kitchen Fade in.  Niles is cooking.  Freddie is in a chair, cotton up his nose as Martin snips at his hair with scissors._",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "You had to give him gum, didn't you?  And not just gum, bubblegum.",
+        "prevSpeaker": "Campbell",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well, maybe what threw him off is having to breathe through his mouth while he chewed it.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "You know, Frederick, when I was a boy, nothing brought a smile to my face like when Mother would make a remoulade and let me lick the spoon.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Freddie"
+    },
+    {
+        "speaker": "Freddie",
+        "text": "Thanks, Uncle Niles.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "You're welcome.",
+        "prevSpeaker": "Freddie",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "You think maybe I should trim his bangs a little bit?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Maybe you should put the scissors down while he still has one good eye.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Freddie"
+    },
+    {
+        "speaker": "Freddie",
+        "text": "Uh-oh.  Is there anchovies in this?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Yes.  Oh my God!  I've never seen hives break out that fast! [_A car pulls up._] They're back!",
+        "prevSpeaker": "Freddie",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Freddie, you got any pills for this?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Freddie"
+    },
+    {
+        "speaker": "Freddie",
+        "text": "I got pills for everything.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Lilith"
+    },
+    {
+        "speaker": "Lilith",
+        "text": "Of all the name in the universe, you had to pick Oscar?",
+        "prevSpeaker": "Freddie",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You started us down that path of insanity.  Golda Meir. Golda My-ass!",
+        "prevSpeaker": "Lilith",
+        "nextSpeaker": "Lilith"
+    },
+    {
+        "speaker": "Lilith",
+        "text": "This sniping is pointless.  Getting into Marbury was a longshot anyway.  You heard the man.  Most of these openings go to children of alumni and generous benefactors.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, yes.  Wait a minute.  Oh, my God we're such fools! Don't you see what the man was trying to tell us?  He was trying to give us the way to get Frederick accepted.",
+        "prevSpeaker": "Lilith",
+        "nextSpeaker": "Lilith"
+    },
+    {
+        "speaker": "Lilith",
+        "text": "Are you saying he was fishing for a donation?  So you think he was just trying to see if we were willing to pay our fair share.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "What else?",
+        "prevSpeaker": "Lilith",
+        "nextSpeaker": "Freddie"
+    },
+    {
+        "speaker": "Freddie",
+        "text": "Hi, Daddy.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "In a minute, Frederick.  My God, it was right there in front of us and we missed it, we didn't even see it.",
+        "prevSpeaker": "Freddie",
+        "nextSpeaker": "Lilith"
+    },
+    {
+        "speaker": "Lilith",
+        "text": "How could we be so blind?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, we should get ourselves back down there and give the man what he wants.",
+        "prevSpeaker": "Lilith",
+        "nextSpeaker": "Lilith"
+    },
+    {
+        "speaker": "Lilith",
+        "text": "Right, we can't let anything stand in the way of our son's welfare.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Freddie"
+    },
+    {
+        "speaker": "Freddie",
+        "text": "Mother...",
+        "prevSpeaker": "Lilith",
+        "nextSpeaker": "Lilith"
+    },
+    {
+        "speaker": "Lilith",
+        "text": "Mother has to run, munchkin.  Go play with Grandpa. _Freddie looks towards the living room with quite a bit of fear.  FADE TO:  Scene 3 - Dr. Campbell's House Fade in.  Campbell comes to the door and opens it._",
+        "prevSpeaker": "Freddie",
+        "nextSpeaker": "Campbell"
+    },
+    {
+        "speaker": "Campbell",
+        "text": "Ah, Dr. Sternin and Dr. Crane.  Forgive me if I don't give you a big hello hug, but as you can see, I'm wearing this greasy apron.  On top of which, I'm beginning to loathe the sight of both of you.",
+        "prevSpeaker": "Lilith",
+        "nextSpeaker": "Lilith"
+    },
+    {
+        "speaker": "Lilith",
+        "text": "All the more reason for us to be brief.",
+        "prevSpeaker": "Campbell",
+        "nextSpeaker": "Campbell"
+    },
+    {
+        "speaker": "Campbell",
+        "text": "Yes, I'm sure you'll be on your way, just as soon as you've found the cufflink given to you by Haile Selassie.",
+        "prevSpeaker": "Lilith",
+        "nextSpeaker": "Lilith"
+    },
+    {
+        "speaker": "Lilith",
+        "text": "No false pretense this time.  We know that with so many qualified applicants and only one position open, that your decision must be very difficult.",
+        "prevSpeaker": "Campbell",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, and so, in the spirit of the holidays, like Indians to your pilgrims' table, we bring this little bit of garnish, as it were, in the hopes that our relationship may flower. [_He gives Campbell an envelope._]",
+        "prevSpeaker": "Lilith",
+        "nextSpeaker": "Campbell"
+    },
+    {
+        "speaker": "Campbell",
+        "text": "I'll have you know that, in twenty-two years, I have never accepted a bribe.  I have to tell you, I find this utterly offensive. [_He looks at the amount of the check._] In every possible way.  And now, if you don't mind, I have guests on the way.  And a turkey so undercooked, a skilled veterinarian could still save him.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "But, Dr. Campbell...",
+        "prevSpeaker": "Campbell",
+        "nextSpeaker": "Campbell"
+    },
+    {
+        "speaker": "Campbell",
+        "text": "Unless the rest of that sentence is \"I have a fully cooked turkey in the breast pocket of that blazer,\" I'm afraid our conversation is at an end. _He closes the door.  Lilith and Frasier look at each other and get the same calculating look, then rush off.  FADE TO:  Scene 4 - Lilith's Kitchen Fade in.  Niles drinking wine, comes in, opens the oven and bastes the turkey.  Behind him, Martin hurries in, gets the icepack out of the freezer and hurries back out.  Niles closes the oven, grabs the bottle of wine, and follows.  Frasier and Lilith rush into the kitchen.  Frasier puts on oven mitts, Lilith opens the oven, he grabs the turkey and leaves, Lilith following with some garnish.  The oven timer goes off.  Niles comes into the kitchen and opens the oven.  Finding the bird gone, he closes it, then checks the top oven to make sure.  Confused, he looks around to see where the turkey might have gone.  FADE TO:_ **BEWARE OF GEEKS BEARING GIFTS** _Scene 5 - Dr. Campbell's Dining Room Fade in.  Dr. Campbell is standing at the head of a table with a family of three on either side._",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Campbell"
+    },
+    {
+        "speaker": "Campbell",
+        "text": "This is indeed a very special holiday for us all.  Pamela, Cynthia, I'm particularly grateful that finally you've been able to set aside your differences and join us in this Thanksgiving... tortellini.",
+        "prevSpeaker": "Campbell",
+        "nextSpeaker": "Pamela"
+    },
+    {
+        "speaker": "Pamela",
+        "text": "Well, as angry as I was that you'd admitted Regan into Marbury instead of our Wesley, it's all worked out for the best.  Wesley is thriving at the Barkley School.",
+        "prevSpeaker": "Campbell",
+        "nextSpeaker": "Campbell"
+    },
+    {
+        "speaker": "Campbell",
+        "text": "I am delighted to hear it.  Oh, I have a dusty bottle of Chateau LeFite waiting in the cellar for an occasion like this.",
+        "prevSpeaker": "Pamela",
+        "nextSpeaker": "Preston"
+    },
+    {
+        "speaker": "Preston",
+        "text": "Well, this is nice.",
+        "prevSpeaker": "Campbell",
+        "nextSpeaker": "Elliot"
+    },
+    {
+        "speaker": "Elliot",
+        "text": "Yes, it is. _The doorbell rings.  They all say, \"I'll get it.\"  Cynthia does the honors._",
+        "prevSpeaker": "Preston",
+        "nextSpeaker": "Cynthia"
+    },
+    {
+        "speaker": "Cynthia",
+        "text": "Hello.",
+        "prevSpeaker": "Elliot",
+        "nextSpeaker": "Lilith"
+    },
+    {
+        "speaker": "Lilith",
+        "text": "Hello, is Dr. Campbell in?",
+        "prevSpeaker": "Cynthia",
+        "nextSpeaker": "Cynthia"
+    },
+    {
+        "speaker": "Cynthia",
+        "text": "Yes, he's just gone to the cellar to get a bottle of wine.",
+        "prevSpeaker": "Lilith",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, we don't mean to intrude, but we heard he was having trouble with his turkey and we thought we should drop this by.",
+        "prevSpeaker": "Cynthia",
+        "nextSpeaker": "Cynthia"
+    },
+    {
+        "speaker": "Cynthia",
+        "text": "Oh, how very generous of you.  Please come in.  Look everyone, these friends of Collin's have brought us a turkey.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, I think \"friends\" is probably stretching it just a tad.",
+        "prevSpeaker": "Cynthia",
+        "nextSpeaker": "Lilith"
+    },
+    {
+        "speaker": "Lilith",
+        "text": "You see, our son was a candidate for Marbury, and in our zeal to see him accepted we may have come on a bit strongly.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, well, I'm sure you'll understand as parents yourselves, it's only natural to wish only the very best for your son.",
+        "prevSpeaker": "Lilith",
+        "nextSpeaker": "Cynthia"
+    },
+    {
+        "speaker": "Cynthia",
+        "text": "Oh, absolutely.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Pamela"
+    },
+    {
+        "speaker": "Pamela",
+        "text": "There are other good schools.  Barkley is excellent.",
+        "prevSpeaker": "Cynthia",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, yes, thank you very much for trying to cheer us up, but I mean, if you're looking for filet mignon, you can hardly swallow ground chuck.",
+        "prevSpeaker": "Pamela",
+        "nextSpeaker": "Cynthia"
+    },
+    {
+        "speaker": "Cynthia",
+        "text": "Now, now, Barkley is a very charming little school.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Pamela"
+    },
+    {
+        "speaker": "Pamela",
+        "text": "\"Little school\"?",
+        "prevSpeaker": "Cynthia",
+        "nextSpeaker": "Cynthia"
+    },
+    {
+        "speaker": "Cynthia",
+        "text": "Now, don't be so sensitive.",
+        "prevSpeaker": "Pamela",
+        "nextSpeaker": "Pamela"
+    },
+    {
+        "speaker": "Pamela",
+        "text": "Damn your condescension.",
+        "prevSpeaker": "Cynthia",
+        "nextSpeaker": "Cynthia"
+    },
+    {
+        "speaker": "Cynthia",
+        "text": "Damn your jealousy.",
+        "prevSpeaker": "Pamela",
+        "nextSpeaker": "Elliot"
+    },
+    {
+        "speaker": "Elliot",
+        "text": "Don't you talk to my wife that way!",
+        "prevSpeaker": "Cynthia",
+        "nextSpeaker": "Preston"
+    },
+    {
+        "speaker": "Preston",
+        "text": "Oh, shut up, Elliot!",
+        "prevSpeaker": "Elliot",
+        "nextSpeaker": "Campbell"
+    },
+    {
+        "speaker": "Campbell",
+        "text": "Quiet!",
+        "prevSpeaker": "Preston",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "We brought a turkey.",
+        "prevSpeaker": "Campbell",
+        "nextSpeaker": "Campbell"
+    },
+    {
+        "speaker": "Campbell",
+        "text": "I don't know how this started, I can only be sure it started with the two of you.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Lilith"
+    },
+    {
+        "speaker": "Lilith",
+        "text": "Actually...",
+        "prevSpeaker": "Campbell",
+        "nextSpeaker": "Campbell"
+    },
+    {
+        "speaker": "Campbell",
+        "text": "I will die a happy man if I never set eyes on either of you again. [_They look heartbroken._] Unfortunately, there is only one way I can think of to ensure that: your son Frederick is hereby admitted to the Marbury School.",
+        "prevSpeaker": "Lilith",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_They are both ecstatic._] Oh!",
+        "prevSpeaker": "Campbell",
+        "nextSpeaker": "Campbell"
+    },
+    {
+        "speaker": "Campbell",
+        "text": "[_holds up a hand_] However! - he will immediately be expelled if either of you violates any of the following conditions: you will not bring him to school, you will not collect him; you will not attend any recitals, plays, sporting events, or school functions, up to and including \"Frederick Crane Day,\" should we ever have one. [_He leads them to the door._] And when graduation comes, you will dispatch an appropriate envoy with a video camera.  And now it is with great pleasure that I bid you goodbye - forever!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Allow me. _He slams the door on himself and Lilith.  Cut to the porch as Lilith and Frasier look at each other smugly._",
+        "prevSpeaker": "Campbell",
+        "nextSpeaker": "Both"
+    },
+    {
+        "speaker": "Both",
+        "text": "We're in! _FADE OUT  End of Act 2_",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Credits"
+    }
+]

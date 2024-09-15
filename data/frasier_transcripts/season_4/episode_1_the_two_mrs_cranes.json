@@ -1,0 +1,1611 @@
+[
+    {},
+    {
+        "speaker": "Frasier",
+        "text": "Niles, what are you doing?",
+        "prevSpeaker": "No Previous Speaker",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "This fruit-nut muffin contains a number of things I don't care for.  Currants, a husk of something... [_flicks something off_] Away, wrinkly thing.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You know, if you and Maris ever reconcile, I'm gonna miss these tranquil mornings - I reading my newspaper, you tweezing your muffin!  ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Hey, boys.  I got a letter from one of my old army pals, Bud Farrell.  The whole platoon's getting together next weekend on Rattlesnake Ridge.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, good for you.  Speaking of old chums, Daphne, a Clive called for you a little earlier.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "[_worried_] Clive?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Mmm-hmm.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Did he sound British?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No, he was one of those fiery Mexican Clives!  He said he'd call back.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "I bet he will!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh, boy! [_sitting down:_] I can't wait to see the old gang!",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh Dad, you're not thinking of driving all the way to Rattlesnake Ridge?  It's five hours away, you know how your hip stiffens up.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "No problem, they said I can bring a guest!  So, who's the lucky one?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, by my count, two of us get to be lucky!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Come on, they're great guys - Stinky, Wolfman, Boom-Boom, Jim.  Of course his name's not really Jim, we call him that because he likes to drink Jim Beam.  Just like we call Hank \"Bud,\" because he drinks Budweiser.  Come on, you'd love these guys!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "We're sherry drinkers, Dad.  Think about it!  Anyway, I have a conference that weekend.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "And I have my friend Megan's birthday party.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Fras?  ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, please let that be Megan needing a clown for her party!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "[_answering phone:_] Hello?  Oh, Clive!  Yes, it has been a long time, hasn't it?  Oh, I am sorry, I have dinner plans tonight.  Well, maybe just a drink then.  Say, 6:30?  Me too. Bye. [_phone down:_] Oh, hell!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "So who is this Clive?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "An ex-boyfriend?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Worse!  Ex-fiance.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "You were engaged?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "For years!  We were mad for each other.  He was very sweet and had the most gorgeous eyes you ever saw!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "But-?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Oh yes, that too!  I just couldn't see a future with him. I mean, the man was a total layabout.  No ambition, no drive! He couldn't hold a job.  All he wanted to do was tinker about with his car.  His fingers were always black from the motor oil.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "What a brutish habit!  If God intended for me to work on my Mercedes, he wouldn't have given me Horst.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "I had to break it off!  But I had to bring him down easily, so I said if we were still free in five years, we could try again!  And here he is, right on schedule! [_Niles re-enters:_] Well, what do I say to him?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, be honest, tell him what you feel.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "And break the poor thing's heart all over again!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No, it's the best way to avoid unnecessary anguish.  Case in point: Dad, I do not have plans for next weekend, but I don't intend to spend it with Budweiser and Boilermaker and their liver-damaged friend, Seltzer!",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well, that's fine.  There'll be other reunions.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_to Daphne:_] See?  No evasions, no inconvenient conferences, just simple honesty!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "But I don't suppose Jim'll make it next time.  Says here he just had his third bypass.  But I'll see him this June.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_getting up_] Off to work!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Unless I go first!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "All right, I'll drive you to your stupid reunion!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Thanks, son.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "I guess I'll leave it a couple of days before telling him about Stinky needing a ride. **NEXT IN THE REPERTORY, \"COSI FAN TUSHY\"**  _Scene Two - KACL Frasier is doing his slot.  He is in the middle of his conclusion for the day._ ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "And in closing, this goes out to Keith, the narcoleptic I spoke to a bit earlier.  I'd be glad to resume when you feel a bit more alert, but in the meantime I suggest you reconsider applying for that air traffic control position.  This is Dr. Frasier Crane, KACL, 780 AM.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Gil"
+    },
+    {
+        "speaker": "Gil",
+        "text": "Brilliant show, Frasier.  Chock full of pithy insight.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "What do you want?",
+        "prevSpeaker": "Gil",
+        "nextSpeaker": "Gil"
+    },
+    {
+        "speaker": "Gil",
+        "text": "A favour.  Bonnie Weems, the Auto Lady, just asked me to another one of her wretched dinner parties.  Well, I was planning on saying that you and I have ballet tickets, so do back me up.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, I'm sorry, I can't!",
+        "prevSpeaker": "Gil",
+        "nextSpeaker": "Gil"
+    },
+    {
+        "speaker": "Gil",
+        "text": "But you've got to.  Have you any idea how vile her food is? The local raccoons have posted warning signs on her trash bin!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, you see, she already invited me, and I told her I promised my father I'd drive him to his army reunion at Rattlesnake Ridge.",
+        "prevSpeaker": "Gil",
+        "nextSpeaker": "Gil"
+    },
+    {
+        "speaker": "Gil",
+        "text": "Oh, very clever.  Well, I'd use it myself, but I killed my father off to escape her Labour Day clambake.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Er, Roz, listen, I'm going to the opera tonight.  You didn't happen to remember to bring my...",
+        "prevSpeaker": "Gil",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Oh, your opera glasses!  I'm so sorry, they completely slipped my mind.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I wouldn't really mind, if you hadn't borrowed them to ogle that bodybuilder that moved in across the street.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Hey, just once or twice.  It's not like I copied his name off his mailbox, so I could look up his number and call him while he was in the shower, so I could watch him cross the room naked to answer the phone in front of the picture window.  That would be wrong.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Look, I want them back.  I refuse to squint through _Pagliacci_ while you're trying to watch _The Magic Flute!_  _He leaves.  FADE TO:  Scene Three - Apartment Later, Frasier is playing the piano in his apartment._ ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "[_o.s._] Dr. Crane, I need your opinion on this outfit. I wanted something that said \"no romantic signals whatsoever.\" _Daphne enters wearing a long woolly cardigan, which covers up everything._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, short of a cactus corsage, I think you've captured it. You know, Daphne, it's been five years.  It's an awfully long time to carry a torch.  Maybe he just wants to say hello.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Oh, I certainly hope so.  The thought of having to reject the poor thing again is more than I can bear.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Oh dear, it's him.  Anything between my teeth?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Is there any spinach in the fridge?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Just answer the door!  ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Oh, Dr. Crane, I was afraid you were Clive!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_acting:_] Oh, Clive?  Clive? [_he \"realises\":_] Oh, Clive. Is that tonight?  Oh, well don't I feel silly bringing over this 1000-piece jigsaw puzzle.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I'm sure Daphne doesn't want us horning in on her reunion. We're going to dinner!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well, can't we order in?  I've already assembled one kitten and two yarn balls!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_takes the jigsaw away_] I'm getting my jacket! ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Niles, for God's sake, will you give them some privacy? _He exits to the hall, while Niles exits to the kitchen.  Daphne opens the door to Clive - a handsome, athletic, boyishly naive Cockney._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Clive"
+    },
+    {
+        "speaker": "Clive",
+        "text": "Hello.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Hello.",
+        "prevSpeaker": "Clive",
+        "nextSpeaker": "Clive"
+    },
+    {
+        "speaker": "Clive",
+        "text": "Look at you, you look wonderful.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Oh!  Go on.",
+        "prevSpeaker": "Clive",
+        "nextSpeaker": "Clive"
+    },
+    {
+        "speaker": "Clive",
+        "text": "I mean it.  Very pretty and warm.  So...",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "So...  ",
+        "prevSpeaker": "Clive",
+        "nextSpeaker": "Clive"
+    },
+    {
+        "speaker": "Clive",
+        "text": "Oh my God!  I've got a spot of axle grease on your sweater.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Oh, it's all right, really.  It's just a ratty old thing. Please, come in. [_he does_] Same old Clive, I see.",
+        "prevSpeaker": "Clive",
+        "nextSpeaker": "Clive"
+    },
+    {
+        "speaker": "Clive",
+        "text": "I suppose so.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "So, what brings you to Seattle?",
+        "prevSpeaker": "Clive",
+        "nextSpeaker": "Clive"
+    },
+    {
+        "speaker": "Clive",
+        "text": "[_turns around_] My undying love for you.  Oh, damn! I meant to lead up to that, sorry.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "No, it's all right.  Just a bit...",
+        "prevSpeaker": "Clive",
+        "nextSpeaker": "Clive"
+    },
+    {
+        "speaker": "Clive",
+        "text": "Abrupt.  No \"how are you, nice place you have here\" - by the way, it is lovely.  Is that the, uh, Space Needle? [_goes to the window_]",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Clive...",
+        "prevSpeaker": "Clive",
+        "nextSpeaker": "Clive"
+    },
+    {
+        "speaker": "Clive",
+        "text": "Super.  Anyway, I remember what you told me five years ago. I thought my feelings might change, five years is a long time. But...",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Clive...",
+        "prevSpeaker": "Clive",
+        "nextSpeaker": "Clive"
+    },
+    {
+        "speaker": "Clive",
+        "text": "Let me finish!  My feelings for you haven't changed.  I think about you every day, every night, and there comes a time in a man's life when he's got to sum up the courage to look at a woman straight in the eye and say...",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_entering with a bowl:_] Cheese Nips?  I'm sorry, is this a bad moment?",
+        "prevSpeaker": "Clive",
+        "nextSpeaker": "Clive"
+    },
+    {
+        "speaker": "Clive",
+        "text": "Well, actually...",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "No, no, not at all.  This is my very dear old friend, Clive Roddy.  Clive, I'd like you to meet Dr. Niles Crane... my husband.  ",
+        "prevSpeaker": "Clive",
+        "nextSpeaker": "Clive"
+    },
+    {
+        "speaker": "Clive",
+        "text": "Your husband?!",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "[_putting her arm through Niles's_] Yes, six months next week.",
+        "prevSpeaker": "Clive",
+        "nextSpeaker": "Clive"
+    },
+    {
+        "speaker": "Clive",
+        "text": "Well, don't I feel a bit... [_to Niles_] Congratulations, you're a very lucky man.  _Niles gives a giddy little laugh.  END OF ACT ONE (Time: 9:24)  ACT TWO_  **A SWELL OF COUPLES**  _Scene Four - Apartment The situation resumes._ ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Clive"
+    },
+    {
+        "speaker": "Clive",
+        "text": "Six months?  Well, you two are practically newlyweds.",
+        "prevSpeaker": "Clive",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Yes, we're still at that honeymoon stage.  It's sickening, really. [_kisses Niles_]",
+        "prevSpeaker": "Clive",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Revolting! [_kisses her back_] Positively stomach turning! [_He tries to kiss again but she pulls away_]",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Clive"
+    },
+    {
+        "speaker": "Clive",
+        "text": "I should be going.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "No!  I mean, we are so enjoying having you here.",
+        "prevSpeaker": "Clive",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "I did promise you a drink.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Clive"
+    },
+    {
+        "speaker": "Clive",
+        "text": "Oh.  Well, I suppose I could stay for a bit.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Oh! [_to Niles:_] Darling, would you give me a hand in the kitchen, please?",
+        "prevSpeaker": "Clive",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Certainly, my angel.  ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Dr. Crane, I'm so sorry.  It seemed the kindest way to let him down.  I didn't mean to put you in an awkward position. [_opens fridge and bends over to get something from the bottom shelf_]",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "When it comes to you, no position is... [_turns round, coming face to face with her backside_] too awkward.  ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh hello, you must be Clive.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Clive"
+    },
+    {
+        "speaker": "Clive",
+        "text": "Yeah, and you are?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Dr. Frasier Crane. [_shakes hands_]",
+        "prevSpeaker": "Clive",
+        "nextSpeaker": "Clive"
+    },
+    {
+        "speaker": "Clive",
+        "text": "Oh, Niles's brother.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes.  You met Niles?",
+        "prevSpeaker": "Clive",
+        "nextSpeaker": "Clive"
+    },
+    {
+        "speaker": "Clive",
+        "text": "Just now.  Though I used to know his wife quite well.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Really, you know his wife?",
+        "prevSpeaker": "Clive",
+        "nextSpeaker": "Clive"
+    },
+    {
+        "speaker": "Clive",
+        "text": "She's one of a kind, that one.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Isn't she? [_laughs with him_]",
+        "prevSpeaker": "Clive",
+        "nextSpeaker": "Clive"
+    },
+    {
+        "speaker": "Clive",
+        "text": "Certainly can light up a room.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh yes, usually by leaving it! _He laughs, but Clive looks confused and offended at this.  Niles and Daphne enter the living room, shocked by the disaster that's unraveling._ ",
+        "prevSpeaker": "Clive",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Frasier!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Clive!  I see you've met my husband's brother.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Clive"
+    },
+    {
+        "speaker": "Clive",
+        "text": "Yes.  I'm not intruding on some family occasion, am I?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "[_now in Niles's arms again_] Oh, no!  Frasier lives here. I mean, temporarily.  He's\ufffd",
+        "prevSpeaker": "Clive",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Had a spat with his wife... Maris.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Clive"
+    },
+    {
+        "speaker": "Clive",
+        "text": "Sorry to hear that.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, me too.  You know, Daphne, I'm parched, could you show me again where we keep the wine?",
+        "prevSpeaker": "Clive",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Of course.  Could you spare me a minute? [_begins to leave_]",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, oh, oh, oh! [_stops her_] Wait, you have to pay the love toll. [_she kisses him_] Too much, here's the change. [_kisses her back_] ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_to Clive, giddy_] Can you stay for dinner?  ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I told you to be honest!  But would you listen?  No! Now instead you subject us to this ridiculous charade.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Play along, please.  I swear, one drink and he's out the door.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_entering:_] He's staying for dinner.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "What?!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Well, how did that happen?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "He just sort of invited himself.  Pretty damn cheeky if you ask me. [_Frasier gives him a look of disbelief_]",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Oh, dear God!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Obviously he still has hopes of winning you back.  We must keep these signs of affection as realistic as possible.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_interrupting:_] Psst!  ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Oh, what will I serve?  Do we still have that lasagna?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Daphne, you don't expect me to endure an entire evening of this nonsense!",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "[_searching the fridge_] Just do this for me.  And anything you want, name it.  Anything, it's yours.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "_Any_ thing?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "[_realizing, turns around_] Except Rattlesnake Ridge!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_shrugs and calls_] Oh, Clive!",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Clive"
+    },
+    {
+        "speaker": "Clive",
+        "text": "[_o.s._] Yes?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "[_whispering_] All right, I'll take him!",
+        "prevSpeaker": "Clive",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Lasagna all right for dinner?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Clive"
+    },
+    {
+        "speaker": "Clive",
+        "text": "Super.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "I'm warning you, one thing goes wrong and the whole deal's off.",
+        "prevSpeaker": "Clive",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Nothing can go wrong.  We just have to stick to our stories and avoid any complications.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_o.s._] Oh, I see we've got company!  _Frasier and Daphne look at each other, horrified.  They rush out to greet him._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Dad!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Dad!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Dad!  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Clive, I'd like you to meet my new husband's father.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_takes him coat:_] Or, as we sometimes say in this country, Father-in-law.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Clive"
+    },
+    {
+        "speaker": "Clive",
+        "text": "I'm Clive Roddy. [_shakes him hand._]",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Yeah, Marty Crane.  Somebody tell me...",
+        "prevSpeaker": "Clive",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_interrupting:_] Oh Daphne, we've been so remiss.  We haven't given Clive the tour.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Oh yes, quite right!  This is the living room.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "No, I think he'll be more interested in the master bathroom. [_covering up:_] The shower being so large and Manchester being so rainy.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Right this way. [_she leads him off to the bathroom._]",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, you forgot to pay the toll.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Niles!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Never mind.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_to Martin_] Now go away!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "What the hell for?  What's going on here?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Clive is Daphne's old boyfriend; she's trying to let him down easily, by pretending to be married to Niles.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "So this is _my_ place.  Frasier is staying here temporarily, because he's separated from Maris.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_to Frasier_] You couldn't stand her either, huh?  ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "That's very amusing.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Do I still live here?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, of course you do, but I think for this evening it would be best if you just excused yourself.  You see, it involves quick thinking and improvisational skills, and a knack for remembering details.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh, I never used any of those skills as an undercover cop.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Please don't be offended-",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_sits down_] No, I'm not offended, my two sons have just said I've got oatmeal for brains.  ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Clive"
+    },
+    {
+        "speaker": "Clive",
+        "text": "So, Daphne tells me that you two are both psychiatrists.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes.",
+        "prevSpeaker": "Clive",
+        "nextSpeaker": "Clive"
+    },
+    {
+        "speaker": "Clive",
+        "text": "Fascinating.  Are you a psychiatrist as well, Marty?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Me?  No, I'm retired.",
+        "prevSpeaker": "Clive",
+        "nextSpeaker": "Clive"
+    },
+    {
+        "speaker": "Clive",
+        "text": "What did you do?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_looking evily at the Crane boys_] I was an astronaut. _This causes Niles and Daphne to nearly faint onto the couch. Frasier turns round in sudden disbelief._ ",
+        "prevSpeaker": "Clive",
+        "nextSpeaker": "Clive"
+    },
+    {
+        "speaker": "Clive",
+        "text": "Really!  And you actually flew space missions?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Yeah, a couple.  Me and Neil Armstrong, Buzz Aldrin - you know, it was me that gave him his nickname \"Buzz,\"  You know, most people think it's 'cause he flew fast.  Not true!  He was scared of bees.  _The doorbell rings.  This has to be the most hilarious part of the episode.  There is no dialogue, just a silence of disbelief.  We just know who it's going to be._ ",
+        "prevSpeaker": "Clive",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Wh-Who is it?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "[_o.s._] Open up, Frasier, it's me.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "What do you know, it's Maris!  _Niles and Daphne turn on Martin with faces of mixed fury and panic. He just smiles at them.  Frasier slowly opens the door._ ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "[_with opera glasses in hand:_] Here are your stupid opera glasses.  Are we friends again?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Darling!  _He throws his arms around Roz and and kisses her cheek. She looks bewildered._ ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_whispering in her ear_] You're Maris!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "What?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_whispering in her other ear_] We're married!",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "What?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Just play along!",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Clive"
+    },
+    {
+        "speaker": "Clive",
+        "text": "Well, their little tiff's over.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Maris Crane, this is Mr. Clive Roddy.",
+        "prevSpeaker": "Clive",
+        "nextSpeaker": "Clive"
+    },
+    {
+        "speaker": "Clive",
+        "text": "It's a pleasure!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "[_overcome by Clive; saucily:_] It certainly is.  So, how long will you be in Seattle?",
+        "prevSpeaker": "Clive",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Uh, Cupcake? [_taking her away_] Well, if you'll excuse me, we could do with a moment alone.  Come with me, darling.  ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "So, now you've met the whole Crane clan!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Clive"
+    },
+    {
+        "speaker": "Clive",
+        "text": "Although, Daphne, I noticed in the phone book your surname still is Moon.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "That must be an old book.  Now she hyphenates; it's Moon- Crane.",
+        "prevSpeaker": "Clive",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "I remember the first time I ever drove a moon crane. I nearly rolled it into the Sea of Tranquillity.  _Niles and Daphne sit down on the couch next to Clive.  Niles places his hand on her knee._ ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "So Clive, what do you do?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Still mucking about with cars, I see. [_points to some axle grease on his hand_]",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Clive"
+    },
+    {
+        "speaker": "Clive",
+        "text": "Oh, my hands?  No, I helped a man change his tires on the way over here.  Don't have enough time as I used to, what with my business and all.  ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Your business?",
+        "prevSpeaker": "Clive",
+        "nextSpeaker": "Clive"
+    },
+    {
+        "speaker": "Clive",
+        "text": "Well, after you left I remembered the advice you gave me, and it all made sense.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "What advice?",
+        "prevSpeaker": "Clive",
+        "nextSpeaker": "Clive"
+    },
+    {
+        "speaker": "Clive",
+        "text": "Well, you know, \"get a job you lazy git,\" that sort of thing. So I took a few business courses and opened up a little sporting goods shop.  Next thing you know I had three of them.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "[_to Niles:_] Well, isn't this ironic! [_removes Niles's hand_] All these years I've nagged him to make something of himself. [_forcefully, \"Stop the Act!!!\"_] And now look at him, a captain of industry, and still as handsome as ever.",
+        "prevSpeaker": "Clive",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Yes, well, send in the clowns!  ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Don't bother, they're here.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, bad news, it seems my Maris has to run off, she's got a previous engagement.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh, forget about your engagement, Maris.  Stay for dinner!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, actually...",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "[_broad smile:_] I'd love to.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Clive"
+    },
+    {
+        "speaker": "Clive",
+        "text": "Lovely, we can celebrate you two being reconciled.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "That is still tentative, it could go either way.  _Daphne looks appalled at Roz, as if to say \"leave off!\" Eddie runs in and jumps onto a chair._ ",
+        "prevSpeaker": "Clive",
+        "nextSpeaker": "Clive"
+    },
+    {
+        "speaker": "Clive",
+        "text": "Hello there, what's his name?  _Daphne, Niles, Frasier, Roz and Martin look at each other blankly for a moment._ ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "All"
+    },
+    {
+        "speaker": "All",
+        "text": "EDDIE! _FADE TO:  Scene Five - Apartment We resume after dinner.  Martin is telling one of his wonderful space stories from his bank of fairy tales._ ",
+        "prevSpeaker": "Clive",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "So there I was, floating 20 feet up in the chamber, when some idiot turns off the weightless button and down I come on this big pickaxe we used for moon rocks! _Frasier, Niles and Daphne all despair at how thick he's laying it on, but Clive is completely taken in._ ",
+        "prevSpeaker": "All",
+        "nextSpeaker": "Clive"
+    },
+    {
+        "speaker": "Clive",
+        "text": "And you still walk with a cane.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Que Sera Sera.  I better turn in, boys.",
+        "prevSpeaker": "Clive",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Don't forget your warm glass of Tang.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Clive"
+    },
+    {
+        "speaker": "Clive",
+        "text": "It was an honour meeting you, Commander.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Yeah, I had fun too.  Goodnight, all!",
+        "prevSpeaker": "Clive",
+        "nextSpeaker": "All"
+    },
+    {
+        "speaker": "All",
+        "text": "Goodnight.  ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Clive"
+    },
+    {
+        "speaker": "Clive",
+        "text": "Delicious meal, Daphne. [_Frasier and Niles go to the kitchen_] Can't remember the last time I ate so much.",
+        "prevSpeaker": "All",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Well, that explains your fantastic physique.",
+        "prevSpeaker": "Clive",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Yes, you are looking wonderfully firm. [_feels his six-pack_] Yes, and that little tummy.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Do you work out?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Clive"
+    },
+    {
+        "speaker": "Clive",
+        "text": "When I can.  Actually, my shops keep me pretty busy.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_enters taking plates:_] Daphne and I have our own little excercise regimen.  We work up quite a sweat, don't we, darling? [_leaves_]",
+        "prevSpeaker": "Clive",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "I can't get over it, it's like you're a whole different person. [_aimed in Niles's direction:_] A WHOLE DIFFERENT PERSON!!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_peering out of kitchen with coffee jug:_] Well, who's for coffee?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "I'll give you a hand.  _Daphne enters the kitchen in her fleet of madness.  Frasier turns round ready for a tough journey._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Would you please tell Roz to stop flirting!  Has she forgotten she is a married woman?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, you're one to talk.  If you batted your eyelashes any harder, you'd blow out the candles!",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "You get rid of her now, or it's Rattlesnake Ridge for you.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You wouldn't!",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Oh, wouldn't I?  And by the way, Stinky needs a ride. [_Frasier gasps_]  _Daphne and Frasier go back into the dining area. Roz is reading Clive's palm, until Frasier intervenes._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "And according to your love lines, what a naughty little...",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Maris, I don't know about you, but I'm exhausted!",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "See you at home.  More wine, please.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Oh, are you sure that's wise, dear?  Remember that blackout you had last month? [_laughs_] What am I saying?  Of course you don't.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "That's what I love about her, her sense of humour.  Cookie, darling?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "No thank you, [_to Roz's face:_] some of us do look after our weight!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Now, now, Daphne.  You have to keep your strength up.  You are eating for two.  ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Clive"
+    },
+    {
+        "speaker": "Clive",
+        "text": "You're having a baby?!  When you were planning on springing that news?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "We don't like to bring that up.  It's a sore point around here, what with my sister-in-law being barren and all.",
+        "prevSpeaker": "Clive",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Now, now, it's not her fault.  You see, my brother is impotent.  ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Clive"
+    },
+    {
+        "speaker": "Clive",
+        "text": "...Congratulations.  Is there a loo I could, er...",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Yes, yes, right there by the front door.  We call it \"Frasier's Bathroom,\" that is why we've monogrammed all the towels with his initials.  ",
+        "prevSpeaker": "Clive",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Have you all taken leave of your senses?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Well, she started it, hanging all over him.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "What is your problem?  Frasier says the only reason we're doing this is because you wanted to give him the brush-off.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Well, I changed my mind!  Didn't you see my signals?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Gee, I missed them, it must have been in the middle of one of my BLACKOUTS!",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Wait, wait, wait, there's no need to fight, I'll flip a coin. [_does, quickly_] Oh, good news, Roz!",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Hooray!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "[_to Niles_] Oh, sod off! _Unnoticed by anyone, Clive exits the powder room and hears the following:_",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "You'd think with all your dozens and dozens of men, you could at least leave one for me.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Dozens? [_to Frasier:_] Did you tell her that?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, forgive me for keeping track!",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Why are you fighting over that man anyway?  He's got all the charm of a cricket bat!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "You're right.  You know what, Daphne?  You can have him. You can have him, he's yours!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Oh, fat chance I've got, now that you've told him I'm pregnant!  How am I supposed to get rid of this bloody baby?!  ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Hi, coffee?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Clive"
+    },
+    {
+        "speaker": "Clive",
+        "text": "No, thank you.  I really should be going.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "No, no, please, I know what you must think, but we're not what we seem.",
+        "prevSpeaker": "Clive",
+        "nextSpeaker": "Clive"
+    },
+    {
+        "speaker": "Clive",
+        "text": "You certainly aren't.  Look, I know I'm a guest here, so I've kept silent so far.  But I'm sorry, I must speak: you're the most appalling family I've ever met. [_to Frasier:_] You breaking up with your wife over a pair of opera glasses. [_to Niles:_] And you looking down your nose at me the entire time you were showing off your \"posh flat.\"  Well, to be honest, mate, I don't think there's anything remotely special about your bathrooms. [_Frasier is offended; to the girls:_] And you two women, flirting shamelessly with me right in front of your husbands. [_to Roz:_] You having just reconciled with Frasier, [_to Daphne:_] and you carrying Niles's baby. Well, I pity your child, Daphne.  And I pity any good Manchester girl that comes here to this vile coffee- swilling Sodom and lets it change her like it's changed you.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "But I haven't changed!  Really, we're not the awful people you think we are.",
+        "prevSpeaker": "Clive",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No, the truth is we've been lying to you all night!",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Yes!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Clive"
+    },
+    {
+        "speaker": "Clive",
+        "text": "Well, I don't care to be lied to anymore.  Goodbye, Daphne, Maris, Dr. Crane, Dr. Crane.  I'll never understand how two men like you could be spawned from that sweet, courageous old astronaut.  _He leaves.  END OF ACT TWO (Time: 21:11)_",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Credits"
+    }
+]

@@ -1,0 +1,1431 @@
+[
+    {},
+    {
+        "speaker": "Frasier",
+        "text": "Tricia...I am so very sorry.  Have you been waiting long?",
+        "prevSpeaker": "No Previous Speaker",
+        "nextSpeaker": "Tricia"
+    },
+    {
+        "speaker": "Tricia",
+        "text": "Well, let's see:  we were supposed to meet at noon and it's now quarter to one.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, I do apologize, it's just that the most extraordinary thing happened.",
+        "prevSpeaker": "Tricia",
+        "nextSpeaker": "Tricia"
+    },
+    {
+        "speaker": "Tricia",
+        "text": "Well, at least I'll get a colorful anecdote out of this. What was it?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "My watch stopped.",
+        "prevSpeaker": "Tricia",
+        "nextSpeaker": "Tricia"
+    },
+    {
+        "speaker": "Tricia",
+        "text": "[_rising_] I gotta go.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No, no, no, no.  That really is extraordinary.  You see, it's a very fine Swiss timepiece, it only loses a minute per decade.",
+        "prevSpeaker": "Tricia",
+        "nextSpeaker": "Tricia"
+    },
+    {
+        "speaker": "Tricia",
+        "text": "And you've had it for what?  Four hundred and fifty years? I'm sorry Frasier, I have an appointment at one.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No, no, no, please, please, let me have another chance. I so enjoyed meeting you last night, I'd love to get to know you better.",
+        "prevSpeaker": "Tricia",
+        "nextSpeaker": "Tricia"
+    },
+    {
+        "speaker": "Tricia",
+        "text": "Well, I suppose even Swiss watches sometimes stop.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You'd be amazed how much fondue gets overcooked that way. [_They laugh._] Listen, how about lunch tomorrow?  I know the maitre d' over at the Le Petite Bistro, he'll give us the best table in the house.  Please?",
+        "prevSpeaker": "Tricia",
+        "nextSpeaker": "Tricia"
+    },
+    {
+        "speaker": "Tricia",
+        "text": "Well, OK.  I'll meet you there at one.  That's when the little hand is on the one...",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, yes, I know,  I know. [_as she leaves_] See you then. ",
+        "prevSpeaker": "Tricia",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Frasier.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, Niles.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Thank god you have room.  I just spent ten stupefying minutes sharing a table with a taxidermist.  I swear, he doesn't have to stuff his trophies, he can just bore them stiff.  Who was that woman?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Actually, a young woman I met during intermission at the opera last night.  I swear, Niles, it was remarkable. Our hands touched, there was a spark.  After ten minutes of conversation, I knew I had to know this young woman better.  Ever experience that sort of thing?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Actually, yes, I do know a thing or two about the spark of attraction.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_to waiter_] Oh, excuse me, may I have non-fat cappuccino, please?  Well, what am I to deduce, that you've recently gotten lucky?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Yes!  And here's the kicker: she lives in your building. Five floors down, Allison Landis.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, you little sneak.  I don't even know the woman. How did you two meet?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well, we were just chatting on the elevator.  I walked her to her car, where it turned out she'd locked her keys inside.  My resourcefulness saved the day...",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "What'd you do, fish them out with a coat hanger?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "No, I called the auto club.  Where would I find a coat hanger?  Anyway, she invited me to join her for lunch, we hit it off.  The next night, I took her to dinner, one thing led to another, and soon, there was no need for words.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Except for your frantically babbled \"Thank you's.\"",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, well.  I'm seeing her again tonight, so you'll understand if I'm a little bit drained during our squash game.  My lovemaking can get slightly athletic.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Which is more than can be said for your squash game.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "It's funny - I've been away from the seduction scene so long I was worried I had started to lose my technique? Were those fears ever groundless.  You know, it's like French, you can go without speaking it for years, then just a few hours on the old _boulevarde d'amour_ and you, ah... [_Frasier rises._] Where are you going?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "To sit with the taxidermist.  _FADE OUT  Scene 2 - Frasier's Apartment Fade in.  Frasier and Niles come in, wearing athletic clothes._ ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I can't believe this has happened to me two days in a row!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Frasier, you had car trouble, it can happen to anyone.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I hope she's still sitting at Le Petite Bistro.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Oh, she isn't.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "What?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "If you're talking about someone named Tricia, she called To say she was leaving the restaurant.  She also said you were right about the table: that it was a beautiful table in a prime location, and that she wished you were laid out dead on top of it.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_dialing_] Oh, God.  Ah, it's her machine.  Hello, Tricia, it's Frasier.  Look, I'm, I'm terribly sorry but it's just my car battery went dead at a light, and I didn't have my cell phone with me.  By the time I got a jump I realized I couldn't go directly to the restaurant because I was wearing these ridiculous shorts, and I, I know how this sounds, but it's the truth!  Here, just ask my brother. [_He holds the phone out to Niles._]",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "He's right, they're ridiculous shorts.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Anyway, please give me one more chance.  I'll go anywhere, anytime, just, uh, give me a call.  Please. [_he disconnects_]",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "May I have the phone?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_handing it over_] Of course.  God, I had such high hopes for this young woman, now I've gone and blown it twice. Whom are you calling?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_dialing_] Allison.  It's been hours since we spoke. [_into the phone, in a risqu e voice_] Hello, there. How ya feeling?  Uh-huh.  Me too. [_holding his back_] Yeah, me too.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_grabbing him_] Oh for God's sake, take it in my bedroom! You're makin' the dog twitch!  ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Frasier, you're gonna be so excited when you hear what I got planned for your birthday!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, Dad, please, I thought I said I didn't want any fuss this year.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well, get ready to change your mind, 'cause I scored tickets, Friday night, to the best show in town. [_He takes two tickets out of his pocket and holds them up._]",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Chimps on Ice?  Oh, my.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Yeah, now I know this doesn't sound like your cup of tea, but trust me on this.  Duke saw this last week and he busted a gut.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, Dad...",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_grabbing his coat_] And mind you, he even saw it with the understudy.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Dad, look, you know, I really don't feel like going out on my birthday this year.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh, are you sure?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, I actually had made plans already.  I was gonna stay in and watch television.  The opera is mounting a new production of _\"Cosi van Tutti.\"_",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh, well no wonder then.  OK, but you're missing a real treat.  Duke said in the finale, the whole cast skates to the top of this ramp, then Splat! right into a tank of whipped cream.  Bet they don't do that at your opera.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No.  And Mozart's still kicking himself.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Come on, boy. [_He leaves with Eddie._]",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_coming back_] Frasier?  Are you familiar with the Safari Club?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Of course I'm familiar with them.  Their yearly expeditions are remarkable.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "They're more than remarkable!  They're the stuff of legend. Last year, they made camp at the base of Mount Everest, then had their servants climb it while they held a wine tasting.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "So why are you telling me this?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Because, Allison is a member.  This Friday night, they're having a black tie reception at her place downstairs, and we're invited!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "That's incredible!  Oh my goodness!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Consider it your birthday present.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, thank you!  Thank you so much.  But wait, gee, I told Dad I was gonna stay home that night.  You mustn't tell him about this.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, don't worry.  He'll never suspect.  I told him yesterday I was going to be away for the weekend.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Great.  Perfect.  But wait a minute: you knew about this yesterday?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Uh, no.  But I knew about Chimps on Ice.  **HAVE YOU TRIED THE CAPE BUFFALO SALAD?** _Scene 3 - The Fourteenth Floor Hallway Fade in.  Niles and Frasier exit the elevator in tuxedos._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I am so looking forward to this.  I understand one of the members is going to show an old film he made of the rare and endangered species found only in the rain forest. Maris would have loved it. [_He rings the doorbell._]",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, why so?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "She had shoes made from almost all of them.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Allison. [_He hugs her._]",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Allison"
+    },
+    {
+        "speaker": "Allison",
+        "text": "Niles.  And this must be Frasier.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Hello.",
+        "prevSpeaker": "Allison",
+        "nextSpeaker": "Allison"
+    },
+    {
+        "speaker": "Allison",
+        "text": "Come in, both of you.  There are lots of people I'd like you to meet. _CUT TO: the interior of her apartment.  A lavish banquet is set out._",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Allison"
+    },
+    {
+        "speaker": "Allison",
+        "text": "The bar is over there, and the hors d'oeuvres are over here.  We have some fascinating delicacies actually bagged by our own members.  This is ostrich, that's wildebeest, and that's springbok.",
+        "prevSpeaker": "Allison",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You know, I can never remember which... Is it \"Fall ahead, Springbok\" or vice versa? [_They laugh, Frasier's cell phone starts ringing._] Oh, oh good heavens, I forgot I had this on me.",
+        "prevSpeaker": "Allison",
+        "nextSpeaker": "Allison"
+    },
+    {
+        "speaker": "Allison",
+        "text": "Don't apologize.  I do it myself.  Even in the veldt, one must keep in touch with one's broker.  Here, you can have privacy in the study.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_moving off_] Thank you.  Hello?",
+        "prevSpeaker": "Allison",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "You look ravishing.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Allison"
+    },
+    {
+        "speaker": "Allison",
+        "text": "Thank you, but listen, I think you and I should be very discreet tonight.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, I'm a psychiatrist.  If I can't be discreet, it don't rain in Tanganyika.  [_N.B. Modern-day Tanzania_] ",
+        "prevSpeaker": "Allison",
+        "nextSpeaker": "Allison"
+    },
+    {
+        "speaker": "Allison",
+        "text": "Good.  After all, if in the near future you should happen to be up for membership in our little club, I want to appear completely objective when I sing your praises.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "My ears are already burning.  ",
+        "prevSpeaker": "Allison",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Frasier!  We're being considered for membership.  Allison as much as said it.  We must do everything in our power to show them how enthusiastic we are.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I have to leave.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "What?!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Niles, that was Tricia on the phone.  She's going out of town tonight for a month.  But if I swing by, pick her up at her place, pick her up, we can at least join each other for a drink.  ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Are you insane?  This is the Safari Club.  These are the people who introduced badminton to Devil's Island.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I don't care!  It was kismet when I met this young woman, I'm not giving up an opportunity to see her!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "But, to leave two minutes after you arrived, you're going to ruin both our chances!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "All right, I'll make a proper excuse.  Excuse me, Allison? I'm terribly sorry, it seems I'm coming down with a touch of something, I'm going to have to leave.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Allison"
+    },
+    {
+        "speaker": "Allison",
+        "text": "You poor man.  If you feel better, please do come back down.  We'll be here all evening.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Thank you, but I, I don't really see that there's much hope. _He leaves.  CUT TO: the hallway outside Frasier's apartment. The elevator opens._ ",
+        "prevSpeaker": "Allison",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, I'm just stopping by my place to pick up my keys, I will see you in ten minutes.  And Tricia?  I can't wait.  OK, bye. _He goes into the apartment, grabs his keys, and suddenly the lights come up on a crowd._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Crowd"
+    },
+    {
+        "speaker": "Crowd",
+        "text": "Surprise!  _Frasier is stunned.  FADE OUT.  End of Act 1  Act 2  Scene 1 - Frasier's Apartment Fade in on the same scene._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "You didn't think we were gonna let you stay home alone on your birthday, did ya?  Look at his face!  He can't believe it.",
+        "prevSpeaker": "Crowd",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No, I certainly can't.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Well, why are you dressed like that?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, I, I dress like this sometimes when I watch the opera on television.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "Well, that's up there on the dork meter.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You know, since I'm not going to be watching the opera, perhaps I could run out and buy a brand new videotape so I can record it.",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "We're way ahead of you, Dr. Crane, your father has the VCR all set up.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "Let's get things started!  Here you go, Doc.  Happy birthday. [_Hands him a brown bag._]",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_opening it_] Oh, well, thank you Bulldog, thank you all. Oh, well, \"David Copperfield,\" Dickens's classic tale of a young man making his way in the world.",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "I, uh, think we're talking about different movies, here, Doc.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_looking again_] Mmm.  \"David Cop-a-Feel.\"  Well...",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "But you were right about the classy tail part.  Hey, you need a brew?  I'm headed that way.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No, no thanks.",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "I'd love a cup of hot tea with lemon.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "Hey, I'm fetching, not cooking.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "It's OK, Roz.  There's a kettle of boiling water on the stove. [_She gives a cup to Frasier_] Here you are.",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, well, thank you, Daphne.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Now don't be mad with your father.  He just wanted to do something nice for your birthday, after you turned thumbs down on the skating monkeys.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Hey, great party huh?  Just as long as we've got enough ice.  You got four bags, right?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "No, I got two.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Two?!  I told you to get four bags!",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Oh, here we go.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "You never under-budget on the ice.  You never know, you might get a lot more rocks drinkers than you expected. Or ice chewers.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Dad, I can go get some more ice!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "We don't need more ice!  We've got plenty.  There's a whole tub of it.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, well, then, excuse me.  I need to make a call.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Tricia, Frasier.  Look, I've been detained.  Yes, I know you really don't want to know why.  Say, you know what? I think I can find a way to get out of here.  Yes, I'll see you in a few minutes. _He pours the kettle out into the ice bowl, and calls out to the living room._",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Dad.  Bad news, seems your ice is melting awfully fast.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "What?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_heading for the door_] No worries, I'll get some more.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "[_racing ahead of him_] No, Frasier, it's your party, I'll go.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No, Roz, I want to go.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "But you just got here.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Roz, it's my birthday, I can do whatever I want on my birthday, I want to go get some ice.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_hollering from the kitchen_] I knew it!  I warned her! It's practically gone!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Don't worry, Dad!  I'm on it!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Listen, I'll be glad to go...",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Roz, I want to go, I know what kind Dad likes! _He throws her against the powder room door, and rushes out.  FADE OUT  Scene 2 - The Elevator Fade in.  Frasier is watching the buttons._ ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No, no, don't stop on fourteen.  Just don't stop on fourteen.  No, no!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Allison"
+    },
+    {
+        "speaker": "Allison",
+        "text": "Frasier!  I'm delighted you're feeling better.  You're just in time, we're about to start the film.  Wait 'til you see it. [_She escorts him inside._] Just grab a chair before all the good seats are gone.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "What are you doing here?",
+        "prevSpeaker": "Allison",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Wishing I had taken the stairs. ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Karl"
+    },
+    {
+        "speaker": "Karl",
+        "text": "If I wanted this martini shaken, I'd have asked the bartender to do it.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Nigel"
+    },
+    {
+        "speaker": "Nigel",
+        "text": "Mustn't mind old Rhino, always in a vile mood.",
+        "prevSpeaker": "Karl",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "\"Rhino?\"",
+        "prevSpeaker": "Nigel",
+        "nextSpeaker": "Nigel"
+    },
+    {
+        "speaker": "Nigel",
+        "text": "Karl Landis, Allison's husband.  They call him \"Rhino\" because of his mean temper.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_lightly_] Husband?  Allison's m-married?",
+        "prevSpeaker": "Nigel",
+        "nextSpeaker": "Nigel"
+    },
+    {
+        "speaker": "Nigel",
+        "text": "Not surprised people don't know.  Man's always on safari. Loves guns.  Guns and women.  No secret, notorious for it.  Cheats on her constantly.  Mark my words, one of these days she'll pay him back and then rub his bloodthirsty nose in it.  ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Here's something interesting: I think I just swallowed my tongue. [_starts hyperventilating_]",
+        "prevSpeaker": "Nigel",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Niles, Niles, just be calm, be calm.  What's done is done.  You didn't know, and now it's over.  As long as you've both been discreet, there's no reason it should ever get back to Rhino.  ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Karl"
+    },
+    {
+        "speaker": "Karl",
+        "text": "[_as the whole room falls silent_] I don't know what you're insinuating.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Allison"
+    },
+    {
+        "speaker": "Allison",
+        "text": "Well, don't lie.  Everyone knows what goes on in that pup tent.  Well, I can play at that game too.  In fact, I already have, and with somebody right here tonight. How do you like that?",
+        "prevSpeaker": "Karl",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Frasier, I have to ask a small favor.  I need you to create a distraction, while I have a sex change and move to Europe.",
+        "prevSpeaker": "Allison",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I'm sorry, Niles, I would love to stay and help, but I've got to get out of here myself.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Allison"
+    },
+    {
+        "speaker": "Allison",
+        "text": "Well, we're ready for the movie.  Mind helping me turn out the lights?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Splendid idea!  You're going to want it nice and dark in here, aren't you?",
+        "prevSpeaker": "Allison",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "You should have told me you were married.  I have to leave.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Allison"
+    },
+    {
+        "speaker": "Allison",
+        "text": "Don't be a fool.  If he sees someone sneaking out of here, that's the first person he'll suspect.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "All set, and it's show time.  _The film starts, Frasier sneaks on his hands and knees behind everybody.  Suddenly the projector stops.  The lights come up._ ",
+        "prevSpeaker": "Allison",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "What happened?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Allison"
+    },
+    {
+        "speaker": "Allison",
+        "text": "Did someone pull the plug out?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yep.  Here it is!  All right, lights out.  There you go. _The film starts up again, the lights go out.  Frasier sneaks out the door.  At the sound of it closing, the movies stops and the lights come up again._ ",
+        "prevSpeaker": "Allison",
+        "nextSpeaker": "Karl"
+    },
+    {
+        "speaker": "Karl",
+        "text": "What was that?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well, someone certainly snuck out of here in a hurry.",
+        "prevSpeaker": "Karl",
+        "nextSpeaker": "Karl"
+    },
+    {
+        "speaker": "Karl",
+        "text": "I know what you're all thinking.  Now that Allison has seen fit to air our dirty laundry in public, you assume that was her lover.  But I know it wasn't.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "How?",
+        "prevSpeaker": "Karl",
+        "nextSpeaker": "Karl"
+    },
+    {
+        "speaker": "Karl",
+        "text": "Because I can sense that he's still here.  In the jungle, I learned to smell fear, and I smell it now.  ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Karl"
+    },
+    {
+        "speaker": "Karl",
+        "text": "So, let's see if the swine has the guts to stand up and admit it before I expose him.  What about it, coward? Going to stand up? _Niles looks nervous, then steels himself, puts his hand on the back of the chair, and starts to rise.  Before he can, about half a dozen others of varying age stand up.  Niles eases back down._",
+        "prevSpeaker": "Karl",
+        "nextSpeaker": "Karl"
+    },
+    {
+        "speaker": "Karl",
+        "text": "That many? [_to Allison_] My God, woman, you're as bad as I am.  Come on, ya bastards, join me in a drink. _The all go off to another room as Niles laughs nervously and sips his drink.  FADE TO:  Scene 3 - the hallway. The elevator opens and Frasier gets on, there are a few people from the station on it, including Noel._ ",
+        "prevSpeaker": "Karl",
+        "nextSpeaker": "Noel"
+    },
+    {
+        "speaker": "Noel",
+        "text": "Hi, Dr. Crane.  We're all just on our way up to your place.",
+        "prevSpeaker": "Karl",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Noel.  So you are.  Hi Tom, Janet, Bill.  You know what? I was just heading down, we're out of ice.",
+        "prevSpeaker": "Noel",
+        "nextSpeaker": "Noel"
+    },
+    {
+        "speaker": "Noel",
+        "text": "Oh, not anymore.  I brought a twenty-pound bag.  Just call me Noel Shempsky, Party Saver. _CUT TO: Frasier's apartment.  Everyone is playing charades as Frasier and the others come in._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Time!",
+        "prevSpeaker": "Noel",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Here's the ice!  Here, Noel, put that in the kitchen, will you?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Noel"
+    },
+    {
+        "speaker": "Noel",
+        "text": "Sure.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Come on in, everybody.  You know, Dad, I've done the silliest thing.  I went out without my wallet.  They gave me the ice, but I have to go back and pay them.",
+        "prevSpeaker": "Noel",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "No, at least stay and play the last round of charades with us.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Actually, I should be getting back there...",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "You love [_pronounced charhade:_]charades.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_pronounced as spelt_] Charades.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Shut up.  Anyway, it's not going to kill them, to wait a few minutes for their money.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "Come on, be on our team.  We really suck at this game.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Noel, you're on our team.  The category is famous play titles. [_She takes a slip._]",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Noel"
+    },
+    {
+        "speaker": "Noel",
+        "text": "I'm a bear at charades.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Ready?  All right, go!",
+        "prevSpeaker": "Noel",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Three words.  ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Morning.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Noel"
+    },
+    {
+        "speaker": "Noel",
+        "text": "Morning Becomes Electra!",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Yes!",
+        "prevSpeaker": "Noel",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "What?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Four seconds? _Everyone on Roz's side of the room throws up their hands and does a victory dance._ ",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, well done Roz!  Nice playing with you, I'm out of here.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Hey, wait a minute.  You've got to take a turn.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "What, really?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "You've got thirty seconds to prepare.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, all right.  Maybe I'll just...prepare in the kitchen! [_He rushes to the kitchen and dials his cell phone._] Tricia!  You know, you're going to laugh when you hear this.  Hello?  Tricia?  Oh, fine. [_He reads the slip of paper._] Ha, ha, \"The Iceman Cometh\"!  ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_coming out of the kitchen_] All right.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Ready?  OK, go. [_Frasier begins gesturing._]",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Three words.  First word, small word, arm, in, of, to, be.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "It, it, I, you, me.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "They, them, us, we, he, she.",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "Ok, forget about it.  Second word, two syllables.  First syllable cold, chilly, freezing, winter,.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Snow, sleet hail, frost, frostbite, gangrene.",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Gangrene?!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "No talking allowed.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "Second syllable.  Shrink.  Doctor.  Dork.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Person, guy, male, man.",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "Let's see, icy cold man...iceman...got it!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Thank you!",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "Frosty the Snowman!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No, you jackass!  The Iceman Cometh!",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Disqualified.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You two are the worst charades players I've ever seen in my entire life!  My God, those skating chimps could... Well, you did your best, we'll get it next time.  Off I go...",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "No, wait, wait, wait Frasier, we still have one little consolation prize for you.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "All"
+    },
+    {
+        "speaker": "All",
+        "text": "Happy Birthday to you, happy birthday to you.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Look, he's crying!",
+        "prevSpeaker": "All",
+        "nextSpeaker": "All"
+    },
+    {
+        "speaker": "All",
+        "text": "Happy birthday dear Frasier, happy birthday to you.   **...AND MILES TO GO BEFORE I SCREAM** _Scene 3 - In Front of Tricia's Apartment Fade in.  Tricia is coming out of the door with her bag. Frasier pulls up in his car._ ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Made it!",
+        "prevSpeaker": "All",
+        "nextSpeaker": "Tricia"
+    },
+    {
+        "speaker": "Tricia",
+        "text": "Boy, are you wrong.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, Tricia, please...",
+        "prevSpeaker": "Tricia",
+        "nextSpeaker": "Tricia"
+    },
+    {
+        "speaker": "Tricia",
+        "text": "Save it, Frasier.  I have a plane leaving for Spokane in An hour, my cab is on its way, so why don't you just be on your way, too?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Would it make any difference if I told you I had to sneak out of a birthday party being given for me by my own father just to be here with you?",
+        "prevSpeaker": "Tricia",
+        "nextSpeaker": "Tricia"
+    },
+    {
+        "speaker": "Tricia",
+        "text": "Yeah, right.  It's your birthday.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_pulling out his license_] Look, if you don't believe me, here, just see for yourself.  In fact, it's turning out to be the worst birthday party I've had since I was eight, when I pinned the tail on Sally Anunsiato.  She shoved a cupcake down my shorts.",
+        "prevSpeaker": "Tricia",
+        "nextSpeaker": "Tricia"
+    },
+    {
+        "speaker": "Tricia",
+        "text": "Wow, you really blew off your own birthday party just to come meet me.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I would have done almost anything to get to know you better.",
+        "prevSpeaker": "Tricia",
+        "nextSpeaker": "Tricia"
+    },
+    {
+        "speaker": "Tricia",
+        "text": "Well, that's very sweet, Frasier, and I wish I had more time, but I have an 8 AM appointment in Spokane, and I can't miss my plane.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, I could drive you.",
+        "prevSpeaker": "Tricia",
+        "nextSpeaker": "Tricia"
+    },
+    {
+        "speaker": "Tricia",
+        "text": "But it's only twenty minutes to the airport, it's hardly worth it.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I wasn't talking about the airport.",
+        "prevSpeaker": "Tricia",
+        "nextSpeaker": "Tricia"
+    },
+    {
+        "speaker": "Tricia",
+        "text": "What?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I could have you in Spokane in six hours.  That'll certainly give us enough time to get acquainted.",
+        "prevSpeaker": "Tricia",
+        "nextSpeaker": "Tricia"
+    },
+    {
+        "speaker": "Tricia",
+        "text": "Oh, no, I can't ask you to do that.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "But you didn't ask.  I offered.  Look, I want to do it, here. [_He grabs her bag and puts it in his car._]",
+        "prevSpeaker": "Tricia",
+        "nextSpeaker": "Tricia"
+    },
+    {
+        "speaker": "Tricia",
+        "text": "That's the most romantic thing I've ever heard.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_opening the door for her_] Well, the way I see it, one of two things can happen.  Either we'll discover that we've foolishly built each other up in our own imaginations because we've had so much trouble getting together; or, this could end up being a story we tell our grandchildren. Personally, I can't wait to find out which.",
+        "prevSpeaker": "Tricia",
+        "nextSpeaker": "Tricia"
+    },
+    {
+        "speaker": "Tricia",
+        "text": "Me either. [_She gets in._]",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_running around to his side_] Oh, boy! [_He gets in._] Well, off we go. _DISSOLVE TO: the interior of the car as they head down the road. Tricia turns on the radio._ ",
+        "prevSpeaker": "Tricia",
+        "nextSpeaker": "Tricia"
+    },
+    {
+        "speaker": "Tricia",
+        "text": "I thought I'd find us a little background music.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Good idea.  Looking for some more opera?",
+        "prevSpeaker": "Tricia",
+        "nextSpeaker": "Tricia"
+    },
+    {
+        "speaker": "Tricia",
+        "text": "Heck, no.  The one the other night was my first and last. I was dragged to it by one of my converts. [_She stops on a country-western station._] There we go.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Converts, you say?",
+        "prevSpeaker": "Tricia",
+        "nextSpeaker": "Tricia"
+    },
+    {
+        "speaker": "Tricia",
+        "text": "Mm-hmm.  I'm one of the Truth bringers.  I was ordained by Brother Carmichael himself, the evangelist?  I go door to door, spreading his word.  Listen, do you mind my asking something?  Have you heard the Truth?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Something tells me I'm about to.  _CUT TO: the road, Frasier's car heading away to the strains of country music.  FADE OUT._ ",
+        "prevSpeaker": "Tricia",
+        "nextSpeaker": "Credits"
+    }
+]

@@ -1,0 +1,1353 @@
+[
+    {},
+    {
+        "speaker": "Martin",
+        "text": "Ah, I still say when some guy grabs your parking space, you don't just sit there, you say something.",
+        "prevSpeaker": "No Previous Speaker",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Dad, when a man has no front teeth and stitches on his nose, I think it's safe to assume he's sensitive to criticism.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_picking up a box_]  What's this?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh must be one of those inspirational tapes that Daphne's always listening to.  [_Daphne comes in from her room._]  Oh, my God, 'Here, Have a Rainbow', by Dr. Honey Snow.  Daphne, how can you listen to this stuff ?  It's absolute dribble.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Well, for someone who writes dribble, she's awfully popular.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, really, fancy that.  She tells everyone that they're perfectly wonderful and that nothing wrong is ever their fault.  What do you know, they like it.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "There's a lot more to it than that.  You should try reading one of her books.  [_Doorbell rings, Frasier goes to get it._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, well I have.  Believe me, after one page, I was yearning for the worldly cynicism of Barney the Dinosaur.  [_He opens the door to reveal Niles._] ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Hello, Niles, to what do we owe this pleasure?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Brace yourselves kids, it's raffle time!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, God .",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Not again",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Fraid so.  [_notices tape_]  Oh ye gods, who's been plumbing the shallows of Dr. Honey Snow?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "I have.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Insightful, isn't she?  [_Daphne is not amused._]  Anyway, tickets are only ten dollars, it all goes to support Maris' little opera group.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Dear God, what's the grand prize this year?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Their lead soprano, Mrs. Fitzgibbons, will come to your home and perform 'The Ride of the Valkyres'.  We've sold eight hundred tickets, so the risk is pretty minimal.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "All right.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "In return, let me offer you a hot stock tip:  VectorComp Software.  Wendel assures me they can't miss.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Who's Wendel?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "My new broker.  Every stock he's put me onto has paid off. The man is positively clairvoyant.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "You know, I've got a bit tucked away.  Maybe I ought to take a little chance with your Wendel.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I should warn you, it's not a sure thing.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Oh, nothing in life is a sure thing, but Dr. Snow has a little saying:  Nothing ventured, nothing gained.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "She better copyright that before some unscrupulous hack steals it.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "I'll go in for five hundred.  That's a lot for me, but I don't know; I have a little feeling I'm in for a bit of luck.  All right, I better get ready.  I'm off the the Book Nook.  Dr. Snow is signing copies of her new best seller.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Hey, wait a minute.  You're going out?  What about my whirlpool therepy?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Oh, right, I forgot.  Maybe you could go to the book signing for me, Dr. Crane.  It's right around the corner from the station.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I would sooner attend a ho-down.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I would gladly go, but I've got my compulsive spending seminar, and I'm hoping to unload the rest of these raffle tickets.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "What's the big deal?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I have my reputation to think of.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "What's the big deal?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "All right, if it will make you all happy to see me humiliate myself.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "I always get a kick out of it.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Thanks ever so.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_noticing Eddie rolling around on the floor_]  Oh, look everyone!  Eddie has found his inner puppy!  [_Fade out._] **ARE THERE ANY MORE LIKE YOU AT THE INSTITUTE?**  [_Fade in.  Roz and Frasier enter._] ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I promise this'll just take a minute.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Well, I hope so, I barely got an hour for lunch.  Oh, God, not another one of those Honey Snow books.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_reading the cover_]  'Don't Change, You're Perfect'",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Can you believe people go for this junk?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "It's unbelievable.  Here, get her autograph for me, will ya?  [_Roz gives him a 'What?!' look_]  She's sitting right behind those people over there.  Just go get it signed and then we'll get out of here,  go have a nice lunch at Le Cigare Volant.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Me?  Why don't you do it?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I have my reputation to think of!",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Oh, what's the big deal?  [_off his glare_]  All right.  [_He picks up another copy and looks it over.  A woman comes up._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Woman"
+    },
+    {
+        "speaker": "Woman",
+        "text": "Oh, it's wonderful isn't it?  I just love what she says about finding a moment each day to stop and give yourself a mental hug.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I'm giving myself one now.",
+        "prevSpeaker": "Woman",
+        "nextSpeaker": "Woman"
+    },
+    {
+        "speaker": "Woman",
+        "text": "Really?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Welll actually it's more of a Heimlich manuever.  [_Roz comes back._] ",
+        "prevSpeaker": "Woman",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Got it.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Good, good.  Let's buy it and get out of here.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Nope, nope, not so fast.  She wants to meet you.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Roz, I don't want to meet the woman, let's just go.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Uh, Frasier, do you know what Honey Snow looks like?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "What difference could that make?  The woman stands for everything that I find totally...  [_Dr. Honey Snow walks up.  She is tall, blonde and buxom._] ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "...enchanting.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Honey"
+    },
+    {
+        "speaker": "Honey",
+        "text": "Hello.  I'm Dr. Honey Snow.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "And I'm...wait, don't tell me, Dr. Frasier Crane.",
+        "prevSpeaker": "Honey",
+        "nextSpeaker": "Honey"
+    },
+    {
+        "speaker": "Honey",
+        "text": "Well, Dr. Crane let me shake your hand.  Oh, what am I saying?  Hug.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Why not?  [_They hug._]",
+        "prevSpeaker": "Honey",
+        "nextSpeaker": "Honey"
+    },
+    {
+        "speaker": "Honey",
+        "text": "After all, a handshake is just a hug for fraidy cats.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No fear here.",
+        "prevSpeaker": "Honey",
+        "nextSpeaker": "Honey"
+    },
+    {
+        "speaker": "Honey",
+        "text": "I am one of your biggest fans",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I've recently become one of yours.",
+        "prevSpeaker": "Honey",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "You know, I think I'll just go get started on my appitizer.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, yes, you start without me.  All I really want is a little nibble.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Oh, tell me.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Honey"
+    },
+    {
+        "speaker": "Honey",
+        "text": "You know, I really should get back to my signing, but I'd love to talk more.  There seems to be such a positive energy betwen us.  My publisher is giving me a dinner tonight at seven at Bianchi's.  Would you come as my guest?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I'd love to",
+        "prevSpeaker": "Honey",
+        "nextSpeaker": "Honey"
+    },
+    {
+        "speaker": "Honey",
+        "text": "Well that's great.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well it was nice meeting you Dr. Snow.",
+        "prevSpeaker": "Honey",
+        "nextSpeaker": "Honey"
+    },
+    {
+        "speaker": "Honey",
+        "text": "Oh, please, it's Honey.  [_She goes back to the signing._]",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "It certainly is...  [_Fade out._] **YOU SCRATCH MY BOOK...**  [_Fade in.  Martin is watching a horse race on television.  Daphne opens the door for Niles._] ",
+        "prevSpeaker": "Honey",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Good evening, Dr. Crane.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Good evening Daphne, Dad.  Ooh, watching the sport of kings I see.  Which horse did you wager on?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Gerald's Dream, number eight.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Goodness, he seems to be taking a serene, almost Buddhist approach to the race.  [_Marin, disgusted, turns off the set._] ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Perhaps you should have invested in something more reliable. Like VectorComp Software.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Our stock.  Did it go up a bit?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "No, it went up a lot.  Thanks to a takeover bid, it gained forty percent overnight.  Wendel advised selling, so, voila, your original five hundred investment plus two hundred profit.  [_He gives her a check._]",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Two hundred?  Oh, Dr. Crane, I could kiss you!  [_She kisses him on the cheek and hugs him tightly.  Niles is stunned._]",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh, that's a nice little dividend.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_sitting downon the arm of the couch_]  I'll say.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "You have to help me decide what to do with it.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well, you might want to consider letting Wendel reinvest it. That's what I'm doing.  It's called rolling it over.  [_Frasier comes in._] ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Then I'll do it.  Oh, this is so exciting.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "What's all this?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Well, your brother just gave me two hundred dollars, and now he's going to roll me over.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Niles?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Communications breakdown",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Good.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "What are you all dressed for.  Hot date?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "As a matter of fact, yes.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "With whom?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Dr. Honey Snow.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "You're dating Dr. Honey Snow?  I thought you considered her a complete ninny.  What could you possibly see in this [_Martin hold up the dust jacket photo_] whoa-hoa mama!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "One hell of a cute shrink, huh?  Not a man alive wouldn't let her analyze his dreams.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Analyze them? She could star in them.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Yes, yes, but what on Earth do you say to her when she wants to discuss her work?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, I just simply skirt the issue.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Of course.  'Honey I think your books are just - oh look! The waiter's on fire!'  [_The doorbell rings, Frasier goes to get it._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You're just jealous.  But not half as jealous as you're about to be.  I suggest you get a coaster for your lower lip.  [_He opens the door, it is Honey._] ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Honey"
+    },
+    {
+        "speaker": "Honey",
+        "text": "Hi, honey.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Hi, Honey. Allow me to make the introductions.  Daphne Moon, Honey Snow;  Honey Snow, Daphne Moon.  She's a big fan of yours.",
+        "prevSpeaker": "Honey",
+        "nextSpeaker": "Both"
+    },
+    {
+        "speaker": "Both",
+        "text": "Hug!  [_they hug_]",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "We've both got sort of unusual names.  Daphne Moon, Honey Snow.  Come to think of it, if you married my father, you're name would be Honey Moon.  [_Frasier, exasperated, sort of shoos her away._] ",
+        "prevSpeaker": "Both",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "My father, Martin Crane.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Honey"
+    },
+    {
+        "speaker": "Honey",
+        "text": "Oh, hello.  Well it's easy to see where Frasier gets his good looks.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Ah, get outta here.",
+        "prevSpeaker": "Honey",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "And, last but not least, my brother Niles.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Honey"
+    },
+    {
+        "speaker": "Honey",
+        "text": "Oh, Dr. Niles Crane.  I read a wonderful article you wrote in the Journal of Psychiatric Medicine.  Let's see: 'Gestalt Therepy, Probing the Subconscious'.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Yes.  And I believe I read your quiz in Cosmo:  'Is Your Guy a Stud or a Dud?'",
+        "prevSpeaker": "Honey",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Perhaps we should be going.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Honey"
+    },
+    {
+        "speaker": "Honey",
+        "text": "Well, actually, not yet.  I have something I want to give you.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh?",
+        "prevSpeaker": "Honey",
+        "nextSpeaker": "Honey"
+    },
+    {
+        "speaker": "Honey",
+        "text": "[_handing him a box_]  It's a manuscript of my upcoming book.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh.  Another one?  So soon?",
+        "prevSpeaker": "Honey",
+        "nextSpeaker": "Honey"
+    },
+    {
+        "speaker": "Honey",
+        "text": "I hope you like it Frasier.  Because if you do, I'd love for you to write the foreword.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Me?",
+        "prevSpeaker": "Honey",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_taking the manuscript_]  Who better?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, actually there's so many other people that would be more qualified to write for such an important work.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Honey"
+    },
+    {
+        "speaker": "Honey",
+        "text": "Well, if I didn't know better, I'd think you didn't want to do it.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, no, no, no, no.  It's a great honor.",
+        "prevSpeaker": "Honey",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "I'll say.  The last book had an introduction by Mickey Rooney.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Wow.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well there's no two ways about it, then.  I'm writing that foreword.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Honey"
+    },
+    {
+        "speaker": "Honey",
+        "text": "Oh, that's great.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Just think.  By next fall there'll be half a million copies in print with your name right on the cover.",
+        "prevSpeaker": "Honey",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I've got my Christmas shopping done!  [_Frasier gives him a dark look as he leaves with Honey.  Fade out._] _Act 2  Scene 1 - Frasier's Apartment_ **SHRINK RAP**  [_Frasier is typing on his laptop.  Niles is reading Honey's manuscript, laughing._] ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Niles, will you please stop giggling?  It's very distracting.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I can't help it.  Have you read this?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I'm trying to recommend the book.  Reading it doesn't help. OK, here, how's this:  Many great volumes have been written about human behavior.  And I can honestly say, without fear of contradiction, that this book can stand on the shelf next to any of them.  [_off Niles' look_] No good, is it?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "No, no but this is:  [_reading from the manuscript_]  You don't have to be a star to twinkle.  Frasier, I need a hug.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, Niles, will you please help me?  Honey asked me to write this foreword two weeks ago, she's got a deadline, she's been wondering where it is.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Time is a concept known only to one of God's creatures: man.  Just for today, be a sunflower.  [_points to a paragraph in the manuscript_]",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, give me that!  Nies you just don't understand what's at stake here.  I've never felt this way about a woman before. I'm out of control, her effect on me, it's, it's. there are no words to describe it, really, it's more like a sound... [_makes a growling noise_]  [_Martin comes in with Eddie._] ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Talkin' about Honey again?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Frankly, I find it laughable that you're even considering putting you name on five hundred thousand copies of this piffle.  Not even piffle.  It's piffle light.  [_Daphne comes in wearing a nice coat and carryin shopping bags._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Oh, good, you're all here.  I want to show off me new coat.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Very nice Daphne.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Yes, I've been spending like a drunken yuppie.  Oh, I'm afraid I went a bit over me budget.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well, if it's cash flow you're concerned about, you should know I got a little call from Wendel today.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "What, again?  What's that, four times in two weeks?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Yes, the man's a wizard.  Daphne, your profit.  [_gives her a check_]",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Four hundred dollars?  Oh, Dr. Crane!  [_She kisses him._] And here's one for Wendel.  [_She kisses his other cheek._]",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Did I mention Wendel has a secratary?  [_He puckers up._]",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Oh, you!  [_Swats him on the stomach._]",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well, I'd say this calls for a celebration.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Tell you what, I'll take you all out for a nice dinner, my treat.  I'll just go and put on me new dress and we'll be off.  I want you to put on your new shirt with your brown courdroy slacks.  [_She heads to her room._]",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Hey, if you're payin', I'm gonna wear elastic waist pants and no belt.  [_He heads to his room._]",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, Niles, that broker of yours, he's a marvel!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Yes, he's doing wonderful things for me.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, I'd say so.  I've been so impressed with his winning streak lately that I asked Daphne what her latest pick was, I invested a few hundred myself.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Really?  Well, congratulations.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Thank you.  But there's just one thing, though, it's very hard to figure out.  Allthough I invested in the very same stock that Daphne did, mine declined and hers went up.  How do you explain that?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Obviously, one of us is lying, Frasier.  What are you up to? Frssier:  Fess up, Niles, this whole stock thing was a lie from the get go.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "No, no, that's not true.  The first stock really did pay off, but then the rest all tanked.  And what was I supposed to do?  Tell that poor, working class Venus I'd lost her life savings?  I had to pay her back and I threw in a little extra, and where's the harm in that?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Niles, you are giving a woman money to obtain physical affection.  We are talking the world's oldest profession. Granted, this is sort of the Walt Disney version, but still.  It's wrong, and I insist you stop it.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "No.  It's altruistic, it's noble, it's fun, and you can't make me stop.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "[_coming back out_]  Well, Dr. Crane, I want you to take this four hundred dollars back and buy whatever Wendel says.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Consider it done.  [_Martin comes out._] ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You know, Niles, I've been thinking maybe I should get on that gravy train myself.  Tell Wendel I'm in for ten thousand.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Good lord, ten thousand dollars, Dr. Crane?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, well just think of the dinner I'll be able to buy when Niles brings me my profits.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well, what the hell, put me down for a couple of hundred. This guy's some kind of genie!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Yes, he's a real treasure, isn't he?  I only hope those chest pains he was complaining about this morning turn out to be indigestion.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "So, shall we go then?  I've decided on Farmer Jack's Chicken, Chicken, Chicken.  I hear the chicken there is very good.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Are you comin'?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, you two run along.  I'll take my car.  [_Daphne and Martin leave._]  Well, I hope you're happy.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Snap out of it.  What you were doing was completely dishonest.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Said the pot to the kettle!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "What is that supposed to mean?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I think you know what it means.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Don't be ridicoulous!  Our two situations are completely different.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, really?  How so?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, for one thing, you've been misleading a woman for your own selfish gain.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "And so are you!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, I'm not finished.  She was also trusting you to tell the truth.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, and the difference would be?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Your woman is English!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Frasier, you've lost this one.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I know.  I know.  Just going to take a little while to climb down off of this particular high horse.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I think you know what you have to do.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes.  I have to tell her I can't write the foreword.  Oh, Niles, and I have to say goodbye to the chance of ever sleeping with absolute perfection.  Oh, where oh, where will I ever have the chance again to gaze upon such extraordinary proud and supple breasts?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Not to worry brother, that's the manager's special at Farmer Jack's Chicken, Chicken, Chicken.  [_Fade out._] [_Fade in.  Honey and Frasier come in, Frasier waits at the door._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Honey"
+    },
+    {
+        "speaker": "Honey",
+        "text": "That was a wonderful dinner, thank you.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, well thank you for the fabulous table.  I think hugging the maitre d' really clinched it.",
+        "prevSpeaker": "Honey",
+        "nextSpeaker": "Honey"
+    },
+    {
+        "speaker": "Honey",
+        "text": "Would you care for a night cap?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Sure.  [_He comes in._]",
+        "prevSpeaker": "Honey",
+        "nextSpeaker": "Honey"
+    },
+    {
+        "speaker": "Honey",
+        "text": "You know, you seemed really tense all evening.  But I have just the thing.  It's a sandlewood candle.  The scent is guaranteed to calm you down.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You better fire up about ten of those.  You know, there's something I'd really like to talk to you about. It's about that foreword I've been trying to write for you.",
+        "prevSpeaker": "Honey",
+        "nextSpeaker": "Honey"
+    },
+    {
+        "speaker": "Honey",
+        "text": "Can we not talk about work tonight, Frasier?  I've been chained to my desk all day researching an article I'm doing on sexual intimacy.  I am up to here with 'The Joy of Sex', 'Karma Sutra', Masters and Johnson...",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Really?",
+        "prevSpeaker": "Honey",
+        "nextSpeaker": "Honey"
+    },
+    {
+        "speaker": "Honey",
+        "text": "I feel like I've been reading recipes all day, only there are no groceries in the house.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, your bag-boy has arrived.  [_They kiss._]  No, no, no, I really need to discuss this now.",
+        "prevSpeaker": "Honey",
+        "nextSpeaker": "Honey"
+    },
+    {
+        "speaker": "Honey",
+        "text": "Oh, you.  You are such a workaholic.  I only hope you're this tireless about everything.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, I don't think you'll have any complaints.  [_He starts to take his tie off._]  No, no, no, I've got to focus on the subject at hand.",
+        "prevSpeaker": "Honey",
+        "nextSpeaker": "Honey"
+    },
+    {
+        "speaker": "Honey",
+        "text": "Frasier, tonight I am the subject at hand.  [_They start to make out and fall to the couch._]",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No, no, Honey, I can't do it!",
+        "prevSpeaker": "Honey",
+        "nextSpeaker": "Honey"
+    },
+    {
+        "speaker": "Honey",
+        "text": "Oh, that's all right, I have a candle for that too.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No, no, I, I can't write the foreword.",
+        "prevSpeaker": "Honey",
+        "nextSpeaker": "Honey"
+    },
+    {
+        "speaker": "Honey",
+        "text": "Well, why not?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, I, I just didn't think it was a very good book.  I think the world of you and I wish you the greatest success, but I didn't think the book was good enough to put my name on it.  I guess I'l be going now.",
+        "prevSpeaker": "Honey",
+        "nextSpeaker": "Honey"
+    },
+    {
+        "speaker": "Honey",
+        "text": "I am so attracted to you right now.  Most men are so eager to have sex they'll say anything to a woman.  How great to meet a man who would risk rejection rather than be dishonest?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, I, uh...have to be true to my inner voice.",
+        "prevSpeaker": "Honey",
+        "nextSpeaker": "Honey"
+    },
+    {
+        "speaker": "Honey",
+        "text": "You know, frankly I thought the book was weak myself.  I rushed it to meet a deadline.  I am so glad you respected me enough to be honest.  I think honesty is the greatest aphrodesiac of all.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I hope you feel you can be just as honest to me.",
+        "prevSpeaker": "Honey",
+        "nextSpeaker": "Honey"
+    },
+    {
+        "speaker": "Honey",
+        "text": "Oh, I do, I do.  Tell me everything.  I don't want us to hide anything.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I thought your chapter titles were clumsy and jejune.  Your turn.",
+        "prevSpeaker": "Honey",
+        "nextSpeaker": "Honey"
+    },
+    {
+        "speaker": "Honey",
+        "text": "You use way too much French in everyday conversation.  You go.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I think that sandlewood stinks.",
+        "prevSpeaker": "Honey",
+        "nextSpeaker": "Honey"
+    },
+    {
+        "speaker": "Honey",
+        "text": "Oh, when you talk about wine, I wish I had a gun.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I thought your first three books were trite and saccharin. [_She freezes._]  It's your turn Honey.  Honey?",
+        "prevSpeaker": "Honey",
+        "nextSpeaker": "Honey"
+    },
+    {
+        "speaker": "Honey",
+        "text": "[_pulling away_]  I am immensely proud of my first three books.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "As well you should be.",
+        "prevSpeaker": "Honey",
+        "nextSpeaker": "Honey"
+    },
+    {
+        "speaker": "Honey",
+        "text": "You thought they were trite?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, well, I meant trite in its best sense.  As in the phrase 'trite and true'.",
+        "prevSpeaker": "Honey",
+        "nextSpeaker": "Honey"
+    },
+    {
+        "speaker": "Honey",
+        "text": "And what about saccharin?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I love saccharin.  Use it every day.",
+        "prevSpeaker": "Honey",
+        "nextSpeaker": "Honey"
+    },
+    {
+        "speaker": "Honey",
+        "text": "Well, I'm glad you like saccharin, darling, because there's no way you're getting any honey.   Good night Frasier.  [_She gets up and holds the door open._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Honey, I'm sorry, I really am.  Couldn't we try one of your foregiveness excercises?",
+        "prevSpeaker": "Honey",
+        "nextSpeaker": "Honey"
+    },
+    {
+        "speaker": "Honey",
+        "text": "Good night, Frasier.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Hug?",
+        "prevSpeaker": "Honey",
+        "nextSpeaker": "Honey"
+    },
+    {
+        "speaker": "Honey",
+        "text": "You know a poet once said something about the world that I think applies to our relationship:  'It ends, not with a bang, but with a whimper.'  [_Frasier whimpers.  Fade out._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Credits"
+    }
+]

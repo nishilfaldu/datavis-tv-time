@@ -1,0 +1,1515 @@
+[
+    {},
+    {
+        "speaker": "Frasier",
+        "text": "Oh, Roz... how are you?",
+        "prevSpeaker": "No Previous Speaker",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Still pregnant.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Look, I-I'm sorry about last night.  I tried to apologize, but you ran out of the party so fast.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Oh, I'm sorry!  Was that rude?  You know more about etiquette that I do.  What is the proper length of time you should stay after someone announces to a hundred strangers that you got knocked up?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I tried to call.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "I know, I wasn't answering.  I was up all night thinking about what I want to do.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, I suppose a decision of that magnitude would take many sleepless--",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "I'm having the baby.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "-hours to make.  Are you sure, Roz?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "I know it seems quick.  But even when I was hoping I wasn't pregnant, I knew if I was, I was keeping the baby.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, then let me be the first to congratulate you!",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Oh, thanks.  [_They hug._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, Roz, oh God, that's so wonderful!  You're gonna make a great mom!",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Well, I did the first part pretty well, and I wasn't even trying.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "So, have you told the father?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Yes, I called him at nine o'clock this morning, which was seven o'clock at night, Cairo time.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Is that a pertinent fact, or are you just trying to impress me with your mastery of time zones?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "I mean he moved to Cairo, working on a project.  He's an architect.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh.  Well, when's he coming back?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "He isn't. [_off his surprised look_] But that's perfectly fine with me.  I'm perfectly comfortable raising this baby by myself.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "And... I'm sure everyone around here will give you plenty of support.  [_Bulldog comes in to grab some carts._] ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "So, Roz, who's the proud papa?  You got it narrowed down yet? [_laughs_]",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "That's nice, very nice.  Frasier, will you excuse us?",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, of course.  Just remember the baby's future, Roz.  Try to make it look like an accident.  [_Frasier leaves._] ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "Look, I was just kidding.  I'm sure you probably know who the dad is.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Well, that's what I wanted to talk to you about.  Do you remember Janet's party a couple months ago?  You got really drunk and I drove you home?",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "Yeah... what about it?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Well, you invited me up, and I guess I'd had a few myself, because the next thing I knew--",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "No, whoa -- I don't believe this.  I don't even remember us--",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Now calm down, Bulldog--",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "No, come on, please, just tell me you're joking.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Look, we don't have to get married right away--",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "Oh, man!  Oh, man!  [_He paces, chewing his knuckles.  She caresses his back._] ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "I thought you'd be happy about this.  I mean, we were wonderful together.  When you made love to me, you were so tender and caring--",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "Hey, whoa!  Ha, ha!  \"Tender and caring?\"  No way was that me!  Yeah, you almost had me!  Good one, Roz.  [_He leaves the booth.  She smiles as yet another round of their never- ending gamesmanship goes to her._]  [_Scene Two -- Apartment Martin is reading the paper in his Armchair.  The doorbell rings._] ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Someone at the door!  [_Daphne comes out of the kitchen laden with plates and silverware._] ",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Really?  So that's what that funny chiming sound means.  I'm a little indisposed here, would you mind?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh sure, sorry, Daph. [_calls_] Hang on, she's coming!",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "[_putting the plates down_] You take it easy, rest up for that big trek to the dinner table.  [_She goes to the door and opens it to Niles._] ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Hello, Dr. Crane.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Daphne, before I even come in, I just have to say I am mortified by my behavior last night.  Honestly, I don't know what got into me.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "About a quart of vodka, for starters.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "There's no need for an apology.  I thought what you did was very chivalrous.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well, I happen to believe that if a woman finds herself in such a predicament, a man of honor has an obligation to step forward and do the right thing.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Now poor Roz really is in that predicament.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Do I smell chicken?  [_Frasier comes out of the kitchen._] ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, Niles.  We'll be serving dinner just as soon as Roz gets here.  I didn't think she should be alone this evening.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "How's she doing?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, O.K., I guess, considering she's decided to have the baby by herself.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Boy, things have really changed since my day.  Back then, if a girl got in trouble, her family would send her away to relatives in another state, and if anybody asked, just lied and said she went to Europe.  Then when she came back, they'd raise the baby as a little sister.  Not like today -- we had morals and values back then.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I always assumed I'd have children, but if Maris and I don't reconcile soon, the issue will be moot.  She's a tad older than I am, and her biological clock is winding down.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Luckily, she flies to Zurich twice a year to have it reset.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Babies are wonderful, but Roz does have a tough road ahead of her.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "It can never be easy balancing a career with motherhood.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well, the big question is where's she going to find a husband?  I mean, a little kid needs a mother and a father.  [_Doorbell._] ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "That's Roz!  Just remember, she came here tonight to have a quiet little evening, not to be reminded of the difficult situation she's in. We'll just take our cue from her.  If she doesn't bring it up, we won't discuss it!  Agreed?  [_Everyone agrees._] ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Daphne, you may answer the door.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Well, thank you! [_goes to the door_] Why don't I just get a feather duster and a French maid's uniform?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "That would teach them, wouldn't it, Daphne, and I would pick it out for you!  [_Frasier gives him yet another \"knock it off\" bat on the arm.  Daphne opens the door to Roz._] ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Hello, Roz.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Hi.  [_Everyone greets Roz warmly._] ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Dinner's almost ready, make yourself comfortable.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Thanks.  [_She hangs up her coat and purse, and sits on the couch.  Silence._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "So... that's such a cute skirt.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "I just got it.  [_Silence._] ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "I just got these pants.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "They're nice.  [_Silence._] ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "I got some interesting news!  Well, last night, I -- and a large portion of Seattle -- found out I was pregnant!  Don't you guys want to ask me about it?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Sure, we all do!  But we were told not to.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Yeah, Frasier's afraid we might say something to make you uncomfortable.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Oh, that's silly.  I want to talk about it.  I'm really excited, I'm going to be a mom!  I've got a lot to do.  I'll tell you one thing I'm gonna need, pronto--",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "A husband!",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "I was going to say a bigger apartment.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh.  Well, maybe the husband'll have one.  [_Frasier comes out with some appetizers._] ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "So, how did the father take it? [_off Frasier's glare_] Don't worry, she brought it up!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "He actually took it really well.  He's not going to be that involved, though.  He moved to Cairo.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Where would he have moved to if he'd taken it badly?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "No, he's working in Cairo on a project, he's an archaeologist.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Oh.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Roz, can I get you a drink?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "O.K., do you have any mineral water?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, I have eight different kinds.  Why don't you come into the kitchen and pick one?  [_Roz gets up and follows Frasier into the kitchen._] ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Yeah, he's got room for eight different kinds of water in that fridge, and I have to keep my can of spray cheese under the sink.  [_In the kitchen, Roz pours herself some mineral water._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You know, this morning you told me the father was an architect.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "I did?  Oh, that was a slip of the tongue.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Ah.  And, uh, how did you two meet again?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "In a bar.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "This morning you told me it was on a double-date.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Oh, that's right, it was!  It was on a double-date.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "This morning you told me nothing! [_Roz flinches_] What is going on, Roz, you're obviously hiding something. [_Niles comes in_] Niles, please, would you excuse us?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, by all means.  I just came in to open a bottle of wine. [_takes one down_] Sorry. [_leaves_]",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "All right, what's going on?  Is it that you don't know who the father is?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Of course I know!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, then why don't you tell me?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "I haven't even told him yet.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "And I'm not sure I'm going to tell him.  It's a little complicated--",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Look, Roz, I don't care who the father is.  The man has a right to know that he's going to have a child.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Frasier, this really isn't any of your business.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, well, it's certainly _his_ business.  You have an obligation to let this man know that you're having his baby! [_Niles comes in again_] Niles, do you mind?  It's impossible to have a conversation here with you constantly eavesdropping.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I don't know what you two are talking about, but I resent the implication that I have nothing better to do than to spy on you like a nosy teenager.  I came in for a corkscrew. [_gets it and walks out_]",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh Niles, I-I'm sorry--  [_In the living room:_] ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "All I could get was that she hasn't told the father yet.  [_Martin shakes his fists with frustration, Daphne just licks her lips at the scoop._]  [_Scene Three -- Cafe Nervosa Frasier gives his order to Rick, the young counter waiter._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Double latte, please.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Rick"
+    },
+    {
+        "speaker": "Rick",
+        "text": "Coming right up.  I'll bring it to your table.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Thank you.  [_Frasier goes to his table.  Roz comes in._] ",
+        "prevSpeaker": "Rick",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Morning, Roz!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Frasier?  What are you doing here?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, I realize it must be a shock to see me here in this place I come to every day of my life.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "You had a dental appointment!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, I rescheduled it for tomorrow.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Thanks for telling me!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "What's going on?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "All right, [_lowers voice_] I came here to talk to him -- the father, yes.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Really?  Well, I'm proud of you!",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Well, thank you very much, now get out of here!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "All right, just wait one second. [_Rick brings his coffee_] Excuse me, may I have that to go, please?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Rick"
+    },
+    {
+        "speaker": "Rick",
+        "text": "Oh sure, Dr. Crane.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Thank you.",
+        "prevSpeaker": "Rick",
+        "nextSpeaker": "Rick"
+    },
+    {
+        "speaker": "Rick",
+        "text": "Hey, Roz!  How you doing?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Fine, thanks.",
+        "prevSpeaker": "Rick",
+        "nextSpeaker": "Rick"
+    },
+    {
+        "speaker": "Rick",
+        "text": "Well, what can I get you?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Uh, I'll have a decaf.",
+        "prevSpeaker": "Rick",
+        "nextSpeaker": "Rick"
+    },
+    {
+        "speaker": "Rick",
+        "text": "Be right back.  [_Rick goes to the counter._] ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "He's a nice kid, Rick.",
+        "prevSpeaker": "Rick",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Yes, he is.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Working here to put himself through school, right?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Yes, he is.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "He's the father, isn't he?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Yes, he is.  [_And with that, Frasier leaving is out of the question._]  [_END OF ACT ONE_]  [_ACT TWO_]  **LET'S SEE ALEC GUINESS BLOW UP ONE OF THOSE**  [_Scene Four -- Cafe Frasier and Roz sit back down at his table._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "The father of your child is a teenager!",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Well, of course he is not a teenager anymore!  He had a birthday three weeks ago!  Look, uh, you know, we just went out for a couple of weeks, and then it was over, there were no hard feelings.  It is a little embarrassing, though, him being seven years younger than I am-- [_off Frasier's look_] oh, put your eyebrows down!  I've seen your driver's license, and you don't weigh no \"One-Seventy!\"  Now you know what I'm talking about.  I don't want to ruin his whole life.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "He still has a right to know.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "I know that.  But it's not gonna be easy.  When you were a junior in college, if a woman came to you and told you she was carrying your child, wouldn't you have been devastated?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "In my case, I would have been mystified.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "How do I even begin to tell him?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, something like that is never easy.  [_Rick brings their coffees._] ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Rick"
+    },
+    {
+        "speaker": "Rick",
+        "text": "So, Roz, what made you switch to decaf?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Then again, sometimes a natural opening does present itself.",
+        "prevSpeaker": "Rick",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "I'm just trying to stay healthy.  Listen, Rick, I've been trying to call you, but your number wasn't working.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Rick"
+    },
+    {
+        "speaker": "Rick",
+        "text": "Oh yeah, I'm not in the dorms anymore.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Oh, you got your own place?",
+        "prevSpeaker": "Rick",
+        "nextSpeaker": "Rick"
+    },
+    {
+        "speaker": "Rick",
+        "text": "No, I moved back in with my parents.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Frasier, isn't that your dad over there waving to you?",
+        "prevSpeaker": "Rick",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh yes, of course.  My dad is over there waving to me. [_turns and sees Martin in the doorway_] Oh look -- my dad's over there waving to me!  [_Martin sits at a corner table.  Frasier goes over.  Rick sits down with Roz._] ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Rick"
+    },
+    {
+        "speaker": "Rick",
+        "text": "So, you look incredible.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Thanks.  [_At the other table:_] ",
+        "prevSpeaker": "Rick",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Dad, what are you doing here?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh, Sherry took her sister to that store across the street to buy some foundation garments.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I think they call them \"bras\" now.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Not these, you don't.  You could cross the River Kwai on one of those babies.  [_At the first table:_] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "So, I have some news for you--",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Rick"
+    },
+    {
+        "speaker": "Rick",
+        "text": "Oh, I've got some news too!  You remember I was telling you about that Junior Year Abroad Program?  I'm in!  I leave next fall and I will be spending the rest of the year in Paris!",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Oh, I'm so happy for you!",
+        "prevSpeaker": "Rick",
+        "nextSpeaker": "Rick"
+    },
+    {
+        "speaker": "Rick",
+        "text": "Yeah, I'm thinking, first my soccer team wins the championship, then I ace my finals, now I'm going to Paris!  I'm wondering, \"What next!\"",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Funny you should ask...  [_Frasier is trying to watch Roz, but Martin is trying to get his attention._] ",
+        "prevSpeaker": "Rick",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "I'm telling you, there's something in my eye!",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I don't see anything.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Are you sure?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I don't see anything!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well, you're not even looking!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_reaches his hand out_] Well then, here, let me--",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "No, don't touch!  Don't touch!  [_Frasier turns to see Rick get up and storm out of the caf e._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Listen, Dad, I've got to go talk to Roz, just go into the bathroom and wash it out with cold water.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh, yeah, I'm sure glad I worked all those extra shifts to put you through medical school, it really paid off!  [_Martin goes to the bathroom.  Frasier walks over._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Roz?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Don't worry, I told him.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "How'd he take it?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Well, he was pretty freaked out, actually.  But I assured him that I didn't need anything from him, and I was going to raise the baby by myself.  Anyway, he's gonna be fine. [_checks her watch_] Oh my God, I'm late for a doctor's appointment.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Are you gonna be all right?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Yeah.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Can I take you to dinner tonight?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Oh, thank you, Frasier, that would be nice.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "O.K.  [_He kisses her cheek, and she leaves.  Martin comes back._] ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Boy, I can't stand these yuppie joints.  Some bozo went through the men's room, correcting all the grammar in the graffiti with a red pen.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, I noticed.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "I mean, who'd have that much time on his hands?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Unbelievable.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "It was Niles, wasn't it?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I'll talk to him again.  [_Scene Five -- Roz's Apartment Roz is sitting on her bed looking at a sonogram picture.  Someone knocks._] ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "It's open, Frasier.  [_Rick comes in with a bouquet of roses._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Rick"
+    },
+    {
+        "speaker": "Rick",
+        "text": "Hi.  I'm sorry, I probably should have called first--",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "No, it's all right!  I'm just kind of surprised to see you here.",
+        "prevSpeaker": "Rick",
+        "nextSpeaker": "Rick"
+    },
+    {
+        "speaker": "Rick",
+        "text": "I'm kind of surprised to be here.  Oh, these are for you.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "[_takes the flowers_] Thank you.",
+        "prevSpeaker": "Rick",
+        "nextSpeaker": "Rick"
+    },
+    {
+        "speaker": "Rick",
+        "text": "There was a card, too, but it kind of blew off on the way over here.  I rode my bike.  [_Roz absorbs yet another reminder of how young he is._] ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Rick"
+    },
+    {
+        "speaker": "Rick",
+        "text": "I acted like an idiot today.",
+        "prevSpeaker": "Rick",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "It's O.K.--",
+        "prevSpeaker": "Rick",
+        "nextSpeaker": "Rick"
+    },
+    {
+        "speaker": "Rick",
+        "text": "No, it's not!  I mean, when you told me, all I could think about was myslef and how it was going to affect me.  Then I started thinking about you, and the, uh...",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "The baby.",
+        "prevSpeaker": "Rick",
+        "nextSpeaker": "Rick"
+    },
+    {
+        "speaker": "Rick",
+        "text": "Right.  That's the other reason I'm here.  I'm not going to Paris.  I'm not going anywhere.  I'm quitting school, and I'm going to work at the Cafe full time!",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "So you've come to tell me you've lost your mind.",
+        "prevSpeaker": "Rick",
+        "nextSpeaker": "Rick"
+    },
+    {
+        "speaker": "Rick",
+        "text": "No.  I came here to ask you to marry me.  [_Roz is overwhelmed for a moment._] ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Oh, Rick... that's so... wrong.",
+        "prevSpeaker": "Rick",
+        "nextSpeaker": "Rick"
+    },
+    {
+        "speaker": "Rick",
+        "text": "Oh yeah, that's right! [_kneels down_] Roz, will you marry me?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "No, no!  The proposal was fine, it was lovely.",
+        "prevSpeaker": "Rick",
+        "nextSpeaker": "Rick"
+    },
+    {
+        "speaker": "Rick",
+        "text": "Listen, I have been thinking about this all afternoon.  I could fall in love with you.  I could be a good husband, and a good father.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Rick, that's the whole point of being twenty.  You could be anything.  I'm much older than you, I am things.",
+        "prevSpeaker": "Rick",
+        "nextSpeaker": "Rick"
+    },
+    {
+        "speaker": "Rick",
+        "text": "I'm not too young for this!  You know, my mom was only seventeen when she had me.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "[_worst one so far_] Your mother's only thirty-seven?",
+        "prevSpeaker": "Rick",
+        "nextSpeaker": "Rick"
+    },
+    {
+        "speaker": "Rick",
+        "text": "Yeah.  And, boy, would you two hit if off!  I mean, you have a lot in common.  In fact, you sort of even look like--",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Stop right there!  Listen, your proposal was so sweet.  It's my first, actually.",
+        "prevSpeaker": "Rick",
+        "nextSpeaker": "Rick"
+    },
+    {
+        "speaker": "Rick",
+        "text": "Yeah, mine too.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Oh... I hope that you can understand why I can't possibly marry you.  When I get married, it's going to be to someone I love, and to someone who loves me, and someone who can legally drink champagne at my wedding!  [_Rick realizes that's her final answer._] ",
+        "prevSpeaker": "Rick",
+        "nextSpeaker": "Rick"
+    },
+    {
+        "speaker": "Rick",
+        "text": "O.K.  I understand. [_notices picture_] So, is this--?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Yeah, it's the sonogram picture.  It came this morning. [_shows him_] Right there.",
+        "prevSpeaker": "Rick",
+        "nextSpeaker": "Rick"
+    },
+    {
+        "speaker": "Rick",
+        "text": "Wow... that dot's my kid.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "No, that dot's just a dot.  That dot's your kid.  You can have it.  And I could send you photos, updates, that sort of thing?",
+        "prevSpeaker": "Rick",
+        "nextSpeaker": "Rick"
+    },
+    {
+        "speaker": "Rick",
+        "text": "I would like that.  Thank you.  Roz, are you sure--?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Yeah, I am.  I think this is the right thing, for you and for me.  Now go.  Go to Paris!  Go learn, go have fun!  Just don't come back wearing a beret!  [_They go to the door.  He hugs her._] ",
+        "prevSpeaker": "Rick",
+        "nextSpeaker": "Rick"
+    },
+    {
+        "speaker": "Rick",
+        "text": "O.K.  Take care of yourself.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "You too.  [_She brushes his shoulder as he leaves.  She closes the door goes to the kitchen to put the flowers away.  Someone knocks._] ",
+        "prevSpeaker": "Rick",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "I said go!",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_o.s._] But I just got here!  [_Roz runs back and opens the door._] ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "I'm sorry, Frasier, come in!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_coming in_] I ran into Rick in the hall.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Yeah.  He asked me to marry him.  I said no.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, that was very sweet of him.  [_From the kitchen, a kettle whistles._] ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Oh, I was just making some tea, do you want some?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yeah, sure, thanks.  With milk, please. [_she goes to the kitchen_] Well, you've had quite a day, haven't you?  You all right?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "I'm fine.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You know, it's O.K. to not be fine.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Is it O.K. just to be O.K.?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yeah, sure.  [_She comes back with a tea tray._] ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Thanks, Roz. [_notices_] Oh, oh, this milk's expired.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Oh. [_reads_] Whoa, it has.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "It's O.K., I can drink the tea straight.  [_She takes the milk toward the kitchen, then stops._] ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "I had no idea I let this milk expire.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "It's really all right, Roz.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "[_breaking down_] I can't take this.  Damn it, how could I let this happen?!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Are we still talking about the milk?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Don't you see?  Milk is a staple!  I let a staple go bad! Good mothers don't let staples go bad!  How can I be responsible for a child when I can't even keep fresh milk in the house?  Kids _need_ milk!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Roz, if it helps, kids don't even drink milk for the first year.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Oh, see?  I didn't even know that!  [_She collapses onto her bed._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I didn't know that either until I was a parent.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Don't you understand?  I have to know everything.  You can know half of everything.  You can know about the milk, and Lilith can know about the booties and the snugglies--",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You never met Lilith, did you?  [_He sits her down on her bed, and sits opposite her on the doorstep._] ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Just forget the milk, and forget the tea.  Talk to me.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "I don't even know where to start.  Everything in my life is about to change.  My body, my love life...",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, but it's also going to change in fantastic ways.  I remember the first night I brought Frederick home from the hospital.  You put this tiny thing into a tiny little bed, and you look around and you realize that the entire house has changed.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "I know.  I want that.  But, God, the responsibility...",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, yes.  But it's all worth it.  You get to share your life with a remarkable little creature... who only lives in the present, runs around naked without the slightest bit of shame, and can entertain himself for hours just staring at a shiny object.  Isn't that wonderful?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Isn't that Bulldog?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, technically, yes. [_they laugh_] Roz, I'm going to tell you something I didn't find out until I became a father. You don't just love your children... you fall in love with them.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Oh my God... I'm gonna have a baby.  Someone is gonna cry out for \"Mom\" and it's gonna be me! [_laughs, then cries_] I'm really scared.  What if I can't do this by myself?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "But, Roz, you're not all by yourself.  I'm here.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Oh, thank you, Frasier. [_hugs him_]",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "And I'll be available for you whenever you wish, from taking you out to dinner tonight, to that moment in the delivery room when you say, \"Welcome to the world little Jimmy,\" or \"little Sally,\" or... dare I hope \"little Frasier?\"",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Oh my God, I think I'm gonna be sick.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I guess I got a little carried away there.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "No, I mean I'm gonna hurl!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh dear God!  [_She runs to the kitchen._] ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    }
+]

@@ -1,0 +1,1341 @@
+[
+    {},
+    {
+        "speaker": "Zach",
+        "text": "[_on tape_] Janet from North Seattle, you're in bed with Dr. Zach.  How can I make you feel better?",
+        "prevSpeaker": "No Previous Speaker",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Oh, yeah... [_laughs_]",
+        "prevSpeaker": "Zach",
+        "nextSpeaker": "Janet"
+    },
+    {
+        "speaker": "Janet",
+        "text": "[_on tape_] My husband isn't the man he used to be, if you know what I mean.  It's ruining our marriage.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Zach"
+    },
+    {
+        "speaker": "Zach",
+        "text": "Are you sure it's just his fault?  The signs on \"Love Street\" don't all point one way.",
+        "prevSpeaker": "Janet",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "My God, this is the competition?  Dr. Zach?  Please!  It's nothing but suggestive, smarmy sleaze.",
+        "prevSpeaker": "Zach",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "And he's great at it!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Roz!  You know what, I tell you what, I give this guy four, five weeks, tops.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "He's been on the air ten weeks.  And frankly, we're getting spanked.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Oh, he did a whole show on that yesterday.",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Stop it!  So, well... all right, he's the new flavor of the month.  We've seen them come and go before.  Dr. Mary, Professor Hugs, \"On the Couch With Jeff and Lars.\"",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "I don't know, Doc, I think this guy's got staying power.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "He did a whole show on that Tuesday.",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Cut it out, Roz!",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "Hey, you know, maybe we should try some of those theme shows.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You know what, actually we have done theme shows.  You know, I still get letters about the show we did on existential angst!",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "No, we don't.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I get them at home.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "You know, I'm just saying it wouldn't hurt to spice things up a little.  You know, mention people's privates once in a while.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, absolutely not.  My show is fine the way it is.  What it needs is a little more support from this station.  How about some advertising?",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "Whoa, whoa, I don't want to just throw money at the problem.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Thirty seconds, Frasier.",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Right, right.  Well, then how about airing some more promos on my lead-in?  I mean, they get a sizable audience.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "Yeah, they do.  That's why we're moving them to evening drive time.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You mean I'm their lead-in now?",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "Yeah.  They're not too happy about it.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "[_on air_] And we're back, the final hour of the Frasier Crane Show.  Our next caller is Garth from Mercer Island.",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Go ahead, Garth.  I'm listening.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Garth"
+    },
+    {
+        "speaker": "Garth",
+        "text": "[_v.o._] See, this is kind of weird talking about to a psychiatrist, but it is something couples go through, and since I'm not using my real name, maybe it's okay.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Garth"
+    },
+    {
+        "speaker": "Garth",
+        "text": "It's... our household budget. _Kenny leaves in exasperation, as Frasier and Roz sag with disappointment.  FADE OUT  Scene Two - Apartment Martin and Niles are sat eating breakfast.  Daphne brings some coffee from the kitchen._",
+        "prevSpeaker": "Garth",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Any more sausage, Daph?",
+        "prevSpeaker": "Garth",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "I told you five links ago, you're cut off.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh, come on!  I'm being good, I took my cholesterol pill.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Yes, and that was the last one.  You'd better call Dr. Stewart.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh, he'll make me go through a whole physical just to get a refill.  Hey, Niles, couldn't you write me a prescription?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, I can't, Dad, sorry.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Why not?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I don't have your chart, I'm not familiar with your medical history-",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh, come on, you see me every day, you know I'm fine.  Just get your little pad out and write \"more pills.\"",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "What's the big deal?  Why do you hate going to the doctor so much?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Everybody does.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Not my brother Billy.  He loved going to the doctors.  From the time he was a little boy he'd start getting undressed in the car.  And mind you, that was just for the dentist.  As he got older, he volunteered for medical studies, supported himself getting all sorts of experimental drugs pumped into him. [_goes into the kitchen_]",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Think she's finished?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Wait for it.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "[_comes back with a rack of danishes_] One year, he grew little boobies!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Hey, there.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Hey, Fras.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Ah, good morning, all. [_sees the paper_] Dear God.  Do you believe this?  A full-page ad!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "[_reading_] \"Cuddle Up With Dr. Zach.\"",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes.  As if some air-brushed picture of a pretty boy has anything to do with effective therapy!",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "He is awfully cute.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_looking_] Yet not so much you hate him for it.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "All right!  You know, that's the reason I keep losing to him in the ratings.  His station keeps flooding the marketplace with this useless tripe!  It's my turn now.  I'm going to call my agent.  Let her earn her ten percent.  Tell you what, once Bebe gets through with the station, my face will be splattered all over this city! [_picks up the phone and takes the paper to the couch_]",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "That Bebe is a monster, I don't know why you chose her.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "What possessed you?  Yeah, right - she did.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, well, Bebe's evil, but she's my evil. [_takes a pen and starts marking the paper_]",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Better bring a newborn baby in case she gets hungry.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Frasier, all this over a picture in the paper, it seems a little petty.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "It is not petty.  It's about getting my due as a respected member of this community, and as a titan of Seattle radio psychiatry! [_finishes marking the paper and laughs_] Ha-ha! Yeah, you're not so pretty with a mustache and a hairy mole now, are ya? _He proudly holds up the paper, showing off his embellishments.  FADE TO:  Scene Three - Bebe's Office Frasier is sitting in Bebe's waiting room, while her secretary shuffles around in the background.  Bebe comes out._",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Bebe"
+    },
+    {
+        "speaker": "Bebe",
+        "text": "Frasier Crane!  I wish my eyes were sore so you could be a sight for them!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_kisses her cheeks_] Thank you, Bebe, thank you for seeing me on such short notice.",
+        "prevSpeaker": "Bebe",
+        "nextSpeaker": "Bebe"
+    },
+    {
+        "speaker": "Bebe",
+        "text": "Oh, there's no such thing as short notice for my favorite client! [_to her secretary_] Get Dr. Crane some coffee, please.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Bebe"
+    },
+    {
+        "speaker": "Bebe",
+        "text": "So, how may I serve you?",
+        "prevSpeaker": "Bebe",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, uh, actually KACL is not doing all it should to promote my show.",
+        "prevSpeaker": "Bebe",
+        "nextSpeaker": "Bebe"
+    },
+    {
+        "speaker": "Bebe",
+        "text": "Say no more.  We'll put the fear of God into them.  We'll hold their feet to the fire until their skin crackles!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Thank you, Bebe, I knew I could count on you.",
+        "prevSpeaker": "Bebe",
+        "nextSpeaker": "Bebe"
+    },
+    {
+        "speaker": "Bebe",
+        "text": "Well, it won't be me personally.  I think now is the time to unleash the newest member of Team Crane.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "What do you mean?",
+        "prevSpeaker": "Bebe",
+        "nextSpeaker": "Bebe"
+    },
+    {
+        "speaker": "Bebe",
+        "text": "Well, you've become too big to be served by the efforts of one adoring mortal.  That's why I'm bringing on more firepower!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, I like the sound of that!",
+        "prevSpeaker": "Bebe",
+        "nextSpeaker": "Bebe"
+    },
+    {
+        "speaker": "Bebe",
+        "text": "I thought you might!  Frasier, meet your new agent, Portia Sanders. _Frasier turns around - and sees Bebe's secretary standing there. Where Bebe is dark, pushy, and brassy, Portia is blonde, wispy, and squeaky-voiced.  Frasier cannot believe it._",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Portia"
+    },
+    {
+        "speaker": "Portia",
+        "text": "Pleased to meet you.",
+        "prevSpeaker": "Bebe",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_shakes her hand_] We've met.  Several hundred times. [_to Bebe_] This is your assistant.",
+        "prevSpeaker": "Portia",
+        "nextSpeaker": "Bebe"
+    },
+    {
+        "speaker": "Bebe",
+        "text": "Not anymore.  Now she's a full-fledged junior agent.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "She brings me coffee. [_takes the cup she's brought_]",
+        "prevSpeaker": "Bebe",
+        "nextSpeaker": "Bebe"
+    },
+    {
+        "speaker": "Bebe",
+        "text": "She'll bring you Juan Valdez on a donkey if that's what you want!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Portia"
+    },
+    {
+        "speaker": "Portia",
+        "text": "I thought we should start by scheduling a meeting to get more acquainted.",
+        "prevSpeaker": "Bebe",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "We've met!",
+        "prevSpeaker": "Portia",
+        "nextSpeaker": "Portia"
+    },
+    {
+        "speaker": "Portia",
+        "text": "You've only met Portia the assistant, the girl who's spent the last four years answering phones and getting your coffee just right.  Well, Portia the agent plans to take that same attention to detail when representing you.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I'm sorry, but you've never gotten my coffee right. [_hands it back_]",
+        "prevSpeaker": "Portia",
+        "nextSpeaker": "Portia"
+    },
+    {
+        "speaker": "Portia",
+        "text": "You never said anything before.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, I have, every time.",
+        "prevSpeaker": "Portia",
+        "nextSpeaker": "Bebe"
+    },
+    {
+        "speaker": "Bebe",
+        "text": "Portia, will you give us a minute?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Portia"
+    },
+    {
+        "speaker": "Portia",
+        "text": "Is this about me?  Because I would love the opportunity to address any concerns.",
+        "prevSpeaker": "Bebe",
+        "nextSpeaker": "Bebe"
+    },
+    {
+        "speaker": "Bebe",
+        "text": "Just go outside.",
+        "prevSpeaker": "Portia",
+        "nextSpeaker": "Portia"
+    },
+    {
+        "speaker": "Portia",
+        "text": "I'll be outside if you need me.",
+        "prevSpeaker": "Bebe",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, yes, that's good to know.",
+        "prevSpeaker": "Portia",
+        "nextSpeaker": "Bebe"
+    },
+    {
+        "speaker": "Bebe",
+        "text": "Seems innocent, doesn't she?  Almost naive.  That's the quality that sets the trap.  Then, when she's lulled her prey, she pounces, pounces like a tiger-",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "All right!  Bebe, what's going on here?  Are you fobbing me off?",
+        "prevSpeaker": "Bebe",
+        "nextSpeaker": "Bebe"
+    },
+    {
+        "speaker": "Bebe",
+        "text": "Ouch!  Do you want the knife back, or shall I just keep it in my heart?  Portia will merely be looking after the day-to-day details, freeing me up for the big picture.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Really?",
+        "prevSpeaker": "Bebe",
+        "nextSpeaker": "Bebe"
+    },
+    {
+        "speaker": "Bebe",
+        "text": "Of course.  You are the rock upon which this agency is founded, upon which we continue to thrive!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Zach"
+    },
+    {
+        "speaker": "Zach",
+        "text": "Oh, sorry to interrupt, Bebe, but we have reservations at one o'clock.",
+        "prevSpeaker": "Bebe",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Dr. Zach!  What is he doing here?",
+        "prevSpeaker": "Zach",
+        "nextSpeaker": "Bebe"
+    },
+    {
+        "speaker": "Bebe",
+        "text": "Dr. Who?  I'm confused, who are you?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "For God's sake, Bebe!",
+        "prevSpeaker": "Bebe",
+        "nextSpeaker": "Bebe"
+    },
+    {
+        "speaker": "Bebe",
+        "text": "[_pushes Dr. Zach out_] You were supposed to meet me in the restaurant - whoever you are! [_closes the door_]",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Bebe, how could you?  I feel so betrayed.",
+        "prevSpeaker": "Bebe",
+        "nextSpeaker": "Bebe"
+    },
+    {
+        "speaker": "Bebe",
+        "text": "And I am just as outraged as you are!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You know, I see what's going on here.  You're trying to pass me off to your assistant so that you can devote all  your attention to your new number one client!",
+        "prevSpeaker": "Bebe",
+        "nextSpeaker": "Bebe"
+    },
+    {
+        "speaker": "Bebe",
+        "text": "Nonsense.  There is no one more important to me than you.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Then let him have the junior agent.",
+        "prevSpeaker": "Bebe",
+        "nextSpeaker": "Bebe"
+    },
+    {
+        "speaker": "Bebe",
+        "text": "Frasier... we have done great things, you and I.  We've climbed this mountain together and planted your flag. Now I've discovered another young man who... wants to plant his flag.  Would you deny me the chance to share in that adventure?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes.",
+        "prevSpeaker": "Bebe",
+        "nextSpeaker": "Bebe"
+    },
+    {
+        "speaker": "Bebe",
+        "text": "Oh, come on, don't be selfish!  You'll be fine with Portia. Don't forget, she reports directly to me.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Bebe... throughout our relationship, I have put up with a lot. But I never doubted for an instant your devotion to my career. Apparently, that is at an end.  And so, therefore, is my association with this agency. [_goes to the door_] And, screw, may I add, YOU!",
+        "prevSpeaker": "Bebe",
+        "nextSpeaker": "Portia"
+    },
+    {
+        "speaker": "Portia",
+        "text": "I was thinking we could have that meeting next Tuesday.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "We have met! [_leaves_] _END OF ACT ONE  ACT TWO_ **IN MARTIN'S DEFENSE, EDDIE ATE SOME TOO** _Scene Four - Apartment Frasier comes in the door.  Martin is in his chair, Niles and Daphne are pouring sherries by the bar.  On the table is a pot of flowers._",
+        "prevSpeaker": "Portia",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Hey, Fras.  You just missed your new agent.  She sent those. [_points to the flowers_]",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I didn't miss her.  I was hiding in the stairwell until she left.  And Portia is not my new agent.  She's Bebe's minion! Her little winged monkey!  The woman has been hounding me - you know, I had to turn off my cell phone.  God only knows how she got the new number.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Oh, Dr. Crane, did the woman from the Publisher's Clearing House reach you?  She seemed quite insistent.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Wow, she sounds like a real go-getter.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I don't care if she is, it'll be a cold day in hell before I go back to Bebe's agency.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well, uh, you're not going to send back the flowers and muffins, are you?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I don't see any muffins.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "I mean, if she had sent muffins.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Don't worry, Dad, there will be muffins a-plenty.  Now that I am agent-less, the word will spread like wildfire!  You be prepared for this phone to start ringing right off the hook! _Everyone glances expectantly at the phone, Martin cupping a hand to his ear._",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I didn't mean literally.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "I know, but how great would that have been?  You saying, \"phone's gonna start ringing,\" and boom!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, yes, yes.  The truth is, I'm excited.  I'm excited about having a new agent, I'm excited about being excited about my career again!",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Ooh, so close! [_Niles tries to take away her sherry, but she waves him off_]",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "And so it begins.  The sharks smell Crane in the water.  Let's just see which one of them's hungriest, shall we? [_picks up_] Hello?  Yes, could you hold on for just one moment, please? [_holds out the phone_] It's for you, Dad.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh, thanks.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Hello?  Oh, hi, Dr. Stewart, thanks for calling me back. Um, I was hoping you could refill my prescription without me coming into the office.  Oh, come on, doc!  My son's a doctor, he says I look fine. [_smaller voice_] A psychiatrist.  Okay, okay, I'll be in there tomorrow.  Bye. [_hangs up; to Niles_] I hope you're satisfied.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, Dad, we've discussed this.  I'm happy to drive you to the doctor, but I can't just write you a prescription.  I would never violate my ethics like that.  Have you asked Frasier?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Yeah, he said the same old baloney you do.  Look, I've been taking this medicine for four years, Niles.  I don't need an exam, I just need a refill.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "No!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Here's a thought: Niles, you're a doctor.  Why don't you give your father a full medical examination?  That way you'll both be satisfied.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Can you pick me up at one?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Yeah. _Martin does a hasty about-turn and heads for the hallway, while Niles gulps down the rest of his sherry.  FADE TO:  Scene Five - KACL Roz is sat in her booth as usual.  Frasier's voice is on the air, but his booth is empty.  Portia enters Roz's booth._",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_on air_] I'm telling you that most problems are resolved...",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Portia"
+    },
+    {
+        "speaker": "Portia",
+        "text": "Knock, knock.  I'm looking for Frasier.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Oh, he's not working today.",
+        "prevSpeaker": "Portia",
+        "nextSpeaker": "Portia"
+    },
+    {
+        "speaker": "Portia",
+        "text": "Then why am I hearing his show?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Well, we play \"The Best of Crane\" on Wednesdays.",
+        "prevSpeaker": "Portia",
+        "nextSpeaker": "Portia"
+    },
+    {
+        "speaker": "Portia",
+        "text": "Oh.  Well, would you please ask him to call Portia?  It's really important. [_gives Roz her card_]",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Sure. _Portia leaves.  Roz knocks on the glass partition, and Frasier emerges from under the console, still holding the mike._",
+        "prevSpeaker": "Portia",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "And I know it's never easy, Rachel, but you and your husband won't get anywhere until you confront your problems head-on. [_disconnects_] We'll be right back, Seattle, after the news.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Can't dodge her forever.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I won't have to, Roz, as soon as I have a new agent.  Have there been any calls?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Nope, sorry.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "What?  What the hell is going on?  Surely someone would be interested in representing me.  I still have a viable career, even if, arguably, it may or may not be going through what might be perceived by some as a... tiny lull.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Portia"
+    },
+    {
+        "speaker": "Portia",
+        "text": "[_re-enters_] There you are! [_Frasier turns and gasps_] I was leaving you a note on the windshield of your car, and I said to myself, \"His car's here, so he's here, so why am I leaving a note on his windshield?\" [_giggles, and hands him the note_] Here.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Portia, I'm sure you're a lovely person, and I applaud your effort to find a new career - but not at the expense of my own.",
+        "prevSpeaker": "Portia",
+        "nextSpeaker": "Portia"
+    },
+    {
+        "speaker": "Portia",
+        "text": "But you haven't heard my ideas yet.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Nor will I. [_hands back the note_] How can I make this any clearer to you?  You are not my agent.  You're not going to be my agent.  Not now, not ever.  So go practice on someone else's time, and leave me alone.",
+        "prevSpeaker": "Portia",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "That was brutal.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_sighs_] Don't worry, Roz, I'll be okay.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "She seems very persistent.  That's not such a horrible thing to have in an agent.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I'd rather have no agent at all, than let Bebe win! [_thinks_] You know, that's not such a bad idea.  I don't need an agent, I can represent myself!  I mean, I have some insight into the human mind.  I think that would be helpful in negotiations. My God, I should have thought of this sooner!  Just think of the money I could save!",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Isn't that what you said when you cut your own hair?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No!  That was just an emotional response to an unruly cowlick.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Okay, fine.  So, you represent Frasier Crane.  Now what?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, for one, I'll do what Bebe couldn't do: I'll get Kenny to boost the advertising budget for our show. [_knocks on the glass_]",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Yeah, but you already asked him that and he said no.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, that was Dr. Frasier Crane asking.  Now, it's Agent Crane - licensed to charm.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "[_enters_] What is it, Doc?  Is this about promos? ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No! [_laughs, to Roz_] Will you believe this guy?  No, Kenny, listen, I've been thinking.  You know, I think it's high time that you and I got together outside of the workplace.  So, there's a little club downtown that I go to.  How would you like to join me tomorrow for a little... uh, a little massage, and a little steam, huh?  What do you say?",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "Are you kidding?  I'm front and center with a fistful of singles!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_taken aback, laughs_] Kenny, hah!  It-it's not that kind of club.",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "Oh... fives?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "What is wrong with you?",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "It's an athletic club, with squash courts and a swimming pool.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "Oh, right! [_confidential whisper_] Gotcha. [_leaves_]  FADE TO:  Scene Six - Niles's Mercedes Niles is driving Martin to the doctor's. _",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Hmm, I'm sure you're happy.  You're not gonna be spending the next hour sitting bare-assed on some cold steel table.",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "And neither are you, you big baby.  I'm sorry, I'd help if I could, Dad, but I swore an oath.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I wonder what this is about. [_pulls over_] I'm sure it's just a misunderstanding.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Good afternoon, officer.  Uh, I didn't do anything wrong, did I?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Actually, son, you made an illegal left turn back there.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Thank you, Dad.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Cop"
+    },
+    {
+        "speaker": "Cop",
+        "text": "License and registration, please.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_as he's fishing them out_] Uh, you know, officer, my father here is no stranger to the rules of the road.  Isn't that right, Dad?",
+        "prevSpeaker": "Cop",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Yes, sir, he is, uh, intimately acquainted with Lady Law. Aren't you, Dad?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Just a concerned citizen.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Cop"
+    },
+    {
+        "speaker": "Cop",
+        "text": "I'll be right back. [_walks back to his car_]",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Why didn't you flash your badge and get me out of the ticket?",
+        "prevSpeaker": "Cop",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well, I would have, Niles, but I took an oath too.  However, if you were to take out that prescription pad...",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Are you blackmailing your own son?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "I'd write fast, there's nothing I can do once he writes that ticket. _Niles hurriedly takes out his pad and scribbles on it.  Martin leans out his window._",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Officer? _As the cop comes back, Niles tears off the slip.  Martin tucks it inside his jacket._",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Cop"
+    },
+    {
+        "speaker": "Cop",
+        "text": "Yes?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Uh, yeah, officer, I was wondering if maybe you could give my son a break. [_flashes his badge_] I don't think he'll be doing that again.",
+        "prevSpeaker": "Cop",
+        "nextSpeaker": "Cop"
+    },
+    {
+        "speaker": "Cop",
+        "text": "Well, uh, I guess this time I could let it slide. [_rips off the ticket and gives it to Niles_] Drive carefully.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, I will.  Thank you, sir.",
+        "prevSpeaker": "Cop",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "What?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "I got news for you: you didn't make an illegal left turn. That's a buddy of mine.  I set the whole thing up to get you to write me my prescription! [_laughs_]",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_fastens his seat belt_] I got news for you: I just drew you a picture of a dog. _Martin stops laughing, checks the slip, and sees HE'S the one who's been had._",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_starts the car again_] R-R-Ruff! _FADE TO:  Scene Seven - Locker Room The empty locker room at Frasier's upscale health club.  There are two rows of lockers along opposite walls, and two benches.  Frasier and Kenny, wearing only towels, exit the steam room._  [__N.B. Check out Kelsey Grammer's performance in the 1998 HBO comedy, \"The Pentagon Wars\" for more Turkish bath humor.__] ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "So, what'd you think?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "Oh, I could get addicted to that!  What was that stuff?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Steam!",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "Oh, it felt so great!  Everything's great here!  I can't believe I never heard of this place. [_sits on a bench_] They should advertise or something.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_sits opposite him_] You know, speaking of advertising, I think our recent dip in the ratings is due to a lack of advertising.",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "What's to advertise, Doc?  Your show's nine years old.  Unless there's some new angle to promote, it's money better spent elsewhere.  Now if you'll excuse me, I noticed a basket of free combs by the sink. _Kenny leaves.  Frasier throws down his small towel in frustration, then turns and opens his locker.  Behind him, Portia walks into the locker room.  Just as Frasier unwraps his towel from his waist-_",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Portia"
+    },
+    {
+        "speaker": "Portia",
+        "text": "Dr. Crane?",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_gasps, jerks his towel back on_] Portia, what the hell are you doing here?  This is a private club and a men's locker room, get out!",
+        "prevSpeaker": "Portia",
+        "nextSpeaker": "Portia"
+    },
+    {
+        "speaker": "Portia",
+        "text": "Not until you give me a chance.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Look, I told you, I'm not interested.",
+        "prevSpeaker": "Portia",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "Hey, Doc, can I borrow your roll-on?  I left mine at home- [_unwraps his towel, turning around_] HEY! _He fumbles his towel, dropping it to the floor, and shields himself with the locker door._",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Portia"
+    },
+    {
+        "speaker": "Portia",
+        "text": "You must be Kenny Daly.  I'm Portia Sanders, Frasier's agent.",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "She is not my agent!",
+        "prevSpeaker": "Portia",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "I'm naked.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Portia"
+    },
+    {
+        "speaker": "Portia",
+        "text": "How much are you prepared to increase this man's advertising budget?",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "Zero, and again, naked.",
+        "prevSpeaker": "Portia",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_hands him his towel_] Kenny, look, I apologize for this. Portia, you're leaving!",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Portia"
+    },
+    {
+        "speaker": "Portia",
+        "text": "Not until he hears me out.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "[_grabs his pants_] Well, forget it, I'm out of here. [_Portia snatches them away_] Hey!  What are you doing?",
+        "prevSpeaker": "Portia",
+        "nextSpeaker": "Portia"
+    },
+    {
+        "speaker": "Portia",
+        "text": "Taking your pants.  You'll get them back when I'm finished. Okay, you're saving a few bucks on advertising, but with a little investment now, you can make a bundle when we syndicate!",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "Are you kidding?  Who's gonna want to syndicate Frasier?",
+        "prevSpeaker": "Portia",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Hey!",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "No, no, no offense, Doc, but if you were to syndicate-",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Kenny, I take offense! [_they start arguing_]",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Portia"
+    },
+    {
+        "speaker": "Portia",
+        "text": "[_Bebe-ish_] All right!  Sit down, and listen up! _Surprised, they shut up.  Kenny bumps into the locker and rewraps his towel.  He and Frasier sit on a bench together._",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Portia"
+    },
+    {
+        "speaker": "Portia",
+        "text": "Legs together! [_N.B. Kudos to Chenoweth :-)_] _Portia transforms before their eyes - the hypnotic pitch, the expansive gestures, the haunted eyes - leaving us no doubt whose prot\ufffdg\ufffde she really is.  She drapes Kenny's pants over her shoulder and begins._",
+        "prevSpeaker": "Portia",
+        "nextSpeaker": "Portia"
+    },
+    {
+        "speaker": "Portia",
+        "text": "All right, maybe you two don't see the potential for syndication... but I do.  Sure, the big markets are harder to crack.  But we'll start smaller - KBCD in Medford, KBAB in Boise.  They're both changing their formats.  After the beginning of the year, they're going to need new programming. Soon, we'll have a vast and viable audience. [_gestures with the pants_] Oh, think of it!  The obsessive-compulsive on his tractor... the bipolar cop on his beat... the soccer mom seething with rage! [_points to Frasier_] And they're all out there across this great land of yours, just waiting for you to help them!",
+        "prevSpeaker": "Portia",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_enraptured_] I've always thought that!",
+        "prevSpeaker": "Portia",
+        "nextSpeaker": "Portia"
+    },
+    {
+        "speaker": "Portia",
+        "text": "Yes! [_to Kenny_] But I can't do any of this unless you start backing us up with some advertising! [_to Frasier_] And you! You've got to be ready to schmooze every station manager from Portland, to the other Portland! [_steps back_] I'm hungry for this.  I need you both to be as hungry as I am!  Are you hungry?!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_jumps up_] I'm starving!",
+        "prevSpeaker": "Portia",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "[_jumps up_] Me, too!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Portia"
+    },
+    {
+        "speaker": "Portia",
+        "text": "[_normal voice_] Great.  Call my office Monday morning, we'll go over the details. _She walks out, still carrying the pants, leaving Frasier and Kenny awestruck._",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Wow!  That was my very first locker room pep talk!",
+        "prevSpeaker": "Portia",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "Mine, too!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "She took your pants, you know!",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "[_laughing_] I know! _The realization slowly hits Kenny, but Frasier still trembles with excitement.  END OF ACT TWO_",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Credits"
+    }
+]

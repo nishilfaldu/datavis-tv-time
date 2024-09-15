@@ -1,0 +1,1389 @@
+[
+    {},
+    {
+        "speaker": "Bulldog",
+        "text": "[_on-air_] ...4 for 17 on Sunday, he calls himself a quarterback? I've passed kidney stones with more accuracy!",
+        "prevSpeaker": "No Previous Speaker",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_to Roz, who's just passing by_] Roz, Roz.  Listen, could you go in there and get my briefcase for me?  I was just on my way out but I left it in the studio.",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Why don't you go get it?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, because every time I go in there, he puts me on the air and humiliates me.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Well, what do you think he does to me?  Last week when I went in to get my car keys he introduced me as Martina Navratilova's girlfriend. [_leaves_]",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "[_ringing a cowbell_] Well Chuck, I'm really sorry I offended you. Now why don't you put your skirt back on and do some dishes? _Frasier opens the door and crawls into the studio.  His briefcase is sitting on the console near the door.  As he reaches out for it, Bulldog, who has seen him, picks up the briefcase and moves it to the other side.  Frasier, keeping his head down, reaches a hand over the console and gropes blindly for it._ ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "The lines are open.  And how about some real men calling instead of crybabies like Chuck? _He raps Frasier over the knuckles with his drumstick, making him jump to his feet._",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "Well... look who's just crawled into the doghouse, it's Dr. Frasier Crane!  And you know what we always do when we get a house call from the doctor. [_puts tape in machine_]",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Tape"
+    },
+    {
+        "speaker": "Tape",
+        "text": "[_Italian_] Dropp-a your pants and bend over, I take-a your temperature.",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Hello, Bulldog.",
+        "prevSpeaker": "Tape",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "[_holding up briefcase_] So, doc?  Who's your pick for the Giants- Saints game this weekend?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_wearily_] The Giants.",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "You're kidding!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "The Saints?",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "You're kidding!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Somebody has to win.",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "Yeah.  They would if the Giants and Saints were playing this weekend! _He plays a tape of a donkey braying, then throws the briefcase to Frasier._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, that was very funny indeed. I wished you'd played it on my show. It deserves to be heard by a much larger audience. Hee haw!  Hee haw! [_leaves_] **A CHUMP OFF THE OLD BLOCK**  _Scene B: The Frasier Residence. Daphne opens the door to Niles._ ",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Hello, Dr. Crane.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Hello, Daphne. [_indicating package_] I brought this for dinner.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Hey, Niles.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Dad.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Kinda early.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well, I just put Maris on the train to Chicago.  And you know how desolate I am without my Maris.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "[_opening package_] Champagne?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Goes with all occasions.  Can I be of any assistance in the kitchen?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "No, I have everything well in hand.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Ah, well... lucky everything.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_as Martin reaches for a piece_] Uh-uh. [_Martin reaches for another piece_] Mmm-mmm.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "All right, what would you do?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well for starters, I'd take that corn-nut off the board.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "That corn-nut's my bishop.  Eddie ate the real one.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "In that case, corn-nut to Rook 7.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Hello all.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Evening, Dr. Crane.  Guess what your brother brought, champagne.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, Maris left for Chicago already?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "She's riding the rails as we speak.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "If I may ask, why does she take the train?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "She's been afraid to fly since her harrowing incident.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Oh, dear.  Did a plane almost crash?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "No, no.  She was bumped from first class.  She still wakes up screaming.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Hey Frasier, I'm glad you're here, I've got a favour to ask you.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "What is it, dad?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well, you know my old buddy from the force Joe Linski's running the benefit for the Widows and Orphans fund this year, and he's doing one of those bachelor auctions and he's out looking for local celebrities and I thought if we could get somebody really famous from the radio station...",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Dad, say no more.  I'd be delighted to help.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Great.  So you'll ask Bulldog tomorrow?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "...Bulldog.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh.  Well, you know, don't get me wrong, I was going to ask you too.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Mm-hmm?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Yeah I was, I was.  I was just saving the best for last.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "A-ha.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh Frasier, give him a break.  If he backpedals any faster, he'll trip over his walker.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "All right, I'll do it.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh, great!  I really appreciate it... you won't forget to ask Bulldog, will ya?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I'll leave a note on his hydrant.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "A bachelor auction. I've always thought it would be fun to pick a man off the block to do my bidding and fulfill my every desire. [_then_] Dr. Crane?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_from his private little world_] I'd love to. [_realises Daphne is offering him some champagne_] I mean, ah... Frasier?  I was just thinking, what if no-one bids?  What if you're left standing there, with flop sweat trickling down your back, amidst a great, gaping silence.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "It'll never happen, Niles.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Thank you, dad.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Yeah, we got a band! **GOING ONCE**  _Scene C: Backstage at the bachelor auction.  Frasier and Bulldog are listening to the screams of the audience._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Announcer"
+    },
+    {
+        "speaker": "Announcer",
+        "text": "[_offstage, or rather, on stage, if you know what I mean_] Our next bachelor on the block is public television's own cute and cuddly Mr. Science.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "My God!  The estrogen levels are off the charts out there!",
+        "prevSpeaker": "Announcer",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "Yeah, isn't it great?  I mean, deep down, chicks are just like guys.  We all want the same thing.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, I've got news for them: Frasier Crane does not put out. All they're getting for their little donation is a well- prepared gourmet meal and a handshake at the door.",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "BORING!  My date gets a stretch limo, moon roof, dinner, floor seats at the Sonics game and these incredible buns of steel. [_turns around_] Feel 'em, doc.  Come on, feel 'em!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Thank you, no!  ",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Announcer"
+    },
+    {
+        "speaker": "Announcer",
+        "text": "Please, please. Keep articles of clothing off the stage!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Man, you show these women a little celebrity beefcake and they go nutso.",
+        "prevSpeaker": "Announcer",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I don't mind telling you dad, I'm a little bit nervous. This is a textbook case of mob mentality.  I hope all the fire exits are clearly marked.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Ah, relax, relax, will ya?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Right, that's easy for you to say.  You're not the one jumping into the Rottweiler pit with a pork chop around your neck!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_spotting a celebrity_] Hey Frasier, that's T.J. Smith, he's a linebacker for the Seahawks.  They call him \"The Enforcer,\" he's put two quarterbacks in hospital already this season. [_goes over to T.J._] Hey, T.J.!  Marty Crane, nice to meet ya.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Manager"
+    },
+    {
+        "speaker": "Manager",
+        "text": "Number 19?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "T.J."
+    },
+    {
+        "speaker": "T.J.",
+        "text": "[_to Martin_] Please don't make me go out there.",
+        "prevSpeaker": "Manager",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh, you'll be fine.  Don't worry, just go on out there and have a good time.",
+        "prevSpeaker": "T.J.",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "They're gonna have him for breakfast. **GOING TWICE**  ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "Hey, T.J.  How was it, man?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "T.J."
+    },
+    {
+        "speaker": "T.J.",
+        "text": "It was horrible. They're like sharks at a feeding frenzy. The one who bought me had this crazed look in her eye.  ",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Where do I pay?",
+        "prevSpeaker": "T.J.",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Roz!",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "I saw what I wanted and I went after it. [_T.J. makes to back off_] Stay!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Manager"
+    },
+    {
+        "speaker": "Manager",
+        "text": "Number 20? [_this is Frasier_]",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_nervously_] That's me.",
+        "prevSpeaker": "Manager",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "You know son, I haven't had a chance to tell you how much I appreciate this.  You know, having somebody like you in the auction really adds class.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "My pleasure, dad.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Now, if the bidding gets slow, drop a quarter and take a couple of minutes to pick it up.  **...GONE**  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Announcer"
+    },
+    {
+        "speaker": "Announcer",
+        "text": "Sold!  To that very determined lady in the back row for five hundred dollars.  ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "So Doc, who bought ya?",
+        "prevSpeaker": "Announcer",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I have no idea.  Last thing I remember is someone shouting out, \"Shake your money maker.\"",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Manager"
+    },
+    {
+        "speaker": "Manager",
+        "text": "Number 21? [_that's Bulldog_]",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "Ladies!  Start your engines! [_exits_]  ",
+        "prevSpeaker": "Manager",
+        "nextSpeaker": "Christina"
+    },
+    {
+        "speaker": "Christina",
+        "text": "Dr. Crane?  Christina Harper.  I just bought you.",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You?  You?  You... bought me.",
+        "prevSpeaker": "Christina",
+        "nextSpeaker": "Christina"
+    },
+    {
+        "speaker": "Christina",
+        "text": "I listen to your show all the time, I'm a big fan of yours.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, how... wonderful.  Ah, you bought me for, for five hundred dollars.  That's a lot of money.",
+        "prevSpeaker": "Christina",
+        "nextSpeaker": "Christina"
+    },
+    {
+        "speaker": "Christina",
+        "text": "Oh, that's all right, I just did a big layout for \"Seattle Style.\"",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, are you a photographer?",
+        "prevSpeaker": "Christina",
+        "nextSpeaker": "Christina"
+    },
+    {
+        "speaker": "Christina",
+        "text": "No, I'm a model.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "A model!  How wonderful.  For you.",
+        "prevSpeaker": "Christina",
+        "nextSpeaker": "Christina"
+    },
+    {
+        "speaker": "Christina",
+        "text": "So um, how about Friday?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Ah, Friday's fine.  I live at the Elliot Bay Towers on the Counterbalance.  Ah, around seven?",
+        "prevSpeaker": "Christina",
+        "nextSpeaker": "Christina"
+    },
+    {
+        "speaker": "Christina",
+        "text": "Sounds great.  See you then.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Bye.  ",
+        "prevSpeaker": "Christina",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_happily_] That's my new owner.  She's a model.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "No kidding, she almost put my eye out.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "So you're back awfully quick.",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "Hey-hey!  I was one of the last guys out there!  The money was running low, but! - there was still one rawhide chew toy out there for the Bulldog.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "[_leaves, saying to her as he slaps her behind_] I gotta take a squirt.  When I come back, we'll play fetch.",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh my God, Daphne.  Why?",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Things were slowing down, so your father asked me to shill. I opened at a hundred dollars, who knew that would be the only bid? _FADE TO:  Scene B: The Frasier Residence. Frasier is making the final touches for his date.  He wheels a restaurant cart out to the living room.  The doorbell bing-bongs.  Frasier answers it to-_ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Christina.  _Buenas noches._",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Christina"
+    },
+    {
+        "speaker": "Christina",
+        "text": "Hi, Frasier.  Sorry I'm late, but I got a last minute call for a job.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, well that's all right, you're here now, and you look enchanting.",
+        "prevSpeaker": "Christina",
+        "nextSpeaker": "Christina"
+    },
+    {
+        "speaker": "Christina",
+        "text": "No, you don't understand.  The job's tonight. But we could have dinner later.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, well I suppose that's all right.",
+        "prevSpeaker": "Christina",
+        "nextSpeaker": "Christina"
+    },
+    {
+        "speaker": "Christina",
+        "text": "I hope you didn't go to too much trouble?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, no-no-no-no-no.",
+        "prevSpeaker": "Christina",
+        "nextSpeaker": "Christina"
+    },
+    {
+        "speaker": "Christina",
+        "text": "[_looking at room_] You rented a restaurant trolley.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No, no, I own it.  Don't tell me that you don't have one?",
+        "prevSpeaker": "Christina",
+        "nextSpeaker": "Christina"
+    },
+    {
+        "speaker": "Christina",
+        "text": "There's just one more thing.  Um, my friend Sandy got called in on the same job, and she was supposed to look after my daughter.  _She indicates the corridor.  Frasier looks out to find a young girl standing there._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Don't tell me you want me to babysit?",
+        "prevSpeaker": "Christina",
+        "nextSpeaker": "Christina"
+    },
+    {
+        "speaker": "Christina",
+        "text": "Look, I wouldn't do this, but I'm really in a jam.  Look, Sandy'll take her as soon as we get back, and umm, that'll leave just the two of us.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Christina, I'm not really sure if I can...  ",
+        "prevSpeaker": "Christina",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I'll make a _lot_ of points for this, won't I?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Christina"
+    },
+    {
+        "speaker": "Christina",
+        "text": "A ton.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Bring the darling in.",
+        "prevSpeaker": "Christina",
+        "nextSpeaker": "Christina"
+    },
+    {
+        "speaker": "Christina",
+        "text": "Dr. Crane, this is my daughter Renata.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Hello. [_she says nothing_]",
+        "prevSpeaker": "Christina",
+        "nextSpeaker": "Christina"
+    },
+    {
+        "speaker": "Christina",
+        "text": "She's shy at first.  See you later.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well... come on in, have a seat.  Can I get you, um, a soft drink?  Goose liver pate?  Renata, that's a pretty name. I suppose it has some poetic, romantic significance...",
+        "prevSpeaker": "Christina",
+        "nextSpeaker": "Renata"
+    },
+    {
+        "speaker": "Renata",
+        "text": "Can I use your phone?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Now, Renata.  We're going to be spending the evening together, let's try to make the best of it, shall we?  I may surprise you, you know.  I'm probably more \"with it\" than you think I am... the phone's right there.    **SHRINK RAP**  _Scene A: Time Lapse at Frasier's Apartment. Frasier is at the table, Renata is throwing treats to Eddie whilst talking to her friend on the phone._ ",
+        "prevSpeaker": "Renata",
+        "nextSpeaker": "Renata"
+    },
+    {
+        "speaker": "Renata",
+        "text": "No way!  That is so fresh.  No way.  No way.  No... way.  Hold on, there's another call. [_changes lines_] He'll call you back. [_switches back_] No way...",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Who was that?",
+        "prevSpeaker": "Renata",
+        "nextSpeaker": "Renata"
+    },
+    {
+        "speaker": "Renata",
+        "text": "I don't know. [_into phone_] No way!  Oh god, another call's coming in.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_taking phone_] Do you mind?  I'll answer this one, thank you. Hello? [_gives phone back_] It's for you.",
+        "prevSpeaker": "Renata",
+        "nextSpeaker": "Renata"
+    },
+    {
+        "speaker": "Renata",
+        "text": "Hello?  Hey, Tiffany.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Tiffany?  I thought you just spoke to Tiffany?",
+        "prevSpeaker": "Renata",
+        "nextSpeaker": "Renata"
+    },
+    {
+        "speaker": "Renata",
+        "text": "That was Tiffany Schwartz.  This is Tiffany Martinez.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Celebrate the ethnic mosiac that is America, but nonetheless... [_takes phone and hangs up_]",
+        "prevSpeaker": "Renata",
+        "nextSpeaker": "Renata"
+    },
+    {
+        "speaker": "Renata",
+        "text": "What's your damage?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, I'll tell you what my damage is, young lady.  You've been Talking on the phone for an hour and a half.  You haven't said a word to me except to ask for more Cheetos. [_Eddie barks_] They're coming, Eddie!",
+        "prevSpeaker": "Renata",
+        "nextSpeaker": "Renata"
+    },
+    {
+        "speaker": "Renata",
+        "text": "Excuse me.  Like I'm supposed to be happy I'm here?  Her Fabulousness dumps me with a total stranger who could be a total perv.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, I'm not exactly thrilled about it either, but your mother was in a bind.  And for the record, I am not a perv.",
+        "prevSpeaker": "Renata",
+        "nextSpeaker": "Renata"
+    },
+    {
+        "speaker": "Renata",
+        "text": "You don't get it.  She is always doing stuff like this.  She's a flake.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Nonetheless, flake or not, you are in my charge.  I think it's Time you had something that was a bit more nutritious.  Now, how about some seafood crepes?  Lobster Neuberg? [_gives up_] Corn dog dipped in curare?  [_N.B. Curare - a VERY powerful neurotoxin found in South America._] ",
+        "prevSpeaker": "Renata",
+        "nextSpeaker": "Renata"
+    },
+    {
+        "speaker": "Renata",
+        "text": "You got any raw cookie dough?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Even more lethal.  Yes, just come on into the kitchen, we'll See what we've got.",
+        "prevSpeaker": "Renata",
+        "nextSpeaker": "Renata"
+    },
+    {
+        "speaker": "Renata",
+        "text": "You know, you wouldn't have gotten anywhere with this gourmet Meal routine.  She eats like, nothing.  She's a total diet freak.  That's all she talks about, besides herself.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You don't care much for your mother, do you?",
+        "prevSpeaker": "Renata",
+        "nextSpeaker": "Renata"
+    },
+    {
+        "speaker": "Renata",
+        "text": "Well, duh.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You know, I have a son.  I'd hate to think by the time he's your age, he thinks of me as some sort of, um...",
+        "prevSpeaker": "Renata",
+        "nextSpeaker": "Renata"
+    },
+    {
+        "speaker": "Renata",
+        "text": "Dweeb?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Thank you.",
+        "prevSpeaker": "Renata",
+        "nextSpeaker": "Renata"
+    },
+    {
+        "speaker": "Renata",
+        "text": "Brace yourself.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh well, look what we have here. [_pulls a packet of cookie dough from the freezer_] Will one tube suffice?  ",
+        "prevSpeaker": "Renata",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Put that in your pipe and smoke it.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well now, Renata, you know, I am a psychiatrist.  And um, if you're having problems with your mother I'd be glad to listen.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Renata"
+    },
+    {
+        "speaker": "Renata",
+        "text": "You mean you want me to tell you all my problems like those Gomers on your show?  Like you care.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I do care about the Gomers.  I even care about you.",
+        "prevSpeaker": "Renata",
+        "nextSpeaker": "Renata"
+    },
+    {
+        "speaker": "Renata",
+        "text": "Don't make me hurl! [_Frasier gives up and sits down_] She keeps telling people I'm younger than I am.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Why do you think she does that?",
+        "prevSpeaker": "Renata",
+        "nextSpeaker": "Renata"
+    },
+    {
+        "speaker": "Renata",
+        "text": "So they won't know how old she is. I've been nine for the past three years.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Really?",
+        "prevSpeaker": "Renata",
+        "nextSpeaker": "Renata"
+    },
+    {
+        "speaker": "Renata",
+        "text": "That's nothing.  Once, she promised to take me ice-skating for my birthday?  On the way there she saw a tattoo parlor.  So she just left me out on the sidewalk 'til she could get a stupid butterfly tattooed on her shoulder.  It's like she forgot I was even out there.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "My God!  How old were you?",
+        "prevSpeaker": "Renata",
+        "nextSpeaker": "Renata"
+    },
+    {
+        "speaker": "Renata",
+        "text": "That was the first time I was nine.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "What does your father say about all this?",
+        "prevSpeaker": "Renata",
+        "nextSpeaker": "Renata"
+    },
+    {
+        "speaker": "Renata",
+        "text": "Tony?  He's on the road with Whitesnake all the time.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Whitesnake?  Is that a musical group or a pet?",
+        "prevSpeaker": "Renata",
+        "nextSpeaker": "Renata"
+    },
+    {
+        "speaker": "Renata",
+        "text": "It's his new wife. **DRIVING MISS DAPHNE**  _Scene B: Back of Bulldog's stretch limo. He and Daphne are leaving the game.  Daphne is a little tipsy._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "I must confess, I was a little apprehensive about going out with you tonight. But I'm actually having a jolly time.  Unless of course it's the champagne getting to me.  I have had quite a bit, haven't I?  Oh, who cares?  That's the beauty of being in a limo.  Unless of course the driver's drinking. [_into intercom_] You're not drinking, are you? [_to Bulldog_] He's not drinking.  Let's drink to the driver not drinking.",
+        "prevSpeaker": "Renata",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "Man, you're really looped, this is great.  ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Well, that's annoying, isn't it?  Certainly is taking a long time getting out of this parking lot.  Did I mention this was my first basketball game?  Yes, of course I did, three or four times.  I still can't get over those players.  They are positively gigantic.  Not that being tall is the only measure of a man... but it's a bloody good one. [_bursts out laughing_] Oh dear, I just insulted you, didn't I?  Sorry.  Oh well, you can take it, you're a tough little nut.  ",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Oh, dear.  This is not good.  Not good at all.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "What, you don't like the champagne?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "No, I can see the bottom of me glass.",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "[_refilling Daphne's glass_] Well, bottoms up!",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Oh, you are a naughty boy.  Now don't go getting any ideas. Oh, look who I'm saying this to.  You don't have an idea in your head! [_laughs_] Did it again.  I insulted you.  Let's drink to that.  Boom!  _She knocks her glass on Bulldog's forehead.  Outside, the car horns start up again._ ",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Now that is downright rude. [_lowers window and yells through a speaker-cone_] Hey, you there!  You in the Firebird!  Yes, you! Stop that honking!  Now, now, just because you look stupid doesn't mean you have to act stupid!",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "Hey!  Don't aggravate him, we're kinda pinned in here.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Oh, posh!  Civilization's not going to progress one iota unless someone points out when people's manners are remiss. [_from outside we hear someone shouting, \"Move it!\"_] OH, SHUT YOUR BLOODY CAKEHOLE!",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "Don't do that! [_looks out_] Great, now he's getting out of his car!",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Ooh, he's a tall one too.",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "Quick, roll up your window, lock the door.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Don't be stupid, he's not going to hurt a woman.",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "Just roll it up, roll it up! ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Get your bloody claws off him!  Let him go, you big ugly oaf!",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "SHUT UP!!! _He gets pulled out of the car while Daphne waves her fists, shadow- boxing.  As his door slams, the limo starts to roll._ ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Oh.  Well, we're moving. [_through the speaker-cone, to Bulldog outside_] Thank you, Pitbull!  I had a lovely time!  _She falls over while attempting to finish the champagne.  FADE TO:_  _Scene C: Frasier's Apartment. He and Renata are sitting at the dinner table, eating the cookie dough._ ",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You know, this cookie dough is not that bad.  Of course, I'm Sure later I'll be hurling. [_the doorbell bing bongs_] Ah, that must be Her Fabulousness.  Want to take the rest home with you?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Renata"
+    },
+    {
+        "speaker": "Renata",
+        "text": "I'd better not.  If I gain an ounce, she goes ballistic.  She makes me weigh in every morning.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You poor thing!",
+        "prevSpeaker": "Renata",
+        "nextSpeaker": "Renata"
+    },
+    {
+        "speaker": "Renata",
+        "text": "I'm used to it.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Christina"
+    },
+    {
+        "speaker": "Christina",
+        "text": "Hi, I'm back. [_kisses Frasier_] Renata, honey. [_kisses her_] Sandy's waiting downstairs in the car.",
+        "prevSpeaker": "Renata",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Renata, I must say I had a rather enjoyable evening.",
+        "prevSpeaker": "Christina",
+        "nextSpeaker": "Renata"
+    },
+    {
+        "speaker": "Renata",
+        "text": "You don't get out much, do you? [_leaves_]",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You know, I think she likes me.",
+        "prevSpeaker": "Renata",
+        "nextSpeaker": "Christina"
+    },
+    {
+        "speaker": "Christina",
+        "text": "Well uh, thank you for helping me out.  Now, roll out that trolley, I'm starving.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You know, Christina, I don't think so.  I think you ought to go home and spend the evening with your daughter.",
+        "prevSpeaker": "Christina",
+        "nextSpeaker": "Christina"
+    },
+    {
+        "speaker": "Christina",
+        "text": "But I thought we had a date?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, you know, when we first met, I was, well, attracted by your remarkable beauty. But now that I know a bit more about you, well suddenly you don't look so good, sister.",
+        "prevSpeaker": "Christina",
+        "nextSpeaker": "Christina"
+    },
+    {
+        "speaker": "Christina",
+        "text": "Excuse me?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "A daughter is a privilege, not an inconvenience.  You don't Leave her standing on some street corner while you're inside getting tattooed!  Or keep her in some ageless Never-never Land where everyone is nine for ever and ever!",
+        "prevSpeaker": "Christina",
+        "nextSpeaker": "Christina"
+    },
+    {
+        "speaker": "Christina",
+        "text": "Renata told you I did that.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes!  She also told me about the morning weigh-in's.  And the time you left her with the coat-check girl at the Palladium, so you could go dancing!  I mean, what kind of excuse for a mother are you, anyway?",
+        "prevSpeaker": "Christina",
+        "nextSpeaker": "Christina"
+    },
+    {
+        "speaker": "Christina",
+        "text": "Well.  Did it ever occur to you that she might be lying? 'Cause this is the first night I've been out in over a year. God knows John and Maryanne never take her.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Who are they?",
+        "prevSpeaker": "Christina",
+        "nextSpeaker": "Christina"
+    },
+    {
+        "speaker": "Christina",
+        "text": "Her father and his new wife.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, who are Tony and Whitesnake?",
+        "prevSpeaker": "Christina",
+        "nextSpeaker": "Christina"
+    },
+    {
+        "speaker": "Christina",
+        "text": "Our two dogs.  Do you know what I do most nights?  I stay home.  And I help her with her homework, or French lessons. Oh, except last Saturday, when I took her and her twelve friends to an ice-skating party.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I don't suppose there's any chance that during that party you got your shoulder tattooed?",
+        "prevSpeaker": "Christina",
+        "nextSpeaker": "Christina"
+    },
+    {
+        "speaker": "Christina",
+        "text": "[_lowers her coat and turns round_] Do you see anything there? _Of course, Frasier sees no tattoo -- only the smooth, flawless skin of her back -- which, he realizes, is all he'll ever see of her._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No.  But then my eyes are tearing up.  But why would she lie?",
+        "prevSpeaker": "Christina",
+        "nextSpeaker": "Christina"
+    },
+    {
+        "speaker": "Christina",
+        "text": "Because she's twelve, and she's mad at me.  She wanted to stay home alone, and I wouldn't let her.  I probably would have been better off if I had.  God, some shrink you are!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Please don't go, child development is not my thing.  My specialty is adult relations.",
+        "prevSpeaker": "Christina",
+        "nextSpeaker": "Christina"
+    },
+    {
+        "speaker": "Christina",
+        "text": "Well, you won't be having any of those tonight.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Christina, please don't go, I...",
+        "prevSpeaker": "Christina",
+        "nextSpeaker": "Christina"
+    },
+    {
+        "speaker": "Christina",
+        "text": "[_getting into lift_] Oh, and by the way - I only have one kidney.  Guess who has the other?  _Frasier absorbs this parting shot with a mortified look, as the elevator doors close.  FADE TO:  Scene D: Time lapse.  Frasier's Apartment. He's sharing the cookie dough with Eddie -- and we do mean sharing. He takes a bite, then lowers it for Eddie to lick and nibble. Then, beyond caring, he takes another bite himself.  Martin enters._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Is the coast clear?  What happened to the supermodel?",
+        "prevSpeaker": "Christina",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "She left.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh.  Was kinda afraid I might walk in on an embarrassing moment.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Should have been here half an hour ago.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well, your date's left, what are you doing still sitting up?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I was wondering if my sweet little boy's going to turn out to be a monster when he's twelve.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "What the hell brought that up?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, it's a long story.  Do you really want to hear it?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well, it is getting late.  Look, all kids are the same.  They start out cute, then somewhere along the way they get into that obnoxious, know-it-all stage and you think they'll never grow out of it.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "But eventually they do?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "I'm still hoping.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Hello?  Oh, Daphne.  How was your evening? ...No way!   ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Credits"
+    }
+]

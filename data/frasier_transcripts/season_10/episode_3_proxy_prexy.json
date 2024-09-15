@@ -1,0 +1,1521 @@
+[
+    {},
+    {
+        "speaker": "Skyline",
+        "text": "A helicopter rises above the buildings._   [_Scene 1 - Frasier's apartment. Martin and Daphne are sitting at the table._] ",
+        "prevSpeaker": "No Previous Speaker",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "A hell of a breakfast, Daph.  I'm stuffed.",
+        "prevSpeaker": "Skyline",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Thanks.  Now come on, let's do some exercises.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "And risk a cramp?  What kind of training did you get?  [_Frasier enters_] ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Good morning. [_He sits._]",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Hi, Fras.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Morning.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Want some breakfast?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Um, no thanks.  Coffee will be fine.  Hi, Daph, uh, listen.  I could use an objective opinion.  I am running for condo board president, and I want to know what you think of this as a slogan: \"Frasier Crane--The People's Elixir.\" [_He beams._]",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "OK, I'm ready for my exercises now.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Please, Dad, this is serious!  I have a feeling this could be my year.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Don't you say that every year.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, I do, but this year, I am the only one running against the incumbent, which means the people will rally their inchoate yearnings for change behind my banner.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well, you're full of catchy slogans.  Frasier, don't get your hopes up too high, I mean, name one person on the condo board you haven't ticked off at least once.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "That's just because I have a Type-A, hands-on, get-it-done personality.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Seriously, name one.  You know, Fras, you might be the best man for the job, but a friendly smile and a \"How do you do\" in the hallway goes a lot further than being \"The People's Laxative.\"",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_indignantly_] _Elixir!_  Well, I suppose you're right.  I haven't really established myself as the neighborly sort.  I thought that my term as fire safety captain might do the trick, but...I guess I drilled them once too often.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "[_to Martin_] Maybe you could give him lessons on how to be a normal person.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I beg your pardon?  Say, I've got an idea.  Dad, why don't you just run?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Why would I want to do that?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, because then the people would get their regular guy, but he would have my political agenda.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "I get it.  Your father's the figurehead.  Like Woodrow Wilson when he had that stroke and his wife secretly acted as president.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, exactly, but of course Dad would be conscious, presumably.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "How did you know about that?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "I'm studying for my citizenship exam.  It's about time I became am American like everyone else. [_She goes to the kitchen._]",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "If you were like everyone else, you wouldn't know any history. So, Dad, what do you think?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "I don't know, it sounds like a big pain.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, come on, Dad.  Think of the neighbors.  Think of the building, the good we could do together.  We can actually achieve the dream of luxury apartment living that our founders intended.  Plus, I'll do all the work.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "I'll tell you something I always thought we needed: wider parking spaces so the doors don't get dinged.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "All right, you do this for me, I'll make sure that gets done.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Really?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Absolutely...Mr. President!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "I like the sound of that. [_They laugh._]",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Now I think I should still run against you. [_He rises to exit._]",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Why?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_walking to the door_] Well, if I drop out just as you announce your candidacy, people might suspect something's up.  It's better that our political legerdemain remain sub rosa, hmm? How would a normal person say that, Dad?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "No one needs to know how the hot dogs are made.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "This is going to be sweet.  [_He exits.  Fade out._]  [_Scene 2 - Condo Board Conference Room Frasier is addressing the board._] ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Which brings me to my final opponent.  Martin Crane.  Now we're all aware that he is a decorated war hero and a much-honored police officer, but does he have the building's interests at heart? [_hamming_] Maybe.  I simply ask that you stack up his 45 years of experience against my term as fire safety captain. Thank you.  And God bless Elliot Bay Towers.  [_There is very light applause.  Paul, a presiding board member, rises._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Paul"
+    },
+    {
+        "speaker": "Paul",
+        "text": "And now we'll hear from Martin Crane.  [_The applause for Martin is much louder than it was for Frasier._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Uh, thanks, uh, I'm Marty Crane, uh I just want to say that it's a privilege to run and, uh, I'll try to do the best I can.  Go Seahawks!  [_More loud applause follows.  Frasier hams his enthusiastic applause._] ",
+        "prevSpeaker": "Paul",
+        "nextSpeaker": "Paul"
+    },
+    {
+        "speaker": "Paul",
+        "text": "Um, here's where we hear from our third candidate, current president Jim McIntyre, but uh, last night he informed me that he was giving up condo board in order to pursue his dream of teaching English as a second language.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_to Martin_] Dream? Or court-ordered community service?",
+        "prevSpeaker": "Paul",
+        "nextSpeaker": "Paul"
+    },
+    {
+        "speaker": "Paul",
+        "text": "So, I guess it's time to vote.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well, I wish we would have known that guy wasn't going to run. I wouldn't have had to spend all night working on my speech.",
+        "prevSpeaker": "Paul",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, plus, I would automatically be president now.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Yeah, even you couldn't lose a one-man election.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Hmm, are you forgetting 1998?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh, yeah, when you lost to the dead guy.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "He wasn't dead he was in a coma.  How was I supposed to compete with that?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Paul"
+    },
+    {
+        "speaker": "Paul",
+        "text": "OK, ladies and gentlemen, we have a winner.  In a surprisingly close vote of fifteen to two, our new president is Martin Crane.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes!  I got two votes!  [_Martin chuckles, somewhat embarassed.  Fade out._]  [_Scene 3 - The Montana apartment. Daphne is showing a woman out of the door.  She and Niles are both wearing bathrobes.  Niles is relaxed on a chair._] ",
+        "prevSpeaker": "Paul",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Bye-bye.  Uh, what a great massage.  It's too bad her English wasn't better.  She could have told us some of her secrets. [_She sits next to him and takes his hand._]",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Yes, but now we know that Urdu is the official language of heaven.  I could go for a snack.  Want some p\ufffdte?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "No thanks.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Some cheese?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "No.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "P\ufffdte?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Again, no.  How about some salad?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Or a fruit salad.  I could throw together a little melange.  [_The doorbell rings._] ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "I'll get it.  A melange sounds lovely. [_She answers.  It is Roz._] Roz, I thought you were going out with that man from your gym.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "We didn't even make it to dinner.  Here's your never-fail date purse back.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Oh, I'm sorry. No, come on in.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Are you sure?  You look like you're going to bed.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "No, we just got a massage.  Come in.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "[_imitating Daphne's pronounciation of the word_] Oh.  Boy a",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "She did the most incredible thing to my neck.  Here, let me show you.  [_Roz sits.  Daphne massages her neck._] ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Hmm. Oh, Mmm-hmm.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "So how could you tell your date wasn't meant to be?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "He had the same purse.  Wow, that feels so good!",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Mmm-hmm.  [_Niles enters from the kitchen._] ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, hi Roz!",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Hi!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Poor thing had a bad date.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, I'm sorry.  Well, now that Daphne's helping you to relax, do you want to join us in a little melange?  [_Roz suddenly stiffens and has a very troubled, shocked look on her face. Daphne continues to massage her shoulders, and there is a pause._] ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "[_weakly_] What?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "You'll love it.  Niles is amazing.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Wait, what are you saying?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Unless you have other plans.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Well, I guess not, but...",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_handing her the fruit salad_] Than here you go.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "[_relieved_] Oh.  Fruit salad.  Oh my God, I thought you said menage!  [_They all laugh hysterically.  Roz eats the salad.  Daphne stops the massage and sits._] ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well, the fruits do mix a little promiscuously.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "I was thinking, \"Oh my God, what are they saying?\"",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Rest assured, we would have offered you something more than fruit salad to get you in the mood. [_They continue to laugh._]",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "You know what?  She didn't say no.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "You're right, she didn't.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "It was only because it was so weird, I didn't know what to say.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Is that why?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I think someone has a little crush on us.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "You wish.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "We know what you wish. [_Niles laughs._]",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Okay, Okay.  Let's talk about something else.  What are you guys going to do this weekend?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_sitting next to Daphne_] You, if you get your way. [_Niles and Daphne continue to guffaw.  Roz becomes visibly irritated._]",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "So, if we had have asked you, you would have said no?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Of course I would have.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I see, and what's wrong with us?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Do you find us unattractive?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well, what if we wore masks?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Oh, they'd have to be Nixon and Frakenstein.  That's all we've got.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "All right, you guys!  Stop it!  I'm sorry I didn't understand your little code word for fruit salad.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "We're sorry.  Here you haven't even had dinner and we're teasing you.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, you haven't?  I didn't know that.  Let me make you something.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "No, it's OK, I'm not that hungry.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Oh, come on.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Oh, all right.  I wouldn't say no to a sandwich.  [_This is too much for Niles and Daphne.  They cannot resist and begin to giggle again.  Roz, unamused, rises indignantly to leave.  Fade out._]  [_Scene 4 - Frasier's apartment. Frasier is speaking on the phone.  Martin is in his usual position._] ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, he is doing a hell of a job, isn't he?  Oh, listen, what did you think of the new plants in the lobby?  Dad was particularly pleased with how they complimented the filigree in the sconces.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Don't tell people that!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, I suppose the best man did win.  Bye-bye.  Another satisfied constituent.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_sarcastically_] Well, whoop-de-do.  [_The doorbell rings.  Frasier answers.  It is Paul._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Hello.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Paul"
+    },
+    {
+        "speaker": "Paul",
+        "text": "Hi, Frasier.  Hey, Marty [_He rushes to Martin in admiration._]",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Hey, Paul.",
+        "prevSpeaker": "Paul",
+        "nextSpeaker": "Paul"
+    },
+    {
+        "speaker": "Paul",
+        "text": "I just came down to congratulate you.  Every president talks about getting new dryers, but you finally did something about it.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You see, Dad.  They love what you're doing for the building! Of course, the sting of losing was quite painful.  But it's worth it, if we can have a laundry room that takes us into the 21st Century.",
+        "prevSpeaker": "Paul",
+        "nextSpeaker": "Paul"
+    },
+    {
+        "speaker": "Paul",
+        "text": "You're being a good sport about this, Frasier.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, you know, public-spiritedness is the Crane code.",
+        "prevSpeaker": "Paul",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Right on! Uh, Paul, could you, uh...[_He gestures for Paul to step out of his line of vision to the television._]",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Paul"
+    },
+    {
+        "speaker": "Paul",
+        "text": "Oh, sure.  Uh, hey, is it OK if I move the recycling bins down to the landing at the bottom of the stairs?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Knock yourself out.",
+        "prevSpeaker": "Paul",
+        "nextSpeaker": "Paul"
+    },
+    {
+        "speaker": "Paul",
+        "text": "Great, thanks. [_He exits._]  [_Frasier has a sudden indignant look.  He glares at Martin._] ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Is this going to be a problem?",
+        "prevSpeaker": "Paul",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "What?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I think we need to reach a little understanding.  If someone asks you a question, you look at me.  If I scratch my nose [_he demonstrates_], it means \"No.\"  You get it?  They both begin with the same two letters: \"N-O.\" [_Martin rolls his eye in disgust._] Now if I touch my eye [_again demonstrating_], it means \"aye,\" as in \"yes.\"",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Guess what you're being if I touch my ass.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Dad?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "I think I can at least take care of the no-brainer decisions myself.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "That is not how this is supposed to work.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well, I thought how this was supposed to work was that if I agreed to do this, you would do the one thing I asked for.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, wider parking spaces, but I have five years of ideas here to implement first!  [_He sits, demonstrating the papers and files he has laid out on the coffee table._] ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Five years?  By the time I get my parking space I'll be driving a three-wheeled scooter with an oxygen tank on the back!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Look, even if I could fast-track it, there are feasability studies to be done.  There's, um, a committee review, and then there's a bidding process.  You can't just hire some guy with a can of paint.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well, that's what I'd do.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well that is why you're not in charge. [_Martin is taken aback at this._] Now, here's your agenda for the next meeting.  Make sure you follow it to the letter!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Yes, master. [_He rises and heads to the kitchen._]",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Dad, I sense you're chafing under the cruel yoke of public service.  Remember, we must subordinate our own wishes for the good of the building! [_Martin is out of view. Kelsey now does one of his famous Bette Davis takes._] And that is not one of our hand signals!  [_Fade out._]  [_Scene 5 - Conference Room. Martin is sitting at the head table, presiding._] ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Next item, a study to determine the feasability of putting... something on the roof. Any volunteers?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I volunteer.  And I would like to explore the idea of putting a patio on the roof.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "All right, well, that about wraps things up.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Uh, query?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_wearily_] Recognized.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Wasn't there, uh, something else you wanted to bring up?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_looking at the agenda_] Nope.  Don't think so.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Are you sure?  I-I could have sworn I heard the president say something about a-a new ventilation system.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh, we've done enough for tonight.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_suddenly short and angry_] No, you haven't! [_Everybody, including Martin, is taken aback.  Frasier recovers._] I'm certain if you simply consult the agenda which you so painstakingly prepared, you will find that there is one last item.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_consulting the agenda_] Oh, yeah!  Here it is! Wider parking spaces  [_Various calls of \"Oh, that's good!\" \"Real good.\"_] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Paul"
+    },
+    {
+        "speaker": "Paul",
+        "text": "Great idea, classic Marty!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_in a warning tone_] Are you sure it's not a ventilation system?",
+        "prevSpeaker": "Paul",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "No.  Wider...spaces.  Those in favor of better parking? [_Everyone responds \"aye.\"_] Those opposed to better parking?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Nay!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Motion carries!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Query!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Not recognized.  [_Frasier looks up in supreme indignation._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Paul"
+    },
+    {
+        "speaker": "Paul",
+        "text": "Marty, I'm afraid I have to interrupt.  There's a delivery for you.  Bring it in Mrs. Richman.  [_Mrs. Richman enters, pushing a cart with a cake.  This character's most famous appearance was in the elevator scene of Episode_[[7.23],](/frasier/transcripts/season_7/episode_23/something_borrowed_someone_blue_1.html)_\"Something Borrowed, Someone Blue [_I_].\"_] ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Richman"
+    },
+    {
+        "speaker": "Richman",
+        "text": "Here we go.",
+        "prevSpeaker": "Paul",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Whoa!  A cake!  What's the occasion?",
+        "prevSpeaker": "Richman",
+        "nextSpeaker": "Paul"
+    },
+    {
+        "speaker": "Paul",
+        "text": "We wanted to show you our appreciation for all the great things you've done for us.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_beaming_] Wow! I never thought I'd see myself in frosting!",
+        "prevSpeaker": "Paul",
+        "nextSpeaker": "Paul"
+    },
+    {
+        "speaker": "Paul",
+        "text": "In the last couple of weeks, you've done more for this building than the last two presidents combined. Where did you get all these great ideas?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_smiling, but staring pointedly at Frasier_] Oh, I don't know. They just come to me while I'm trying to watch TV.  Why don't you make yourself useful and cut the cake, Fras?",
+        "prevSpeaker": "Paul",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_with venom_] My pleasure, _Mr. President._  [_He grabs the knife with an evil expression, and maliciously slices the cake across the point of Martin's throat in the frosting photo. Martin gets the hint and smiles back at Frasier.  Fade out._]  _END OF ACT I   ACT II_  [_Scene 6 - Frasier's apartment. Frasier is seated at the table with papers, working.  Martin enters._] ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_coldly_] Hello.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh, don't be sore.  I'll get to the ventilation system eventually.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You went back on our agreement.  I'm the one who's supposed to call the shots around here.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Our agreement was that we'd get wider parking spaces, but you blew me off.  As far as I'm concerned the agreement is over. [_He sits at the table with some food._] Besides, I think I have a knack for this president thing.  Now, I'd like to keep you on my team, but, uh, if it's too rough for you, just say the word. [_He looks at some papers._]",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, well, well.  The puppet thinks he's a real boy. [_Martin smiles._] I don't think you have the skills for this job.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "I have something better--people skills.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_angrily_] So do I, but these boobs and nincompoops are too stupid to see it!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well, if you're so sure you're indispensable, maybe you should run for president.  Oh, wait.  You did, five times.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "They wouldn't love you so much if it weren't for my ideas!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Right, because you need a Ph. D. to think about repainting the lobby.  Oh, wait.  You don't.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Would you stop doing that?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "You're right.  It's not an effective way to argue.  Oh, wait. It is.  [_Frasier begins to seethe in his chair.  Fade Out._]   **Check Your Seattle Guide Books for Directions**  [_Scene 7 - Cafe Nervosa Daphne and Niles are seated._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "[_over fade-in_] Don't you just love this part of American history?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I'm not much of a Civil War buff.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "It's fascinating.  Much more so than the English Civil War.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_playfully affronted_] Impossible!  Didn't you want to be there when Charles I unfurled his standard at Nottingham in 1642?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Ugh.  You sound like school.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well, we'll let Frasier settle it.  Which Civil War was more interesting?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_approaching from the counter_] Spanish.  But I don't have time to prove it.  I've got to go confront Evita Per\ufffdn at the condo board meeting tonight.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Dad?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I thought he was doing a good job.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, he was, until he started to think for himself.  He's so damn popular everybody else just follows along.  It's like the blind leading the blind.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well...",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "But it will not stand!  As soon as he calls for new business tonight, I am going to leap to my feet and expose him for the power-mad dictator that he's become. [_He hurriedly drinks his coffee._]  Mm-mmm.  Then I'll take over. [_He rises to leave in a rush._]",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Dr. Crane!  Maybe you should take it easy on your father.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Why?!",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Because he's getting out more, having fun with other people in the building.  You can't take that away from him.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "You get to be a big shot all the time.  This is Dad's turn in the limelight.  It's good for his self-esteem.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Why do I even talk to you people?  [_He exits in a rush, passing Roz, who is entering._] ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Frasier.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Not now!",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Okay! [_To Niles and Daphne_] Hi, can I join you guys?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "I think someone is coming on to us.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Someone just can't leave us alone. [_They giggle._]",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Okay, you guys have been doing this for over two weeks.  Lay off.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I thought \"laying off\" was exactly what you didn't want us to do!",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "[_cracking up_] That's a good one.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "It doesn't even make sense. [_During this speech, her voice gradually increases in volume and the entire cafe becomes quiet as she finishes._] Listen, I don't want to have a threesome with you.  I never wanted to have a threesome with you, and I will not have a threesome with you!  So quit bringing it up!  [_She leaves in a huff.  All are staring at Daphne and Niles._] ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "I think we went a little too far.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Not as far as she wanted to go. [_They again begin to laugh hysterically.  A bearded man in a leather jacket approaches them._]",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Swinger"
+    },
+    {
+        "speaker": "Swinger",
+        "text": "Excuse me.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Yes.",
+        "prevSpeaker": "Swinger",
+        "nextSpeaker": "Swinger"
+    },
+    {
+        "speaker": "Swinger",
+        "text": "I'm sorry, I couldn't help overhearing, and as a fellow non-traditional sex enthusiast, our day will come.  Here's my card.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_taking the card between two fingers, as if it were toxic_] Thank you.",
+        "prevSpeaker": "Swinger",
+        "nextSpeaker": "Swinger"
+    },
+    {
+        "speaker": "Swinger",
+        "text": "[_as he exits_] Oh, and by the way, a bunch of us get together over at the SeaTac Hyatt second Saturday of every month.  And if you want to just tape your wife with another dude, that's cool. [_He exits._]  [_Niles and Daphne shudder in disgust.  Niles, holding the card as he would a dirty diaper, quickly drops it on the table, whereupon he immediately grabs a wet wipe and cleans his fingers.  Fade out._]  [_Scene 8 - Conference Room. Frasier enters, late.  Martin, Paul, and Mrs. Richman are at the head table._] ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Thank you, Mrs. Richman, and for anyone who needs reminding, these meetings start at 8:00, not 8:07. [_He looks at his watch._]",
+        "prevSpeaker": "Swinger",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Noted.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well, shall we open the floor up to new business?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_quickly rising_] Yes! Yes! Yes!  It's time you people understood the real kind of pres...  [_He is interrupted by a tenant, Albert.  This character has appeared before, most notably in Niles's version of Episode_[[5.09],](/frasier/transcripts/season_5/episode_9/perspectives_on_christmas.html)_\"Perspectives on Christmas.\"_] ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Albert"
+    },
+    {
+        "speaker": "Albert",
+        "text": "Hold it, Crane.  I got real business here.  Can you tell us when we're going to be able to get our cars back into the parking garage?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh yeah, uh, the lines should get their second coat tomorrow, and if it doesn't rain, they should be dry by the end of the week.",
+        "prevSpeaker": "Albert",
+        "nextSpeaker": "Albert"
+    },
+    {
+        "speaker": "Albert",
+        "text": "Uh huh, and in the meantime we have to park out on the street!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "I know it's a little inconvenient, but...",
+        "prevSpeaker": "Albert",
+        "nextSpeaker": "Albert"
+    },
+    {
+        "speaker": "Albert",
+        "text": "Inconvenient?!  I got a ticket!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Jerry"
+    },
+    {
+        "speaker": "Jerry",
+        "text": "[_another tenant_] Yeah! My wife got towed.",
+        "prevSpeaker": "Albert",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "But after it's done we'll have wider parking spaces.",
+        "prevSpeaker": "Jerry",
+        "nextSpeaker": "Cecilia"
+    },
+    {
+        "speaker": "Cecilia",
+        "text": "[_another tenant_] If you make them wider, aren't we going to lose some spaces?  Where are those people supposed to go?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Um, well, uh, maybe we could take turns.  [_The crowd is beginning to get angry, responding with \"Take turns?!, etc.  Frasier begins to show some empathy toward his ambushed father in his facial expressions._] ",
+        "prevSpeaker": "Cecilia",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Does everybody here need their car?  [_The crowd again shouts all at once._] ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Albert"
+    },
+    {
+        "speaker": "Albert",
+        "text": "Of course we need a car!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Jerry"
+    },
+    {
+        "speaker": "Jerry",
+        "text": "Have you got a copy of the feasability report?",
+        "prevSpeaker": "Albert",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_shuffling through papers_] Yeah, feasibility report, uh, yes, the, um, feasibility report.",
+        "prevSpeaker": "Jerry",
+        "nextSpeaker": "Albert"
+    },
+    {
+        "speaker": "Albert",
+        "text": "You only have one piece of paper there.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Paul"
+    },
+    {
+        "speaker": "Paul",
+        "text": "How long will it take before we get them painted back the right way?",
+        "prevSpeaker": "Albert",
+        "nextSpeaker": "Jerry"
+    },
+    {
+        "speaker": "Jerry",
+        "text": "And who's going to pay for all the tickets we get?",
+        "prevSpeaker": "Paul",
+        "nextSpeaker": "Cecilia"
+    },
+    {
+        "speaker": "Cecilia",
+        "text": "I had to lug my groceries three blocks!  [_They continue to murmur all at once._] ",
+        "prevSpeaker": "Jerry",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Look, I'm sorry, I...",
+        "prevSpeaker": "Cecilia",
+        "nextSpeaker": "Paul"
+    },
+    {
+        "speaker": "Paul",
+        "text": "What, did you just hire a guy with a can of paint?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_feigning outrage_] No!  [_The crowd increases in its unrest.  Martin has clearly lost control of the situation.  Frasier suddenly rises._] ",
+        "prevSpeaker": "Paul",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "People! People!  If you'd just let him talk, he could explain. My father is currently in negotiations with a salvage company to remove the old boiler room, which would give us the extra spaces we need.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Paul"
+    },
+    {
+        "speaker": "Paul",
+        "text": "Where are we going to park in the meantime?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "My father has already discussed with the building next door sharing their parking spaces.  Isn't that right, Dad?",
+        "prevSpeaker": "Paul",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_thankful for the bailout, he pretends to check the papers_] Uh...Yeah, right!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Paul"
+    },
+    {
+        "speaker": "Paul",
+        "text": "We should have had more faith in you!  You've had a lot of good ideas so far.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well, actually, I've got something to tell you about those good ideas.",
+        "prevSpeaker": "Paul",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Dad. [_He frantically rubs his nose and shakes his head._]",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "All that good stuff...all the stuff you were crazy about... it all came from Frasier. [_He rises and moves toward his son._] From the very beginning, he's been the one running things and I think we should give him a little credit. [_He pats Frasier on the shoulder._]",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well thank you, Dad, that's very kind of you.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "In fact, uh, having me run was Frasier's idea.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_attempting to interrupt, frantically rubbing his nose again_] Dad!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_waving him off_] He figured that...he figured that you'd go for his policies if they came from somebody else.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Albert"
+    },
+    {
+        "speaker": "Albert",
+        "text": "[_shaking his finger_] So this whole thing was a scam.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well, I wouldn't call it a scam.  It was just a fake-out.",
+        "prevSpeaker": "Albert",
+        "nextSpeaker": "Jerry"
+    },
+    {
+        "speaker": "Jerry",
+        "text": "Frasier, how could you do your father like this?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Richman"
+    },
+    {
+        "speaker": "Richman",
+        "text": "He's always wanted to be president, but I never thought he would stoop this low!",
+        "prevSpeaker": "Jerry",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "All right, that's enough!  My son is the best thing that ever happened to this condo board, but you guys are too petty to see it!  Well, you people don't deserve him!  And if you don't want him, you don't get me either.  I resign.  Come on, Fras. [_He heads for the exit._]",
+        "prevSpeaker": "Richman",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Right behind you, Dad.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Jerry"
+    },
+    {
+        "speaker": "Jerry",
+        "text": "Now what do we do?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Paul"
+    },
+    {
+        "speaker": "Paul",
+        "text": "Well, technically, when the president resigns, the runner-up takes power.  [_In exiting, Frasier hears this and stops in the doorway.  Everyone looks back at him, stunned._] ",
+        "prevSpeaker": "Jerry",
+        "nextSpeaker": "Frasier"
+    }
+]

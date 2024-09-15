@@ -1,0 +1,1569 @@
+[
+    {},
+    {
+        "speaker": "Frasier",
+        "text": "Evening, Niles.",
+        "prevSpeaker": "No Previous Speaker",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Frasier.  Everybody ready?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Just about.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Ooh!  New cufflinks, those are very smart.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh yeah, you've seen these before, haven't you?  I always wear them with the tux.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Of course you do.  Well still, nothing catches the eye like a sharp pair of cufflinks. _Niles rubs the back of head, letting his golden cuff links flash in the light._",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "And those are very nice too.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_acting_] Oh, these...",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "_Gold_?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Yes, well I knew you'd be wearing silver.  I didn't want us to look alike, you know.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Hello.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Hi, Roz.  Come on in.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Sorry I'm late.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "That's all right.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Hey, Roz.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Daphne, thank you so much for watching Alice.  She's way overdue for her nap.  Maybe I can get her to sleep.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, great.  Well, set her down in my room.  You know, we don't want to be late for that silent auction.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "You know, I can't believe you've donated another \"Day Behind the Scenes of the Frasier Crane Show\" this year.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, why not, Roz?  It's for a good cause.  The Kelly Ann Grunther foundation does excellent work.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Well, you weren't trapped in my booth with that mouth breather for three hours last year.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, he wasn't that bad.  Some kind of engineer, wasn't he?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Well, he wasn't a dental hygienist, that's for sure. _As Frasier and Roz go to the room, Martin enters in his tux and crosses to Daphne._",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Daphne, can you help me with these cuff links?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Oh, all right.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_looks at her screen as Daphne goes to help Martin_] What is this, Daphne?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "I'm chatting on-line with Donny. [_the computer beeps_] Oh, what's he saying?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Er, [_reads_] \"I can't wait to come home and see my wittle Engwish cwumpet.\"",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "I don't want him to think I've abandoned him.  Would you mind taking over? [_Niles looks aghast but does it anyway_] Tell him I miss him too.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "All right. [_he types_]",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "I'm counting the days until he comes home and there's no-one I love more than my fuzzy wuzzy...",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Computer"
+    },
+    {
+        "speaker": "Computer",
+        "text": "Good-bye.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I'm sorry, I seem to have lost him.",
+        "prevSpeaker": "Computer",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Maybe I can get him back. [_goes to computer_]",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, there we are.  Alice is all squared away, she went right to sleep.  Shall we? [_they cross to the door_]",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Have a good time.  Don't spend too much.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh, don't worry about that.  I've got a whole system worked out where I can get everything I want for the minimum bid.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Dad, it's hardly in spirit with the evening.  We're raising money for the Kelly Ann Grunther fund.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh, baloney.  You just want to go there so you can hob-nob with all your snooty friends.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, that is not true.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh, yeah?  Well, then answer me one question: just who is Kelly Ann Grunther?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Kelly Ann Grunther... is... the person responsible for the Kelly Ann Grunther foundation.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well, what does that mean?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, I guess she's just a very wealthy person that put up a lot of money, right?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "I thought she had some kind of disease?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I always thought she was a scientist doing research.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "So, in other words, it could have been called... [_looks at Eddie_] the Eddie Eddie-mund Foundation, so long as there was fancy food on silver platters. _The four leave the apartment.  FADE OUT  Scene Two - The Silent Auction. Lots are laid out around the room.  Frasier and Niles are looking at one table._",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Have you seen anything exciting to bid on?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well, no.  It's mostly the same items as last year. [_reads one_] A day of beauty with internationally-known stylist Raphael.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, I see Missy Cromwell put down for that.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well, can you blame her?  Her last day of beauty was during the Johnson administration. [_they laugh_]",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_looks_] You know, this is rather interesting.  The Laureate Luncheon; break bread with three Nobel Prize winners. Drs. Alan Zafrin, Jane Randall and Terrance Quinn.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh my, it's an opportunity to meet with three of the greatest thinkers of our time.  I'm amazed they even got them all in the same room together.  You know Zafrin's a legendary recluse.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, well he'll be at \"Fiddlesticks\" tomorrow at noon. [_Niles signs his name_] Good luck to you, Niles.  You know, they say Quinn is quite witty.  In nuclear physics circles he is referred to as \"the half life of the party.\" _Meanwhile, Martin is eyeing another lot - a barbecue.  A woman is hanging around there._",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "What do we have at this table?  Ooh, the Windsor-monic 2000. Yeah... oh, isn't this the one they had to recall because the propane tanks kept on exploding?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Woman"
+    },
+    {
+        "speaker": "Woman",
+        "text": "They did?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Yeah, I sure feel sorry for this guy... [_reads the bid list_] Martin Crane.  Better give himself an apron that says \"Kiss the Chef Goodbye\". _Meanwhile, a woman, Jody, is hanging around Roz's lot - \"The Day Behind the Scenes of the Dr. Fraiser Crane Show.\"_",
+        "prevSpeaker": "Woman",
+        "nextSpeaker": "Jody"
+    },
+    {
+        "speaker": "Jody",
+        "text": "Are you bidding on this one too?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "No, no, I'm Roz Doyle, Frasier Crane's producer.  If you win this, you'll be spending the afternoon with me.",
+        "prevSpeaker": "Jody",
+        "nextSpeaker": "Jody"
+    },
+    {
+        "speaker": "Jody",
+        "text": "[_signs it_] Well, I hope I do.  I'm a big fan of the show.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Oh.",
+        "prevSpeaker": "Jody",
+        "nextSpeaker": "Noel"
+    },
+    {
+        "speaker": "Noel",
+        "text": "Hello, there.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Hi, Noel.  What are you doing here?",
+        "prevSpeaker": "Noel",
+        "nextSpeaker": "Noel"
+    },
+    {
+        "speaker": "Noel",
+        "text": "I came to bid on my favorite auction item.  I should warn you that Lady Luck is on my side tonight.  The last guy who rented this tux left a perfectly good comb in the pocket. [_points to signing board_] May I?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "[_hides pen_] Well, there's no pen.  I'm sorry, Noel.",
+        "prevSpeaker": "Noel",
+        "nextSpeaker": "Noel"
+    },
+    {
+        "speaker": "Noel",
+        "text": "No problem-o.  I wear one around my neck. _Noel, takes a pen from around his neck and signs the paper. Meanwhile, at the lot for the genius luncheon:_",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, damn.",
+        "prevSpeaker": "Noel",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "What is it?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "It looks like I have some competition for this luncheon.  An Alastair Mobery doubled my bid to five hundred dollars.  I've heard that name before...",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, it sounds familiar to me too.  Wait a minute, isn't he that young, ruthless software tycoon?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Great!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, it's no use competing with those deep pockets.  But, you know, Niles, this vase here deserves a second look.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Wait a minute.  Mobery, wasn't that the nom de plume you used in prep school for your society column?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "What a remarkable coincidence.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, bah!  You are secretly trying to outbid me.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, all right.  I thought if you were bidding against a stranger you'd only go so high.  But if you knew it was me, then your childish competitiveness would kick in.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "That is nonsense.  Give me the pen.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_Frasier doesn't_] No, I'm saving you from yourself.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Give me that.  Frasier, in the name of Kelly Ann Grunther and everything she stands for...",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "She can't stand!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "How do you know?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_lowers voice_] I asked.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Jody"
+    },
+    {
+        "speaker": "Jody",
+        "text": "I can't believe I'm bidding this much.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Don't worry, we're gonna have so much fun.",
+        "prevSpeaker": "Jody",
+        "nextSpeaker": "Noel"
+    },
+    {
+        "speaker": "Noel",
+        "text": "It'll be so great being in that booth together, Roz.  No need to get me extra headphones.  I'll just share yours! [_signs again_]",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Auctioneer"
+    },
+    {
+        "speaker": "Auctioneer",
+        "text": "We are coming up on the final minute of tonight's auction.  No bid will be accepted after the whistle blows. _Meanwhile, Roz has gone to the other side of the room to get Jody to bid again._",
+        "prevSpeaker": "Noel",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Listen, Jody, can I talk to you?",
+        "prevSpeaker": "Auctioneer",
+        "nextSpeaker": "Jody"
+    },
+    {
+        "speaker": "Jody",
+        "text": "I'd love to bid more but I'm really at my limit. _Roz drags Jody to her lot, passing Niles and Frasier squabbling over the pen on their way._",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "I really want you to win this.  I think we hit it off.",
+        "prevSpeaker": "Jody",
+        "nextSpeaker": "Jody"
+    },
+    {
+        "speaker": "Jody",
+        "text": "Oh, you too, huh?  I thought I sensed a little spark between us... [_gazes into Roz's eyes with passion_] Roz.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "A spark?",
+        "prevSpeaker": "Jody",
+        "nextSpeaker": "Jody"
+    },
+    {
+        "speaker": "Jody",
+        "text": "Maybe after the show we could get a drink or have some dinner?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Ah... _Roz turns her head to Noel who is combing his hair with the second-hand comb.  Roz knows what she must do._",
+        "prevSpeaker": "Jody",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "[_to Jody_] You like Italian?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I think it's time to separate the men from the boys.  You will never top this bid! [_signs again_]",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You're right, Niles.  I won't top it.  I will DOUBLE it! [_signs again_]",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Then I'd like to see the look on your face when I double YOUR bid! [_signs again_]",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "What? [_looks_] You didn't double it, you just added fifty dollars to it!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_raising the barbecue bid list_] YES!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_triumphant_] The geniuses are mine!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Auctioneer"
+    },
+    {
+        "speaker": "Auctioneer",
+        "text": "Well, there certainly was some spirited bidding over this luncheon, wasn't there!  My goodness, four thousand, fifty dollars!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_realizing_] What have I done?!",
+        "prevSpeaker": "Auctioneer",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You have let your competitiveness get the better of you, and it serves you right!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Auctioneer"
+    },
+    {
+        "speaker": "Auctioneer",
+        "text": "Due to the overwhelming interest in this luncheon, I propose adding another place at the table.  That is, if we can convince our runner-up, Dr. Frasier Crane, to match his brother's generous bid. _Everyone starts applauding, including a suddenly smug Niles, leaving Frasier no choice._",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Auctioneer"
+    },
+    {
+        "speaker": "Auctioneer",
+        "text": "What do you say, Dr. Crane?",
+        "prevSpeaker": "Auctioneer",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_breaking up_] Well, all right!",
+        "prevSpeaker": "Auctioneer",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_whispering_] Dear God!  We've just spent eight thousand dollars for a lunch!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Frasier, just try to remember it's for a very worthy cause.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Auctioneer"
+    },
+    {
+        "speaker": "Auctioneer",
+        "text": "Thanks to the Drs. Crane, there will be a lot fewer homeless cats on the streets of Seattle next year! _Everyone applauds them as they try to bring themselves together.  FADE TO:_ **NILES AND FRASIER DISCOVER WHOSE IS BIGGER** _Scene Three - Frasier's Apartment. That evening, Daphne is sat on Martin's chair as the three Cranes enter.  She stands to greet them._",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Hey, Daph.",
+        "prevSpeaker": "Auctioneer",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Hey.  Have a good time at the auction?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh yeah, I got a great new barbecue: the Windsor-monic 2000. I wonder if they name it that because that's the one the Royal family uses.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Oh, I'm sure it is.  That's actually the new postage stamp in England: Her Majesty with a pair of barbecue tongs and a sauce brush!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, well at least dad didn't have to go into debt for his purchase.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Oh yes, Roz told me about your lunch with the geniuses.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "What, Roz beat us back here?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Yes, she was trying to ditch Noel.  Apparently he's not allowed onto the highway with his moped.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Frasier, do you ever wonder why we do all this competition. Where did it even start?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "That's a good question, Niles. [_pours brandies_] Think back. What was the first thing you can remember us competing over?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "It'd have to be Mom.  We were always jockeying for her time and attention.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, it was a lot more difficult for me, actually - you being her favorite.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "What?  You were her favorite.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, don't be ridiculous, Niles.  She adored you.  Don't you remember the time you lost your tricycle?  She actually took mine away from me and gave it to you.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "That was for your own good.  No eight year old should be riding a tricycle.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I had a chronic ear infection that affected my balance.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Mom worshiped the ground you walked on.  Remember when we brought those bowls home from pottery class?  She used yours for the cranberry sauce at Thanksgiving and mine as a dog's dish!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, what did you expect her to do?  You painted a little dog right on it.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "That was a turkey!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, isn't this ironic?  Both of us thinks the other one is the favorite when in fact neither of us was.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "So all our competition was pointless.  Oh, I wish we'd talked about this years ago.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh Lord, yes.  The angst we could have spared ourselves.  Do you remember those IQ tests that we took?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I was sick waiting for the results.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Which we never found out, of course.  Mom refused to tell us anything except that we were two points apart.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I knew you had the higher score.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I was convinced you did.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well, mom was certainly right not to tell us.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, she certainly was.  She knew back then that we were both too childish and competitive to handle it.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You know what would be a sign of real growth, Niles?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "To find out those scores right now.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Exactly.  I mean, how often in life can you afford an opportunity to discover really how much you've evolved?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Exactly.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Dad, do you know what our IQs are?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_sitting down_] No, but I got a pretty good idea at that auction tonight!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No, Dad.  The IQ tests we did when we were children.  Would you have saved those?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh sure, your mother and I saved all that stuff; report cards, finger paintings, poems.  It's in an old Ballantines box in the closet.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh Dad, why don't you just admit it?  You're more of a sentimentalist then you let on.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Yes, I guess I am.  That's the first case of beer your mother and I ever bought together.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "I still can't get over how much they've spent at that auction.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh, they've always tried to one-up each other.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "I suppose all brothers are like that.  Mine certainly were. Everything was a contest!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Who could the run the fastest, jump the highest.  They even had this strange one where they'd take little brother Michael, put him in a potato sack and see who could roll him the farthest over the frozen lake out back.  They loved that game!  Until that year the spring thaw set in early and poor Michael went right through the ice.  Ooh, they caught hell for that one, they did.  Caught it worse a week later when Michael's toe finally fell off.  Michael cried and cried until they told him to put it under his pillow for the toe fairy!  And then when he got five quid for it, why it was all they could do to stop him from sawing off the rest of them! [_laughs_]",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_on edge, shouts_] What's keeping you guys with that box?! _Niles and Frasier run in with the box as Daphne enters the room with her snack._",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Here it is, dad.  Gosh, this is a virtual treasure trove of memorabilia.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_opens it up:_] Choir ribbon... Most Improved Badminton... Tap Dance certificate.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "I remember going through that box with your mother.  She always knew just what to say to cheer me up.  \"So what if the trophy says baking instead of baseball, Marty?  Catchers' mitts or oven mitts, they're our little champions.\"",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh wait, these are report cards.  This might be something. [_opens an envelope_] Well here they are.  Congratulations, Frasier - 129.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Is that good?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Good?  It's practically genius.  Bravo, Frasier.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "That's enough, Niles.  Now where are you?  Higher or lower?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I haven't seen mine yet.  I am... [_reads it_] higher.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, congratulations.  I doff my hat to you, Mr. 131.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Higher!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "What do you mean, higher?  Mom told us we were two points apart.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well, apparently Mom was being tactful.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "How tactful?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well...",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Gimme that!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "156.  My God, that's...",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Twenty-seven points.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, I know.  [_N.B. In I.Q. tests, scores of 140 or more are considered \"genius.\"_] ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "I never should have told you guys about the box.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No, no, Dad.  I'm fine about this.  The entire point of this exercise was to prove that Niles and I have moved beyond our competitiveness.  And we have.  I'm very proud of my kid brother.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Thank you.  And I am proud of how mature you are being about all this.  In fact, if it were a test for maturity I think your score would be much...",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "That's enough, Niles.  You know, I suggest we go ahead and call it a night, Niles.  We want to be nice and refreshed for our meeting with the three geniuses tomorrow.  Oops, or in my case - the four geniuses.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, now you. [_they all laugh_] Good night, Dad.  Well, I'll meet you at the restaurant.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_yawns_] Good night, Niles.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Okay.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Sleep tight.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Daphne!  Is that university library open all night?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "I think so, why do you ask?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, for God's sake.  Do you think I'm going to let my little brother humiliate me tomorrow?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "What are you talking about?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Dad, he is smarter than I am.  Niles will be sitting there rambling on to the geniuses about the cosmos, black holes, matter, antimatter, and I won't matter at all. [_enters to the kitchen_] I'm going to have to make myself a nice thermos full of coffee and get down to that library. [_starts with coffee pot_]",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh Frasier, what do you think you're gonna learn in one night?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Just enough to ask some informed questions, Dad.  I may not have a 156 IQ, but I'm a quick study.  Daphne, is there something wrong with this coffee pot?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "You have to plug it in!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well there, you won't have to tell me that again! _END OF ACT ONE  ACT TWO  Scene One - Fiddlesticks Restaurant Niles is sat at the table as Frasier enters and sits with him._",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Hello, Niles.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Frasier.  Sleep well last night?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh yes, like a baby!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Like a baby with library privileges.  I know what you did.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "How?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "The way you rushed me out of there last night, I sensed something was up.  So I waited in my car and sure enough, ten minutes later you tore out of the garage.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Niles, I'm so sorry.  It's just that...",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "No, no, no, I don't want to hear any more of your facile excuses.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Good Lord, gesundheit!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I'm sorry, I'm sorry.  I think your competitiveness has sunk to a new low.  I'm ashamed of you.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I'm terribly sorry.  It's just that I'm so insecure about even coming to this luncheon at all. _Niles then scratches his ear, resembling a dog when they scratch themselves with their hind legs._",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You just scratched your ear. [_realizes_] You were at the library too!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I was most certainly was not.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "The only thing that makes you sneeze and scratch your ear is your parchment mite allergy.  So, that was you sneezing from behind the stacks all night.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_sneezes_] I had to go.  I knew you'd be racing through those scientific journals faster than a proton in a particle accelerator.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, stop showing off. [_Niles sneezes_] You know, speaking of accelerating particles, why don't you do something about that sneezing?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_gets some pills from his pocket_] Well, I took some of these before, but they're obviously not as strong as I thought they were.  I'm going to take a couple more. _Niles takes the tablets.  He then sneezes and they come back out of his mouth again.  He takes them again, successfully._",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Niles, why don't you just go home and go to bed?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_slurred_] Well, that is exactly what you'd like for me to be happening.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "What did you just say?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well, if you didn't repeat it the first time, I'm not gonna listen to it.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "That medication is affecting your speech, you've just taken a second dose of it.  For God's sake, you're going to make a fool out of yourself.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well, you should talk!  Look at your shaky hands and your twitching eyes.  You were up all night drinking coffee all night last night, weren't you?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I am not twitching, you will not psych me into twitching! [_twitches uncontrollably_]",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Waiter"
+    },
+    {
+        "speaker": "Waiter",
+        "text": "Gentlemen, may I offer you... [_to Frasier_] Sir, is your eye bothering you?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No, it's fine!",
+        "prevSpeaker": "Waiter",
+        "nextSpeaker": "Waiter"
+    },
+    {
+        "speaker": "Waiter",
+        "text": "Can I get you something to drink?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, some coffee.  Decaf!",
+        "prevSpeaker": "Waiter",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_scratching his ear_] I'd like a cup of... tea, sounds nice.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Niles, you know what, you should leave.  You're embarrassing yourself, for God's sakes",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I'm never leaving while you're still not leaving.  You know you had the good bed.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, now you're just hallucinating.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "When we moved to Wallace Lane and we shared a room and you got to pick where you would be to having your... sleeping. [_puts his left elbow in the butter_]",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Niles, the beds were identical.  Oh, why am I even bothering, explaining this to a man who has his elbow in the butter!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_shows Frasier his other, right, elbow_] Well, who's [_slurred_] hallucinationing now?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Niles, have you taken these pills before?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "No, but they've fixed my nose. [_scratches his ear_] I just wish they wouldn't make me so hyper. _Niles passes out and collapses onto the table, knocking a glass of water onto Frasier's lap._",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "For God's sake, you've spilled water all over me, you jackass. Just give me another napkin.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Ooh, Napkin, hello, napkin! _Niles sings a little tune whilst holding the napkin above his head. Frasier takes it and hurriedly wipes himself and the tablecloth down. Niles is making baby noises._",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Niles, wake up, wake up!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Zafrin"
+    },
+    {
+        "speaker": "Zafrin",
+        "text": "Excuse me?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, Dr. Zafrin.  Goodness, this is quite an honour. _Frasier stands up to shake his hand.  However, he has the tablecloth tucked into his shirt and as he stands pulls the whole tablecloth, cutlery, and dishes off the table, including Niles who falls in a heap on the floor._",
+        "prevSpeaker": "Zafrin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Allow me to introduce Dr. Niles Crane. _Niles sneezes, wipes his nose with his hand and then puts his hand out.  The geniuses decide against it.  FADE TO:  Scene Two - Frasier's Apartment. Frasier is making hamburger patties in the kitchen with some ground beef as Niles enters, still tired._",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, hello Niles, I'm surprised to see you up so soon.  Are you all right?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I feel, uh, not bad.  A little dry.  When I blink it makes a scratching noise.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Let me get you a little water, here.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Thank you. [_gets some water_] Well, how long did we last the lunch?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, not too long.  Nine thousand dollars doesn't buy the leisurely lunch it used to. [_laughs_]",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Wait a minute, I thought it was eight thousand.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No, no, you knocked over the aquarium on the way out.  You know, whenever I feel envy about your IQ again, I'll just conjure up the image of you sprawled out on the bed of live koi - weeping and desperately trying to revive that little plastic diver.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, dear.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "All right, Niles?  Hurry up with those patties, I got five more pounds in the fridge.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Right, Dad. [_Martin goes back to the balcony_] Dad's having his poker chums over to give him a hand with the barbecue. You can give me a hand here.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_starts making patties_] When's it going to end, Frasier - all this obsessive competitiveness?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Probably never, Niles.  Whether it started with seeking Mom's approval or some other insecurity, we're locked in a pattern now that we'll probably never get out of.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "That sounds bleak.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No, no, not necessarily.  There have been some benefits to it. I probably wouldn't have done so well at school if it hadn't had been for my fear that I'd be bested by my brainy little brother.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well, I was certainly spurred on by your success as well. Why else would I have joined the chess club and the drama club and the key club?  And what other possible reason would there be for spending an entire summer training a seeing-eye dog? Aside from helping the blind.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You know what, I might not have pushed myself on to Harvard and Oxford.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well, I might not have been led to psychiatry, which has been the saving grace of my life.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You see, Niles, frankly we both have a lot to thank each other for.  We've come a long way from those two little boys just starving for a parent's approval.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "How are they coming?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, just great, Dad.  We're going as fast as we can.  Here you are. [_gives him the first batch_]",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Nice job on those patties.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Thank you.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "You really think so?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Yeah, not too thick, not too thin, tight enough to hold their shape.  Perfect!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Thank you, Dad.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Just wait until you see the next batch.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yeah!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I'm surprised you let him keep that out there.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh well, it's a bit of an eyesore, and frankly kind of a fire hazard.  But what the hell?  It makes him happy.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "You lodged an anonymous complaint with the building, didn't you?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "It'll be gone by Thursday. _They carry on making patties.  END OF ACT TWO_",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Credits"
+    },
+    {
+        "speaker": "Credits",
+        "text": "  Martin is barbecuing on the balcony and talking cheerfully to someone off screen.  In a moment we see that his companion is Queen Elizabeth in full coronation regalia, who smiles raffishly and throws an empty Ballantine can off the balcony.  Martin chuckles and hands her a fresh beer, which she downs with gusto.  Daphne wakes up on the couch and checks the balcony, but there is no sign of Martin or Her Majesty.  She shakes her head and resumes dusting as we fade out.   * * *  ## Guest Appearances    **Guest Starring** PATRICK KERR as Noel CAROLEE CARMELLO as Jody DAVID AARON BAKER as Waiter HOWARD SHANGRAW as Auctioneer PHYLLIS KATZ as Woman at auction JOSEPH LINDGREN as Dr. Zafrin   * * *  ## Synopsis {kathy churay}       Niles arrives at Frasier's apartment dressed in black tie, as is Frasier. Roz follows close behind dressed in an evening gown and carrying Alice, whom Daphne has agreed to babysit for the evening. Daphne is seated at the dining room table working at a laptop computer.  Roz is unhappy that Frasier has once again donated a \"day behind the scenes at the Frasier Crane show\" to the silent auction at the benefit they are all attending that evening, for the Kelly Ann Grunther Foundation.  Roz complains that last year she was trapped in her booth for hours with a victim of bad dental hygiene, and she doesn't want it to happen again this year.  Martin emerges from his room in his tux and asks for Daphne's help with his cufflinks.  As she leaves the dining table Niles goes over to the computer and asks what Daphne is doing.  Daphne reveals she is chatting on-line with Donny.  Just then the computer chimes and Daphne asks Niles to read her what Donny has written.  Apparently Donny is on a trip and is missing his \"wittle Engwish cwumpet.\" Daphne asks Niles to take over typing while she helps Martin, and begins dictating a treacly message about how she much loves Donny. Niles types for a moment but when her dictation gets too gooey, surreptitiously hits a button. \"Goodbye!\" chirps the computer, and the connection is lost.  Meanwhile Frasier and Roz return from putting Alice to bed.  As they don their coats Martin brags of having worked out a system to get anything he wants at the silent auction with only the minimum bid. Frasier tells him that trying to save money is hardly in the spirit of the charity auction, and Martin challenges him to tell who Kelly Ann Grunther is.  Frasier tries to cover, but really he has no idea, nor do Niles and Roz.  _FADE OUT.  SCENE TWO - The Benefit_  Frasier and Niles are checking out the auction offerings and notice that one item being auctioned off is a luncheon with three Nobel laureates. Both are intrigued, and Niles writes his bid on the pad in front of the luncheon notice.  Martin is standing guard over his auction choice, a handsome gas barbecue grill being eyed by an elegantly dressed woman.  He implements his auction strategy by speculating loudly on whether this grill isn't the one that had been recalled because of  an exploding propane tank. The woman hurries off and Martin is smugly satisfied with his maneuver.  Roz is talking with another woman who is interested in the behind-the-scenes day at the Frasier Crane Show, telling her that if she wins she will get to spend the afternoon with Roz.  As the woman makes her bid and moves away, Roz's admirer Noel Shemsky appears in a tux, eager to bid for an afternoon with Roz.  Roz tries to discourage him from writing his bid by hiding the pen, but alas, Noel wears one around his neck and happily writes down his bid.  Meanwhile Niles and Frasier are once again scoping out the bids on the laureate luncheon.  Niles is discouraged to learn that his bid has been doubled by another guest, but quickly recognizes the name as one Frasier had used as a pen name in writing for his prep school newspaper.   Frasier protests that he had merely wanted to protect Niles from starting a bidding war prompted by sibling rivalry.  Niles isn't impressed.  Roz is encouraging her first bidder to top Noel's effort.  She does so, exclaiming that she can't believe she has bid so much.  Roz tells her what a wonderful time they're going to have as Noel sneaks over and tops the woman's bid once again.  the timekeeper calls the five minute warning and Roz is desperate not to sit with Noel for an afternoon, so she pursues the woman and begs her to raise her bid. The woman does so, saying that she had thought she sensed \"a spark\" between her and Roz.  She invites Roz to dinner after their afternoon at the station, and Roz weighs the sticky romantic situation against spending an afternoon with the love-struck Noel.  It takes only a moment for Roz to decide.  \"Do you like Italian?\" Roz asks bravely as the woman obligingly raises her bid.  Niles and Frasier are engaged in a poker-like duel of bid and counter-bid, until finally Niles tops Frasier's bid by $50 as the whistle blows to end the auction.  The auctioneer jubilantly announces the winning for the Nobel laureate luncheon -- $4,050 bid by Niles Crane. Niles is aghast at the money he has spent.  The crowd applauds and the auctioneer is so impressed that he proposes an exception to the usual rule, allowing an additional place setting at the luncheon for Frasier if he will match his brother's bid. Embarrassed into it, Frasier reluctantly agrees, muttering to Niles that at least the money goes to charity.  Martin shakes his head as the auctioneer proclaims that thanks to the brothers Crane, there will be a lot fewer homeless cats on the streets of Seattle for the coming year.  _FADE OUT.  ACT TWO_  ****Frasier and Niles Discover Whose Is Bigger****   The Crane men arrive home after the auction as Daphne inquires how it went.  Martin crows over acquiring the new grill, the \"Windsor-monic 2000\" and wonders aloud whether that's the one the British royal family uses.  Daphne observes sourly that that was surely the inspiration for the newest English postage stamp -- QEII with barbecue tongs and a sauce brush.   As she heads toward her room she remarks that Roz has already been to the apartment to collect Alice, taking the highway to avoid Noel on his Moped.  As the brothers sit down for a post-auction brandy Niles begins to speculate about the origins of the sibling rivalry that led him and Frasier to spend so much money that evening.  Frasier replies that it must have begun with competition for their mother's attention, and each of them recounts examples of why Mom loved the other brother best.  At last they conclude that neither one of them had been the favorite, and their whole lifelong history of competition has been pointless.  Frasier reminds Niles about the IQ tests they had taken as children. Their mother had refused to tell them anything except that they were only two points apart.  Niles confesses that he thought Frasier's score was higher, and Frasier agrees he thought the same about Niles. But they keep picking at the issue, and eventually rationalize that it would be a real sign of growth on their parts to find out the IQ scores now and avoid getting into a rivalry over them.  At this point Martin returns to the living room in more comfortable clothes and the brothers inquire about the IQ scores.  Martin doesn't remember them, but tells them he keeps an old Ballantyne case up in his closet with all the boys' childhood mementos.  They rush off to retrieve the box as Daphne returns, marveling at how much money the brothers spent at the auction.   Martin tells her they were always competitive.  This prompts Daphne to launch into a rather gruesome story about her brothers' competitiveness that involved her brothers \"bowling\" the youngest brother Michael across a frozen lake in a burlap sack.  Niles and Frasier return with the Ballantyne box and have fun rummaging through the ribbons and certificates and art of their childhood until Niles finds the IQ scores.  He congratulates Frasier on his near-genius score -- 129.  Frasier congratulates him on his \"two points higher\" score of 131, but Niles can't repress a smug grin.  Their mother's two-point fiction was a cover for Niles's much higher score of 156.  Frasier tries hard to be pleased for Niles, and Niles compliments him on his maturity, but it's clear the fun has gone out of the evening and Frasier calls it a night.  The moment Niles is out the door Frasier snaps at Daphne, \"How late is that university library open?\"  He heads to the kitchen to fill a thermos with coffee to keep himself awake during the night as he studies for his upcoming lunch with \"the four geniuses.\"  _FADE OUT.  SCENE TWO - Fiddlesticks Restaurant - The Next Afternoon_  Niles is already seated at the table as a bleary but prepared Frasier arrives.  Niles quickly tells Frasier he knows his brother spent the night at the university library. Frasier counters with the observation that Niles is sneezing and scratching his ear, and the only possible cause is that Niles's parchment mite allergy was aggravated by spending the night in the stacks at that very same library.  As Niles blusters about not letting his brother get the upper hand at the luncheon, he takes another dose of the same allergy pills he's already taken for the sneezing, and soon his speech begins to wander and he makes less and less sense.  Frasier eye begins to twitch from the effects of all the caffeine he has consumed, and Niles leans nonchanalantly on the butter dish as he accuses his brother of hallucinations.   Things deteriorate rapidly and Niles ends up with his head on the table as the Nobel laureates show up.  Frasier has accidentally tucked the end of the tablecloth into his belt along with his napkin, and as he rises to greet the guests he pulls the entire tablecloth and his brother onto the floor.  _FADE OUT.  SCENE THREE - Frasier's Kitchen - Later That Afternoon_  Frasier is making hamburger patties for Martin's barbecue grill as Niles wanders into the kitchen still dazed with sleep.   Niles doesn't remember the end of the luncheon, and Frasier reminds him that Niles knocked over the restaurant's aquarium on the way out, causing an additional $1,000 worth of damage and humiliating himself as he attempted to revive the litlle plastic diver from the fish tank.   Niles is depressed over the results of their rivalry until they begin to talk about all the good that's come from it -- their academic successes, their thriving careers, always spurred on by fear of being bested by the other brother.  They are congratulating themselves on getting over the need for a parent's approval when Martin enters the kitchen looking for the hamburger patties. He remarks that the ones they've made are just perfect, and the two brothers glow at this evidence of their father's approval.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Credits"
+    }
+]

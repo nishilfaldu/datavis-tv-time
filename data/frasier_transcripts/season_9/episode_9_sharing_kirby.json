@@ -1,0 +1,1527 @@
+[
+    {},
+    {
+        "speaker": "Skyline",
+        "text": "A yellow sun rises over the city.  _ACT 1  Scene 1 - Radio Station. Frasier is speaking to an internship applicant named Lucius.  He is an intellectual, geeky-looking, lanky Poindexter type.  Roz is also present._",
+        "prevSpeaker": "No Previous Speaker",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, I'll have to run this by the station manager, of course, Lucius, but barring any unforeseen circumstances, I believe the internship will be yours. [_He shakes Lucius's hand._]",
+        "prevSpeaker": "Skyline",
+        "nextSpeaker": "Lucius"
+    },
+    {
+        "speaker": "Lucius",
+        "text": "[_sucking up_] That would be wonderful.  But just meeting the preeminent radio psychologist of this era has been a most thrilling experience.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_flattered, chuckling_] Well...",
+        "prevSpeaker": "Lucius",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "So, Roz, what do you think?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "I think he's a pretentious, arrogant toady.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I love him, too!  Just think of it Roz - a triple major at Harvard University.  Why, he even plays the samisen! [_Roz looks puzzled._] Come on, Roz, the samisen. [_Roz is still clueless._] It's a Japanese guitar-like instrument whose strings are plucked with a spatula.  Hmm?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "I can hardly wait for the intern talent show.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, I'm so excited, Roz.  At last, I'll have a superior mind I can mold. _At this point, Kirby Gardner, whom we last saw in \"Don Juan in Hell,\" appears at the window.  Kirby is best known to us as the son of Lana. Frasier tutored him in exchange for Lana setting him up with the now-departed Claire French._",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Speaking of mold, what is _he_ doing here?  Are you still tutoring him?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, God forbid! [_Kirby enters._] Kirby!",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Kirby"
+    },
+    {
+        "speaker": "Kirby",
+        "text": "Hey, Dr. Crane!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Hello!",
+        "prevSpeaker": "Kirby",
+        "nextSpeaker": "Kirby"
+    },
+    {
+        "speaker": "Kirby",
+        "text": "[_flirtatiously_] Hello, Roz!  What have you been doing since I took you to my prom?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Mostly showering.",
+        "prevSpeaker": "Kirby",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "So, what brings you here, Kirby?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Kirby"
+    },
+    {
+        "speaker": "Kirby",
+        "text": "I heard your radio station's looking for an intern.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_panicking_] Radio station's looking for an intern... you say?",
+        "prevSpeaker": "Kirby",
+        "nextSpeaker": "Kirby"
+    },
+    {
+        "speaker": "Kirby",
+        "text": "I was hoping you could hook me up. [_flirtatiously_] Just think, Roz, with me working here, we'll be together like, 24/7 five days a week.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "[_looking somewhat disturbed_] Okay. [_She exits._]",
+        "prevSpeaker": "Kirby",
+        "nextSpeaker": "Kirby"
+    },
+    {
+        "speaker": "Kirby",
+        "text": "[_taking out a folded paper_] I was hoping you could go over my resume.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, well, uh, all right, Kirby.  Uh... although I must tell you that the station manager has final say in these matters. [_He takes the resum e and sits down._]",
+        "prevSpeaker": "Kirby",
+        "nextSpeaker": "Kirby"
+    },
+    {
+        "speaker": "Kirby",
+        "text": "I fudged a little bit on my job history.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_irritated_] So you never actually worked at NASA?",
+        "prevSpeaker": "Kirby",
+        "nextSpeaker": "Kirby"
+    },
+    {
+        "speaker": "Kirby",
+        "text": "Or Burger King. [_laughs_]",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "Oh, hey, Doc. Oh, is this one of the intern candidates?",
+        "prevSpeaker": "Kirby",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Uh, well...",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "Kenny Daly.  I'm the station manager. [_He shakes Kirby's hand._]",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Kirby"
+    },
+    {
+        "speaker": "Kirby",
+        "text": "Pleased to meet you.  I'm so stoked to get this job.",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "I like that in a candidate, Doc - he looks hungry.",
+        "prevSpeaker": "Kirby",
+        "nextSpeaker": "Kirby"
+    },
+    {
+        "speaker": "Kirby",
+        "text": "That's amazing, dude.  'Cause I-I _am_ kind of hungry.",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "There's a vending machine right out there. [_Kirby exits._] Hey, I love this guy!  He's a breath of fresh air.  Unlike all these Ivy League snobs you've been prancing around all day. [_He exits._]",
+        "prevSpeaker": "Kirby",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "[_opening the door from the sound booth_] You're not really thinking of hiring Kirby, are you?",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Of course not, Roz.  I've got my heart set on Lucius.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Me too, he plays the samisen!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Just... all right. [_He exits the booth.  To Kirby_] Uh, Kirby... listen, I'm terribly sorry about what just happened.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Kirby"
+    },
+    {
+        "speaker": "Kirby",
+        "text": "What?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You see, whenever Kenny sends someone out to the candy machine, it's a signal that that person won't be around anymore. [_playing it up_] We call it the \"Hershey's Kiss-Off.\"",
+        "prevSpeaker": "Kirby",
+        "nextSpeaker": "Kirby"
+    },
+    {
+        "speaker": "Kirby",
+        "text": "Oh, man, I really want to get this job.  So I can move in with Scoogy and Fat Tyler.  You know, live like an adult for once in my life.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, well, I-I am terribly sorry.",
+        "prevSpeaker": "Kirby",
+        "nextSpeaker": "Kirby"
+    },
+    {
+        "speaker": "Kirby",
+        "text": "It's not your fault.  You did everything you could, right?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well... yes.  You know, I'll tell you what.  Um... I will keep my ears open for-for any opportunities, all right?",
+        "prevSpeaker": "Kirby",
+        "nextSpeaker": "Kirby"
+    },
+    {
+        "speaker": "Kirby",
+        "text": "That would be great, Dr. Crane.  Something in law enforcement would be awesome.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_looking at the resum e_] Yes, well... that shouldn't be too difficult, considering you were trained... by the F.B.O. _He points out the mistake.  They part.  FADE OUT.  Scene 2 - Frasier's apartment. Daphne is seated at the table, and Martin is in his chair.  He is wearing an electronic blood pressure cuff, which he begins to remove._",
+        "prevSpeaker": "Kirby",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Leave it, Old Man!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "It's bugging me.  I do not have high blood pressure, and it looks ridiculous.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "I think it looks handsome.  Like those armbands gladiators wore, only inflatable.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Ah, Daphne, Dad.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Hey, Frasier.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Say, how was the doctor's?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "It stunk.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Mr. Crane's pressure read a little high, so Dr. Stewart insisted he wear this monitor for 48 hours.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_hanging his coat_] Well _that's_ troubling.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Oh, don't worry, it's just a precaution.  It takes his pressure at random intervals and sends the information right to a computer in the doctor's office.  It's very clever.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "It's not clever.  It's an invasion of my privacy.  Plus, they got me on that damn \"Heart Smart\" diet.  Two days of salt and fat - gone!  You don't get that back.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Well, stay calm, or you'll be on it forever.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_increasingly irritated_] How can I stay calm?  I'm just sitting here expecting this thing to go off any second.  I'm afraid to move.  It's like I'm a prisoner.  You know, that's just like doctors, isn't it?  They're always finding some new way to torture you.  Well, maybe I _want_ my blood pressure to be high. Did they ever think of that?  I mean, what... _At this point, the height of Martin's anger, the cuff gives off a beep and begins to inflate.  Martin is troubled by this._",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "There it goes!  You sneaky bastard!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_sitting_] Dad, you know, here's a suggestion, if I may.  Um... the next time you feel yourself getting annoyed, take a deep breath and then picture your anger as a red balloon drifting higher and higher above the clouds till it disappears. [_makes a gesture to illustrate._]",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "And that will get me back on nachos?  Well, I better get ready for work. [_rises_]",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Right.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Daph, did you get my shirt back from the cleaners?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "It's in your room.  I laundered it myself.  There's no sense paying for dry-cleaning a work shirt.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_upset_] Well, yes there is!  I told you, they make us buy them ourselves.  They cost a lot of money, you know.  And I have to go all the way down to the uniform supply house and you can't park there because of all the construction that's... [_the cuff beeps and inflates again_] No!  No!  No!  No, wait!  Wait! [_very agitated, gives up_] Damn it all to hell!",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Oh, you have some messages, Dr. Crane.  A Kirby called at 4:00, then again at 4:20 and 4:45.  It was upsetting your father, so I turned the ringer off.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh dear, I promised him I'd help him find a job in some field for which he's qualified.  And with the proliferation of self- serve gas stations, I'm afraid that narrows the field even further.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Why is it your responsibility to help him?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, the truth is I really didn't do all I could to help him get a job at the radio station.  Poor Kirby.  You know, maybe I should just turn the ringer back on.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well... [_He turns it back off._] Maybe after dinner.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Hello.  Hey, Daphne!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, Niles.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "I'll get my things.  I'll be just a minute. [_She exits._]",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, uh, care for a quick sherry before you go?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, thank you.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "So, how was your weekend?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Fine, and yours?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Good.  You know, something curious did happen, though.  I was in a cheese shop, and I... ran into Reynolds. [_Niles looks apprehensive._] And he told me that he saw several bottles of Chateau Haut Brion '61 at your place.  I wasn't aware that you had Brion '61.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Really?  Didn't I tell you, I stumbled across a case.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Really? That's wonderful news, Niles.  It's virtually unattainable.  So, how much do I owe you for my half?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_laughs_] That's very funny.  Reynolds made that same joke. [_drinks_]",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Niles... we had a deal.  Whenever I've found a case of rare wine, I've offered you half.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I understood that our deal only applied to vintages post Nineteen... Sixty-five.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "That wasn't part of the agreement.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well, I'll have to reread it.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "It was oral!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, pity.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_angry_] This is outrageous!  I can't believe you're cutting me out like this.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_breaking_] I'm sorry.  I try to be an ethical person, but wine is my weakness, and... this is really too good to share.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_unimpressed_] I see.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I will find a way to make it up to you.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Why don't you just sell me my half?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I said _I'll_ find a way to make it up to you. [_Frasier shakes his head._] You have my word.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Really?  Your oral agreements aren't worth the air into which they are uttered!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Are we ready to go?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Yeah. [_rising_] Look, Daphne, I was, uh, I was thinking rather than go to another boring movie [_getting his coat_] why don't we go back to my place and kick off our shoes and, uh, rearrange my library? [_Places Daphne's coat on her._]",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Are you still doing that?  You said you'd be finished by now.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_seated, indignant_] Yes, he _says_ a lot of things!",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "It's a bigger project than I'd anticipated.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Can't you hire someone to help you?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "And let someone else touch my books?  Where would I find someone with your unimpeachable fastidiousness?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_rising, getting an idea_] Fastidious, you say?  Niles, I believe I know just the lad that can help you! Kirby Gardner!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Is he that boy who's been calling you all afternoon?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, yes, he's very persistent.  One of his many fine attributes.  You know, I've wanted to hire him myself, but there was nothing available for him at the station.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I don't know.  My books are the one thing I'm fussy about. _Daphne gets a knowing, but loving, grimace on her face at that comment. Frasier also doesn't quite know what to make of it._",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Oh, please, Niles? [_plying him_] It'll give us more time together.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_giving in_] Well, if you put it that way. [_Frasier begins to chuckle with satisfaction_] Wait!  If I hire this protege of yours, will that make us even on the wine?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_pleased at this good fortune_] Niles, you are too crafty for me. [_Niles looks as if he has put one over on Frasier._] All right, yes, very well.  That will make us even. [_They shake hands._] Have a good night, you too! _Niles and Daphne leave.  Frasier chuckles in a sinister manner, delighted that he has gotten back at Niles and dealt with the Kirby problem at the same time.  FADE OUT._ **A MOUNTAIN OUT OF A MULVEHILL** _Scene 3 - Niles's Library in his apartment at the Montana.  It is as outrageously resplendent as everything we have seen of the Montana so far.  It could pass for a public library in a small city or certainly for a school library.  There are books lining shelves on every wall from top to bottom, and there is a sliding ladder that moves along the shelves.  There is a complete set of furniture in the center.  The middle of the wall separating the upper and lower stacks is decorated with proverbs and quotations, such as one might find at a university library.  (This is the first time this set has been used.)_",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_as we fade in_] How's it going, Kirby?  I hope you're not getting lost in the 17th... _Kirby is standing on the ladder looking at an open book.  He is eating Chee-tos.  He wears headphones and rubber gloves.  Niles enters the library and is horrified._",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, my Lord! [_He removes a book that has been draped open on a bust._] Kirby!!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Kirby"
+    },
+    {
+        "speaker": "Kirby",
+        "text": "[_removing his headphones, still chewing on Chee-tos_] Hey, Dr. Crane.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "What are you doing?  You're eating in my library!  You're ruining my books! _The books behind Kirby's head are in disarray on the shelves.  Niles takes the book and the bag of Chee-tos from Kirby and begins to blow the cheese crumbs off of the book._",
+        "prevSpeaker": "Kirby",
+        "nextSpeaker": "Kirby"
+    },
+    {
+        "speaker": "Kirby",
+        "text": "Relax, bro.  I'm wearing the gloves. _As Niles turns on a light, Kirby places his foot on a column between the shelves and shoves off hard, sending the ladder quickly to the other end of the range of shelves.  He grabs a soda that he has placed on a shelf there._",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Kirby!",
+        "prevSpeaker": "Kirby",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Come down here. [_Kirby places the can back on the shelf and begins to descend._] No, no, bring your can. [_He does, and then comes down._] Sit down. [_He complies._] Kirby, this is completely unacceptable.  I-I just cannot allow this. _We see that the entire library is in chaos.  There are books piled on one of the tables and in various other places._",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Kirby"
+    },
+    {
+        "speaker": "Kirby",
+        "text": "Whoa!  Are you gonna fire me? [_He places the can on an end table.  Niles quickly grabs it._]",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well, I know that you have good intentions.  But I'm afraid... [_The phone rings._] Excuse me. [_He answers it._] Hello? [_irritated, to Kirby_] It's for you.",
+        "prevSpeaker": "Kirby",
+        "nextSpeaker": "Kirby"
+    },
+    {
+        "speaker": "Kirby",
+        "text": "Could you find out who it is?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Who's calling please? [_to Kirby_] It's Kristi Mulvehill.",
+        "prevSpeaker": "Kirby",
+        "nextSpeaker": "Kirby"
+    },
+    {
+        "speaker": "Kirby",
+        "text": "Tell her I'll call her back. [_chuckles_]",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "He'll call you back. [_hangs up_] Kirby... your friend Kristi - she's not related to William Mulvehill? [_He sits down._]",
+        "prevSpeaker": "Kirby",
+        "nextSpeaker": "Kirby"
+    },
+    {
+        "speaker": "Kirby",
+        "text": "Yeah, that's her grandfather.  So weird how all you old dudes all know each other.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well, I-I don't actually know him, just know of him and his [_breathes_] wine collection.",
+        "prevSpeaker": "Kirby",
+        "nextSpeaker": "Kirby"
+    },
+    {
+        "speaker": "Kirby",
+        "text": "Wine collection.  It's famous among the old dudes.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Legendary, except he's so reclusive!  No one gets to see it. Frasier and I have tried everything but sealing ourselves in casks and rolling in.",
+        "prevSpeaker": "Kirby",
+        "nextSpeaker": "Kirby"
+    },
+    {
+        "speaker": "Kirby",
+        "text": "Really?  I go there a lot.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_extremely envious_] You've been to the Mulvehill wine cellar? Have you seen the bottle that was owned by Thomas Jefferson?",
+        "prevSpeaker": "Kirby",
+        "nextSpeaker": "Kirby"
+    },
+    {
+        "speaker": "Kirby",
+        "text": "Well, I'm usually with Kristi so, uh, I'm looking at the _jugs_ , not the bottles, if you know what I mean. [_chuckles gleefully_]",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_joining in Kirby's chuckle_] Oh, you! [_He hands back Kirby's soda._] You know... [_clears throat_] it would be quite a thrill for a wine connoisseur like me to meet William Mulvehill.  Do you think you could... get me in?",
+        "prevSpeaker": "Kirby",
+        "nextSpeaker": "Kirby"
+    },
+    {
+        "speaker": "Kirby",
+        "text": "I bet Kristi could.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well, let's just get her on the phone and ask her, shall we?",
+        "prevSpeaker": "Kirby",
+        "nextSpeaker": "Kirby"
+    },
+    {
+        "speaker": "Kirby",
+        "text": "Well, I would, but... if I were unemployed I'd-I'd just be too depressed to talk to her.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh... unemployed, what are you talking about? [_He removes the soda from the end table._] That was just a few harsh words spoken in a moment of haste.  So the library isn't challenging enough for you, we'll find something more suited to your particular... [_hesitates_] talents. [_He hands Kirby the phone._] Here's the phone.",
+        "prevSpeaker": "Kirby",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, that'll be Frasier.  Umm... why don't you call from the kitchen? _Niles pulls at one of the book stacks, which moves forward to reveal a secret passageway._",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Kirby"
+    },
+    {
+        "speaker": "Kirby",
+        "text": "Whoa!  Do they all do that? [_He pulls at the next one._]",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "No!  No! _He stops Kirby and hands him the soda.  Kirby exits and Niles closes the book stack/door._",
+        "prevSpeaker": "Kirby",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_in the background_] Niles?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I'll be right there!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Are you ready to... [_observing the chaos in the library_] Oh, dear!  Is this Kirby's work?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Mm-hmm.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Niles, I owe you an apology.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "No, no. I understand.  I had it coming.  We're even.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Let me help you clean up.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "No, don't be silly.  I will be through this in a trice. Just you scoot.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Nonsense.  Let me help you.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "No, no.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Really, Niles, let me do this for you.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Kirby"
+    },
+    {
+        "speaker": "Kirby",
+        "text": "Oh, hi.  Grampy Mulvehill says only one person can go into the wine cellar. _ Niles has fruitlessly tried to stop Kirby as he said the above. _",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_shocked_] Grampy Mulvehill?  As in William Mulvehill?",
+        "prevSpeaker": "Kirby",
+        "nextSpeaker": "Kirby"
+    },
+    {
+        "speaker": "Kirby",
+        "text": "I told you.  Old dudes, they all know each other.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I knew something was up.  You weren't going to tell me about Mulvehill, were you?",
+        "prevSpeaker": "Kirby",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_with feigned shame_] I'm sorry.  I have _le vin fou._",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Don't hand me that.  That is just a flimsy excuse for your outrageous selfishness, and what's worse is you are actually using that boy!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well, you used him to get back at me!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "As you said, it made us even.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, I said that to get you out of here.  Look at my library! I hope you're happy!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, I didn't think it would be this bad!  I thought the boy could at least put a book on a shelf! _The volume of the argument has steadily increased.  Kirby quickly enters through the passageway._",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Kirby"
+    },
+    {
+        "speaker": "Kirby",
+        "text": "I can hear you fighting about me from down the hall.  You're right, I don't deserve a job.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Kirby, that's not true.",
+        "prevSpeaker": "Kirby",
+        "nextSpeaker": "Kirby"
+    },
+    {
+        "speaker": "Kirby",
+        "text": "It is.  Forget it. [_slamming the soda can on the table_] I'm a hopeless screw-up, just like my priest said!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_calling after him_] Kirby!  Wait!",
+        "prevSpeaker": "Kirby",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "What happened?  What have we done?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Isn't it obvious, Niles.  You've hurt his feelings. [_Niles reacts to this._] You know, I have a special relationship with Kirby.  Maybe I'll just take him out to dinner.  Smooth things over.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well, I'm perfectly capable of making my own apologies.  I'll take him out to dinner.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, you know, on second thought, I actually did say some rather hurtful things myself.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I think it's incumbent upon both of us to help repair his damaged self-esteem together.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Very well.  We'll be two trained therapists working in tandem.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Yes.  To repair the wounded innocent.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, yes, that's very high-minded of you, Niles.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Yes, you too, Frasier.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You know, this is an utterly altruistic act, isn't it?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "As utterly as it gets.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I think we're of the same mind.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_brushing his shirt_] Oh, I think so, too. _They continue the charade, tapping their chairs with their fingers, as we FADE OUT.  END OF ACT 1  ACT 2_  **RAGE AGAINST THE MACHINE** _Scene 4 - Frasier's apartment. Martin is in his chair.  Daphne enters with Eddie._",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Where have you been?  I'm starving.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Sorry, I was walking Eddie.  Haven't even been to the market yet.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh, Daph, it's almost six o'clock.  How many times do I have to... [_stopping himself, staring upward_] Red balloon... red balloon... [_smiles_] It's all right.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Well, good for you.  And I'll nip out to the market now.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh, don't bother.  Let's just open a can of soup.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, I'm off.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Enjoy your dinner.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Thank you.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Who took the batteries out of my remote?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Gosh, I'm sorry, Dad.  I needed them for my foot spa. [_He finishes putting on his jacket._]",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "And you had to take them out of the one thing I need batteries for in this house?  God forbid your royal feet go without eucalyptus for...",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_warning_] Dad!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "That's all right.  There's got to be some other way to switch the channels.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Bye.  Well, Mr. Crane, I'll go and open that can of soup.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh, would you turn the game on?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Sports?  Mmm.  Might be a bit too exciting.  Why don't we just watch a nice soothing movie?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_suspicious_] Like what?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "How about \"Message in a Bottle\"?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh, is that one of those movies that takes 45 minutes for anything to happen, and then you're sorry it did?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "If you don't like that, we could watch \"To Gillian on her 37th Birthday.\" _With a mighty effort, Martin raises his eyes to the ceiling and pictures the red balloon again.  He smiles._",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "You pick.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "[_excited_] Yes. _She runs to the TV.  FADE OUT.  Scene 5 - Caf e Nervosa. Frasier and Kirby are seated at a table near the door.  Niles enters. _",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Niles!",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well, imagine my surprise seeing the two of you here, [_with veiled vexation_] when the three of us have reservations for dinner at _Le Cigar Volant_ in half an hour.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Kirby"
+    },
+    {
+        "speaker": "Kirby",
+        "text": "Hi, Dr. Crane.  Dr. Crane invited me here for a before-dinner cocoa.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Isn't that nice?  Frasier, may I have a word?",
+        "prevSpeaker": "Kirby",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, of course.  Kirby, we'll be right back.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "All right, now before you get started - I brought the boy here in order to ease him into this evening.  I was afraid that the sight of the two of us might bring up some unpleasant memories.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I see.  So this has nothing to do with you trying to get into Grampy Mulvehill's wine cellar instead of me.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "The fact that you even said that speaks volumes about you. Now let's get back before the boy starts to think we're talking about him. [_They go back to the table._] We're back now!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Kirby, I just want to tell you how sorry I am for both Frasier and my behavior earlier.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Kirby"
+    },
+    {
+        "speaker": "Kirby",
+        "text": "It's no problem.  I forgave you as soon as I got that DVD player you sent me.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Niles, may I see you for a moment?",
+        "prevSpeaker": "Kirby",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "DVD player?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "OK, you caught me in a selfish moment.  I was trying to assuage my guilt for the way I treated him.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "And you weren't trying to buy Kirby's loyalty so that you and you alone could benefit from your Mulvehill connection, reviving your woefully flagging reputation in the wine community?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_feigning offense_] I categorically deny that!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "So you did it just to burn me?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I deny that.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "But not categorically.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Frasier, do I have to remind you, this is not about us? It's about Kirby, whom we've abandoned in order to have this petty spat.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "We're back again. [_They sit._] So, Kirby, where were we?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Kirby"
+    },
+    {
+        "speaker": "Kirby",
+        "text": "You were asking me about Grampy's wine cellar.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_moving to stand_] Frasier...",
+        "prevSpeaker": "Kirby",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_cutting him off_] Not now, Niles.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Fine.  I was going to leave this till later, [_he reaches down and grabs a box_] but Kirby, I saw these and I thought of you. [_He places the box on the table._]",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Kirby"
+    },
+    {
+        "speaker": "Kirby",
+        "text": "No way! [_He opens the box and pulls out athletic shoes._] 13's - how'd you know my size?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, I measured the footprint you left in donut powder on my floor, you rascal. [_He grins wickedly at Frasier._]",
+        "prevSpeaker": "Kirby",
+        "nextSpeaker": "Kirby"
+    },
+    {
+        "speaker": "Kirby",
+        "text": "[_to Frasier_] These are awesome, [_hinting_] aren't they, Dr. Crane?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, yes, indeed they are, Kirby.  You know, you're going to need some togs to go with them.  I have an account at Bidwell's.  What do you say I call them tomorrow and set you up?",
+        "prevSpeaker": "Kirby",
+        "nextSpeaker": "Kirby"
+    },
+    {
+        "speaker": "Kirby",
+        "text": "Wow, thanks.  I never had togs before. [_Frasier laughs._] You guys are so great, the way you keep trying to build up my self-esteem and all.  I wish there was some way I could take you both to the wine cellar, but I can't. _He looks shrewdly from one to the other, knowing that he has them both in the palm of his hand -- and suddenly very far from the dim youth they have taken him to be. _",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Niles.",
+        "prevSpeaker": "Kirby",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Frasier.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Do you believe the nerve of this boy, pitting us against each other?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well, we're not going to be manipulated like this.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No, we certainly aren't.  Let's put a stop to it right now.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "All right, Kirby, I'm afraid your little game is up, and I want to tell you something else...",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_interrupting, reaching into his wallet_] A hundred dollars.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_countering_] Two hundred dollars!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Three hundred dollars!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_getting angry_] FIVE hundred dollars!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_pulling out more money_] Kirby, have you ever been to Vegas?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_playing his trump card_] He can't go to Vegas!  He'll be too busy interning at the radio station! _Kirby has collected the money, and he sets it back down after hearing this._",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Kirby"
+    },
+    {
+        "speaker": "Kirby",
+        "text": "No... way!  I got the job?  Thank you, Dr. Crane! [_He shakes Frasier's hand._] You just got yourself a wine tour.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_chuckling_] Well... and thank you Kirby! Ha, ha! _Kirby collects the money again.  Niles, indignant, puts away his wallet._",
+        "prevSpeaker": "Kirby",
+        "nextSpeaker": "Kirby"
+    },
+    {
+        "speaker": "Kirby",
+        "text": "This is so awesome, and I promise, I will _not_ let you down.  I'm going to soak up as much as I can from you.  I'm going to be like your shadow.  You and me, Dr. Crane, from now on!  You know, we should probably carpool to work. _Silence.  With a look of intense regret, Frasier understands the full weight of the devil's bargain he's made.  Niles watches, immensely enjoying the consequences of Frasier's desperate one-upmanship._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Niles, could I see you for a moment?",
+        "prevSpeaker": "Kirby",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_smugly_] No. _Kirby counts his money.  Frasier looks defeated.  FADE OUT.  Scene 6 - Frasier's apartment. Daphne is on the couch with Eddie.  She and Martin are watching a movie.  Both are clearly engrossed, but Martin is trying to hide it._",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "[_sobbing_] Isn't this the most romantic thing you've ever seen?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "If you say so.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "There's no greater passion than that between a woman and a ghost.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "I'll get it. _He rises to answer it.  As he moves to the phone and it continues to ring, he looks back toward the screen.  He answers the phone._",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Hello? [_He glances back again. He lowers his voice._] Oh, um, yeah.  Really? [_He glances yet again; still speaking soft enough so that Daphne can't hear him._] I don't have to wear it anymore?  That's great! [_He glances back._] Yeah, thanks, Dr. Stewart. _He glances as he hangs up.  Keeping his eye fixed to the screen, he moves back to his chair._",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Who was that?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Dr. Stewart.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Are you all right?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "I'm fine.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "I suppose you want me to put the game on, then.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well, uh, actually, he said there was a bit of a foul-up with the computer and, uh, maybe I should wear it for a couple more hours.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "[_still sobbing_] Well, that's too bad.  Do you want me to rewind?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_quickly, slightly irritated_] If you're going to keep talking! _Daphne looks at him knowingly and grins.  FADE OUT.  END OF ACT 2_ ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Credits"
+    }
+]

@@ -1,0 +1,1353 @@
+[
+    {},
+    {
+        "speaker": "Roz",
+        "text": "Hey, Daphne.",
+        "prevSpeaker": "No Previous Speaker",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Hello, Roz, Alice.  What brings you here?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "We're borrowing Frasier's car.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Oh, I see.  And you're leaving Alice here as collateral.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Actually, he's being very nice about it.  Mine's in the shop, and I'm taking Alice and a few of her friends to an ice cream party.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_emerging from hallway_] You told me it was _your_ friends, and the Science Center!",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "He said, she said, we'll never know what really happened. Frasier, don't be so uptight.  I'm not gonna hurt your precious car.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I am not uptight, it's just that I've had some unfortunate experiences before loaning out my car.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "[_going to the hall_] I left an umbrella in the trunk.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "It was a wet umbrella!",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Can I have the keys?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_sighs_] Yes, yes. [_drops them in her hand_] After all, what are fine possessions for if not to be used and enjoyed? [_lugubrious_] And who better to enjoy them than the delightful souls of small children?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "I'll put a tarp in the backseat.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, bless you.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Hey Roz, hello Alice.  What brings you here?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Oh, Frasier loaned me his car, I backed mine into a telephone pole.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You said you were getting a tune-up!",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "[_as the elevator doors close_] It needs one, trust me!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Is, uh, Daphne ready?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Uh, actually I think she's in her room.  You two have plans?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Yes, I am taking her to the botanical gardens.  Can you believe she's never been before?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Didn't Donny take her to the botanical gardens last year?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Can you believe she's never been before?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Hey, Daphne!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Hello, Niles.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Ready to go to the gardens?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Yeah, I'm afraid I'm gonna have to take Eddie for a walk first. [_kisses him_]",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Where's Dad?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "I don't know, he's been gone all morning.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh well, here, I'll take him for a quick walk.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Oh no, he's gonna need more than that, or he'll go stir-crazy. He's gonna need a full hour at the dog park.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_checks his watch_] We don't have time to go the dog park, the-the Tour of Succulents starts promptly at twelve.  Uh, hey, Frasier, can you take him?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No, I'm sorry, Niles.  Roz has my car, you see, and Lana's coming by to pick me up for a tutoring session with Kirby.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "I'll just get Eddie's toys. [_leaves_]",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_on phone_] Hello, this is Dr. Frasier Crane, I need to make an emergency appointment tomorrow, for a complete cleaning of my BMW.  June 10th?!  But I've got a Clean Team Privileges Card!  Yes, of course it's a platinum one! [_takes it out and looks_] No, no there are no diamonds on the corner.  Well, then yes, I'd like to become a member of the Diamond Alliance immediately.  Fine, put me on the waiting list.  I'll see you in June. [_hangs up_]",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_needling_] You're not in the Diamond Alliance?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Don't do that! _FADE OUT  Scene Two - Park Niles and Daphne are sitting together on a bench in the park, with Eddie.  All around them are dogs playing with their owners._",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "So this is it.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Mmm-hmm.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I'd hardly call this a dog park. [_looks around_] It's more like a dog... orgy.  Whose beagles are those?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Don't stare, it only encourages them.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well, hurry up, Eddie, there's lots of exciting depravity to explore. [_Eddie doesn't move_]",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "[_takes out a short piece of thick rope_] He wants to play a little fetch.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Well here, you throw it.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "With my bare hands?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Oh come on, it's fun.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_takes it_] Ready?  Here we go.  And, fetch! _He tosses the rope about two feet away.  Eddie quickly picks it up and brings it back._",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "All right, I didn't give you enough of a challenge.  Here, ready, ready?  And, ho! [_throws it farther_] Go get it! [_Eddie runs after it_] I'm sorry, I was a bit of a grouch. This is actually a fine way to spend the day.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Yeah...",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "In fact, it's kind of... _He trails off as a huge hound comes back with the end of the rope hanging from his jaws._",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Hello.  Do you suppose the rest of Eddie's in there? _Jim, a tall, handsome, athletic man, follows the hound. Eddie follows him._",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Jim"
+    },
+    {
+        "speaker": "Jim",
+        "text": "Good boy, good boy!  Sorry about that, Daphne, but what with the organic vitamin paste I've been feeding Tank here, Eddie can't keep up with him.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "It's no problem, Jim.  Uh, Niles, this is Jim Grady and Tank. This is Niles, my boyfriend.",
+        "prevSpeaker": "Jim",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_shaking hands_] Pleasure.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Jim"
+    },
+    {
+        "speaker": "Jim",
+        "text": "Boyfriend?  Ah, I should have known.  It seems like every time I'm single you're in a relationship, and every time you're single I'm in a relationship.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Yeah, that's true.",
+        "prevSpeaker": "Jim",
+        "nextSpeaker": "Jim"
+    },
+    {
+        "speaker": "Jim",
+        "text": "I guess we just don't have-",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Timing!",
+        "prevSpeaker": "Jim",
+        "nextSpeaker": "Jim"
+    },
+    {
+        "speaker": "Jim",
+        "text": "-good... [_Daphne laughs_] And I'm a drummer!",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Which, uh, makes it even more ironic!",
+        "prevSpeaker": "Jim",
+        "nextSpeaker": "Jim"
+    },
+    {
+        "speaker": "Jim",
+        "text": "Tank, that's rude!  Now, chill. [_Tank obeys_]",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Wow.",
+        "prevSpeaker": "Jim",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Wow, you've really got him trained.  That's the problem with Eddie.  He only listens when he thinks he's gonna get food.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Or one of my socks! [_laughs, no one else does_] But mostly food.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Jim"
+    },
+    {
+        "speaker": "Jim",
+        "text": "Well, it's all in the voice tone, really.  Any dog can learn to respond to it, even an old wheezer like Eddie.  You, uh, want me to show you?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "I'd love it.",
+        "prevSpeaker": "Jim",
+        "nextSpeaker": "Jim"
+    },
+    {
+        "speaker": "Jim",
+        "text": "Come on. [_she gets up_]",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Yeah, we'd all love it!",
+        "prevSpeaker": "Jim",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh uh, you guys, uh... [_but they're gone_] Be right back. [_sits and answers_] Hello?! _SMASH CUT TO:  A close-up of Martin, dressed in a dark suit and talking on a mobile:_",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Hi Niles, it's me.  I just wanted to make sure Daphne took Eddie for a walk, I completely forgot about it this morning.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Yeah, yeah, we're in the dog park now.  Uh, where are you, anyway? _The camera widens to show Martin seated at a table in a nondescript room.  It looks a little like a canteen.  In the background are two people in suits, conferring._",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Uh, I'm at the track.  Uh, had an itch for it when I woke up, and so just I dropped everything and went.  Uh, I'm at the window... [_puts the phone to his shoulder_] I'll have a trifecta in the eighth. [_into phone_] All right, gotta run.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Wait, uh- _Martin hangs up.  He looks very pensive.  FADE TO:_ **MR. HAPPY PANTS** _Scene Three - House Lana opens the door to the house, and Frasier follows her in._",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, I didn't realize that I was going to be selling houses with you today!  Why didn't you just drop me off and then come on your own?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Lana"
+    },
+    {
+        "speaker": "Lana",
+        "text": "Stop whining!  It'll only take a minute.  I hope we don't run into the sad sack who owns this place. _She notices some framed family pictures on the otherwise bare shelves, and quickly removes them to a box on the floor._",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Lana"
+    },
+    {
+        "speaker": "Lana",
+        "text": "I've been trying to sell this house for over a year!  But he keeps driving away every potential buyer.",
+        "prevSpeaker": "Lana",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "How does he do that? _Phillip, the world's saddest man (judging by his unshaven face and filthy clothes) lumbers in carrying a box._",
+        "prevSpeaker": "Lana",
+        "nextSpeaker": "Phillip"
+    },
+    {
+        "speaker": "Phillip",
+        "text": "Oh... hi.  I heard a woman's voice, I thought it might be my wife coming back to me.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Lana"
+    },
+    {
+        "speaker": "Lana",
+        "text": "[_as if to a child_] No.  She lives in Portland now, with her new husband, Lamar, remember? [_Phillip nods sadly_] Oh, excuse me, Frasier Crane, Phillip Donovan, the current owner.",
+        "prevSpeaker": "Phillip",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Hello.",
+        "prevSpeaker": "Lana",
+        "nextSpeaker": "Phillip"
+    },
+    {
+        "speaker": "Phillip",
+        "text": "Hi.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Lana"
+    },
+    {
+        "speaker": "Lana",
+        "text": "Well, see you later Phillip! _Not seeming to hear her, Phillip puts the box on the floor and sinks onto the couch._",
+        "prevSpeaker": "Phillip",
+        "nextSpeaker": "Phillip"
+    },
+    {
+        "speaker": "Phillip",
+        "text": "Anyway, my wife just left with the kids.  No talking, no explanations, just ripped my heart out and threw it to the dogs - which she also took.",
+        "prevSpeaker": "Lana",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, uh, at least you're... getting out at the top of the market!",
+        "prevSpeaker": "Phillip",
+        "nextSpeaker": "Lana"
+    },
+    {
+        "speaker": "Lana",
+        "text": "Actually, this is a very good time, Phillip, and I think today is the day!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Phillip"
+    },
+    {
+        "speaker": "Phillip",
+        "text": "[_opening the box_] Oh, no!",
+        "prevSpeaker": "Lana",
+        "nextSpeaker": "Lana"
+    },
+    {
+        "speaker": "Lana",
+        "text": "Oh, God!",
+        "prevSpeaker": "Phillip",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "What's wrong?",
+        "prevSpeaker": "Lana",
+        "nextSpeaker": "Phillip"
+    },
+    {
+        "speaker": "Phillip",
+        "text": "The damn basement must have flooded again.  Everything in this box is ruined.  Little Suzy's cap she wore home from the hospital, ruined; Danny's first soccer uniform, ruined!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, you know, I have an excellent drycleaner-",
+        "prevSpeaker": "Phillip",
+        "nextSpeaker": "Lana"
+    },
+    {
+        "speaker": "Lana",
+        "text": "[_hissed_] No! _Frasier drops his coat onto a chair and sits beside Phillip on the couch._",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Once, actually, I spilled butter on a pair of white velvet pantaloons. [_off their looks_] Well, it's a long story. But, uh, he had it out in under a minute!",
+        "prevSpeaker": "Lana",
+        "nextSpeaker": "Lana"
+    },
+    {
+        "speaker": "Lana",
+        "text": "Frasier, just give him the address.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, yes...",
+        "prevSpeaker": "Lana",
+        "nextSpeaker": "Phillip"
+    },
+    {
+        "speaker": "Phillip",
+        "text": "[_shows him some pictures_] I have two sons and two daughters. The perfect American family... until that bastard Lamar showed up to snake our drains.  Now all I have left are weekend visits, and a few treasures from their childhood.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Phillip"
+    },
+    {
+        "speaker": "Phillip",
+        "text": "Like this house little Danny and I made at day camp.  Oh, thank goodness, it made it through unscathed.  Just a little water damage in the basement.  Just like this house...",
+        "prevSpeaker": "Phillip",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Phillip, you are still their father.  I mean, I know things seem difficult right now, but believe me, it'll get easier.",
+        "prevSpeaker": "Phillip",
+        "nextSpeaker": "Phillip"
+    },
+    {
+        "speaker": "Phillip",
+        "text": "Oh, it's already easier.  I mean, look at me, I'm dressed.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Lana"
+    },
+    {
+        "speaker": "Lana",
+        "text": "Phillip, you know what would really cheer you up, is to make a killing on this house!  Now, don't you think you should get back to work?",
+        "prevSpeaker": "Phillip",
+        "nextSpeaker": "Phillip"
+    },
+    {
+        "speaker": "Phillip",
+        "text": "I guess.  That air traffic isn't gonna control itself. [_gets up_]",
+        "prevSpeaker": "Lana",
+        "nextSpeaker": "Lana"
+    },
+    {
+        "speaker": "Lana",
+        "text": "OK, here we go. [_he heads toward the front_] No, not the front door!  Let's go out the side door. [_steers him_] It's good to see you again, Phillip, I'll call you when we sell the place, bye!",
+        "prevSpeaker": "Phillip",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Good lord, that man is obviously in pain, the least you could be is a little sympathetic!",
+        "prevSpeaker": "Lana",
+        "nextSpeaker": "Lana"
+    },
+    {
+        "speaker": "Lana",
+        "text": "I have _been_ sympathetic for _fifteen months_!  I had him over for Thanksgiving!  He got drunk the first half-hour and cried himself to sleep in my coat closet!  And I consider that one of our good days!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, so where are these so-called buyers of yours?  You told me they'd be here in a few minutes.",
+        "prevSpeaker": "Lana",
+        "nextSpeaker": "Lana"
+    },
+    {
+        "speaker": "Lana",
+        "text": "Well, they're obviously running late, OK?  It'll give us time to go over the plan.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "What, what, there's a plan?",
+        "prevSpeaker": "Lana",
+        "nextSpeaker": "Lana"
+    },
+    {
+        "speaker": "Lana",
+        "text": "Well, sure.  When the Smolenskis get here, you act like you want the house.  You know, a little competition, put a little pressure on the deal.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You're asking me to be your shill?",
+        "prevSpeaker": "Lana",
+        "nextSpeaker": "Lana"
+    },
+    {
+        "speaker": "Lana",
+        "text": "[_slaps her forehead in mock surprise_] That's the word!  Yes, yes!  Now listen, you don't have to say anything!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I'm sorry, no!",
+        "prevSpeaker": "Lana",
+        "nextSpeaker": "Lana"
+    },
+    {
+        "speaker": "Lana",
+        "text": "Well, why not?!  Well, look, OK, all you have to do is walk around with an interested look on your face.  You know, they'll fill in the rest!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I will do no such thing!",
+        "prevSpeaker": "Lana",
+        "nextSpeaker": "Lana"
+    },
+    {
+        "speaker": "Lana",
+        "text": "Why won't you help me?!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Because I refuse to lie for you!",
+        "prevSpeaker": "Lana",
+        "nextSpeaker": "Lana"
+    },
+    {
+        "speaker": "Lana",
+        "text": "Oh fine, then go wait in the car!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I never wanted to leave the car!",
+        "prevSpeaker": "Lana",
+        "nextSpeaker": "Lana"
+    },
+    {
+        "speaker": "Lana",
+        "text": "Oh, just get out! _She grabs his coat and flings it at him, hitting the stick house and shattering it into a hundred pieces.  They are both horrified.  END OF ACT ONE  ACT TWO  Scene Four - House Lana is picking up the pieces.  Frasier comes in the door with a grocery bag._",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "All right, I got some cream-sicles, and fudge-sicles, and something they call, uh, \"Bomb Pops!\"",
+        "prevSpeaker": "Lana",
+        "nextSpeaker": "Lana"
+    },
+    {
+        "speaker": "Lana",
+        "text": "I called the Smolenskis, I bought us a little extra time.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Right, good, good.  All right, let's spread out some paper and then build us a house!",
+        "prevSpeaker": "Lana",
+        "nextSpeaker": "Lana"
+    },
+    {
+        "speaker": "Lana",
+        "text": "So Frasier, with all your talk about honesty, how do you justify faking this thing?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well... we're simply protecting the feelings of an innocent man.  Nothing dishonest about that.",
+        "prevSpeaker": "Lana",
+        "nextSpeaker": "Lana"
+    },
+    {
+        "speaker": "Lana",
+        "text": "Uh-huh. [_holds up a piece_] So, uh, are you gonna write, \"I love you, Daddy\" or am I?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_It's a dirty job, but_] I'll do it. _FADE TO:  Scene Five - Park Daphne watches, delighted, as Tank obeys Jim's every command._",
+        "prevSpeaker": "Lana",
+        "nextSpeaker": "Jim"
+    },
+    {
+        "speaker": "Jim",
+        "text": "Sit.  Wave, wave.  All right, hide your eyes, hide your eyes. Hide 'em... _Niles and Eddie are sitting on the bench watching them. In his loneliness, Niles has begun to pet Eddie._",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Hey Eddie, don't worry about that other dog.  He may be bigger and flashier and better-looking, but...you have substance. She knows that.",
+        "prevSpeaker": "Jim",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "[_coming back_] How amazing is Jim?  He's so connected to animals, it's almost magical.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Daphne, I've been musing about you and me, and I have a thought.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Yeah?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "In every healthy relationship, I may ask for an occasional - very occasional - irrational demand.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "What do you mean?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Uh, a thing we insist the other do or not do, and the other one has to do it or not do it, without question.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Is that fair?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "It is.  Because we each get one, and only one, for our whole relationship.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Well, if it's important to you.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Then it's agreed?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Agreed.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Good... oh, I've got mine!",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Already?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Yes.  Uh, I want you to promise never to come to this dog park again.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "What?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I know it sounds extreme, even unreasonable - but that's the beauty of the irrational demand.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Is this about Jim?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "The, uh, demand cannot be scrutinized.  It is, by definition, irrational.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "And are you sure this is how you want to use your only one?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Absolutely.  I've thought this through, a lot.  Irrationally, of course.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "OK, if you're sure.  I promise never to come to this dog park again.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Thank you.  I knew you'd understand. [_kisses her_]  Jim and Tank come over. _",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Jim"
+    },
+    {
+        "speaker": "Jim",
+        "text": "All right, we're going home.  Tank needs to re-hydrate, and, oof, I'm late for a deltoid workout.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Well, I guess this is goodbye, Jim.",
+        "prevSpeaker": "Jim",
+        "nextSpeaker": "Jim"
+    },
+    {
+        "speaker": "Jim",
+        "text": "Yep, by this time next week I'll be leading my first raft tour in Chile.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Really?",
+        "prevSpeaker": "Jim",
+        "nextSpeaker": "Jim"
+    },
+    {
+        "speaker": "Jim",
+        "text": "Yeah.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Wow, when do you get back?",
+        "prevSpeaker": "Jim",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Oh, he's not coming back.  He's moving there. [_to Jim_] Good luck, Jim.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Jim"
+    },
+    {
+        "speaker": "Jim",
+        "text": "Yes, you too. [_hugs her; to Niles_] And, uh, stay cool, buddy.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, you know it.",
+        "prevSpeaker": "Jim",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "[_sighs_] I wonder how I'll use my irrational demand... oh, what's my rush?  I've got years to think it over. _Niles looks very nervous.  FADE TO:  Scene Six - Waiting Room Martin is still seated in the waiting room.  Joanne, a woman in her early 50's, comes in and sees him.  They seem comfortable with each other, but nervous about something else._",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Joanne"
+    },
+    {
+        "speaker": "Joanne",
+        "text": "Hi, Martin.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Hello, Joanne.",
+        "prevSpeaker": "Joanne",
+        "nextSpeaker": "Joanne"
+    },
+    {
+        "speaker": "Joanne",
+        "text": "How have you been?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Pretty good.  Oh please, have a seat.",
+        "prevSpeaker": "Joanne",
+        "nextSpeaker": "Joanne"
+    },
+    {
+        "speaker": "Joanne",
+        "text": "Thanks. [_sits_] I was worried I was going to be late with all that construction going on.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Yeah, I know, it's a mess.",
+        "prevSpeaker": "Joanne",
+        "nextSpeaker": "Joanne"
+    },
+    {
+        "speaker": "Joanne",
+        "text": "How's your hip?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Ah, you learn to live with it.",
+        "prevSpeaker": "Joanne",
+        "nextSpeaker": "Joanne"
+    },
+    {
+        "speaker": "Joanne",
+        "text": "I think about you a lot, you know.  I've wanted to call, but... I don't know.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "I understand, it's OK.",
+        "prevSpeaker": "Joanne",
+        "nextSpeaker": "Joanne"
+    },
+    {
+        "speaker": "Joanne",
+        "text": "So... another year has gone by.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Yeah.  Time really flies.",
+        "prevSpeaker": "Joanne",
+        "nextSpeaker": "Joanne"
+    },
+    {
+        "speaker": "Joanne",
+        "text": "I guess it goes a little slower for me. _Silence.  FADE TO:  Scene Seven - House Frasier and Lana are eating popsicles and finishing their new house, which is now only lacking a roof._",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "How's our roof coming?",
+        "prevSpeaker": "Joanne",
+        "nextSpeaker": "Lana"
+    },
+    {
+        "speaker": "Lana",
+        "text": "Almost done.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Good. [_looks at her_] You know, there was a time back in high school when I would have paid a thousand dollars to watch you eat a popsicle. _She just looks at him with the popsicle in her mouth... and bites off the end, making him flinch._",
+        "prevSpeaker": "Lana",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "It was a long time ago.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Lana"
+    },
+    {
+        "speaker": "Lana",
+        "text": "I think it's kind of funny that we became friends.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "We're friends?",
+        "prevSpeaker": "Lana",
+        "nextSpeaker": "Lana"
+    },
+    {
+        "speaker": "Lana",
+        "text": "Well, sure we are.  Why wouldn't you think so?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, dear...",
+        "prevSpeaker": "Lana",
+        "nextSpeaker": "Lana"
+    },
+    {
+        "speaker": "Lana",
+        "text": "Nice going, dipstick! [_takes a tissue and wipes his shirt_]",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "It's a brand-new shirt.",
+        "prevSpeaker": "Lana",
+        "nextSpeaker": "Lana"
+    },
+    {
+        "speaker": "Lana",
+        "text": "I hear a car.  It's the Smolenskis. [_gets up_] OK, keep working.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Right.",
+        "prevSpeaker": "Lana",
+        "nextSpeaker": "Lana"
+    },
+    {
+        "speaker": "Lana",
+        "text": "I gotta go up to Phil's room and spray some air freshener around.  His room reeks of... I don't know, despair! _She leaves the room.  Frasier, before resuming work, takes the scissors and cuts a hole in the middle of a large piece of wall-paper on the floor, and puts it over his head as a smock, all the while holding the popsicle in his mouth.  As he resumes, the elderly Smolenskis come in._",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Mrs. Smolenski"
+    },
+    {
+        "speaker": "Mrs. Smolenski",
+        "text": "It's even nicer than I remember! _They see him - a grown man wearing a huge paper smock, glueing sticks together and sucking on a popsicle._",
+        "prevSpeaker": "Lana",
+        "nextSpeaker": "Mrs. Smolenski"
+    },
+    {
+        "speaker": "Mrs. Smolenski",
+        "text": "Well, hello there!  Are you having fun making your little house?",
+        "prevSpeaker": "Mrs. Smolenski",
+        "nextSpeaker": "Lana"
+    },
+    {
+        "speaker": "Lana",
+        "text": "Oh, there you are!  Hi - oh, I see you've met Frasier. I am so glad you came today, because the interest on this place is really heating up!",
+        "prevSpeaker": "Mrs. Smolenski",
+        "nextSpeaker": "Mr. Smolenski"
+    },
+    {
+        "speaker": "Mr. Smolenski",
+        "text": "Well, we're certainly interested as well, but we've- we've heard that a lot of homes in this area have a flooding problem.  Now, what do you know about the basement here?",
+        "prevSpeaker": "Lana",
+        "nextSpeaker": "Lana"
+    },
+    {
+        "speaker": "Lana",
+        "text": "Honestly?",
+        "prevSpeaker": "Mr. Smolenski",
+        "nextSpeaker": "Mr. Smolenski"
+    },
+    {
+        "speaker": "Mr. Smolenski",
+        "text": "Yes.",
+        "prevSpeaker": "Lana",
+        "nextSpeaker": "Lana"
+    },
+    {
+        "speaker": "Lana",
+        "text": "This house is sixty years old, and I have only heard of it flooding once.",
+        "prevSpeaker": "Mr. Smolenski",
+        "nextSpeaker": "Mr. Smolenski"
+    },
+    {
+        "speaker": "Mr. Smolenski",
+        "text": "Oh!",
+        "prevSpeaker": "Lana",
+        "nextSpeaker": "Lana"
+    },
+    {
+        "speaker": "Lana",
+        "text": "And I could tell you for a fact that the permanent owner stores some of his most cherished keepsakes in that basement.",
+        "prevSpeaker": "Mr. Smolenski",
+        "nextSpeaker": "Mrs. Smolenski"
+    },
+    {
+        "speaker": "Mrs. Smolenski",
+        "text": "Are you choking on your lolly?",
+        "prevSpeaker": "Lana",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_takes out popsicle_] No.  I am choking on something far more dangerous and destructive than a simple sugary treat.  It's a prolific and powerful poison known as: deception!",
+        "prevSpeaker": "Mrs. Smolenski",
+        "nextSpeaker": "Mrs. Smolenski"
+    },
+    {
+        "speaker": "Mrs. Smolenski",
+        "text": "He's very verbal! _Even from within his smock, Frasier manages to look righteous and accusing._",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Lana"
+    },
+    {
+        "speaker": "Lana",
+        "text": "Oh, you know, I just remembered!  Gosh, you know, the owner did mention something about a recent little moisture problem downstairs.  Tell you what, why don't I give him a call and see if he'll come down just a tiny bit in the price?",
+        "prevSpeaker": "Mrs. Smolenski",
+        "nextSpeaker": "Mrs. Smolenski"
+    },
+    {
+        "speaker": "Mrs. Smolenski",
+        "text": "Oh, that'd be wonderful!",
+        "prevSpeaker": "Lana",
+        "nextSpeaker": "Mr. Smolenski"
+    },
+    {
+        "speaker": "Mr. Smolenski",
+        "text": "If he could give us a break in the price, I'm sure we'll make an offer.",
+        "prevSpeaker": "Mrs. Smolenski",
+        "nextSpeaker": "Lana"
+    },
+    {
+        "speaker": "Lana",
+        "text": "Oh, great!  I'll call you tonight.",
+        "prevSpeaker": "Mr. Smolenski",
+        "nextSpeaker": "Mrs. Smolenski"
+    },
+    {
+        "speaker": "Mrs. Smolenski",
+        "text": "Thank you.",
+        "prevSpeaker": "Lana",
+        "nextSpeaker": "Mr. Smolenski"
+    },
+    {
+        "speaker": "Mr. Smolenski",
+        "text": "[_to Frasier_] Bye, sonny.",
+        "prevSpeaker": "Mrs. Smolenski",
+        "nextSpeaker": "Lana"
+    },
+    {
+        "speaker": "Lana",
+        "text": "[_as they leave_] Call you tonight!",
+        "prevSpeaker": "Mr. Smolenski",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "There now, you see?  You did the right thing.  That wasn't so bad, was it?",
+        "prevSpeaker": "Lana",
+        "nextSpeaker": "Lana"
+    },
+    {
+        "speaker": "Lana",
+        "text": "I guess not.  Oh, look at our little house, it looks great!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Say, you know, we got a few extra popsicle sticks left, why don't we add on a half a bath? _Lana laughs.  Frasier heads for the side door, then stops and turns back._",
+        "prevSpeaker": "Lana",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You know, Lana, I think the house should go the other way around - with the door facing the couch. [_off her look_] Feng Shui!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Lana"
+    },
+    {
+        "speaker": "Lana",
+        "text": "Fine, fine, fine, fine. _He leaves the room.  Lana lifts the house - and the coffee table comes with it.  She tries again, without luck.  She braces the table with her legs, and tugs.  Nothing.  Making a rapid decision, she lifts the coffee table and turns it around so the door is now facing the couch.  Frasier comes back._",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Ah, perfect.",
+        "prevSpeaker": "Lana",
+        "nextSpeaker": "Lana"
+    },
+    {
+        "speaker": "Lana",
+        "text": "Perfect.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Now you see, doesn't it feel good to tell the truth? It's like breathing a breath of fresh air, and-",
+        "prevSpeaker": "Lana",
+        "nextSpeaker": "Lana"
+    },
+    {
+        "speaker": "Lana",
+        "text": "Yeah, yeah, yeah, let's go!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, all right. _They go out the door.  FADE TO:_ **MOMMIE DEAREST** _Scene Eight - Apartment Roz steps off the elevator carrying Alice.  She kneels down and stands Alice opposite her._",
+        "prevSpeaker": "Lana",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "OK, Alice, before we see Uncle Frasier, let's remember together what _really_ happened.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Now, did you throw up in Uncle Frasier's car?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "No-you-didn't.  That smell was there before, wasn't it?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "That's-my-girl. [_holds out a pack of M &M;'s_] There you go. _FADE TO:  Scene Nine - Hearing Room David Hicks, a man in his 20's, is sitting in a chair, wearing a denim prison uniform.  In front of him are the three members of a Parole Board.  Behind him, the room is empty except for Martin, Joanne, and a guard._",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "David"
+    },
+    {
+        "speaker": "David",
+        "text": "And besides the library assignment, I've been taking a computer class on Wednesdays.  I hope to get a job with computers... when I get out.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "1st BM"
+    },
+    {
+        "speaker": "1st BM",
+        "text": "Can you tell us what consideration, if any, you've given this crime?",
+        "prevSpeaker": "David",
+        "nextSpeaker": "David"
+    },
+    {
+        "speaker": "David",
+        "text": "Well... I regret it, everyday.  I was young at the time, and I wasn't thinking - you know, about the consequences.  And I'm very sorry.",
+        "prevSpeaker": "1st BM",
+        "nextSpeaker": "2nd BM"
+    },
+    {
+        "speaker": "2nd BM",
+        "text": "The victim is here.  Mr. Crane? [_Martin stands up_] Would you like to make a statement?",
+        "prevSpeaker": "David",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "I have nothing to say. [_sits back down_]",
+        "prevSpeaker": "2nd BM",
+        "nextSpeaker": "3rd BM"
+    },
+    {
+        "speaker": "3rd BM",
+        "text": "Would you give us a moment?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "3rd BM"
+    },
+    {
+        "speaker": "3rd BM",
+        "text": "Mr. Hicks, the board commends you for your participation in the in-house programs to better yourself, and for your record of excellent conduct.  We have weighed this against your conviction of shooting a police officer during the commission of a robbery -- and find that the length of your time served has not yet met the standards for proportionality, equality, and justice as required by state law.  Parole is denied. _As the Parole Board gets up and leaves the room, the guard comes forward to take David back to his cell.  Joanne begins to cry, softly. Martin rises, considering whether or not to say anything to her - and then decides to leave quietly.  END OF ACT TWO_",
+        "prevSpeaker": "3rd BM",
+        "nextSpeaker": "Credits"
+    }
+]

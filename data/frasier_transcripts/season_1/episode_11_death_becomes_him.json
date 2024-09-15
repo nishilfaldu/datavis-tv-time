@@ -1,0 +1,1173 @@
+[
+    {},
+    {
+        "speaker": "Daphne",
+        "text": "No, really.  I've never had a serious boyfriend.  No-one's really been interested.",
+        "prevSpeaker": "No Previous Speaker",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Men can be such pigs. [_starts making a swan out of the napkins Daphne is sorting out_]",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "It's not that people weren't trying to fix me up.  Back in Manchester my mum was steering me toward Reginald Glower, the butcher's son.  Pasty little thing.  Never did take to him.  I suppose I like my gents more on the manly side. [_Niles flattens the swan_] Was that a little swan you made?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "No, it was a B-52.  ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, Dad's done it again.  That was Dr. Jennings's office on the phone.  He's skipped his physical again today.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Why, that little devil.  No wonder he didn't want me to go with him.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Frasier, you know Dad's intense aversion to doctors, you should have seen that he got there.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, well I didn't see you volunteering this afternoon.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well, I couldn't.  I had my \"fear of abandonment\" workshop today, and I've already been a no-show twice.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Wait 'til your father gets here, I'll give him such a piece of my mind.  _Eddie comes bounding out of the bedroom, bounces over the furniture and sits by the door._ ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "If only we had some way of knowing if he was about to arrive.  ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_to Eddie_] Hey, how ya doin', boy? Yeah, glad to see you too.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "So.  How was your exam today?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh, you know.  Everything's pretty routine.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "EKG?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Perfect.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Blood pressure?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Textbook.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Hope they took a full blood panel.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh, yeah.  Told them to take two.  They're small.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Ooh, let's have a look. [_Martin rolls up his sleeve_] Ooh, look at this.  A nice, big Band-Aid. [_she rips it off his arm_] Nice try!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Ouch!  What did you do that for?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Dr. Jennings's office called to reschedule your appointment. You never showed up today.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Dad, this is ludicrous.  Why do you keep avoiding the doctor?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Because I feel fine.  I'll go to the doctor when I don't feel fine.  Besides, I don't like Dr. Jennings.  He's got a model of a colon on his desk, he keeps his tongue depressors in it.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, all right Dad, fine.  If you don't like him, why don't you go to see my doctor, she's one of the finest gastroenterologists in this city.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "She?  Oh ho ho, no no.  No way.  If a doctor's gonna have me bend over, I want to look through my legs and see wingtips.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Now now, we'll have none of that.  We women have been poked and prodded by male doctors for centuries.  I say it's high time you gents went to see a doctor of the opposite sex. See how you like waiting in that room - sitting there all naked and helpless and goose-bumpy.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Niles, surely you could recommend someone?  ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Niles!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I'm sorry, my mind was somewhere else.  Rec... OH!  I know who you should see - Dr. Gary Newman.  His office is in my building, he has a very successful practice, I saw a Lichtenstein hanging in his office.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Ooh, Lichtenstein.  He sounds perfect.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Alright, alright.  I'll make an appointment, I'll go see him.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, now just hang on a second there, mister.  I will make the arrangements and I will escort you personally.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Wonderful.  I can't wait.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Oh, stop grumbling.  It won't be so bad.  Well, unless you have to parade around the office in one of those gowns where your little bum peeks through the back.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "So Niles, what's Dr. Newman's number?  ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "...Niles?  NILES!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I'm sorry, I must have drifted off again. _FADE OUT  Scene Two - Dr. Newman's waiting room. Frasier and Martin are waiting, along with an elderly lady._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "My appointment was supposed to be half an hour ago, how much longer are we gonna wait for this guy?  Come on Frasier, let's get out of here.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Dad, Dad, just relax.  Read a magazine.  Oh, here, here. Take the Cosmo quiz.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_reading_] \"Are your nipples sensitive?\"",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Would you mind doing that quietly, it's not an oral exam.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "You haven't seen the second question.  Did you used to keep your patients waiting like this?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, just the compulsives.  It was part of their therapy. Relax there, I'll take care of it.  ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, my father Martin Crane had an appointment thirty minutes ago?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Receptionist"
+    },
+    {
+        "speaker": "Receptionist",
+        "text": "Yes, I'm sorry.  The doctor's running a little late this morning, but you'll be first up when he gets in.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "When he gets in?  My God, where's he coming from, Spokane?",
+        "prevSpeaker": "Receptionist",
+        "nextSpeaker": "Receptionist"
+    },
+    {
+        "speaker": "Receptionist",
+        "text": "Actually he has a long drive in from his weekend house at Lake Shalonne.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Lake Shalonne?  Ooh, this guy must be terrific!  ",
+        "prevSpeaker": "Receptionist",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "So?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Dad, relax.  He'll be here any minute. [_looking around_] You know Dad, I was just struck by one of life's little ironies.  I remember you taking me to the doctor, and now here I am taking you.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Yeah.  I remember when I took you for your first tetanus shot, you were about five or six.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh boy, was I scared.  I remember you holding my hand.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Yeah.  Bent over that table, dropped your little drawers. When the nurse gave you the shot, you took your mind off it by reciting the names of all of Puccini's operas.  Right then I knew you'd never be a cop.  Look, I'm serious.  I'm not staying any longer, let's go.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "All right dad, look, I'll check and see if there's someone substituting for him.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_to lady_] What are you here for?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Lady"
+    },
+    {
+        "speaker": "Lady",
+        "text": "Lately I've been having this overall sluggish feeling.  It's hard even getting out of bed in the morning.  Not to mention the cold weather.  It's really making my joints hurt.  I've started to notice flaking spots on my skin.  What about you?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_who wishes he hadn't started this_] I have sensitive nipples.  ",
+        "prevSpeaker": "Lady",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Dad?  I'm afraid the doctor won't be able to make your appointment today.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh, that's just great.  These big-shot doctors, they keep you waiting for an hour and then they don't even have the decency to show up!  What, play a little slow on the golf course today? That arrogant, inconsiderate jerk!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Dad, Dad, Dad -- Dr. Newman is dead.  He died an hour ago.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "I'm sure he was a good man. **WELL, I'M LOUSY AT TENNIS...**  _Scene Three - KACL Frasier is talking to Roz._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I mean, there he was, walking down his walkway this morning and, he bends over to pick up his newspaper and BANG! - he drops dead of a heart attack.  It's just... God, you know? I pick up my newspaper every day.  And the Sunday Times is very heavy, I'm thinking of canceling.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Well?  These things happen.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "\"These things happen?\"  Roz, how can you say that?  My God, this was not an old man, he was my age.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "What am I supposed to say?  I guess I don't think of these things like you do.  Guess it's because you're forty-one and I'm... [_laughs_] not.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Don't you ever think about you're own mortality?  Don't you ever think about dying?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Well, not me dying, but you know what I have thought about lately?  I've been dating this older guy, and what if... you know? [_Frasier doesn't_] We were in bed together and he dropped dead?  Well, it's not out of the realm of possibility. Sometimes he starts breathing very funny and I don't know if he's having a good time or if I've overexcited him to some dangerous level.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Someone certainly has a very high opinion of herself.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Everybody's good at something.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Why is it that every time we try to have a serious discussion, we end up talking about your sex life?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Because I have one. **A FAMILY MEETING**  _Scene Four - Apartment Martin and Daphne are there.  Frasier opens the door for Niles._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Niles, thank you so much for coming at such short notice.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Hello Dad, Daphne.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Hello, Dr. Crane.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Yes, I came as soon as I could. [_for Daphne's benefit_] I was in the middle of my workout, but, I can always pump iron later.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Well, I'll just pop into the kitchen and fix us a snack.  ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_taking a large folder over to the table_] Pump iron?  Niles, you don't even pump your own gas.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "All right, all right.  Now what is all this nonsense about getting your affairs in order?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, it's this: Dr. Newman dying at such a young age really threw me for a loop.  I was trying to figure out why, and I finally realized that I hadn't made the proper provisions for my own death.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "[_entering with a bowl and a jar of peanuts_] Here we go.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh!  Here, allow me.  _He takes the jar but has even less success.  Frasier distributes files to each person._ ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "First, the pertinent information.  I've prepared copies for each of you.  The location and numbers of my bank accounts; [_Niles is still struggling with the jar_] my safety deposit keys; the number for my attorney... Niles, what are you doing? Oh, give me that!  ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_to Daphne_] I loosened it for him.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Now, the distribution of my personal possessions.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Oh, I really think this is a matter for family only.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No, no Daphne, please, I'd like you to stay.  I'll come to you later.  Dad, Niles, I'd like you to put your names on these stickers, [_hands them over_] and place them on any object you'd like bequeathed to you.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "This is crazy.  I'm not going to start putting my name on your stuff.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Dad, what happens if I die tomorrow, you and Niles end up in an argument about... well, that African mask, for instance?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "It'll never happen.  Niles, you can have it.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I don't want it.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Well, don't look at me.  I throw a towel over that thing when you're not home.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Okay, fine.  Now we come to the issue of... my remains.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh, jeez.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I've arranged every detail in this easy-to-read binder. [_gives binder to Martin_]",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh, this is taking it too far, would you look at this? [_reads_] \"Burial; Casket; Caterers\"?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Who are you using?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Michaelson's.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, they're very good.  Excellent.  _They start discussing the wonder that is Michaelson's.  Martin tries to get a word in._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Excuse me.  Excuse me!  Are we about done?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, there is just one more duck to put in the row.  I've done some research and I've discovered that most unexpected deaths occur in the home.  And Daphne, this is where you come in, the actual finding of the body.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Ooh, save the best part for me, eh?  Well, that's all right. I'm a health care provider. I've had my fair share of patients Die on me.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "That's a comfort.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, perhaps dad's right.  Maybe we should just drop the subject.  Well, thank you.  This meeting has actually made me feel better, I think I can handle my mortality a bit better now.  Well, enough talk about death. [_produces a bottle of wine_] Let's celebrate life with a bottle of Chateau Certair '75",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh no, not the '75, I can't let you do that, that's far too good for the likes of us.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, perhaps a bottle of Beaujolais Nouveau would be more appropriate.  _He goes to find the bottle.  Niles takes the bottle of '75 and puts a sticker on it.  Martin glares at him.  END OF ACT ONE  ACT TWO  Scene Five - Apartment Frasier is lying on the couch with his eyes shut and his fingers in his ears.  Eddie is watching him.  Martin enters._ ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Eddie?  Ah, there you are.  Come on, boy.  Frasier, what are you still doing up? [_no answer_] Frasier!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Dad, please, shh.  I'm trying to listen to my heartbeat. Amazing thing, the human heart.  You know, it can pump eighteen hundred gallons of blood through it each and every day, but the tiniest tear in the tiniest part of the tiniest artery and \"poof,\" you're gone.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "I thought you were all okay about this stuff now.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, so did I.  What is the matter with me?  I guess I thought that putting my affairs in order would help me to deal with this thing, but it hasn't.  I... I can't seem to get over the feeling that no matter how remote the possibility, something could happen to me.  Jeez, I'd miss so much.  I'd never get to see my son hit his first home run.  It'd be a terrible thing for a father to miss.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Tell me about it.  Look son, let me tell you something.  There was this time, a while back, seven or eight of us were on this drug bust.  We get the order to go through the front door, and the first guy took one.  He was dead before he hit the ground. When you're a cop, you've got to be able to handle things like that, but I... I just couldn't get over it.  Every time I had to go in a blind alley, or in a dark building, I just froze. And I knew if I kept being afraid to die, I'd never be able to do my job.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "So what did you do?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "I just forced myself to forget about it.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Just like that?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Just like that.  Next time I came across one of those doors, I went right through it. [_then_] The fact that I got shot in the hip was purely coincidental.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You were this close to helping me there, Dad.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Look Frasier, just because some doctor dies doesn't mean you're gonna die.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, but he was just like me.  Highly educated, sophisticated, at the top of his profession; I saw a picture of him in a medical journal, he even looked like me.  Same determined chin, sweater vest and ever-so-slightly receding hairline.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Look, what do you know about this guy?  You don't even know his medical history.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Actually, you're on to something there, dad.  Yeah, yeah. For all I know he could have had high blood pressure, popped pills, drank like a fish...",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "There you go, it could have been any of those things.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I'm gonna find out what caused his heart attack.  That's the only way I can disassociate myself from him.  There's got to be some reasonable explanation. [_heads towards bedroom_] That's great, dad.  Actually, I do feel better now.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Frasier, you've got something on your bathrobe.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_discovers it's a sticker_] Niles... the vultures are circling. KRUGEL, FRAS, AND ALLEN  _Scene Six - Dr Newman's House All his family are there, dressed in black. The door is open._",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Hello?  Hello. [_he attracts the attention of one of the guests_] I called earlier, someone said Mrs. Newman would be here?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Allen"
+    },
+    {
+        "speaker": "Allen",
+        "text": "Oh, of course, please come in.  I'm Allen Freedman.  Gary was my cousin.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Dr. Frasier Crane.  My sincerest condolences.  So, I didn't think Mrs. Newman would have company.",
+        "prevSpeaker": "Allen",
+        "nextSpeaker": "Allen"
+    },
+    {
+        "speaker": "Allen",
+        "text": "Oh, the family are sitting Shiva.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Excuse me?",
+        "prevSpeaker": "Allen",
+        "nextSpeaker": "Allen"
+    },
+    {
+        "speaker": "Allen",
+        "text": "You're not Jewish, are you?  It's our version of a wake.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh -- oh, yes.  Oh, of course, of course.  I didn't realize that Gary was Jewish, you see.",
+        "prevSpeaker": "Allen",
+        "nextSpeaker": "Allen"
+    },
+    {
+        "speaker": "Allen",
+        "text": "You're kidding.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Uh, well no.  Ah, well, you know, we were pretty close friends, spent a lot of time together -- well, never on Friday nights, of course - but ah, you know, maybe I should come back another time.",
+        "prevSpeaker": "Allen",
+        "nextSpeaker": "Allen"
+    },
+    {
+        "speaker": "Allen",
+        "text": "No no, please.  I'm sure Julie'd love to know that you came. She's right over there. [_points_]",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, she looks busy.  I can wait.",
+        "prevSpeaker": "Allen",
+        "nextSpeaker": "Allen"
+    },
+    {
+        "speaker": "Allen",
+        "text": "Of course.  If you'll excuse me? [_goes back to table_]  _Frasier notices a black drape hanging over a frame, and lifts it to discover a mirror underneath.  An older woman, Aunt Bobbie, sees him._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Bobbie"
+    },
+    {
+        "speaker": "Bobbie",
+        "text": "May I help you?",
+        "prevSpeaker": "Allen",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Ah.  I didn't realize this was a mirror, I thought that maybe you were having an unveiling later.",
+        "prevSpeaker": "Bobbie",
+        "nextSpeaker": "Bobbie"
+    },
+    {
+        "speaker": "Bobbie",
+        "text": "You're not Jewish, are you?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No, no.  My, my ex-wife is, though.  And, ah, so and thus my son is.  Which makes me, ah, sort of... well I guess you could say... [_gives up_] No, I'm not Jewish.",
+        "prevSpeaker": "Bobbie",
+        "nextSpeaker": "Bobbie"
+    },
+    {
+        "speaker": "Bobbie",
+        "text": "We always cover mirrors at a Shiva.  So those grieving don't have to be concerned with their own appearances.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Ah.  Ah well, you look very nice.",
+        "prevSpeaker": "Bobbie",
+        "nextSpeaker": "Bobbie"
+    },
+    {
+        "speaker": "Bobbie",
+        "text": "[_relieved_] Oh, thank you.  It's been driving me crazy. I'm Bobbie, Gary's aunt.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Dr. Frasier Crane.  My deepest sympathies.",
+        "prevSpeaker": "Bobbie",
+        "nextSpeaker": "Bobbie"
+    },
+    {
+        "speaker": "Bobbie",
+        "text": "You're the doctor with the radio show, aren't you?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, yes.",
+        "prevSpeaker": "Bobbie",
+        "nextSpeaker": "Bobbie"
+    },
+    {
+        "speaker": "Bobbie",
+        "text": "Did you know Gary well?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, yes.  Yes, yes I did.  Well I, there's so much more I wanted to know about the man.  You see, ah... well oh, I don't know, ah... how was his health before he died?",
+        "prevSpeaker": "Bobbie",
+        "nextSpeaker": "Bobbie"
+    },
+    {
+        "speaker": "Bobbie",
+        "text": "Excellent.  He was never sick.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "History of heart disease?",
+        "prevSpeaker": "Bobbie",
+        "nextSpeaker": "Bobbie"
+    },
+    {
+        "speaker": "Bobbie",
+        "text": "Oh, no.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "High blood pressure?",
+        "prevSpeaker": "Bobbie",
+        "nextSpeaker": "Bobbie"
+    },
+    {
+        "speaker": "Bobbie",
+        "text": "No.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "High cholesterol?",
+        "prevSpeaker": "Bobbie",
+        "nextSpeaker": "Bobbie"
+    },
+    {
+        "speaker": "Bobbie",
+        "text": "No.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Do you know what his HDL was in comparison to his LDL?",
+        "prevSpeaker": "Bobbie",
+        "nextSpeaker": "Bobbie"
+    },
+    {
+        "speaker": "Bobbie",
+        "text": "No.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I'm sorry.  I'm asking too many questions.  You know how doctors are, always looking for the answers to the mysteries of life.  _A woman enters, carrying a cake.  She's been crying.  Bobbie greets her._ ",
+        "prevSpeaker": "Bobbie",
+        "nextSpeaker": "Bobbie"
+    },
+    {
+        "speaker": "Bobbie",
+        "text": "Oh, Gail.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Gail"
+    },
+    {
+        "speaker": "Gail",
+        "text": "Aunt Bobbie. [_they hug_]",
+        "prevSpeaker": "Bobbie",
+        "nextSpeaker": "Bobbie"
+    },
+    {
+        "speaker": "Bobbie",
+        "text": "I know, I know.  Gail, I'd like you to meet a friend of Gary's. Dr. Frasier Crane.",
+        "prevSpeaker": "Gail",
+        "nextSpeaker": "Gail"
+    },
+    {
+        "speaker": "Gail",
+        "text": "Dr. Crane?  From the radio?",
+        "prevSpeaker": "Bobbie",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes.  I'm sorry for your loss.",
+        "prevSpeaker": "Gail",
+        "nextSpeaker": "Gail"
+    },
+    {
+        "speaker": "Gail",
+        "text": "I love your show. [_re: her tears_] Oh, I... I'm sorry about this.  It's just, ah, when I went to pick up this linseed tort I thought of Gary and...",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh?  So Gary had a fondness for fattening desserts, did he?",
+        "prevSpeaker": "Gail",
+        "nextSpeaker": "Gail"
+    },
+    {
+        "speaker": "Gail",
+        "text": "Oh.  You didn't know Gary very well, did you?  If he knew I brought this here, he'd kill me.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Allen"
+    },
+    {
+        "speaker": "Allen",
+        "text": "Yeah, Gary was a total health fanatic, a strict vegetarian. I used to play basketball with him every Sunday.",
+        "prevSpeaker": "Gail",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh.  Oh, so he was sedentary all week, then he was burning up the court on Sundays.  Well, that can be very straining on the heart, you know...",
+        "prevSpeaker": "Allen",
+        "nextSpeaker": "Bobbie"
+    },
+    {
+        "speaker": "Bobbie",
+        "text": "No, he played at least four times a week.  That is, when he wasn't at the gym working out.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Gail"
+    },
+    {
+        "speaker": "Gail",
+        "text": "Gary was in phenomenal shape.",
+        "prevSpeaker": "Bobbie",
+        "nextSpeaker": "Bobbie"
+    },
+    {
+        "speaker": "Bobbie",
+        "text": "He didn't smoke, never touched caffeine...",
+        "prevSpeaker": "Gail",
+        "nextSpeaker": "Allen"
+    },
+    {
+        "speaker": "Allen",
+        "text": "Did you know he had less than 10 percent body fat on him?",
+        "prevSpeaker": "Bobbie",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "My goodness.  Has anybody checked to see if he's really dead? [_this does not go down well_] I'm sure they did check, those people are very thorough.  Oh my, is that Krugle?  Excuse me.  _Frasier escapes.  He wanders round the room, offering his condolences to people and finds himself standing beside Mrs. Newman._ ",
+        "prevSpeaker": "Allen",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I'm Dr Frasier Crane, I was a friend of your husband's.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Newman"
+    },
+    {
+        "speaker": "Newman",
+        "text": "Dr. Crane?  From...?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, the radio.",
+        "prevSpeaker": "Newman",
+        "nextSpeaker": "Newman"
+    },
+    {
+        "speaker": "Newman",
+        "text": "Gary never mentioned you.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, we weren't actually friends.  He had an office in my brother's building.",
+        "prevSpeaker": "Newman",
+        "nextSpeaker": "Newman"
+    },
+    {
+        "speaker": "Newman",
+        "text": "And you took the time to come down here.  His own partner didn't even stay fifteen minutes.  That's really sweet of you.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, actually I... there's a reason I came to talk with you.",
+        "prevSpeaker": "Newman",
+        "nextSpeaker": "Newman"
+    },
+    {
+        "speaker": "Newman",
+        "text": "Which is?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "It's about Gary.  About how he, er...",
+        "prevSpeaker": "Newman",
+        "nextSpeaker": "Newman"
+    },
+    {
+        "speaker": "Newman",
+        "text": "Yes?  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Look, I'm sorry I've bothered you.  Ah, I really just came to offer my sympathies. _",
+        "prevSpeaker": "Newman",
+        "nextSpeaker": "Newman"
+    },
+    {
+        "speaker": "Newman",
+        "text": "Oh no, wait.  Um, Dr. Crane?  I listen to you all the time, and uh -- well, maybe you can help me?  What would you tell someone who called into the show and said they can't get over why someone died?  I keep running this over and over in my mind and... I just can't understand how someone like Gary, who did everything right, can just die.  I can't make any sense of it.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Mrs. Newman, I... I know you'd like me to come up with some grand answer to this whole thing.  But I, I don't have one. There are none.  Someone who consumes nothing but cigarettes and cheeseburgers all his life can live to be eighty-three, and someone who takes care of himself can die at forty-one. It's unfair.  Believe me, there's no explanation for it. Believe me, I've checked.  But, I suppose the best we can do is live for the little joys and surprises life affords us. You can't spend your life being obsessed with death.",
+        "prevSpeaker": "Newman",
+        "nextSpeaker": "Newman"
+    },
+    {
+        "speaker": "Newman",
+        "text": "You're not Jewish, are you?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No.  No I'm not.  Well, thank you for letting me be here today.",
+        "prevSpeaker": "Newman",
+        "nextSpeaker": "Newman"
+    },
+    {
+        "speaker": "Newman",
+        "text": "Oh, thank you for coming, Dr. Crane.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Bobbie"
+    },
+    {
+        "speaker": "Bobbie",
+        "text": "Oh, Dr. Crane?  It was very nice what you said about living life for the little joys and surprises it can give us.",
+        "prevSpeaker": "Newman",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes.",
+        "prevSpeaker": "Bobbie",
+        "nextSpeaker": "Bobbie"
+    },
+    {
+        "speaker": "Bobbie",
+        "text": "Thank you.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_quietly, to himself_] If only I believed it myself.",
+        "prevSpeaker": "Bobbie",
+        "nextSpeaker": "Woman"
+    },
+    {
+        "speaker": "Woman",
+        "text": "Excuse me?  Um, this is clearly the most inappropriate thing I've ever done in my life, but... I was watching you, and um, I don't know if I'll ever get the chance to see you again, and something about you tells me that I'd like to.  Here. [_gives him her card_] If you'd like to get together sometime, give me a call. [_moves off_]  _Frasier leaves, his spirits lifted.  End of Act Two._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Credits"
+    }
+]

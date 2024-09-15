@@ -1,0 +1,1491 @@
+[
+    {},
+    {
+        "speaker": "Skyline",
+        "text": "A moon rises above the city.  _ACT I  Scene 1 - KACL Frasier is finishing a segment._ ",
+        "prevSpeaker": "No Previous Speaker",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "And we'll be right back after this short news break.  ",
+        "prevSpeaker": "Skyline",
+        "nextSpeaker": "Gil"
+    },
+    {
+        "speaker": "Gil",
+        "text": "Frasier...I'm here to give you an advance tip.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Really?  ",
+        "prevSpeaker": "Gil",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Hey, Gil.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Gil"
+    },
+    {
+        "speaker": "Gil",
+        "text": "Roz!  I'm about to review a divine new Italian trattoria I've discovered called \"Bella, Bella.\"",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Ah-ha.",
+        "prevSpeaker": "Gil",
+        "nextSpeaker": "Gil"
+    },
+    {
+        "speaker": "Gil",
+        "text": "I'm alerting you now because once I review it, reservations will be impossible to come by.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, thank you, Gil, it's always gratifying to be a few minutes ahead of a trend.",
+        "prevSpeaker": "Gil",
+        "nextSpeaker": "Gil"
+    },
+    {
+        "speaker": "Gil",
+        "text": "They make an osso bucco that's so divine I call it the \"Veal Shank Redemption.\"  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "Hey, guys.",
+        "prevSpeaker": "Gil",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Hello, Kenny.",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "Show's going great, Frasier, uh, only one thing missing, of course...",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I know, I know, a new theme song.  I'm sorry, I just haven't gotten around to it yet.",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "Well, Mrs. Delafield's been hounding me on this.  She really thinks each show having a theme song will help hook the listeners.  Gil's got his.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Gil"
+    },
+    {
+        "speaker": "Gil",
+        "text": "My first choice was \"Food, Glorious Food\" from the show _Oliver!_",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Ooh, that's a perfect match.  Haute cuisine and a chorus of starving orphans.",
+        "prevSpeaker": "Gil",
+        "nextSpeaker": "Gil"
+    },
+    {
+        "speaker": "Gil",
+        "text": "But then, a composer friend of mine came up with this little ditty for me [_He sings:_] _Whether choosing a wine Or the best place to dine-- It's all a matter of taste (Yes, sir!) It's all a matter of taste!_",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "Great, huh?  ",
+        "prevSpeaker": "Gil",
+        "nextSpeaker": "Gil"
+    },
+    {
+        "speaker": "Gil",
+        "text": "And the nicest thing is, he didn't take a penny for it!",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, at least he has a conscience.  ",
+        "prevSpeaker": "Gil",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You know, Kenny, I'm sorry for procrastinating this thing. I-I tell you, I'll get one as soon as I possibly can.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "Well, you better come up with something here.  I'm sorry to be a hard-ass.  It's the part of my job I hate the most, but I need this thing on my desk by Monday...ish.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You know, Roz - hearing Gil's little ditty puts me in mind that maybe we should just do - ah, an original song.",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Well, my new boyfriend Leon is in a band.  He could write one for you.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, actually, I was thinking of composing it myself.  I am not without musical ability, you know.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Could you at least hire Leon to accompany you?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I take it he's desperate for work?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Hasn't had a gig in months.  Music is all he knows.  He's not good at anything else - except in bed.  It's what he does best.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yeah.  How long did it take you to find that out?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "[_about the show_] Ten seconds, Frasier.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, longer than usual.  _She returns to her booth and he replaces his headphones.  FADE OUT  Scene 2 - Frasier's apartment He opens the door to Niles._ ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Frasier.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, Niles.  Oh, dear.  We had dinner plans tonight, didn't we?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Yes.  Don't tell me you're canceling.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, I have to.  I have a little project this evening.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh.  Would this have anything to do with this new theme song you promised your listeners?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "As a matter of fact, it does.  I've got to have something by Monday, and I thought I'd take advantage of a nice quiet evening at home.  ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh.  Daphne - Daphne!  Would you please turn off that vacuum cleaner?  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "It's not a vacuum cleaner.  It's the \"Dirt Scourge 2000.\" A total cleansing system.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_from his chair_] Is it new?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Yeah.  I got it this afternoon.  You see, this water traps all of the dirt particles instead of recycling them back into the air.  I got all that [_indicating_] from Dr. Crane's pillow.  ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Ew.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I've been begging you to switch to a more abrasive loofah.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Well, it would be the same for anyone.  Dead skin, dust mites... that's what we're all sleeping on, only we don't know it.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "We do now.  Geez.  ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "This is the chance I've been waiting for. _She turns on the machine and begins to apply it to Martin's chair. The machine begins to audibly struggle, and the water in the tank immediately turns black and brackish.  Niles and Frasier watch with concern.  She has barely started when it suddenly shorts out, sparks flying in an electrical explosion.  When the smoke clears, Daphne walks back to the main part of the cleaner._ ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well.  Apparently the \"Dirt Scourge 2000\" is no match for the \"Dirt Pile 1957.\"",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Well, this is going back.  On the commercial they clean all the mud off a hippopotamus.  [_She exits._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, at least now I can get down to work.  You know, Niles, I'm sorry again about dinner, but can I buy you a sherry?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh... thank you.  About this theme song of yours... why don't you just use a standard?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Actually, I want to compose one myself.  I've always had an affinity for music, and I've often wondered what I might achieve if I just rolled up my sleeves and gave it a try.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_re-entering_] Didn't you write some kind of musical back in prep school?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, I did, Dad.  Niles was in it.  You know, the whole school came out humming my opening anthem.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "They went in humming it.  It was Beethoven's Ninth Symphony note for note.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_over Niles_] It was not.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "It absolutely was.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "It was not at all.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_singing to the tune of the \"Ode to Joy\" theme from the finale of Beethoven's Ninth:_] _We are valiant men of honor Wenching, brawling sons of..._",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "All right, all right, well, I suppose I may have borrowed a Note or two as a launching pad.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_moving to the third, contrasting phrase of the Beethoven theme_]",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "All right, point taken.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "_Over hill and..._",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Stop it!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I'm just teasing.  Actually, it was a wonderful show.  I was very proud to be acting in it.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You know, Niles, you were wonderful in it as well.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well, thank you, I thought so.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Mm-hmm.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I often thought if I'd kept at it, I could have been a professional actor.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Ah, you see, we all have a road not taken, some unfinished business worth exploring.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Yeah, I always wanted to be a toe dancer, but a bullet ended my dream.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well, Frasier, if you need any help with this, I'm right here.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Thank you, Niles.  You know, I'd rather handle the composing chores myself, but I could use a sounding board.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Fair enough, let's put our heads together.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "All right.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Figuratively speaking, of course.  I saw what came out of your pillow.  _They head back toward the piano.  FADE TO:_  **A BRIDGE TOO FAR**  _Scene 3 - Later that night Niles plunks out some notes on the piano.  Frasier is standing._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "You know, I think this new bridge is the best thing you've written.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Really?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, absolutely.  _He sings to a jaunty tune, beginning with the notes he had plunked and accompanying himself:_ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "_Claustrophobia Nymphomania He will probe ya He'll explain t'ya_ It's brilliant.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You know, it does have a Cole Porter-y, Stephen Sondheim-y flavor, doesn't it?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, absolutely.  Sondheim-y would have killed to have written this.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You know what?  I'm a little nervous.  It just may be a bit too conventional.  Perhaps instead of a regular bridge, I could substitute it with a dramatic monologue spoken against a musical background.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_after a beat_] I like it.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Of course, I would have to hire an actor.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Yes, I suppose you could squander a lot of money on some so- Called professional... someone who doesn't know a thing about psychiatry. [_reaching_] Who doesn't understand the whole Gestalt.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Or maybe you could do it.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I think so.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I will write you a speech that will challenge your entire histrionic range!  This is so exciting!  Let's play the chorus again.  ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Hey, hey, Fras!  I just got an idea for your little jingle. It came to me while I was brushing my teeth. [_He sings:_] _What's new?  I'm listenin' Feelin' blue?  I'm listenin'..._ Cause, you know, that's what you say on your show. _Feelin' sad, feelin' mad, feelin' glad, feelin' bad I'm listenin'!_",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "[_who has been seated at the dining table_] Bravo!  That's wonderful.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Thanks, you know, it's catchy.  That's what counts in a jingle.  [_N.B. Of interest: John Mahoney appeared on the Cheers episode \"Do Not Forsake Me, O My Postman\" as Sy Flembeck, a hapless jingle composer._] ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_politely_] Uh-huh, well, that's very, very nice, Dad, it's just that, well, you know, I did promise my listeners that I'd compose this myself.  It's no fair cheating.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh, well, it's not cheating, technically...",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_cutting him off_] Very good, Dad, very good, but thank you, and off you go.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Okay, all right.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Hey, um, Frasier, are you sure you want to modulate here? That may just complicate things.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Perhaps.  You know, I'm just trying to make it interesting. To my ear, there's still something lacking, some tiny ingredient that's missing.  I'm not sure what.  _Scene 4 - DISSOLVE to a rehearsal hall, where a full orchestra is tuning their instruments.  Frasier stands on the conductor's podium._ ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_tapping his baton_] All right, everyone.  Let's try this again.  We still have a few minutes before the choir gets here.  _He raises his baton and prepares to cue the opening.  FADE OUT  END OF ACT I  ACT II  Scene 5 - The rehearsal hall The choir has arrived._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, finally, the choir has deigned to join us.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Director"
+    },
+    {
+        "speaker": "Director",
+        "text": "Sorry, our bus broke down.  We had to walk two miles to get here.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Ah, then I suppose we can dispense with the breathing exercises I was going to recommend.  Please, if you would. [_indicating the choir's risers behind the orchestra_] Off you go. ",
+        "prevSpeaker": "Director",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Uh, Frasier... did you mean to cut paragraph five of my monologue?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Gosh, I might have, Niles.  I've just been so busy.  What was the gist?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "A lighthearted lampoon of mental health care abuse.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Ah, yes, I did.  I was afraid that some fussbudget might take offense at my jape about lobotomies.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well, I suppose it's best to play it safe, although I did Like the way you indicated manic depression with a slide whistle.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Do we really have to use so many musicians?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "For the sound I want, yes.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Whatever happened to the concept of \"less is more\"?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Ah, but if less is more, just think of how much more \"more\" will be.  ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You may be seated.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Ladies and gentlemen, if I may have your attention, please, I'd like to take a few minutes to explain my artistic vision.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Timpanist"
+    },
+    {
+        "speaker": "Timpanist",
+        "text": "Take as long as you want, we're all on the clock.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Point well taken, moving right along...  ",
+        "prevSpeaker": "Timpanist",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Frasier...I'm sorry we're late.  We got stuck in traffic. Some stupid bus broke down.  This is Leon.  _Leon looks like a starving folk-type musician, with long hair and a scruffy beard._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Ah, hello, Leon.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Leon"
+    },
+    {
+        "speaker": "Leon",
+        "text": "Hey, Dr. Crane.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_shaking his hand_] Lovely to meet you.  Listen, why don't you help yourself to the refreshment table there.  I need to have a few words with Roz.  ",
+        "prevSpeaker": "Leon",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Roz, we've got a problem!  In scoring this, I had to eliminate the guitar part.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Well, put it back.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, I can't.  I'm afraid another instrument might make Things sound cluttered... unless, of course, Leon can play the bagpipe.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "The bagpipe?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes!  Our show deals with a whole range of human emotion from euphoria to despair, and nothing says despair so quickly as the skirl of a bagpipe.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Nothing says \"Turn off the radio\" so quickly either.  Isn't there something else he can play?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, uh... yes, yes!  Actually, our triangle player called in with a touch of tinnitus.  Here we are.  ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Leon, I have some good news for you.  I had to eliminate the Guitar part, but I'm promoting you to first triangle.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Leon"
+    },
+    {
+        "speaker": "Leon",
+        "text": "Uh, I've never played one of these.  It looks tricky.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "I'll work with him.",
+        "prevSpeaker": "Leon",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, off you go.  ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, then, now people, before we start, are there any questions?  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, viola.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Tiffany"
+    },
+    {
+        "speaker": "Tiffany",
+        "text": "My name is Tiffany.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No, no no.  I'm calling you by your instrument name, so as to avoid confusion.",
+        "prevSpeaker": "Tiffany",
+        "nextSpeaker": "Tiffany"
+    },
+    {
+        "speaker": "Tiffany",
+        "text": "Oh, well I have a question about measure 34...",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Ah... I thought you might.  Yes, you see, I've accelerated the tempo there in order to depict the yearning of the superego. Very perceptive of you to spot that.",
+        "prevSpeaker": "Tiffany",
+        "nextSpeaker": "Tiffany"
+    },
+    {
+        "speaker": "Tiffany",
+        "text": "No, I meant, are these eighth notes or what?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_miffed_] Yes... eighth notes.  Anyone else?  ",
+        "prevSpeaker": "Tiffany",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, timpani?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Tiffany"
+    },
+    {
+        "speaker": "Tiffany",
+        "text": "You just answered my question.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Not Tiffany, timpani.",
+        "prevSpeaker": "Tiffany",
+        "nextSpeaker": "Timpanist"
+    },
+    {
+        "speaker": "Timpanist",
+        "text": "What are we rehearsing this for?  Are we going to record it?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, actually, we are waiting for the final go-ahead from my station manager, and then we will be recording it, yes. Anyone else?  ",
+        "prevSpeaker": "Timpanist",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes... actor.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I'm just wondering how my monologue is going to be audible over all these instruments.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, that's a good point, Niles. [_beat_] You may be seated. [_after Niles sits_] It is imperative that everyone play [_pianissimo_] during the spoken portions - very, very softly.  That applies particularly to brass and timpani.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Tiffany"
+    },
+    {
+        "speaker": "Tiffany",
+        "text": "Why me?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_incredulous at her dimness_] To the drums, Tiffany.  ",
+        "prevSpeaker": "Tiffany",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, Dad, Daphne, I'm so glad you came!  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Oh, well, after all, it is the world premiere of your theme song.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Now, I don't have to search you two for any hidden recording devices, do I?  The last thing I need is some bootleg CD's flooding the marketplace.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Boy, you really got everything here!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, it's not a time for stinting, Dad.  I've got everything from the African rain stick to the Javanese tam-tam.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_at the refreshment table_] Are the tam-tams the long ones with the cream in the middle?  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, Kenny, Kenny!  I'm so glad you made it.  Listen, I think you're in for a bit of a surprise.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "Well, I gotta tell you, I don't surprise easily. [_seeing the orchestra_] Whoa!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Our little ensemble.  Heh-heh.",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "So many musicians... all working on a weekend.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Now, listen, I realize that we are a bit over budget, and I promise, I will pick up the difference myself.  ",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "All right.  The time has come to unveil my magnum opus.  Just Let me do a little fine-tuning on the opening fanfare.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Uh, brass, if you will please, in four, the first measure? _Frasier beats out a preparatory measure in 4/4.  The trumpets play a very conventional fanfare flawlessly._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, you see, that's fine as far as it goes, but this time I want you to do it with a bit more... grandeur.  With some majesty and a soupcon of awe. _The trumpets play the fanfare exactly as before.  Frasier turns to Kenny, Martin, Daphne, and Roz, who are seated behind him._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "There, you see.  That's what good conducting can do.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "All right, everyone.  The time we have been waiting for is at hand.  And with a simple bow of thanks to the muse Calliope, let us begin.  And... _The four audience members exchange a look of incredulity, not knowing what to expect.  The maestro raises his baton, and we hear his magnum opus.  He conducts a preparatory measure again, and the trumpets play the fanfare.  This is followed by the strings, who settle into a conventional broadway-style vamp that doesn't seem to \"fit\" the preceding fanfare.  After a harp glissando, the first chorus is then presented by three soloists and the choir._  CHORUS 1",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Soloist 1"
+    },
+    {
+        "speaker": "Soloist 1",
+        "text": "(tenor)   _Who can you turn to for prompt diagnosis?_",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Soloist 2"
+    },
+    {
+        "speaker": "Soloist 2",
+        "text": "(soprano) _A fetish or fantasy_",
+        "prevSpeaker": "Soloist 1",
+        "nextSpeaker": "Soloist 3"
+    },
+    {
+        "speaker": "Soloist 3",
+        "text": "(bass)    _Sex or psychosis_",
+        "prevSpeaker": "Soloist 2",
+        "nextSpeaker": "Soloist 1"
+    },
+    {
+        "speaker": "Soloist 1",
+        "text": "_No problem at all, let us handle your call_",
+        "prevSpeaker": "Soloist 3",
+        "nextSpeaker": "Choir"
+    },
+    {
+        "speaker": "Choir",
+        "text": "(unison)  _On our show!  On our show!_  _Prominent drum beats accompany \"On our show!\"  Martin exchanges a glance with Daphne and Roz._  CHORUS 2",
+        "prevSpeaker": "Soloist 1",
+        "nextSpeaker": "Soloist 2"
+    },
+    {
+        "speaker": "Soloist 2",
+        "text": "_Bring us your traumas, your latent neurosis_",
+        "prevSpeaker": "Choir",
+        "nextSpeaker": "Soloist 1"
+    },
+    {
+        "speaker": "Soloist 1",
+        "text": "_Erectile disfunction (the \"r\" prominently rolled)_",
+        "prevSpeaker": "Soloist 2",
+        "nextSpeaker": "Soloist 3"
+    },
+    {
+        "speaker": "Soloist 3",
+        "text": "_Bed-wetting narcosis_",
+        "prevSpeaker": "Soloist 1",
+        "nextSpeaker": "Soloist 1"
+    },
+    {
+        "speaker": "Soloist 1",
+        "text": "_There's no need for shame, you can use a false name_",
+        "prevSpeaker": "Soloist 3",
+        "nextSpeaker": "Choir"
+    },
+    {
+        "speaker": "Choir",
+        "text": "(unison) _On our show!  On our show!_ _Frasier is delighted with the performance thus far.  The orchestra now settles down to a suspenseful and quietly sustained chord.  The musical material of the choruses is very clich ed Broadway/Disney-style fare, so the suspenseful film-score background chords and the overly dramatic delivery of Niles's following monologue is extremely incongruous:_ ",
+        "prevSpeaker": "Soloist 1",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_rising_] Who dares enter the dark labyrinth of the human mind? _A percussion player draws a string bow across a metal object, producing an unpleasant whining sound.  The orchestra changes harmonies to a higher chord.  Frasier marks time with dramatic baton gestures as he prepares to cue the harmonic changes._ ",
+        "prevSpeaker": "Choir",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "What festering secrets are buried in the recesses of the subconscious? _Another percussionist drags something across a gong, producing another unpleasant sound._ ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Lurid images! _Another harmonic shift upward comes with Niles's words, which are followed by the shaking of a circus-style rattle/whistle._ ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Lewd desires! _Yet another chord shift with Niles's line, followed by a slide whistle, which presumably illustrates the \"lewd desires.\"_ ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Guilty pleasures! _A chord shift with Niles again, and a \"grunting\" sound from the orchestra._",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Strange compulsions! _One more harmonic shift with Niles, followed by a dissonant trombone splat.  Niles, startled, stares at the trombone player.  The strings then play a quick rising transitional passage, leading to a suspenseful high note._ ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "The whole catalogue of human behavior from the aberrant to the monstrous lurks behind a locked door to which one man holds the key! _A huge beat of the gong (tam-tam), which startles the others, Particularly Martin... and then a harp glissando leads us back seamlessly to the broadway-style chorus music.  Niles sits, grinning broadly._  CHORUS 3",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Soloist 1"
+    },
+    {
+        "speaker": "Soloist 1",
+        "text": "(tenor)  _So if you are stymied to find a prognosis_",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Soloist 2"
+    },
+    {
+        "speaker": "Soloist 2",
+        "text": "(soprano)_And ask yourself, just like Freud:_",
+        "prevSpeaker": "Soloist 1",
+        "nextSpeaker": "Soloist 3"
+    },
+    {
+        "speaker": "Soloist 3",
+        "text": "(bass)   _\"Himmel, was los ist?\"_  ",
+        "prevSpeaker": "Soloist 2",
+        "nextSpeaker": "Soloist 1"
+    },
+    {
+        "speaker": "Soloist 1",
+        "text": "_Stop scratching your head, let us cure it instead_  ",
+        "prevSpeaker": "Soloist 3",
+        "nextSpeaker": "Choir"
+    },
+    {
+        "speaker": "Choir",
+        "text": "(unison) _On our show!  On our show!_ _The little instrumental riff before \"On our show!\" is different in the three choruses.  The following coda sounds as if it has been directly lifted from \"Supercalifragilisticexpialidocious\" from \"Mary Poppins.\"_ CODA",
+        "prevSpeaker": "Soloist 1",
+        "nextSpeaker": "Choir"
+    },
+    {
+        "speaker": "Choir",
+        "text": "(single note)_Now here is the man to explain The tortured terrain of your brain The man who feels everyone's pain... Dr. Crane!  Dr. Crane!  Frasier Crane!!_ _The choir finally harmonizes on the last \"Crane.\"  Leon's triangle has been featured prominently in the last shouts of \"Dr. Crane.\" The final chord is drawn out in another broadway clich e, and after the cutoff, Leon provides a final triangle beat.  Frasier lowers his baton, extremely proud of his opus. _ [_N.B. The piece can be heard on the \"Frasier\" soundtrack CD._] ",
+        "prevSpeaker": "Choir",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "[_the only person applauding_] Way to go, Leon! _Daphne begins to applaud with hesitation.  Martin is mystified. Kenny has an indescribable look of amazement and sits motionless._ ",
+        "prevSpeaker": "Choir",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, Kenny.  What's your reaction? _Kenny's facial expression remains frozen and he is motionless. Finally:_ ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "[_hushed_] Wow.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Takes your breath away, doesn't it?",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "[_again_] Wow.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I thought as much, and in anticipation of your approval, I had the forethought to order in a little bubbly.  Niles, if you would help me, please?",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_to Niles_] Oh, you were wonderful!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Thank you, the trombone frightened me.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "[_again, the same_] Wow.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well that was sure something, wasn't it?",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "I'll say.  Sort of like Gilbert and Sullivan -- only frightening.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "A little jingle, that's all we wanted.  Yeah, ten seconds to start the show.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "[_trying to mediate_] Well, maybe Frasier can cut this down...",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "[_cutting her off_] He gives me harps and drums and... people speaking German.  All we wanted was a simple little jingle.  ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Probably more like the one you came up with.  Tell him yours, Mr. Crane.",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "No, no, no, it was nothing.  I can't even remember how it goes.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Well, I do. [_singing:_]",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "No, it doesn't go like that.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "Well, then you sing it, Mr. Crane.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well, all right... but it's really nothing.  ",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "_What's new?  I'm listenin' Feelin' blue?  I'm listenin'..._ Feelin' sad, feelin' mad, feelin' bad, feelin' glad I'm listenin'!_",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "That's exactly the kind of thing we're looking for!  ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "You know, it sets the mood, it - it says it all.  Did that just pop into your head?",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_coming up behind him and handing him a glass_] Hardly.  It was gut-wrenching, but you know, it's nice to know that I made it look easy.  ",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "No, no, no.  I'm talking about your dad's little jingle.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_taken aback_] Dad's?",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "Yeah, he just sang it.  It's exactly the type of thing we need.  You know, simple, catchy...you know, we ought to just use that one.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No, no, Kenny, no.  I mean, if simple is what you wanted, you should have just said so.",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "I thought I did.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, obviously not.  Now that I know what you want, well, there's nothing easier.  Of course I can write simple.  I promise you, it'll be something far more memorable than what my dad came up with.",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "Well, I don't know, I remember it..._sings_  _Some of the choir members, including the soloists and director, take up the jingle._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Choir"
+    },
+    {
+        "speaker": "Choir",
+        "text": "_Feelin' blue?  I'm listenin'... Feelin' sad, feelin' mad, feelin' bad, feelin' glad I'm listenin'!_",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_indignant and humiliated_] You're off the clock!  _He exits in a huff.  FADE TO:_  **IT'S WHY GERSHWIN'S TEETH WERE IMMACULATE**  _Scene 6 - Frasier's apartment He is seated at the piano playing some ornate classical-style improvisation.  He breaks it off and plunks out the last two lines of \"Row, Row, Row Your Boat.\"  He places his head in his hand in frustration.  Martin enters in his robe._ ",
+        "prevSpeaker": "Choir",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Hey, Fras.  How's it goin'?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "\"Merrily, merrily.\"",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well, you know, it's getting kind of late.  Maybe you should call it a night, huh?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Dad, you heard Kenny.  I have to come up with something as simple as yours by Monday.  By the way, thanks once again for completely upstaging me today.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh, come on, I'm sorry I stole your thunder, but it's not like I did it on purpose.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I know.  I know.  I'm sorry.  It's just... I don't know why I'm having such a hard time with this.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well... maybe you're just thinking too much.  I mean, look at me.  I go to the bathroom, I'm flossing my teeth, and that song pops into my head.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Are you suggesting that I bring out a spool of floss?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well, it might not be a bad idea, for a couple of reasons.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Frasier, why don't you just decide what you want to say and Say it?  Not a lot of big words and showing off.  You know, and the tune should be something simple - something you can whistle.  I tried whistling that thing you wrote today, and I got lightheaded.  Of course, it might have been that last doughnut.  I went back for one of those African rainsticks. Ooh...  ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "The truth is, Dad, I've... I'm not sure I can do simple.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well, I don't know if you can't or if you just don't want to. And you know, some of the best things in the world are simple, Fras.  Just like that art gallery you took me to a couple of months ago.  Do you remember?  You were oohing and ahhing at this painting of a big red dot.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yeah, Dad, but there is a difference between simple and deceptively simple.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well, all I'm saying is that it's fine to be smart, but you shouldn't have to be proving it all the time, that's all.  You know, just as an experiment, tell me what it is you're trying to say stripped down to nuts and bolts.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "All right, um... in my first stanza, I want to represent myself as the... ombudsman between the conscious and subconscious minds of my listeners.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Ah.  Well, there you are, that's the song right there.  All we need is a rhyme for \"ombudsman\" and we can go to bed.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, I was playing around with \"north woodsman.\"  ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh, Frasier.  Look, I'm going to tell you what your show's about: People have a problem, they're feeling low, they call you, you make them feel better.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, for God's sake, Dad.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well, that's it!  That's it.  Why don't you just write about that?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "How would that sound exactly? [_He recites:_] _If you've got a problem If you're feelin' low Lookin' for some answers..._ Oh, gosh, now I'm stuck.  How will I ever find a rhyme for \"low\"?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Okay, smart-aleck.  I was just trying to help.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, thanks, Dad.  I'm sorry, you know, it's just not my thing.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Okay, well, I'm going to bed.  So, if you need any help tomorrow, all you got to do is ask.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Thanks, Dad. _Martin exits toward his bedroom.  Frasier returns to the piano, waits until he is gone, and sits.  He begins to plunk out a catchy melody and sings to it:_ ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "_If you've got a problem... If you're feelin' low Lookin' for some answers..._",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_completing the verse rhyme and tune from offstage:_]  _Frasier looks up, mildly indignant.  FADE immediately to...  Scene 7 - KACL We hear a catchy introduction, and then then Frasier's tune, sung in Andrews Sisters-style harmony by a group of female vocalists. Kenny, Roz, and Frasier are leaning over the desk listening to the recorded song._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Vocalists"
+    },
+    {
+        "speaker": "Vocalists",
+        "text": "_If you've got a problem If you're feelin' low Lookin' for some answers Things you need to know, All you've got to do is ask (tempo slows) All you've got to do is ask._  _A triangle dings to end the song.  Frasier, Kenny, and Roz have been bouncing to the catchy jingle, and Frasier is proud of it, simple as it is.  FADE OUT  END OF ACT II_ ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Credits"
+    }
+]

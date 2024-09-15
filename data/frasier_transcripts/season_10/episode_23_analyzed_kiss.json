@@ -1,0 +1,1407 @@
+[
+    {},
+    {
+        "speaker": "Title Card",
+        "text": "The tip of the Space Needle glows. _ACT ONE  FADE IN:  Scene One -- Radio Studio Frasier is nearing the end of his show. _",
+        "prevSpeaker": "No Previous Speaker",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, I think we've got time for one last caller.  Roz, who have we got? _He looks over and sees Roz on the phone, turned away from him and writing on a pad._",
+        "prevSpeaker": "Title Card",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Mmm-hmm...  mmm-hmm... _Peeved, Frasier tosses a pencil against the glass to get her attention. She notices him, but waves him off._",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, I suppose I'll be fielding this last one myself.  Let's try line two. [_pushes button_] Go ahead, caller, your name and problem, please.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Ernie"
+    },
+    {
+        "speaker": "Ernie",
+        "text": "[_v.o._] Yes sir, my name's Ernie, and I'm real angry at my dog.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Okay, Ernie.  Uh, very often when people have feelings towards their pets it often reflect feelings they have about themselves and their place in society.  So tell me, why are you angry at your dog?",
+        "prevSpeaker": "Ernie",
+        "nextSpeaker": "Ernie"
+    },
+    {
+        "speaker": "Ernie",
+        "text": "[_v.o._] Well, he keeps telling me to take off my foil helmet.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Would you hold on, Ernie?  Um, someone will come on the line with the number of an expert in this sort of situation.  Let's try, uh, line four. [_presses button_]",
+        "prevSpeaker": "Ernie",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "[_v.o._] Oh yes, of course I'm interested!  I'll fax my resume right over!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, the news is up next, followed by the market update with Julia Wilcox.  That's it for me today.  This is Dr.  Frasier Crane saying, good day and good mental health. _He goes off the air and glares at Roz, who mouths, \"I'm sorry.\"  Kenny enters with some copies, which he lays on Frasier's console._",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "Another great show, doc.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Did you even listen?",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "You don't have to eat every Big Mac to know it's a delicious hamburger sandwich.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Roz, what's going on?",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "I'm sorry, but they want to interview me for the program director job at KPXY.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well... that's great, but I didn't even know you were looking.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "I wasn't!  They just called me, out of the blue!   I-I'm actually shocked, because I have very limited experience in management. But, well, Kenny's in management, how hard can it be?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "Hey, it's not that easy.  I know it looks like a monkey can do my job, but it can't.  True story.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, gosh, Roz, I, I must say I've got some mixed feelings about this.  I mean, I couldn't be happier that you're finally getting the recognition you deserve, but I'm gonna miss you.",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Oh, let's wait \ufffdtil there's a real offer before we break out the Kleenex and champagne.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Julia"
+    },
+    {
+        "speaker": "Julia",
+        "text": "Well, Roz, Kenny told me about your job interview.  Good luck.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Oh, I get it.  It'll be good luck because if I get the job, I'll be gone.",
+        "prevSpeaker": "Julia",
+        "nextSpeaker": "Julia"
+    },
+    {
+        "speaker": "Julia",
+        "text": "No, it sounds like a good position for you.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Right, cause I get into a lot of sexual positions with a lot of guys.",
+        "prevSpeaker": "Julia",
+        "nextSpeaker": "Julia"
+    },
+    {
+        "speaker": "Julia",
+        "text": "I'm saying congratulations.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Oh.  Thank you.",
+        "prevSpeaker": "Julia",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "[_sotto voce to Frasier_] What's her problem?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, I...",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, you're being uncharacteristically decent today.  You all right?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Julia"
+    },
+    {
+        "speaker": "Julia",
+        "text": "I'm fine. [_then_] All right, I might as well tell you before he does.  Avery and I broke up.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh.  Gosh, uh, what happened?",
+        "prevSpeaker": "Julia",
+        "nextSpeaker": "Julia"
+    },
+    {
+        "speaker": "Julia",
+        "text": "I got tired of listening to him promise he'd leave his wife.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, I'm sorry.  I realize you must be going through...",
+        "prevSpeaker": "Julia",
+        "nextSpeaker": "Julia"
+    },
+    {
+        "speaker": "Julia",
+        "text": "Oh, I don't need your sympathy.  I'm not one of your pathetic code three whackadoos.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I was just trying to help.  No need to insult my callers.",
+        "prevSpeaker": "Julia",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Foil Helmet Guy says his dog needs to speak to you. _Unable to say anything to Julia, Frasier just motions vaguely towards Roz's booth before exiting.  FADE OUT.  FADE IN:  Scene Two -- Cafe Nervosa The cafe is packed -- the line to the counter reaches back to the door, and every table is occupied. Frasier enters. _",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, excuse me... _He threads his way over to the table in the rear, where Daphne is seated alone._",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Hi, Daph.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Hello.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Gosh, I've never seen this place so crowded.  What's the occasion?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "It's Mum's day off.  Apparently there was a mass e-mail.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "So, is Niles going to be joining us?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "No, he's taking your father to the shooting range.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, yes, yes, of course, I'd forgotten.  He asked me to take him, but then I suggested that when it comes to guns, perhaps he would prefer someone of Niles's...  caliber. [_chuckles_] I'm in rare form today.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "You should see this place when they know you're not coming. _As a couple leaves one of the tables in the middle, Julia comes in, talking on her cell phone._",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Julia"
+    },
+    {
+        "speaker": "Julia",
+        "text": "No, Avery...  two-thirds of the work on that program is mine! Well, I don't have to prove it, it's a fact!  Oh -- oh, yeah? _Another couple from the line tries to claim the table, but Julia drops her satchel on it._",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Julia"
+    },
+    {
+        "speaker": "Julia",
+        "text": "Well, I should have expected as much from a man who wears leopard print bikini briefs! [_holds up phone, to the whole caf e_] Avery McManus wears shiny, acetate, man-panties!",
+        "prevSpeaker": "Julia",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_to Daphne_] Excuse me.",
+        "prevSpeaker": "Julia",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Is everything okay?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Julia"
+    },
+    {
+        "speaker": "Julia",
+        "text": "No.  Now that I've dumped your bastard accountant, he's trying to cut me out of our software program.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Software program?",
+        "prevSpeaker": "Julia",
+        "nextSpeaker": "Julia"
+    },
+    {
+        "speaker": "Julia",
+        "text": "We -- mostly me -- developed a proprietary method for analyzing price/volume momentum -- I call it vector scaling -- that can quantify the likelihood of longer-term trends.  Do you realize what that means?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_at a loss_] It's good.",
+        "prevSpeaker": "Julia",
+        "nextSpeaker": "Julia"
+    },
+    {
+        "speaker": "Julia",
+        "text": "That program is my baby, I have been working on it for months. I think your bastard accountant has been using me all along. Thanks for setting us up!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I did no such thing!",
+        "prevSpeaker": "Julia",
+        "nextSpeaker": "Julia"
+    },
+    {
+        "speaker": "Julia",
+        "text": "You know what I ought to do?  I ought to go down to his office, demand my files, and then trash the place!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Just a second, just a second, just sit down.  Sit down, please. [_she does_] Take a moment to calm down before you make any rash decisions.",
+        "prevSpeaker": "Julia",
+        "nextSpeaker": "Julia"
+    },
+    {
+        "speaker": "Julia",
+        "text": "In a few hours, I'm leaving town for a week.  There's no way I'm leaving your bastard accountant in control of those files.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "All right, well, if you insist, then perhaps I should go with you.  Maybe I can help facilitate things.",
+        "prevSpeaker": "Julia",
+        "nextSpeaker": "Julia"
+    },
+    {
+        "speaker": "Julia",
+        "text": "Why?  What's in it for you?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Nothing!  Surely you can conceive of the possibility that someone might want to just do something nice for you?",
+        "prevSpeaker": "Julia",
+        "nextSpeaker": "Julia"
+    },
+    {
+        "speaker": "Julia",
+        "text": "You and Avery are in this together, aren't you?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Of course not!  You're not being rational, you know.  Perhaps Avery is just holding your program hostage because he feels hurt.  Perhaps this is his clumsy way of trying to initiate a dialogue.",
+        "prevSpeaker": "Julia",
+        "nextSpeaker": "Julia"
+    },
+    {
+        "speaker": "Julia",
+        "text": "You really do try to see the best in everyone, don't you?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, I do.",
+        "prevSpeaker": "Julia",
+        "nextSpeaker": "Julia"
+    },
+    {
+        "speaker": "Julia",
+        "text": "So, what do you see when you look at me?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well...  I see a woman who's been hurt, not once but many times. A woman who finds it so difficult to trust someone, she won't allow herself to be vulnerable.  A woman... [_Julia gets up and walks out_] whose eyes are going to get stuck if she keeps rolling them like that! _He gets up and follows her.  FADE OUT._ **THE BANG GANG** _FADE IN:  Scene Three -- Shooting Range Martin is standing in a booth, firing an automatic.  Niles is standing behind him, looking extremely uncomfortable.  Both are wearing ear protectors and range glasses. _",
+        "prevSpeaker": "Julia",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Ah, look at that grouping!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Hey, uh, Dad, you about ready to go?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "I guess I've still got the touch.  Hey, Niles, you ought to give it a try.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Thanks, Dad, you know how I feel about handguns.  They breed violence.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh, come on, this is just simple target shooting, that's all.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Ha-ha, yeah!  Here's one dirtbag isn't going to be selling crack at any schoolyards anytime soon.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Red"
+    },
+    {
+        "speaker": "Red",
+        "text": "You should listen to the man.  Shooting's a great sport. [_shaking hands_] Red Brewer.  And these clowns here are Mitch and Wayne.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I'm Niles Crane, and this is my father, Martin Crane.",
+        "prevSpeaker": "Red",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_shaking hands_] Oh, hi, how you doing, guys?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Red"
+    },
+    {
+        "speaker": "Red",
+        "text": "Listen Niles, let me show you how to do this.  I think you'll enjoy it.  It's pretty simple.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Red"
+    },
+    {
+        "speaker": "Red",
+        "text": "You just take a solid stance, hold the grip firmly, steady your gun hand with your other, fingers to fingers, thumbs to thumb, focus on the front sight, and squeeze the trigger.",
+        "prevSpeaker": "Red",
+        "nextSpeaker": "Red"
+    },
+    {
+        "speaker": "Red",
+        "text": "Okay, you try.",
+        "prevSpeaker": "Red",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, you know, no offense, but I, uh, I just, I'm not real comfortable with guns.",
+        "prevSpeaker": "Red",
+        "nextSpeaker": "Red"
+    },
+    {
+        "speaker": "Red",
+        "text": "You know, Mitch used to be that way, too.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Mitch"
+    },
+    {
+        "speaker": "Mitch",
+        "text": "Yeah, the only weapon I'd go near was a bow and arrow.",
+        "prevSpeaker": "Red",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_interested_] I, uh, I got an archery badge at day camp.",
+        "prevSpeaker": "Mitch",
+        "nextSpeaker": "Red"
+    },
+    {
+        "speaker": "Red",
+        "text": "This is like archery, but safer.  The weapon's more stable, and you're in a controlled environment.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Go on, give it a try, son.",
+        "prevSpeaker": "Red",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well, I, uh, just -- I'll do one little one.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Red"
+    },
+    {
+        "speaker": "Red",
+        "text": "Just remember: stance, grip, aim, relax, shoot.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Okay. [_mimics Red_] Stance, grip, aim, relax... [_tilts his head to the left_] shoot. _He pulls the trigger.  The recoil knocks him back about a foot, but Martin and the guys look pleased._",
+        "prevSpeaker": "Red",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Did I do it?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Red"
+    },
+    {
+        "speaker": "Red",
+        "text": "You not only did it, you hit the target. [_points_] See?  Sixth ring out.  Look at the kid, he hit the target his first time.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Mitch"
+    },
+    {
+        "speaker": "Mitch",
+        "text": "Not bad, kid.",
+        "prevSpeaker": "Red",
+        "nextSpeaker": "Wayne"
+    },
+    {
+        "speaker": "Wayne",
+        "text": "Way to go, kid.",
+        "prevSpeaker": "Mitch",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "That's my kid!",
+        "prevSpeaker": "Wayne",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "That was a unique experience.  I'm sure I'll dine out on that story for months.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Red"
+    },
+    {
+        "speaker": "Red",
+        "text": "Don't quit now, go again.  But remember, this time, squeeze the trigger, don't pull.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Okay.",
+        "prevSpeaker": "Red",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Squeeze...",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Red"
+    },
+    {
+        "speaker": "Red",
+        "text": "Wow, you're pretty good at this!  The kid's a natural, am I right?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Can I go again?",
+        "prevSpeaker": "Red",
+        "nextSpeaker": "Red"
+    },
+    {
+        "speaker": "Red",
+        "text": "Yeah. _Niles, more confident, fires one shot after the other.  He experiments, tilting his head to the right and sighting with his other eye, as we:  FADE OUT.  FADE IN:  Scene Four -- Avery's Office Julia is pacing outside Avery's office door, when Frasier comes in. _",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Julia"
+    },
+    {
+        "speaker": "Julia",
+        "text": "What took you so long?",
+        "prevSpeaker": "Red",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I was looking for street parking.  Do you have any idea how much this garage charges?",
+        "prevSpeaker": "Julia",
+        "nextSpeaker": "Julia"
+    },
+    {
+        "speaker": "Julia",
+        "text": "Avery's not here.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, great, it cost me three-fifty to find that out.",
+        "prevSpeaker": "Julia",
+        "nextSpeaker": "Julia"
+    },
+    {
+        "speaker": "Julia",
+        "text": "No, it's good.  It'll make it easier for me to get my program back.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "What do you mean?",
+        "prevSpeaker": "Julia",
+        "nextSpeaker": "Julia"
+    },
+    {
+        "speaker": "Julia",
+        "text": "I know his keypad code. [_starts to enter it_]",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Wh-wh-what?  That is breaking and entering!",
+        "prevSpeaker": "Julia",
+        "nextSpeaker": "Julia"
+    },
+    {
+        "speaker": "Julia",
+        "text": "Oh, if you're so scared, why don't you just leave?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, I'm-I'm not scared!  I... _The door opens, and Julia enters the office.  Frasier follows her in.  RESET TO: Office  Julia starts to rifle through Avery's desk._",
+        "prevSpeaker": "Julia",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I'll have you know I've had my fair share of escapades.  Back in med school I once dressed a cadaver in cap and gown and...",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Julia"
+    },
+    {
+        "speaker": "Julia",
+        "text": "[_finds a disk_] Oh, here's my program!  Okay, good. [_logs on the computer_] Now, just in case he backed it up, I am going to delete everything from his hard drive.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Julia, I-I-I beg you to rethink this.  I realize you're angry at Avery-",
+        "prevSpeaker": "Julia",
+        "nextSpeaker": "Julia"
+    },
+    {
+        "speaker": "Julia",
+        "text": "I'm not feeling anger.  Just the peace that comes with knowing that Avery will be royally screwed -- by me.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "There's somebody at the door! _Julia points him to the closet.  They rush in as someone outside is heard entering the code.  RESET TO: Closet  They go inside and close the door.  Julia cracks the door and peeks outside, then closes the door softly.  They both whisper:_",
+        "prevSpeaker": "Julia",
+        "nextSpeaker": "Julia"
+    },
+    {
+        "speaker": "Julia",
+        "text": "It's the cleaning woman.  I thought so, I've hidden from her before.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Julia, there's still time to end this.",
+        "prevSpeaker": "Julia",
+        "nextSpeaker": "Julia"
+    },
+    {
+        "speaker": "Julia",
+        "text": "Shh!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Look, you know that what you're doing is wrong.  You should just get out now before more harm is done.",
+        "prevSpeaker": "Julia",
+        "nextSpeaker": "Julia"
+    },
+    {
+        "speaker": "Julia",
+        "text": "Will you shut up?  It's pointless to hide in a closet if the people outside can hear you!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You're going to get caught.",
+        "prevSpeaker": "Julia",
+        "nextSpeaker": "Julia"
+    },
+    {
+        "speaker": "Julia",
+        "text": "Because you won't shut up!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "It's never too late to do the right thing.  No matter how low someone else sinks, joining them there does not make things better. _Julia does not shush him.  Suddenly she wraps her arms around his neck, and kisses him, closing her eyes.  He is caught off guard, but reflexively returns the kiss and puts his arms around her...  Outside, the door closes.  She breaks away and exits back into the office. Frasier stands there, totally bewildered.  He feels his lips for a moment as if to check to see if it really happened.  Then he follows her into the office.  RESET TO: Office The cleaning lady is gone, and Julia is back typing at the computer._",
+        "prevSpeaker": "Julia",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "What was that?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Julia"
+    },
+    {
+        "speaker": "Julia",
+        "text": "What?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You kissed me.",
+        "prevSpeaker": "Julia",
+        "nextSpeaker": "Julia"
+    },
+    {
+        "speaker": "Julia",
+        "text": "I was trying to shut you up.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, no.  I've been kissed to shut me up before.  This was not that.",
+        "prevSpeaker": "Julia",
+        "nextSpeaker": "Julia"
+    },
+    {
+        "speaker": "Julia",
+        "text": "Got it.  All files deleted. [_pause_] You know, that didn't make me feel as good as I thought.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "That's because you know you did the wrong thing. _Julia shoves the contents of the desktop onto the floor, breaking the computer and scattering files._",
+        "prevSpeaker": "Julia",
+        "nextSpeaker": "Julia"
+    },
+    {
+        "speaker": "Julia",
+        "text": "[_happy_] Ah, that's better. _She runs out, followed by Frasier.  End of Act One  ACT TWO  FADE IN:  Scene Five -- Cafe Nervosa The cafe is still packed.  Frasier is seated at a table when Roz comes in. _",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Well, it doesn't look like I'll be leaving KACL anytime soon. [_crosses to the counter_] Coffee to go, please?",
+        "prevSpeaker": "Julia",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well... dear lord, what-what happened, Roz?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "[_sits with him_] Turns out the person who's interviewing me is a guy I've slept with.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "What are the odds?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "[_gives him a look, then_] It was ten years ago, at a convention in Cancun.  We were all hammered.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, I'm surprised you even remember him.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Well, it's hard to forget when you wake up with a nametag on your pillow that says, \"Hola!  My name is Woody Wiswell.\"",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "So what's the problem?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "There's just something weird about it.  I don't know, maybe I'm just freaking myself out because I'm not sure I'm ready for this job.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, of course you are, Roz.  I mean, come on, don't doubt yourself.  Listen, they're the ones that called you, right?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Yeah.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You go down there and you get that job.  You're going to make a great program director.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "You really think I will?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Of course I do.  Even though...  I wish you could stay with me forever.  I'm going to miss you so much, Roz.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "[_excited_] Oh, stop it!  I don't even have the job yet, you're gonna jinx it! [_a waiter brings her coffee_] Thank you. [_to Frasier_] Listen, I'd better go and get my presentation together so I can impress Woody Wiswell.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Seems to me you've impressed him already.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Julia--",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Julia"
+    },
+    {
+        "speaker": "Julia",
+        "text": "[_quickly_] Hello. [_crosses to the counter_] Can I have a latte to go, please?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Listen, Julia, Julia, I've been dying to talk to you all week long about what happened in Avery's office.  Obviously something is going on, and I have several hypotheses. [_Julia gets her coffee and starts adding sugar_] It could be displaced passion, frustration from a failed relationship, or an adrenaline-induced action as a result of stress we were both suffering from...",
+        "prevSpeaker": "Julia",
+        "nextSpeaker": "Julia"
+    },
+    {
+        "speaker": "Julia",
+        "text": "[_finishes_] Oh, Frasier, for once in your life, would you please shut up?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Julia"
+    },
+    {
+        "speaker": "Julia",
+        "text": "Hello.",
+        "prevSpeaker": "Julia",
+        "nextSpeaker": "Martin/Niles"
+    },
+    {
+        "speaker": "Martin/Niles",
+        "text": "Oh, hi./Hello.",
+        "prevSpeaker": "Julia",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Hi, guys.",
+        "prevSpeaker": "Martin/Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Hey, Frasier.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Hey, Fras, you look a little down.  Everything okay? [_to a waiter_] Uh, two coffees, please.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Dad, if you had any perspicacity whatsoever, you would know that this expression is merely ruminative perplexity.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "My bad.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "It's nothing serious.  I'll work it out.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "You know where I like to work things out?  The shooting range.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Good Lord, Niles, are you still going down there?  I thought you hated guns.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, believe me, I never expected I'd like it as much as I do. But when you're in that booth, focused on-on precision, and accuracy, it's not dissimilar to a kind of meditation. [_Frasier looks intrigued_] Wouldn't you agree, Dad?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_shrugs_] I just like to shoot stuff, son.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Fair enough. [_to Frasier_] You should join us.  There's a great bunch of guys I shoot with.  I think you'd like them.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, I'm not sure I'd fit in with a bunch of trigger-happy gun nuts.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Now, don't stereotype them.  These are decent family men who enjoy marksmanship.  It's a good group we've got.  Dad and I are going down this afternoon.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "No, I don't think I'm going to come today, Niles.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well... it's Mitch's birthday.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well, I usually go shooting twice a year or so, and after this week I've had my fill. [_the waiter brings their coffees_] Thank you.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well, I'm still going.  My shooting's getting better and better. Oh, plus the gun show's in town and the guys are bringing me passes.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "A gun show?  What's next, square dancing?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Maybe. [_raises his cup_] This country was built by gun-totin' square dancers. _Martin clinks his cup against Niles's.  FADE OUT.  FADE IN:  Scene Six -- Woody Wiswell's Office Roz, dressed professionally in a suit, is seated in front of Woody Wiswell, a good-looking man with a permanent friendly smile. _",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "So, I really appreciate you bringing me in for this interview. I've been listening to your station for a while, and I've prepared a little presentation that I think will show you what I can bring to the KPXY family.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Woody"
+    },
+    {
+        "speaker": "Woody",
+        "text": "Oh, that's not necessary.  I mean, this is just a formality. Trust me, I know what you can do.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "[_wary_] Really?",
+        "prevSpeaker": "Woody",
+        "nextSpeaker": "Woody"
+    },
+    {
+        "speaker": "Woody",
+        "text": "Yeah.  I, uh, I already told the guys about you.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "What exactly did you tell them?",
+        "prevSpeaker": "Woody",
+        "nextSpeaker": "Woody"
+    },
+    {
+        "speaker": "Woody",
+        "text": "Oh, you know -- how incredible you are.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Okay, look, I-I think there's something that needs to be said here.  Why don't we just get it all out in the open?  Yes, we slept together in Cancun, but I don't want that to affect the job.  I mean, it was ten years ago, I...",
+        "prevSpeaker": "Woody",
+        "nextSpeaker": "Woody"
+    },
+    {
+        "speaker": "Woody",
+        "text": "What are you talking about?  Look, I think you have me mistaken for someone else.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "And I think I would remember a name like Woody Wiswell.  I mean, seriously, whose named Woody Wiswell?",
+        "prevSpeaker": "Woody",
+        "nextSpeaker": "Woody"
+    },
+    {
+        "speaker": "Woody",
+        "text": "Yeah, well, just me and my dad. _His smile disappears as they both realize.  FADE OUT.  FADE IN:  Scene Seven -- Gun Show Daphne looks on uncomfortably as Niles examines a- _",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Darling, I just don't think you need an ankle holster when you don't even own a gun.",
+        "prevSpeaker": "Woody",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well, first of all, who says it's for me, Miss I-Never-Surprise- You-Anymore?  And second of all, I'm thinking I might own a gun soon.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "[_firmly_] No, you won't.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "No, no, no, don't worry.  I, I would keep the gun in a locker at the shooting range.  I would never have a gun in the same house as your mother.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Now they're saying Daisy Duke might not get here.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Red"
+    },
+    {
+        "speaker": "Red",
+        "text": "Hey, how's it going, kid?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Hey, you guys, how are you?  Oh, listen, I want you to meet my wife, Daphne.  Daphne, this is Red, and Wayne, and Mitch. These are the guys I was telling you about.",
+        "prevSpeaker": "Red",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Nice to meet you. [_they ad-lib hellos_]",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Red"
+    },
+    {
+        "speaker": "Red",
+        "text": "Listen, kid, we've been talking it over, and since we get along so well at the club, we'd like to invite you down to our compound in Idaho for a weekend.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_thrilled_] A compound? [_to Martin and Daphne_] It's just like the Kennedys! [_to the guys_] That sounds smashing.",
+        "prevSpeaker": "Red",
+        "nextSpeaker": "Red"
+    },
+    {
+        "speaker": "Red",
+        "text": "Hey, that's the spirit.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Mitch"
+    },
+    {
+        "speaker": "Mitch",
+        "text": "See, I told you.  Hey, look, you're good at math, right? [_Niles shrugs_] Come help me guess how many shells are in that jar so I can win the ATV?",
+        "prevSpeaker": "Red",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, excuse me. [_as he follows Mitch_] What kind of TV?  [_N.B. All-Terrain Vehicle -- a military transport._] ",
+        "prevSpeaker": "Mitch",
+        "nextSpeaker": "Red"
+    },
+    {
+        "speaker": "Red",
+        "text": "[_to Daphne_] Nice to meet you, ma'am.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh, uh, Red, hold on a second.  Uh, just what kind of place do you guys have in Idaho?",
+        "prevSpeaker": "Red",
+        "nextSpeaker": "Red"
+    },
+    {
+        "speaker": "Red",
+        "text": "Run-of-the-mill compound in the wilderness -- free country where we live by the true Constitution.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "They're those militia people!  You fix this, now.",
+        "prevSpeaker": "Red",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "This is fun, huh?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Uh, son...",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "What your father means is, you shouldn't be friends with these people.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Yeah, these are not your kind of guys.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Why not?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well, let's just go and we'll talk about it in the car.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, I can't believe you two.  You're always telling me my friends are too artsy and too snooty.  Now I finally have friends who are regular guys, and you don't like them either?  Well, I'm having a good time, and I'm enjoying being a regular guy myself.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Niles, we think they want to overthrow the government!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "That's what you say about public television.  Now, if you'll excuse me?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Hey, guys, whatcha doing?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Red"
+    },
+    {
+        "speaker": "Red",
+        "text": "We're chipping in for this gas-powered generator.  We're going to need it when it comes time for the New World Order.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well, that sounds great, excuse me just a second.",
+        "prevSpeaker": "Red",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Okay, they're militia.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Yeah.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Go, go, go, go, go.... _They make a hasty exit.  FADE OUT.  FADE IN:  Scene Eight -- Radio Studio Frasier is talking to Roz in her booth.  Roz is still wearing her suit. _",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I just don't understand how this sort of thing can happen. Don't you look at faces?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "It was a long time ago, it was dark.  And get off my case because it doesn't matter anyway - I got the job!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, congratulations, Roz.  I'm so proud of you.  Now can I tell you how much I'm going to miss you?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Yes.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "It is going to be sad to leave the station.  But it's not like I'm leaving town, Frasier.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I know, I know.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "I'll see you.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "See you, Roz.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Bye. _Roz exits down the hallway.  Julia passes by the booth.  Frasier rushes out of the door and calls after her._",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Julia!  Julia!  Julia!",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "All right. [_crosses into his booth_] Listen, you can try to avoid me all you like.  We are going to talk this thing out.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Julia"
+    },
+    {
+        "speaker": "Julia",
+        "text": "Fine, fine.  Anything to get you off my back.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Julia"
+    },
+    {
+        "speaker": "Julia",
+        "text": "I was looking at you in the closet, and thinking how you always try to do the right thing, and I felt a rush of affection for you. Call me cynical, but I've come to accept that most people live by the rule of screw or be screwed.  But to see you, and how much you care, and really mean it, I... well, it's endearing. [_holds up a finger_] Irritating, but endearing.",
+        "prevSpeaker": "Julia",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, you know, I... I am flattered, but there are a lot of genuine people out there.  It's just that for whatever reason -- fear, anger, hurt - they're afraid to show it... _Julia grabs him again and kisses him deeply.  He wraps his arms around her.  Then they break apart._",
+        "prevSpeaker": "Julia",
+        "nextSpeaker": "Julia"
+    },
+    {
+        "speaker": "Julia",
+        "text": "[_frustrated_] Oh, it's just like the feeling you get when you see a cute teddy bear in the store and you want to hug it until its head pops off!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Could I possibly irritate you over dinner some night?",
+        "prevSpeaker": "Julia",
+        "nextSpeaker": "Julia"
+    },
+    {
+        "speaker": "Julia",
+        "text": "[_hesitant, but_] Well, if anybody could, it'd be you.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Take your time, work things out.  I'm not going anywhere. I realize that you're in a vulnerable place right now, and that...",
+        "prevSpeaker": "Julia",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, I recognize that one.  That was to shut me up.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Julia"
+    },
+    {
+        "speaker": "Julia",
+        "text": "Yeah. [_starts to leave, then_] Maybe Thursday. _She exits the booth and walks back down the hallway.  Frasier, smiling, turns and gives a little smitten wave as she passes by the booth.  FADE OUT.  End of Act Two_",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Credits"
+    }
+]

@@ -1,0 +1,1233 @@
+[
+    {},
+    {
+        "speaker": "Frasier",
+        "text": "You know I've only got a moment, you know I've started a very exciting project.",
+        "prevSpeaker": "No Previous Speaker",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh really?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, you know this is KACL's fiftieth anniversary.  I did a little research and found out they used to specialise in live radio dramas.  So, I'm putting one on.  Dad, surely you must remember those?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh sure.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, people of dad's generation would sit around at night, listening to the radio absolutely mesmerised.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "We were simple people.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "All right, dad.  Anyway, I've spoken to the station manager. He's given me thirty minutes, to re-create the very first mystery KACL ever aired; \"Nightmare Inn.\"",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh don't tell me, I know: A bunch of people get caught in a storm, and everyone's wondering who's going to be the first one murdered.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Exactly, and I'm going to direct.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "So, we can stop wondering.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "What, don't you think your brother knows how to direct?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "No, the trouble is he doesn't know how to stop directing. During our prep school production of \"Richard III\" he drove the entire cast crazy with his constant critiquing.  I seem to recall a delay on the opening night while our Richard chased Frasier around the dressing room, beating him with his hump.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, that was just a little backstage horseplay to relieve tension.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "You'll have an Orson Welles complex.  By the end of this week, you'll not only be directing, you'll have re-written the script and be playing the lead.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I have no intention of performing in it myself.  The only re- writing I've done is simply cutting to get it down to thirty minutes.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_reading script title:_] \"Frasier Crane's Nightmare Inn.\"",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_snatching script from Martin_] It's just a working title! [_exits_] _FADE OUT  Scene Two - Radio Station At KACL, Frasier has just finished his radio show.  However, he still needs to remind everyone about the upcoming radio play._ ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_on air:_] Well, that's our show for today, but let me remind you to tune in on Saturday night for KACL's presentation of \"Nightmare Inn.\"  Just set your dials for goosebumps.  Till then, this is Dr. Frasier Crane reminding you that [_in a ghoulish creepy voice, which sounds down-right hilarious:_] you never know what's lurking in the shadows.  _He gives a ghoulish laugh, and carries on laughing when he switches off the air and as Roz walks into his booth._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Well, that should certainly comfort the woman who called in about her paranoia.  Listen, do we have a leading man yet?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Well, you could do it.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh don't be silly, Roz.  It is a juicy part, it does call for a strong voice, but believe me, my hands are full.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Gil"
+    },
+    {
+        "speaker": "Gil",
+        "text": "[_enters_] Oh, Frasier, I've had a quick peek at your script and I think I'd be perfect as Bull Kragen, the brutish gamekeeper.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_looks at Roz in disbelief_] You know Gil, I think that's just a bit too on the nose. [_Gil agrees_] But you know who you could play?  Mr. Nigel Fairservice, drummed out of the Royal Air Force under mysterious circumstances.",
+        "prevSpeaker": "Gil",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "[_to Frasier:_] With him playing it, they might not seem so mysterious. [_Frasier hits her_]",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Gil"
+    },
+    {
+        "speaker": "Gil",
+        "text": "I'll take it.  After all, Nigel does have that divine speech in the second act about his boyhood in Surrey.  \"Romping with his school chums in the fens and spinneys, when the twilight bathed the hedgerows like a lambent flame.\" Actually, I had rather a long peek at the script. [_exits_]",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Gosh, we still have a lot of these supporting roles to cast.",
+        "prevSpeaker": "Gil",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well actually, I'm working on that.  You know, Jennifer down in accounting is married to a professional actor, who specialises in dialects.  I'm thinking of asking him to play six or seven of the smaller parts.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "[_entering_] Hey Doc, need one more for your play?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Absolutely Bulldog, just as long as you promise to promote it on your show.",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "Actually I wasn't talking about me, I was talking about a friend of mine; Maxine.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Does she have any experience?",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "Are you kidding?!  If she had a dollar for every minute she spent on stage... [_thinks_] Oh wait a minute, she does.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, we do still have a part open for the maid, she only has one line.",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "Does it have any big words?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No, it's simple; [_acting:_] \"Look out, he's got a gun!\"",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "Maxine could knock that line right out of the park.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, OK, but you've got to agree to play a part too.  We still need someone for the sinister silk merchant.",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "OK, it's a deal.  Maxine is going to be so excited.  I gotta remember to pick her up one of those cute little French maid outfits on my way home from work.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "It's radio, Bulldog, she doesn't have to appear in costume.",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "Maybe here she doesn't!  _Frasier and Roz walk out of the booth and carry on their conversation as they walk down the hallway._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Well, we're getting there.",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Except the lead!  I haven't found anyone remotely qualified to play a wily old Scotland Yard inspector.  You know, you might be right, Roz, I'll have to bite the bullet and take on the part myself.  _They bump into Ian, a man who looks and talks exactly like an inspector._ ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Ian"
+    },
+    {
+        "speaker": "Ian",
+        "text": "[_takes pipe out of mouth_] Excuse me, Dr. Crane, is it too late to read for role of the inspector?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I'm afraid the role has already been cast. _Roz and Ian look stunned as Frasier walks away happy with himself.  FADE TO:_ **HAM RADIO** _Scene Three - Frasier's Apartment. Later, in Frasier's apartment, Daphne answers the door.  Roz, Bulldog, Gil and Mel the actor enter._",
+        "prevSpeaker": "Ian",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Come on in.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Hello, Daphne.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Gil"
+    },
+    {
+        "speaker": "Gil",
+        "text": "Hello.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Bulldog, Gil, right on time.  We have to be on our toes tonight, we have a professional actor with us, Mel White, our man of a thousand voices.",
+        "prevSpeaker": "Gil",
+        "nextSpeaker": "Gil"
+    },
+    {
+        "speaker": "Gil",
+        "text": "Oh, it's a huge pleasure.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Mel's going to play Hans the German butler, both McAllister sisters, and Pepo the dwarf; a little man with a big secret.",
+        "prevSpeaker": "Gil",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "The same guy's playing all those parts?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, he's also playing Bull Kragen the game keeper, and O'Toole the handy man.  Do you think you're up to it, Mel?",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Mel"
+    },
+    {
+        "speaker": "Mel",
+        "text": "Just so long they don't all talk at once!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_excited:_] Isn't it lovely to be working with a professional! [_to Bulldog:_] Bulldog, where's Maxine?",
+        "prevSpeaker": "Mel",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "Oh, she's home with food poisoning, it's nothing serious. I think she just wrestled in some bad Jell-O.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Never mind, she just has one line anyway. [_acting:_] Look out, he's got a gun! [_sympathetically:_] You think you might be up to that this evening, Daphne?",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "[_sarcastically:_] I'll try!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Gil"
+    },
+    {
+        "speaker": "Gil",
+        "text": "Frasier, one of Nigel's lines seems to be missing.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Why yes, I had to cut the play by twenty minutes.",
+        "prevSpeaker": "Gil",
+        "nextSpeaker": "Gil"
+    },
+    {
+        "speaker": "Gil",
+        "text": "Oh yes, but that line so neatly defined Nigel's character.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Saying \"Gesundheit\" after the butler sneezes?!",
+        "prevSpeaker": "Gil",
+        "nextSpeaker": "Gil"
+    },
+    {
+        "speaker": "Gil",
+        "text": "It shows he's a caring person.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "It's cut, Gil.  Learn to let go.",
+        "prevSpeaker": "Gil",
+        "nextSpeaker": "Gil"
+    },
+    {
+        "speaker": "Gil",
+        "text": "Oh very well, as long as I still have that delicious speech about my boyhood in Surrey.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes that's still in.",
+        "prevSpeaker": "Gil",
+        "nextSpeaker": "Gil"
+    },
+    {
+        "speaker": "Gil",
+        "text": "\"Romping with my school chums in the fens and spinneys...\"",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, yes that one.  Thank you.  All right, I fear we might be running just a bit long still, so I've asked Daphne to time us this evening and also Noel hasn't rounded up all the sound effects yet, so I'm gonna have Daphne read those directions as well.  Now that's a lot of responsibility on you Daphne, are you sure you're up to it? [_She looks at him as if to say \"I have some use\"_] All right, start the watch. Stage direction.",
+        "prevSpeaker": "Gil",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Sound of door opening.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "[_with cheese in her mouth_] Inspactar, thank goddies cam.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Stop the watch.  Roz, I have a line here that says, \"when she opened her lips I caught a hint of some mixed exotic accent.\"  You will notice it does not say, \"when she opened her lips cheese fell out\". [_to Daphne:_] Start the watch. [_acting:_] This is a grisly business, Miss Thorndike.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Sound of door closing.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "[_exotic:_] I can't believe any of my guests could be a multiple murderer.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "That's easy for you to say, but my job is to suspect everyone.  Please introduce me to your guests.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "[_exotic:_] This is the silk merchant, Mr. Wang.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "[_laughs_]",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Stop the watch.  What's your problem?",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "Wang?  You've gotta give me another name, I'll crack up every time I hear that!!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "All right, all right, how about Wing?  That's a great old Chinese name.  Everybody change Wang to Wing in your scripts.",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Sound of people changing Wangs to Wings.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "From your line.  Start it.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "[_exotic:_] This is the silk merchant, Mr. Wing.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Do you see anything suspicious, Wing?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "[_Chinese impersonation:_] Oh, me no looky, me go very by chop-chop.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Stop!  Chinese embassy on line one!  You can't say that.",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "All right, it's all right, I'll just adjust his dialogue later.  Start.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Gil"
+    },
+    {
+        "speaker": "Gil",
+        "text": "I'm Nigel Fairservice, inspector.  I was strolling in the garden when this dreadful tragedy occurred.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Did anyone see you?",
+        "prevSpeaker": "Gil",
+        "nextSpeaker": "Gil"
+    },
+    {
+        "speaker": "Gil",
+        "text": "Several people.  Hans, the German butler.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Mel"
+    },
+    {
+        "speaker": "Mel",
+        "text": "[_German voice:_] Ja, I saw zee Gentleman.",
+        "prevSpeaker": "Gil",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Stop! [_to Mel:_] That's wonderful, Mel.  But he sounds to me just a bit more Austrian than German.",
+        "prevSpeaker": "Mel",
+        "nextSpeaker": "Mel"
+    },
+    {
+        "speaker": "Mel",
+        "text": "I've done that accent both on Broadway and the London stage!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, well perhaps they have different standards than I have. All right everyone, from the beginning once again.  Now let's try hard people, dig in!  And try to find the reality. From the dwarf's entrance.  ",
+        "prevSpeaker": "Mel",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "\"And so the case was closed, and with a grateful shudder, I swore I'd never return to Nightmare Inn.\"  Stop.  Time?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "That's 32 minutes, 40 seconds",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Damn!  I'll have try to pin some more before we try again. All: Again?!",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Please, we're doing it until I'm completely satisfied, and that reminds me, Mel - I'm still not entirely happy with the second McAllister sister!  She doesn't sound spinsterish enough for me.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Mel"
+    },
+    {
+        "speaker": "Mel",
+        "text": "I see.  You also told me that my gamekeeper sounded too cultured, that my Irishman sounded more Protestant than Catholic, and that my dwarf was too tall.  Let me try Hans again, tell me how my German is sounding: \"I Q-vit!\" [_exits_]",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, wait!",
+        "prevSpeaker": "Mel",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Sound of door slamming.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "So what do we do now, boss?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Not to worry, I have a plan. [_picks up phone_]",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Oh yeah right, we're supposed to do this thing tomorrow night.  Where are you going to find an idiot willing to take six dialect parts unrehearsed?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_into phone_] Niles.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Sound of ominous organ music indicating trouble ahead. _Everyone except Frasier chuckles along.  End Of Act One. (Time: 9:15)  Act Two.  Scene One - Radio Studio In the recording studio, Frasier is talking to Gil._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Gil"
+    },
+    {
+        "speaker": "Gil",
+        "text": "Oh there's your brother, how's he enjoying the prospect of playing six parts?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Actually, he doesn't know about it yet.  He would have never agreed.",
+        "prevSpeaker": "Gil",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_enters_] Frasier, you told me you were going to message the script to me this morning.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I'm so, so sorry.  I was tinkering with it till the very last minute, but not to worry.  Your natural talent will carry you through.  Look, take a look at this. [_they walk to Noel beside a bench with strange objects on_] Noel is going to give us a demonstration of the sound effects.  What have you got, Noel?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Noel"
+    },
+    {
+        "speaker": "Noel",
+        "text": "OK!  This is my door sound: [_opens fake door_] My thunder screen: [_sounds it_] Balloons for gun shots: [_bursts one_] And this plays various kinds of organ music: [_he demonstrates_] I've also got a gravel box, bells, a rain stick and a coffee thermos.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "What does that do?",
+        "prevSpeaker": "Noel",
+        "nextSpeaker": "Noel"
+    },
+    {
+        "speaker": "Noel",
+        "text": "It keeps my coffee warm.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "[_enters with Maxine_] Everybody, this is Maxine.",
+        "prevSpeaker": "Noel",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Hello.  Welcome.",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Maxine"
+    },
+    {
+        "speaker": "Maxine",
+        "text": "Hi, I need a quiet place to work on my part.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "Oh, you got it baby, why don't you go up here in the booth. [_Maxine exits._]",
+        "prevSpeaker": "Maxine",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Bulldog, work on her part?!  It's just one line.",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "Yeah, yeah, but she's got that condition.  What d'ya call it, it begins with a dis... dis- dis... er?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Distemper?",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "No, Dyslexia, that's it.  She's dyslexic.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "And you tell me that now.",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "No, no, no, hey, she'll be great.  It's me I'm worried about, I've got some serious butterflies going here.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Bulldog, you're on the radio all the time.",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "Yeah, but that's me being me.  This is acting, it's scary.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Listen, that's all part of the thrill of the live performance. Butterflies in the stomach, sweaty palms, scratchy throat, pounding heart!  I suppose you have all of those?",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "I do now!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "[_enters speaking with a numb mouth_] Phorry I'm late, Phaser, I just sphent two hours in the dentist chair.  An emergenphie, Ohh.",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Gil"
+    },
+    {
+        "speaker": "Gil",
+        "text": "What is the matter?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Novocaine, he said it would wear opph by now.  I keep biteing my 'ip.",
+        "prevSpeaker": "Gil",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Dear God, we've got sixty seconds.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I don't even know who I'm playing.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Don't worry Niles, I'll just cue you as we go along.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Shouldn't I at least prepare a little?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Now, listen, your natural spontaneity is your best asset as an actor.  What was it the Yale \"Daily News\" said about your Tartuffe?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, who remembers? [_off heart_] That I have the magnetism of Marlon Brando, the charm of Danny Kaye and the range of Laurence Olivier.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "All right everyone, places please.  _Meanwhile, Daphne listens to it in Frasier's apartment.  Eddie is also there on Frasier's favourite window chair.  Martin hurries in._ ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Hurry up, it's starting. [_ominous organ music heard_]",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_radio:_] Good evening, this is Frasier Crane to welcome you to KACL's recreation of the original mystery theatre...",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "I already know the plot, but I'll try not to blurt out the name of the murderer.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Great!  As a cop I hated it when people did that.  ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "In all my years at the Yard, I doubt I'd ever seen a fouler night [_thunder sound effect_] than that on which I was called out to investigate a double murder at the old inn on the moors. [_door sound effect_] The door was answered by Miss Carlotta Thorndike. [_door shuts_] Her face was unfamiliar and when she opened her lips I caught a hint of some exotic accent.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Inphector, ow!  Phank God you ca'.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "This is a grisly business, Miss Thorndike.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "I can't beweive any of my guests cod be a... mopible mupuder.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "That's easy for you to say.  But my job is to suspect everybody.  Please, introduce me to your... no, no, never mind.  I know your guests by reputation.  This must be Mr. Wing, the silk merchant.  Did you witness anything suspicious, Wing? [_Bulldog freezes on the spot so Frasier covers_] Of course, the inscrutable and mute Mr. Wing, who wears a bell on his hat. [_goes to sound effects_] Did you witness anything suspicious, Wing? [_Frasier shakes bell_] No, eh?  I'll remember you said that.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Gil"
+    },
+    {
+        "speaker": "Gil",
+        "text": "I'm Nigel Fairservice, Inspector.  I was strolling in the garden when this dreadful tragedy occurred.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Did anyone see you?",
+        "prevSpeaker": "Gil",
+        "nextSpeaker": "Gil"
+    },
+    {
+        "speaker": "Gil",
+        "text": "Several people.  Hans, the German butler.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_Frasier cues him, speaking in German accent:_] Ja, I saw zee gentleman.",
+        "prevSpeaker": "Gil",
+        "nextSpeaker": "Gil"
+    },
+    {
+        "speaker": "Gil",
+        "text": "O'Toole, the gardener.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_Frasier cues him, speaking in Irish accent:_] It \ufffdtwas himself, and no mistake.",
+        "prevSpeaker": "Gil",
+        "nextSpeaker": "Gil"
+    },
+    {
+        "speaker": "Gil",
+        "text": "As well as Prudence McAllister.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_Frasier cues him, speaking in an aristocrat lady accent:_] Yes, I was taking a breath of air.",
+        "prevSpeaker": "Gil",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I tried to shake Nigel's alibi, but each witness was adamant. O'Toole!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_Irish:_] Faith and it's true!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Hans!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_German:_] Ja, Voll!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Miss McAllister!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_old woman:_] Oh, please hence.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "There remained one suspect, whose whereabouts had not yet been established - Pepo the dwarf, a retired circus performer.  Exactly where were you when the murders occurred, Pepo?  _Frasier cues Niles, but Niles doesn't know how to do it.  He even tries to kneel down to appear he is small but realises it's radio. Frasier comes over to the sound effects bench and gives Niles a helium balloon to inhale._ ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Pepo, where were you?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_high voice:_] I was at the movies.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "At the movies you say, well one quick phone call can verify that!  _Frasier, still at the sound effects bench, pretends to dial the phone and pretends it isn't working._ ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "What's this?  Dear God, the phone lines have been cut. [_organ music_] Oh, we were really stranded.  Totally and completely isolated from any contact with the outside world.  _The studio phone rings and Noel answers it.  Frasier walks over and cuts the telephone cord._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "The phone lines have been repaired, you say? [_uses prop phone_] Hello?  Wait, they've gone dead again.  _Meanwhile, Martin and Daphne are listening to the end of the first act._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_radio:_] Who knows what other surprises this night may bring? [_organ music sounds, whilst Martin turns off the radio_]",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "I don't remember the plots of these things being so goofy!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Mr. Wing wasn't mute last night.  ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Six different roles and six different accents, I have a mind to walk right out of here.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, I'm sorry, Niles, but you're doing brilliantly.  Except your Hans could be a bit gruffer!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Don't direct me!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I'm sorry, you're right.  I'm just a bit more worried of being over time.  Gil, at the bottom of page fourteen, listen, after your shot just say \"I'm dying,\" cut the rest.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Gil"
+    },
+    {
+        "speaker": "Gil",
+        "text": "That's my boyhood in Surrey speech!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, I know.",
+        "prevSpeaker": "Gil",
+        "nextSpeaker": "Gil"
+    },
+    {
+        "speaker": "Gil",
+        "text": "You can't cut that, you can't.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Stop whining!  We've got a play to do!",
+        "prevSpeaker": "Gil",
+        "nextSpeaker": "Gil"
+    },
+    {
+        "speaker": "Gil",
+        "text": "I don't care anymore.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, all right, please, quiet everybody.  Ten seconds!  Oh, Maxine, be sure to watch out for your cue and please, people let's pick up the pace. [_organ music and on air:_] Nightmare Inn, Act Two.  I was baffled, they all had alibis.  Suddenly Miss Thorndike pointed, her eyes wide with alarm!",
+        "prevSpeaker": "Gil",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "There's somevon outside that phindow.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Why yes, Miss Thorndike, it appears to be... [_soft music plays sounding like a fairy, Frasier covers_] The ice-cream truck!  But never mind that, [_takes off leaves of paper_] suddenly the storm put the lights out. [_thunder effect_] And we were left with darkness.  Then a scream.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Maxine"
+    },
+    {
+        "speaker": "Maxine",
+        "text": "Ahhhh!  Look out, he's got a nug!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "A gun!  A gun is what he's got.  When the lights came back up, a smoking gun lay on the table.  The maid lay dead, unable to name her killer.  Nigel Fairservice lay mortally wounded.",
+        "prevSpeaker": "Maxine",
+        "nextSpeaker": "Gil"
+    },
+    {
+        "speaker": "Gil",
+        "text": "I'm dying!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Poor man was gone.",
+        "prevSpeaker": "Gil",
+        "nextSpeaker": "Gil"
+    },
+    {
+        "speaker": "Gil",
+        "text": "Never again to visit the scene of my boyhood in Surrey, romping with my school chums in the fens and spinneys...",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Just then the lights went out again. [_gun sound_] Nigel Fairservice was shot again.",
+        "prevSpeaker": "Gil",
+        "nextSpeaker": "Gil"
+    },
+    {
+        "speaker": "Gil",
+        "text": "Only grazed me.  When the twilight bathed the hedgerows like a lambent...",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_creates another shot_] The final bullet, blew his head clean off his shoulders.  All right people, let's try to keep calm although it's hard when the killer is among us.",
+        "prevSpeaker": "Gil",
+        "nextSpeaker": "Gil"
+    },
+    {
+        "speaker": "Gil",
+        "text": "[_walks over and makes the door sound effect_] Hi-ho, I'm Nigel's brother Cedric, who I haven't seen since my boyhood...",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_creates yet another shot_] And so died the last surviving member of the Fairservice family.  _In Frasier's apartment, Martin and Daphne are still listening in disbelief._ ",
+        "prevSpeaker": "Gil",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Boy, I sure didn't see that one coming!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Gil"
+    },
+    {
+        "speaker": "Gil",
+        "text": "[_radio:_] Hello, I'm the ice cream man.  Years ago I went to school with Nigel Fairservice.  We used to romp in the fens and spinnies... [_gun shot_]",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "This is turning into a blood bath.",
+        "prevSpeaker": "Gil",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "This is why I prefer TV, you want to be able to see that stuff!  ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "By this time, I was more baffled than ever.  So I played a hunch; Hans, may I see your fingernails?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_German:_] Vy?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "They seem a bit ragged for a butler!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_German:_] Alvight, Alvight, I'm not what I appear.  None of us is.  I'm not a butler, I'm not even... [_turns page_] German?! [_normal:_] Sit down, inspector, you are about to hear a fascinating tale.  Each of us holds a piece of the puzzle to relate to you.  When we've finished you will know the full dark secret of \"Nightmare Inn\"!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Are thu thew with phat, Hans?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Be quiet, mother. [_organ here_] Mother and I moved here when I was a small boy after the... tragic death of my father...  _Niles carries on with the script whilst Frasier gives some very strenuous directions with some weird actions.  Niles eventually loses it._ ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I kept the pain of that loss buried deep within me like a serpent coiled within a damp... cave... [_throws script_] That's it!  I'm just going to take this gun off the table. [_takes balloons and bursts one_] Sorry about that, O'Toole, I guess we'll never hear your fascinating piece of the puzzle. [_two shots:_] Or yours, Kragen and Pepo!  Could the McAllister sisters stand back to back, I'm short on bullets! [_shot_] Thank you!  What was your name again, dear?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Miph Thorndike.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Thank you. [_shot_] Ah, and also Mr. Wing. [_shot sound with bell fading_] And of course, one final bullet for myself so the mystery will die with me. [_shot_] Ha!",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well then, that pretty much wrapped things up!  Hans was a mass murderer, who to the surprise of everyone, the case was closed.  And with a grateful shudder, I swore I never would return to Nightmare Inn!  ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, we still have nine minutes remaining.  Perhaps we could have a little post-play discussion?  _Gil, Bulldog, Maxine, Roz and Niles look at Frasier as if to say \"What the hell do you think?\"  End of Act Two. (Time: 21:00)_ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Credits"
+    }
+]

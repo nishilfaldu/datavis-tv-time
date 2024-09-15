@@ -1,0 +1,1815 @@
+[
+    {},
+    {
+        "speaker": "Niles",
+        "text": "Just the man I wanted to see.  Coffee, please.",
+        "prevSpeaker": "No Previous Speaker",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Niles, Niles...",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "You would not believe the morning I...",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Niles, would you be terrible offended if I asked you just not to not talk about it and sit quietly?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Can I at least tell you...?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Shhh, shhh, please, I do not have time for your folderol today.  I am meeting Charlotte for lunch and I'm planning my strategy on how to win her over.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I thought you said she has a boyfriend, this environmentalist fellow.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, Frank.  ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Thank you.  So, what's your plan to get around him?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I'm merely going to present myself as the anti-Frank.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Ah.  So you're going to be not rugged and not handsome? Interesting.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "You're also going to be not passionate and not committed.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Very funny.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Maybe she'd like you if you were not interesting and not informed.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Niles!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well you said my day was folderol!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Sometimes it is!  ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "I don't believe you.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Steve"
+    },
+    {
+        "speaker": "Steve",
+        "text": "It's true.  My roommate and I used to listen to your show Every day just for you.  We fell in love with your voice.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Really? [_in a dusky tone_] It's just a voice.",
+        "prevSpeaker": "Steve",
+        "nextSpeaker": "Steve"
+    },
+    {
+        "speaker": "Steve",
+        "text": "Well, all the guys on my floor listen to you.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "To our show?",
+        "prevSpeaker": "Steve",
+        "nextSpeaker": "Steve"
+    },
+    {
+        "speaker": "Steve",
+        "text": "Yeah.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Boy, things sure have changed since I was in college.",
+        "prevSpeaker": "Steve",
+        "nextSpeaker": "Steve"
+    },
+    {
+        "speaker": "Steve",
+        "text": "Well, it wasn't exactly college, more like prison.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "So was mine.  So where'd you go?",
+        "prevSpeaker": "Steve",
+        "nextSpeaker": "Steve"
+    },
+    {
+        "speaker": "Steve",
+        "text": "Prison.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Oh.  So... you fell in love with my voice?  ",
+        "prevSpeaker": "Steve",
+        "nextSpeaker": "Charlotte"
+    },
+    {
+        "speaker": "Charlotte",
+        "text": "Hi.  ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Charlotte, hi.  You remember my brother Niles.",
+        "prevSpeaker": "Charlotte",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Yes, Charlotte, how are you?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Charlotte"
+    },
+    {
+        "speaker": "Charlotte",
+        "text": "Oh, hello.  Well, frustrated.  Been selling this guy all over town, but no one's buying.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_sitting_] Well, perhaps if you threw in a toaster.",
+        "prevSpeaker": "Charlotte",
+        "nextSpeaker": "Charlotte"
+    },
+    {
+        "speaker": "Charlotte",
+        "text": "I just have to call Frank before we head out.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, right.  So everything's settled between the two of you?",
+        "prevSpeaker": "Charlotte",
+        "nextSpeaker": "Charlotte"
+    },
+    {
+        "speaker": "Charlotte",
+        "text": "Oh, yeah.  He came over last night, I don't even remember what we were fighting about.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You know what THAT means, don't you? [_sitting_] They had a long night of acrobatic make-up sex.",
+        "prevSpeaker": "Charlotte",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I just thought of another way you could be the anti-Frank.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Niles.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Mmm?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Keep an eye out for her, will you?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "What are you doing?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Research.  ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Frasier, Frasier?  Foul play!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, all is fair in love and war.  That's interesting.  An anthology of Irish plays.  Perfect!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "What do you know about Irish plays?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Nothing.  But not for long.  There's one area where no man has ever bested me, Niles: homework!  ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Charlotte, listen, I was just beeped by a patient who's desperate to see me, so do you mind if we just switch lunch for dinner?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Charlotte"
+    },
+    {
+        "speaker": "Charlotte",
+        "text": "Actually, that's better for me.  I have four new clients coming in.  Just think: the woman of your dreams may be sitting in my office this afternoon.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Indeed she may.  _Frasier smiles, then turns and hurries out.  FADE OUT  Scene 2 - A Restaurant Fade in.  Frasier hurries up to the Maitre D', Georges._ ",
+        "prevSpeaker": "Charlotte",
+        "nextSpeaker": "Georges"
+    },
+    {
+        "speaker": "Georges",
+        "text": "Ah, Monsieur, so nice to see you again.  Your special table is ready for you.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "And the wine?",
+        "prevSpeaker": "Georges",
+        "nextSpeaker": "Georges"
+    },
+    {
+        "speaker": "Georges",
+        "text": "As you requested, monsieur.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Right.  And the roses?",
+        "prevSpeaker": "Georges",
+        "nextSpeaker": "Georges"
+    },
+    {
+        "speaker": "Georges",
+        "text": "I'm so sorry, monsieur, I felt that the scent would distract from the wine's distinctive bouquet.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You forgot them, didn't you?",
+        "prevSpeaker": "Georges",
+        "nextSpeaker": "Georges"
+    },
+    {
+        "speaker": "Georges",
+        "text": "Yes, forgive me.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "For God's sake, Georges.  All right, send a busboy out to pick some wild flowers, please.",
+        "prevSpeaker": "Georges",
+        "nextSpeaker": "Georges"
+    },
+    {
+        "speaker": "Georges",
+        "text": "Very good sir.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Charlotte"
+    },
+    {
+        "speaker": "Charlotte",
+        "text": "Gee.  You kinda sprinted ahead of me, there.",
+        "prevSpeaker": "Georges",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "So sorry.  I just wanted to make sure that we could get a table.  Here, come and sit.",
+        "prevSpeaker": "Charlotte",
+        "nextSpeaker": "Charlotte"
+    },
+    {
+        "speaker": "Charlotte",
+        "text": "This place is kinda fancy for a working dinner.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, well, after the rigors of your camping trip with Frank, I thought you deserved a little elegance.",
+        "prevSpeaker": "Charlotte",
+        "nextSpeaker": "Charlotte"
+    },
+    {
+        "speaker": "Charlotte",
+        "text": "Thank you. [_She gets her notebook._] So, good news: I met this great woman today.  How do you feel about dating someone a little taller than you?  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "How much taller?",
+        "prevSpeaker": "Charlotte",
+        "nextSpeaker": "Charlotte"
+    },
+    {
+        "speaker": "Charlotte",
+        "text": "I don't know exactly, but I did have to turn off the ceiling fan.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, let's just put her in the maybe pile, shall we?  ",
+        "prevSpeaker": "Charlotte",
+        "nextSpeaker": "Frank"
+    },
+    {
+        "speaker": "Frank",
+        "text": "Hi, sweetie.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Charlotte"
+    },
+    {
+        "speaker": "Charlotte",
+        "text": "Hi.",
+        "prevSpeaker": "Frank",
+        "nextSpeaker": "Frank"
+    },
+    {
+        "speaker": "Frank",
+        "text": "Sorry to interrupt.  I know you're working.",
+        "prevSpeaker": "Charlotte",
+        "nextSpeaker": "Charlotte"
+    },
+    {
+        "speaker": "Charlotte",
+        "text": "Frank, you know Frasier.",
+        "prevSpeaker": "Frank",
+        "nextSpeaker": "Frank"
+    },
+    {
+        "speaker": "Frank",
+        "text": "Yes.",
+        "prevSpeaker": "Charlotte",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, yes, good to see you, Frank.",
+        "prevSpeaker": "Frank",
+        "nextSpeaker": "Frank"
+    },
+    {
+        "speaker": "Frank",
+        "text": "I just need the key to your apartment.  I left my blue field notebook there and I want to double-check some whale songs I copied down.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Charlotte"
+    },
+    {
+        "speaker": "Charlotte",
+        "text": "Oh, sure.",
+        "prevSpeaker": "Frank",
+        "nextSpeaker": "Frank"
+    },
+    {
+        "speaker": "Frank",
+        "text": "We were in a boat all day, recording whale songs.  I think we may have had a really big interpretive breakthrough.",
+        "prevSpeaker": "Charlotte",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, you should tell us about it sometime.",
+        "prevSpeaker": "Frank",
+        "nextSpeaker": "Frank"
+    },
+    {
+        "speaker": "Frank",
+        "text": "That's a great wine.  Can I steal a glass?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Charlotte"
+    },
+    {
+        "speaker": "Charlotte",
+        "text": "Yeah, here. [_to Frasier_] You don't mind, do you?  ",
+        "prevSpeaker": "Frank",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No, no, not at all.  Although as the Irish say: \"A man takes a drink, the drink takes a drink, the drink takes the man.\"",
+        "prevSpeaker": "Charlotte",
+        "nextSpeaker": "Frank"
+    },
+    {
+        "speaker": "Frank",
+        "text": "That's very good.  \"As the old cock crows, the young cock learns.\"",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, well, wasn't it O'Casey who once wrote: \"The Irish treat a serious thing as a joke, and a joke as a serious thing.\"?",
+        "prevSpeaker": "Frank",
+        "nextSpeaker": "Charlotte"
+    },
+    {
+        "speaker": "Charlotte",
+        "text": "You'd really have to ask Frank about that.  He's the one who loves Irish literature.  He lent me an anthology, but I haven't made much of a dent in it.  I'm sorry, honey, I'm trying.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frank"
+    },
+    {
+        "speaker": "Frank",
+        "text": "I know you are, baby. _He kisses her cheek as Georges brings a vase of wild flowers to the table._",
+        "prevSpeaker": "Charlotte",
+        "nextSpeaker": "Georges"
+    },
+    {
+        "speaker": "Georges",
+        "text": "Your flowers as requested, monsieur. [_noticing Frank_] I'm sorry, I thought you were to be deux.",
+        "prevSpeaker": "Frank",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, well now we are trois.  Thank you, Georges, could you bring us another glass, please.",
+        "prevSpeaker": "Georges",
+        "nextSpeaker": "Georges"
+    },
+    {
+        "speaker": "Georges",
+        "text": "[_knowingly_] Yes, I understand, monsieur.  It is most sophisticated of you.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Charlotte"
+    },
+    {
+        "speaker": "Charlotte",
+        "text": "Frasier, you ordered these flowers?",
+        "prevSpeaker": "Georges",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, the table just looked so bare.",
+        "prevSpeaker": "Charlotte",
+        "nextSpeaker": "Frank"
+    },
+    {
+        "speaker": "Frank",
+        "text": "These are great choices, man.  These are Washington wild flowers, remember from our hike?  Foxglove, fine toothed penstemon, harsh paintbrush.  Ah, remember this one?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Charlotte"
+    },
+    {
+        "speaker": "Charlotte",
+        "text": "Oh, it's on the tip of my tongue...",
+        "prevSpeaker": "Frank",
+        "nextSpeaker": "Frank"
+    },
+    {
+        "speaker": "Frank",
+        "text": "Monkey-flower.",
+        "prevSpeaker": "Charlotte",
+        "nextSpeaker": "Charlotte"
+    },
+    {
+        "speaker": "Charlotte",
+        "text": "Monkey-flower!",
+        "prevSpeaker": "Frank",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, often confused with the chimp-pansy.  ",
+        "prevSpeaker": "Charlotte",
+        "nextSpeaker": "Charlotte"
+    },
+    {
+        "speaker": "Charlotte",
+        "text": "Frank made the same joke this morning.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh.",
+        "prevSpeaker": "Charlotte",
+        "nextSpeaker": "Frank"
+    },
+    {
+        "speaker": "Frank",
+        "text": "Great minds.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, yes.   _Update 2010/8/8: Thanks to William Melvin for transcribing the French conversation between Frasier and Jean-Pierre and also providing a literal translation, which differs from the subtitles._ ",
+        "prevSpeaker": "Frank",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Ah, seulement deux cartes, Georges; ce jeune homme va juste prendre un verre de vin.Just two menus, Georges. [subtitle: Ah, This fellow is only staying for a drink.] [literal: Ah, only two menus, Georges; this young man will just have a glass of wine.]",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frank"
+    },
+    {
+        "speaker": "Frank",
+        "text": "Non, je prendrai une carte.  On s'amuse bien.  Et a vous dire vrai, je meurs de faim. [subtitle: No, no.  I'll take a menu.  We're having fun. And to tell you the truth, I'm starving.] [literal: No, I'll take a menu.  We're all having fun. And to tell you the truth, I'm dying of hunger.]",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, terrific.  _As Frasier glares at his menu in frustration, the word \"Merde\" appears in the subtitles._ [_N.B. Georges is meant to be French, but if you listen carefully you hear a hint of a Cockney accent._] _FADE TO:  Scene 3 - Frasier's Apartment Fade in.  Niles and Daphne are on the couch.  Martin opens the front door for Roz._ ",
+        "prevSpeaker": "Frank",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Hi, how ya doin'?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Hi.  Hey, look at you, Mr. Handsome.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Thanks. I'm gonna go hear Ronee sing at the Rendezvous.  And then afterwards I am going to give her her engagement ring.  ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Oh, Martin, it's beautiful.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "She's gonna love this.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Thanks.  I forgot I had it.  I bought it years ago for Sherry, but then we broke up.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "You can't give Ronee a used ring!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Sherry never touched it.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Well, it doesn't matter.  Ronee deserves something you picked out just for her.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well, she'll think I picked this out just for her.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "But you didn't.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "But she'll think I did.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "But you didn't.  You'll have to sell that and buy Ronee a new one.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh, what's the difference?  Niles, come on, back me up here.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "You can't be serious!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh, geez.  ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Fine, back in the vault.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Some vault.  It's an old cigar box with a bunch of silver dollars and Eddie's baby teeth.  [_N.B. See[[5.11]](/frasier/transcripts/season_5/episode_11/aint_nobodys_business_if_i_do.html \"Ain't Nobody's Business If \"I Do\"\"), \"Ain't Nobody's Business If \ufffdI Do.'\"_]  ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, hey, Roz.  What are you doing here?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Oh, hi.  I was just shopping around the corner, thought I'd stop by.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, gosh, well unfortunately I have a date.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "That's okay, I have one myself.  With Steve.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, yes, your convict friend.  Do you think that's wise?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "The man made one mistake.  Besides, I don't know any guy who's not a little fascinated by fire.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, and a felon now knows where you live.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "I'm not a total idiot.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Hello?  Oh, yeah, hi, Steve.  I'm grabbin' my coat, I'll be right down.  ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You...?!  ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "So, you have a date tonight.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, yes, actually Charlotte and I have been out three times this week.  We've been wine tasting, beach-combing, and we actually shared a blanket in a horse-drawn carriage.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "I take it Frank's off in the mountains again?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, no, he was there, too.  ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Let's go.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "You mean, it's been the three of you all week?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, it's not exactly how I wanted, but the more time I spend with them, the less time they spend alone together.  ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "It doesn't bother Frank, you tagging along on their dates?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Frank?  No.  In fact, he's quite taken with me.  It doesn't even occur to him that I might be a rival.  Galling, yes, but it does give me more time to work my magic on Charlotte.  ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "In another week, you can kiss Frank goodbye. _The elevator opens to reveal Frank and Charlotte in a passionate embrace._",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Maybe we'll wait until there's not a line.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frank"
+    },
+    {
+        "speaker": "Frank",
+        "text": "Hi, guys.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Hello.  ",
+        "prevSpeaker": "Frank",
+        "nextSpeaker": "Frank"
+    },
+    {
+        "speaker": "Frank",
+        "text": "Gangsta!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "What it is.  ",
+        "prevSpeaker": "Frank",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "So, uh, what's going on?  I thought we were meeting downtown.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Charlotte"
+    },
+    {
+        "speaker": "Charlotte",
+        "text": "I know, I'm sorry, but can we stay in tonight?  I've got to get up early and catch a flight to Chicago for some divorce stuff, and Frank's beat.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frank"
+    },
+    {
+        "speaker": "Frank",
+        "text": "Yeah, I was at the beach all day cataloging the stomach contents of a dead elephant seal.  It was like all you can eat down at the Lobster Pot.  I'm sorry, the collapse of our coastal fisheries is no joke.  I'm just punchy.",
+        "prevSpeaker": "Charlotte",
+        "nextSpeaker": "Charlotte"
+    },
+    {
+        "speaker": "Charlotte",
+        "text": "We brought some movies.  We couldn't agree on which one to watch, so you break the tie. _She holds out the DVDs and Frasier sits on the coffee table to look at them._",
+        "prevSpeaker": "Frank",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Hmm... \"The Perfect Storm\" or \"When Harry Met Sally.\"  I guess I'm going to have to go for \"When Harry Met Sally.\"",
+        "prevSpeaker": "Charlotte",
+        "nextSpeaker": "Frank"
+    },
+    {
+        "speaker": "Frank",
+        "text": "YES!  He'll have what I'm havin'!  _Frasier just shrugs with his \"I can't win\" expression.  FADE TO:_ **MENAGE A HUH?** _Scene 4 - Frasier's Apartment Fade in.  Charlotte is waiting in the hallway.  When the elevator opens, Martin and Ronee get off.  They notice that Charlotte's hair is unkempt._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Charlotte"
+    },
+    {
+        "speaker": "Charlotte",
+        "text": "Oh, hi.  We keep passing each other.",
+        "prevSpeaker": "Frank",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Yeah.  We got some dessert here, if you wanna stay.",
+        "prevSpeaker": "Charlotte",
+        "nextSpeaker": "Charlotte"
+    },
+    {
+        "speaker": "Charlotte",
+        "text": "Oh, no thanks.  I've got to catch an early flight, but tell Frasier I'll call him?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Sure.  Bye.",
+        "prevSpeaker": "Charlotte",
+        "nextSpeaker": "Charlotte"
+    },
+    {
+        "speaker": "Charlotte",
+        "text": "Bye-bye.  ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Ronee"
+    },
+    {
+        "speaker": "Ronee",
+        "text": "Do I know her?  ",
+        "prevSpeaker": "Charlotte",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Yeah, she's the woman Frasier's been after.  She has a boyfriend already, but maybe somethin' happened.",
+        "prevSpeaker": "Ronee",
+        "nextSpeaker": "Ronee"
+    },
+    {
+        "speaker": "Ronee",
+        "text": "I'll say.  You don't get that hair-style sitting up. _CUT TO: the living room as they come in and Martin turns on the light. Frasier is asleep on the couch, Frank is asleep and curled against his shoulder._ ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh, geez!  ",
+        "prevSpeaker": "Ronee",
+        "nextSpeaker": "Ronee"
+    },
+    {
+        "speaker": "Ronee",
+        "text": "Well, so long as he's happy.  _FADE OUT  End of Act 1  Act 2_ **LORD OF THE RING** _Scene 1 - Frasier's Apartment Fade in.  The doorbell rings and Martin answers.  It is Niles and Daphne._",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh, hi guys.",
+        "prevSpeaker": "Ronee",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Hey, Dad.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Hey, Daphne, Niles.  Listen, the opera tickets are right there by the phone.  Wish I could use them myself.  ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "You know, if you'd gotten a third, you could take that couple you're dating.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, that's very droll.  Frank injured himself on our hike, so I've got Charlotte all to myself this evening.  I'm not going to waste this opportunity.  I'm going to make her a romantic dinner and then tell her how I feel about her.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Wow, really?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Are you sure she's ready for that?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, I don't know, but I can't stand this ridiculous threesome anymore.  You know, the worst part is how completely unthreatening Frank finds me.  As if I'm some sort of a harem eunuch.  ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "How'd he hurt himself, anyway?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, he strained his back carrying me over a brook.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "You wounded him and you're stealing his woman in the same day?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, I didn't ask the man to carry me!  He simply hoisted me over his shoulder before I could stop him.  That's not something you get used to, no matter how many times it happens.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Don't you worry about it.  You just do what you gotta do.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Thanks, Dad.  Wish me luck.  I'm making her beef bourguignon from a new recipe.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "All"
+    },
+    {
+        "speaker": "All",
+        "text": "Good luck.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Flour the beef.  ",
+        "prevSpeaker": "All",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "You're looking very sharp.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_getting up_] Oh, I got the new ring.  ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Oh, let's have a look.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "I sold the old one and got this new one this morning.  ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Dad, it's huge.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Oh, it's beautiful, Martin.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Yeah.  ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Ronee"
+    },
+    {
+        "speaker": "Ronee",
+        "text": "Hi.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Hey.",
+        "prevSpeaker": "Ronee",
+        "nextSpeaker": "Ronee"
+    },
+    {
+        "speaker": "Ronee",
+        "text": "What's goin' on?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Nothin'.  Oh, you look lovely tonight.  But you know, I think your hand is kinda underdressed.  ",
+        "prevSpeaker": "Ronee",
+        "nextSpeaker": "Ronee"
+    },
+    {
+        "speaker": "Ronee",
+        "text": "Oh, my God!  Marty, it's gorgeous.  I love it and I love you, in that order.  ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Ronee"
+    },
+    {
+        "speaker": "Ronee",
+        "text": "Oh, thank you.  Listen, I've got to go wash my hands.  I was eating Cheetos all the way over.",
+        "prevSpeaker": "Ronee",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "I love this lady.  ",
+        "prevSpeaker": "Ronee",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Oh, let's have a look.  Oh, it's brilliant.  Oh, you had it inscribed!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "I did?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "\"Lil' Cupid.  Til Def Do Us Part.\"  What is that?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Let me see that.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Isn't \"Lil' Cupid\" that obese rapper?   The one they arrested for drugs?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Where did you get this ring?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "At an auction! [_off their looks_] A police auction.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "You can't give that to her!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well I can't take it back, she loves it.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Well, what are you going to tell her?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well, just relax, I'll handle it.  ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well, there's my lil' cupid.  All beautiful and clean.  All you need is a bow and arrow, Lil' Cupid.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Ronee"
+    },
+    {
+        "speaker": "Ronee",
+        "text": "Why are you calling me that?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "I always call you that.",
+        "prevSpeaker": "Ronee",
+        "nextSpeaker": "Ronee"
+    },
+    {
+        "speaker": "Ronee",
+        "text": "No, no you don't.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well, uh, maybe I mostly say it when you're not around.  ",
+        "prevSpeaker": "Ronee",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, yes.  It's always \"Lil' Cupid said this.\" or \"Lil' Cupid did that.\"",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "It looks beautiful on you.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Ronee"
+    },
+    {
+        "speaker": "Ronee",
+        "text": "Thank you.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Now, promise me you'll never take it off, Lil' Cupid.",
+        "prevSpeaker": "Ronee",
+        "nextSpeaker": "Ronee"
+    },
+    {
+        "speaker": "Ronee",
+        "text": "Okay, okay.  I promise if you'll stop calling me that.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Deal.  ",
+        "prevSpeaker": "Ronee",
+        "nextSpeaker": "Ronee"
+    },
+    {
+        "speaker": "Ronee",
+        "text": "I'm gonna go look at this in the mirror.  ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "How did you get it to fit her?  Lil' Cupid's as big as a house.",
+        "prevSpeaker": "Ronee",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Keep your voice down.  It was a toe ring.  _He smugly sits back in his chair with a beer.  FADE TO:  Scene 2 - Charlotte's Apartment Fade in.  Charlotte is sitting at her table, Frasier comes in with two plates._ ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Here we are.  Beef bourguignon with sauteed fiddlehead ferns and walnut chutney.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Charlotte"
+    },
+    {
+        "speaker": "Charlotte",
+        "text": "It's exactly what I need after the day I've had.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, maybe I could give you a neck rub while it cools.  ",
+        "prevSpeaker": "Charlotte",
+        "nextSpeaker": "Charlotte"
+    },
+    {
+        "speaker": "Charlotte",
+        "text": "Oh... oh, you're the best.  You know, I am so sorry you've had to put up with all this business with me and Frank.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "What business?",
+        "prevSpeaker": "Charlotte",
+        "nextSpeaker": "Charlotte"
+    },
+    {
+        "speaker": "Charlotte",
+        "text": "Well, you know, all this tension between us.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "There's tension?",
+        "prevSpeaker": "Charlotte",
+        "nextSpeaker": "Charlotte"
+    },
+    {
+        "speaker": "Charlotte",
+        "text": "He's a great guy, we just seem to be... I don't know...",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Fighting?  Growing apart?  Not clicking?  ",
+        "prevSpeaker": "Charlotte",
+        "nextSpeaker": "Frank"
+    },
+    {
+        "speaker": "Frank",
+        "text": "Darling.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, gosh, I'm sorry, it's my watch.  It's caught.",
+        "prevSpeaker": "Frank",
+        "nextSpeaker": "Charlotte"
+    },
+    {
+        "speaker": "Charlotte",
+        "text": "Oh, got it? _She turns around in his arms, while he reaches up and tries to release her hair.  Frank comes in while they're in this compromising position._",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frank"
+    },
+    {
+        "speaker": "Frank",
+        "text": "Shoulda known.  The minute I'm laid up, you're over here making my lady dinner.  You're true blue, buddy.  ",
+        "prevSpeaker": "Charlotte",
+        "nextSpeaker": "Frank"
+    },
+    {
+        "speaker": "Frank",
+        "text": "Hi, baby.",
+        "prevSpeaker": "Frank",
+        "nextSpeaker": "Charlotte"
+    },
+    {
+        "speaker": "Charlotte",
+        "text": "Hello, Frank.  ",
+        "prevSpeaker": "Frank",
+        "nextSpeaker": "Frank"
+    },
+    {
+        "speaker": "Frank",
+        "text": "Mmm, walnut chutney, that's daring.  ",
+        "prevSpeaker": "Charlotte",
+        "nextSpeaker": "Frank"
+    },
+    {
+        "speaker": "Frank",
+        "text": "Were you giving her a back rub?",
+        "prevSpeaker": "Frank",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Uh, was I?  Yes, I suppose I was, yes.",
+        "prevSpeaker": "Frank",
+        "nextSpeaker": "Frank"
+    },
+    {
+        "speaker": "Frank",
+        "text": "Would you mind doing me?  I took an aspirin after the hike, and my neck's still a little tight.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frank"
+    },
+    {
+        "speaker": "Frank",
+        "text": "So, tell me all about Chicago.  How was it?",
+        "prevSpeaker": "Frank",
+        "nextSpeaker": "Charlotte"
+    },
+    {
+        "speaker": "Charlotte",
+        "text": "I'll tell you later.",
+        "prevSpeaker": "Frank",
+        "nextSpeaker": "Frank"
+    },
+    {
+        "speaker": "Frank",
+        "text": "Oh, that's nice.",
+        "prevSpeaker": "Charlotte",
+        "nextSpeaker": "Charlotte"
+    },
+    {
+        "speaker": "Charlotte",
+        "text": "Frasier, stop rubbing his neck.  Sit down.  ",
+        "prevSpeaker": "Frank",
+        "nextSpeaker": "Frank"
+    },
+    {
+        "speaker": "Frank",
+        "text": "Why can't he rub my neck?",
+        "prevSpeaker": "Charlotte",
+        "nextSpeaker": "Charlotte"
+    },
+    {
+        "speaker": "Charlotte",
+        "text": "Because when you came in, we were just sitting down to dinner.  You could've called first.",
+        "prevSpeaker": "Frank",
+        "nextSpeaker": "Frank"
+    },
+    {
+        "speaker": "Frank",
+        "text": "Well, I didn't know I needed to get clearance.  Geez, you're as touchy as a hermit thrush.",
+        "prevSpeaker": "Charlotte",
+        "nextSpeaker": "Charlotte"
+    },
+    {
+        "speaker": "Charlotte",
+        "text": "This is typical of you.  You come in here, you expect me to change my plans because you're suddenly available.  It's insensitive.",
+        "prevSpeaker": "Frank",
+        "nextSpeaker": "Frank"
+    },
+    {
+        "speaker": "Frank",
+        "text": "Oh, I'M insensitive.  I've been tracking a pod of humpback whales for a week and they've been talking their asses off, but have you once asked me what Bonnie has to say?  Or Robert?  Or Grace?",
+        "prevSpeaker": "Charlotte",
+        "nextSpeaker": "Charlotte"
+    },
+    {
+        "speaker": "Charlotte",
+        "text": "They're WHALES!",
+        "prevSpeaker": "Frank",
+        "nextSpeaker": "Frank"
+    },
+    {
+        "speaker": "Frank",
+        "text": "They're my friends!",
+        "prevSpeaker": "Charlotte",
+        "nextSpeaker": "Charlotte"
+    },
+    {
+        "speaker": "Charlotte",
+        "text": "Stop yelling.  You're upsetting Frasier.",
+        "prevSpeaker": "Frank",
+        "nextSpeaker": "Frank"
+    },
+    {
+        "speaker": "Frank",
+        "text": "I didn't do anything.  I came in here, kissed you hello, and you jumped down my throat.  What the hell is your problem?",
+        "prevSpeaker": "Charlotte",
+        "nextSpeaker": "Charlotte"
+    },
+    {
+        "speaker": "Charlotte",
+        "text": "You are!  You are driving me crazy!",
+        "prevSpeaker": "Frank",
+        "nextSpeaker": "Frank"
+    },
+    {
+        "speaker": "Frank",
+        "text": "Do you believe her?",
+        "prevSpeaker": "Charlotte",
+        "nextSpeaker": "Charlotte"
+    },
+    {
+        "speaker": "Charlotte",
+        "text": "Don't you drag him into this!  Oh, you know what, I can't deal with this tonight.  ",
+        "prevSpeaker": "Frank",
+        "nextSpeaker": "Frank"
+    },
+    {
+        "speaker": "Frank",
+        "text": "Well, when can you deal with it?  I'll call ahead and make an appointment.",
+        "prevSpeaker": "Charlotte",
+        "nextSpeaker": "Charlotte"
+    },
+    {
+        "speaker": "Charlotte",
+        "text": "I think you should leave.",
+        "prevSpeaker": "Frank",
+        "nextSpeaker": "Frank"
+    },
+    {
+        "speaker": "Frank",
+        "text": "Fine!  ",
+        "prevSpeaker": "Charlotte",
+        "nextSpeaker": "Frank"
+    },
+    {
+        "speaker": "Frank",
+        "text": "Come on, Frasier, let's go. _He heads for the door while Charlotte heads for the bathroom. Frasier just looks confused._ ",
+        "prevSpeaker": "Frank",
+        "nextSpeaker": "Frank"
+    },
+    {
+        "speaker": "Frank",
+        "text": "Times like this, a guy really needs his buddy. _Giving up, Frasier tosses down his napkin and follows Frank out.  DISSOLVE TO: later. Charlotte is on the couch, slumped down and drinking wine. Frasier knocks on the door and comes in._ ",
+        "prevSpeaker": "Frank",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Hi.  Just wanted to see how you're doing.",
+        "prevSpeaker": "Frank",
+        "nextSpeaker": "Charlotte"
+    },
+    {
+        "speaker": "Charlotte",
+        "text": "Tip-top.  How's your friend?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "He went someplace dark.  I couldn't follow.  ",
+        "prevSpeaker": "Charlotte",
+        "nextSpeaker": "Charlotte"
+    },
+    {
+        "speaker": "Charlotte",
+        "text": "Him and his moods.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No, no, he climbed some kind of pine tree.",
+        "prevSpeaker": "Charlotte",
+        "nextSpeaker": "Charlotte"
+    },
+    {
+        "speaker": "Charlotte",
+        "text": "Look, I'm, I'm sorry about all that.  I think this is it for Frank and me.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Really?",
+        "prevSpeaker": "Charlotte",
+        "nextSpeaker": "Charlotte"
+    },
+    {
+        "speaker": "Charlotte",
+        "text": "It's just not working.  I think I was always attracted to the idea of him more than him.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "This may seem inappropriate, but I'm not entirely sad to hear you say that.",
+        "prevSpeaker": "Charlotte",
+        "nextSpeaker": "Charlotte"
+    },
+    {
+        "speaker": "Charlotte",
+        "text": "What do you mean?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I would think my feelings were obvious by now.  All the time we've been spending together.  ",
+        "prevSpeaker": "Charlotte",
+        "nextSpeaker": "Charlotte"
+    },
+    {
+        "speaker": "Charlotte",
+        "text": "I just thought it was because you were hitting it off with Frank.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Are you kidding?  The man smells like a chum boat.  You, you're the one I wanted to be with.  Look, uh, I realize you're in a vulnerable state and you probably need some time to process this, so I'll just, uh...  ",
+        "prevSpeaker": "Charlotte",
+        "nextSpeaker": "Charlotte"
+    },
+    {
+        "speaker": "Charlotte",
+        "text": "Don't go.  I've been thinking a little about you, too.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Really?  ",
+        "prevSpeaker": "Charlotte",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, then.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Charlotte"
+    },
+    {
+        "speaker": "Charlotte",
+        "text": "Oh, God, I'm uncomfortable.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I'm sorry, I'm rushing things.",
+        "prevSpeaker": "Charlotte",
+        "nextSpeaker": "Charlotte"
+    },
+    {
+        "speaker": "Charlotte",
+        "text": "No, no, it's just I'm lying on a wine bottle.  _She puts it aside and they start kissing again.  FADE TO:  Scene 3 - Charlotte's Apartment Fade in.  Charlotte is in bed, rain can be heard outside. Frasier comes in with two mugs._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Good morning.  ",
+        "prevSpeaker": "Charlotte",
+        "nextSpeaker": "Charlotte"
+    },
+    {
+        "speaker": "Charlotte",
+        "text": "Oh, dear God, please tell me nothing happened last night.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Charlotte"
+    },
+    {
+        "speaker": "Charlotte",
+        "text": "I'm kidding!  I'm kidding! _Frasier, relieved, sits on the bed and gives her a kiss.  She takes one of the mugs._ ",
+        "prevSpeaker": "Charlotte",
+        "nextSpeaker": "Charlotte"
+    },
+    {
+        "speaker": "Charlotte",
+        "text": "I'm glad you stayed.",
+        "prevSpeaker": "Charlotte",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Me too.  ",
+        "prevSpeaker": "Charlotte",
+        "nextSpeaker": "Frank"
+    },
+    {
+        "speaker": "Frank",
+        "text": "Hey, guys.  You're in my robe.  Guess you got caught in the rain, too, huh?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, I did.  ",
+        "prevSpeaker": "Frank",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "What happened to your hand?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frank"
+    },
+    {
+        "speaker": "Frank",
+        "text": "Ah, I was so mad last night, I punched a raccoon.  God, I'm a bastard.  You're a good guy to come check on her.  Never understand why women don't like you. [_to Charlotte_] Can we talk?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Charlotte"
+    },
+    {
+        "speaker": "Charlotte",
+        "text": "Yeah, I think that's a good idea.",
+        "prevSpeaker": "Frank",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "My clothes should be dry by now. _He grabs them from the floor beside the bed and hurries to the bathroom.  Charlotte puts on her robe and Frank gets up._ ",
+        "prevSpeaker": "Charlotte",
+        "nextSpeaker": "Frank"
+    },
+    {
+        "speaker": "Frank",
+        "text": "So, what's goin' on with us?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Charlotte"
+    },
+    {
+        "speaker": "Charlotte",
+        "text": "Oh, come on Frank.  I think you know it's not working.",
+        "prevSpeaker": "Frank",
+        "nextSpeaker": "Frank"
+    },
+    {
+        "speaker": "Frank",
+        "text": "Yeah.",
+        "prevSpeaker": "Charlotte",
+        "nextSpeaker": "Charlotte"
+    },
+    {
+        "speaker": "Charlotte",
+        "text": "And, anyway, there's something else you should know.  When I was in Chicago, my ex told me he's moving to New York. So, I bought the old business from him.  I'm moving back home.  ",
+        "prevSpeaker": "Frank",
+        "nextSpeaker": "Frank"
+    },
+    {
+        "speaker": "Frank",
+        "text": "You sure about this?",
+        "prevSpeaker": "Charlotte",
+        "nextSpeaker": "Charlotte"
+    },
+    {
+        "speaker": "Charlotte",
+        "text": "Yeah.  I mean, I know Chicago, I have friends there. Seattle just hasn't panned out for me.  I thought you should be the first to know.",
+        "prevSpeaker": "Frank",
+        "nextSpeaker": "Frank"
+    },
+    {
+        "speaker": "Frank",
+        "text": "Well, I know you'll do great.",
+        "prevSpeaker": "Charlotte",
+        "nextSpeaker": "Charlotte"
+    },
+    {
+        "speaker": "Charlotte",
+        "text": "So will you.  ",
+        "prevSpeaker": "Frank",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Uh, I should be going.  ",
+        "prevSpeaker": "Charlotte",
+        "nextSpeaker": "Frank"
+    },
+    {
+        "speaker": "Frank",
+        "text": "That's okay.  You stay, I'm goin'.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frank"
+    },
+    {
+        "speaker": "Frank",
+        "text": "You know this isn't your fault, right partner?  You be good, buddy.  ",
+        "prevSpeaker": "Frank",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I know I should feel sad for Frank, but I can't help feeling happy.",
+        "prevSpeaker": "Frank",
+        "nextSpeaker": "Charlotte"
+    },
+    {
+        "speaker": "Charlotte",
+        "text": "Frasier, I...  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Listen, I'm late for about three things, so can I see you later this afternoon?  Maybe after my show?",
+        "prevSpeaker": "Charlotte",
+        "nextSpeaker": "Charlotte"
+    },
+    {
+        "speaker": "Charlotte",
+        "text": "Okay, after your show.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Perfect.  Look, I hate to jinx this, but I'm so glad about what happened. _He kisses her again and leaves.  She slowly sits back down, a worried look on her face.  FADE OUT  End of Act 2_ ",
+        "prevSpeaker": "Charlotte",
+        "nextSpeaker": "Credits"
+    }
+]

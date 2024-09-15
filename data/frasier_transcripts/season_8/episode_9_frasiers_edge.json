@@ -1,0 +1,1509 @@
+[
+    {},
+    {
+        "speaker": "Frasier",
+        "text": "Well, Roz, I think we have just enough time for one more call.",
+        "prevSpeaker": "No Previous Speaker",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Okay, we have Andy from Bremerton on line three.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Hello, Andy, I'm listening.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Andy"
+    },
+    {
+        "speaker": "Andy",
+        "text": "[_v.o._] Am I on?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, go ahead.",
+        "prevSpeaker": "Andy",
+        "nextSpeaker": "Andy"
+    },
+    {
+        "speaker": "Andy",
+        "text": "Can you hear me?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, you're on the air.",
+        "prevSpeaker": "Andy",
+        "nextSpeaker": "Andy"
+    },
+    {
+        "speaker": "Andy",
+        "text": "Hello?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You're on.",
+        "prevSpeaker": "Andy",
+        "nextSpeaker": "Andy"
+    },
+    {
+        "speaker": "Andy",
+        "text": "Am I on?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Not any more. [_cuts him off_] This is Dr. Frasier Crane on KACL, wishing you good mental health.  _Frasier and Roz disconnect and take their headsets off.  Kenny comes in with several other KACL people._ ",
+        "prevSpeaker": "Andy",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "Gather round everyone.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, Kenny, what's all this?",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "I'm here to officially announce this year's SeaBea nominations.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, well.",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Gil"
+    },
+    {
+        "speaker": "Gil",
+        "text": "He made us wait until your show was over.  It was interminable.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "First of all, KACL has been nominated for a total of nine SeaBeas.  ",
+        "prevSpeaker": "Gil",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "Which ties us with KPXY, the mighty Pixie, for most nominations.",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, the mighty Pixie, they do very well.",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "Now, all the nominees were chosen by a panel of experts...",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Just give me that!  ",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Good girl, Roz.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Oh, here's one: \"Best Restaurant Critic: Gil Chesterton.\"",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Gil"
+    },
+    {
+        "speaker": "Gil",
+        "text": "Oh, thank God I'm nominated!  Now I won't have to attend \"The Chestertons.\"",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "\"The Chestertons?\"",
+        "prevSpeaker": "Gil",
+        "nextSpeaker": "Gil"
+    },
+    {
+        "speaker": "Gil",
+        "text": "It's an elaborate awards show my wife and the dogs put on when I'm overlooked by the SeaBeas.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Roz, I don't see our names anywhere.",
+        "prevSpeaker": "Gil",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "No, nothing, we've been shut out.  I don't believe it!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "Well, what do I have here?  ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "There are more awards?  ",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "Maybe.  I guess you'll just have to listen and find out. \"Since 1962, the Seattle broadcasting community...\"",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Give me that!  ",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Oh my God, Frasier!  You're getting a lifetime achievement award!",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "What?  Are you serious?!",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Yes, it says right here: \"Since 1962...\"",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Give me that!",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "Hurts, doesn't it?  _Roz nods, looking a bit guilty.  FADE OUT.  Scene 2 - Frasier's Apartment Fade in.  Frasier is holding one of his pieces of African art, practicing his acceptance speech in front of Eddie._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "When I was a boy, my parents told me to reach for the stars. Sadly, I later learned that stars are just massive fiery balls of gas, which, were I to reach one, would vaporize me instantly.  But tonight, with the Stephen R. Schafer Lifetime Achievement Award, you tell me that I have reached you, and you, ladies and gentlemen, are my stars. [_to Eddie_] And that's where you would applaud.  _Eddie lets out a big yawn and scurries off to the bedrooms.  Martin comes from there wearing a tuxedo._ ",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "I gotta say, Fras, it's really somethin', you gettin' this award.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, Dad, it's actually quite an honor.  You know, customarily, they give them out to much older people.  ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Hello.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, Niles, flowers!  How very thoughtful of you!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "They're not from me.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, thank you for bringing them up.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well, actually, they were just outside the door.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, thank you for bending over and picking them up.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well it wasn't that far, the handle...",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Just give them to me! _He takes the flowers and puts them on the table behind the couch. He takes the card and reads it aloud._ ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "\"Congratulations, Frasier.  You must be very proud.  William Tewksbury.\"",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Who's that?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "He's my old mentor from Harvard, Dad.  Gosh, you know, I read in the alumni newsletter that he was taking his sabbatical here at the University of Washington, I've been meaning to call him.  ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Niles, somethin' here for you.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "For me, what for?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well, this may be Frasier's night, but I just want you to know that I have two special sons.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Dad, how considerate.  ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "\"World's Greatest Psychiatrist.\"",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "See, your brother's not the only one gettin' a prize tonight.  ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Thanks, Dad.  Oh, there's my little rose bud.  Hello.  ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Is it my imagination, or has she gained weight since breakfast?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Which seating?  Eight, nine, or ten?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, darling, you're undone.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "I know.  This dress used to fit perfectly, now I can't even get it zipped halfway up.  Those bloody cleaners must have shrunk it.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Let me give it a try. _He strains at the zipper, then puts his knee up to get more leverage, but can't move it._ ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, my.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Maybe if I put a jacket on.  Would you come help me pick one out?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Sure, sure.  You know, you should switch dry cleaners, that's the third dress they've shrunk this week.  ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Dad, what do you make of this? [_reading card_] \"Congratulations, Frasier.  You must be very proud.\"",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well, I'd say he's happy for you.  Of course, I was a detective, so it comes easy to me.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "He doesn't say he's proud of me, he says that I should be proud of myself.  Doesn't that seem a bit odd to you?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "No, you're splittin' hairs.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You don't know Dr. Tewksbury like I do.  He wouldn't say something like this unless he meant to say something else.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "You're gonna let this ruin the whole night for you, aren't you?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No, no, of course not, Dad.  I just think it's interesting, that's all.  ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You know, Dad, I'm gonna head over to the SeaBeas a little early.  I'll see you there.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Why?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, I thought I should... familiarize myself with the dais.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Frasier, it's just a note.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I know, Dad.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "It doesn't mean anything.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I know, Dad.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Say \"Hi\" to Dr. Tewksbury for me.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I will, Dad.  _He exits.  FADE OUT.  Scene 3 - Dr. Tewksbury's Office Fade in.  Dr. Tewksbury is at his desk, straightening up. Frasier comes in._ ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Dr. Tewksbury?  Frasier Crane.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Tewksbury"
+    },
+    {
+        "speaker": "Tewksbury",
+        "text": "Of course!  Frasier.  It's good to see you.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Likewise.",
+        "prevSpeaker": "Tewksbury",
+        "nextSpeaker": "Tewksbury"
+    },
+    {
+        "speaker": "Tewksbury",
+        "text": "How long has it been?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, gosh, perhaps...twenty years.",
+        "prevSpeaker": "Tewksbury",
+        "nextSpeaker": "Tewksbury"
+    },
+    {
+        "speaker": "Tewksbury",
+        "text": "That long?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yeah.  Actually, I was on my way to the awards ceremony and I thought I'd drop by and thank you for the flowers.  And the card.",
+        "prevSpeaker": "Tewksbury",
+        "nextSpeaker": "Tewksbury"
+    },
+    {
+        "speaker": "Tewksbury",
+        "text": "You're welcome.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "It was very thoughtful of you.",
+        "prevSpeaker": "Tewksbury",
+        "nextSpeaker": "Tewksbury"
+    },
+    {
+        "speaker": "Tewksbury",
+        "text": "I was happy to do it.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Particularly the card.",
+        "prevSpeaker": "Tewksbury",
+        "nextSpeaker": "Tewksbury"
+    },
+    {
+        "speaker": "Tewksbury",
+        "text": "I'm glad you liked it.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "All right, let's cut the bull.  \"You must be very proud.\" Why not \"I'm proud of you\"?  Why speculation rather than declaration?  We both know there are no mistakes.  There must have been some reason either conscious or subconscious that you chose these words.",
+        "prevSpeaker": "Tewksbury",
+        "nextSpeaker": "Tewksbury"
+    },
+    {
+        "speaker": "Tewksbury",
+        "text": "Frasier, I have a confession to make.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Ah!",
+        "prevSpeaker": "Tewksbury",
+        "nextSpeaker": "Tewksbury"
+    },
+    {
+        "speaker": "Tewksbury",
+        "text": "My assistant wrote the card.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh.",
+        "prevSpeaker": "Tewksbury",
+        "nextSpeaker": "Tewksbury"
+    },
+    {
+        "speaker": "Tewksbury",
+        "text": "You see, when I heard you were getting an award, I asked her to send flowers with a note of congratulations.  I'm afraid you've been over analyzing.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I see.  Then again, perhaps, in that order to your assistant, you subconsciously transmitted an emotion  that you couldn't or didn't want to acknowledge.",
+        "prevSpeaker": "Tewksbury",
+        "nextSpeaker": "Tewksbury"
+    },
+    {
+        "speaker": "Tewksbury",
+        "text": "Or perhaps your subconscious assigned new meaning to the words to reflect your self-doubt.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "But all art is self portraiture, and that includes the written word.",
+        "prevSpeaker": "Tewksbury",
+        "nextSpeaker": "Tewksbury"
+    },
+    {
+        "speaker": "Tewksbury",
+        "text": "However, we can only view art through the lens of our own psyches.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Then there is no pure art.",
+        "prevSpeaker": "Tewksbury",
+        "nextSpeaker": "Tewksbury"
+    },
+    {
+        "speaker": "Tewksbury",
+        "text": "How would you know?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "God, I've missed you!",
+        "prevSpeaker": "Tewksbury",
+        "nextSpeaker": "Tewksbury"
+    },
+    {
+        "speaker": "Tewksbury",
+        "text": "Frasier, of course I'm proud of you.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Thank you.  It's so nice to know that, it really is.  Thank you.",
+        "prevSpeaker": "Tewksbury",
+        "nextSpeaker": "Tewksbury"
+    },
+    {
+        "speaker": "Tewksbury",
+        "text": "Oh, I really wish we had more time to talk, but I'm taking my wife out to dinner tonight, I have to pick up some flowers before the shops close.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, yes, of course.",
+        "prevSpeaker": "Tewksbury",
+        "nextSpeaker": "Tewksbury"
+    },
+    {
+        "speaker": "Tewksbury",
+        "text": "This time, I think I'll write the card myself.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, that's a good idea.  Gosh, it was great to see you again.",
+        "prevSpeaker": "Tewksbury",
+        "nextSpeaker": "Tewksbury"
+    },
+    {
+        "speaker": "Tewksbury",
+        "text": "Yes.  Let's get together some evening.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, I'd like that.",
+        "prevSpeaker": "Tewksbury",
+        "nextSpeaker": "Tewksbury"
+    },
+    {
+        "speaker": "Tewksbury",
+        "text": "It's not often I get to dine with the recipient of a lifetime achievement award.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, please, it's just a trinket for a little radio show I do.  Uh, not that by \"little\" I mean to minimize my achievement.",
+        "prevSpeaker": "Tewksbury",
+        "nextSpeaker": "Tewksbury"
+    },
+    {
+        "speaker": "Tewksbury",
+        "text": "I know.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I know you know.  I just want to be clear, so that you don't infer any meanings that aren't actually there.",
+        "prevSpeaker": "Tewksbury",
+        "nextSpeaker": "Tewksbury"
+    },
+    {
+        "speaker": "Tewksbury",
+        "text": "What might I infer?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, you know, that I'm somehow dissatisfied with my work, something like that.",
+        "prevSpeaker": "Tewksbury",
+        "nextSpeaker": "Tewksbury"
+    },
+    {
+        "speaker": "Tewksbury",
+        "text": "You also called the award a trinket.  Can you imagine what I might have done with that?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Exactly.  A lesser therapist might say that I, I didn't think much of an award that they're willing to give to the likes of me.",
+        "prevSpeaker": "Tewksbury",
+        "nextSpeaker": "Tewksbury"
+    },
+    {
+        "speaker": "Tewksbury",
+        "text": "I suppose if one were looking hard enough, one could even say your coming down here was a desperate quest for approval.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, that one's a little out there.",
+        "prevSpeaker": "Tewksbury",
+        "nextSpeaker": "Tewksbury"
+    },
+    {
+        "speaker": "Tewksbury",
+        "text": "Frasier, you don't have to worry.  I'm not inferring anything.  Enjoy yourself this evening.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I will.  Because tonight is my night.",
+        "prevSpeaker": "Tewksbury",
+        "nextSpeaker": "Tewksbury"
+    },
+    {
+        "speaker": "Tewksbury",
+        "text": "Yes.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "So long, Professor.",
+        "prevSpeaker": "Tewksbury",
+        "nextSpeaker": "Tewksbury"
+    },
+    {
+        "speaker": "Tewksbury",
+        "text": "Goodbye. _Frasier leaves.  Dr. Tewksbury gets his things together and shakes his head reflectively._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Tewksbury"
+    },
+    {
+        "speaker": "Tewksbury",
+        "text": "Oh, Frasier...  _He goes out and locks the door behind him.  Turning around, he sees Frasier sitting on the steps, his head in his hand._ ",
+        "prevSpeaker": "Tewksbury",
+        "nextSpeaker": "Tewksbury"
+    },
+    {
+        "speaker": "Tewksbury",
+        "text": "Frasier?",
+        "prevSpeaker": "Tewksbury",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "What the hell is wrong with me?  _Tewksbury pats him on the back and urges him towards the office.  End of Act 1  Act 2  Scene 1 - Dr. Tewksbury's Office Fade in.  Frasier is looking out the window, Dr. Tewksbury is on the phone._",
+        "prevSpeaker": "Tewksbury",
+        "nextSpeaker": "Tewksbury"
+    },
+    {
+        "speaker": "Tewksbury",
+        "text": "Yes, dear, I know we have reservations but one of my former students is having a minor crisis.  I'll be there in half an hour.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_shouting out the window_] WHAT DOES IT ALL MEAN?",
+        "prevSpeaker": "Tewksbury",
+        "nextSpeaker": "Tewksbury"
+    },
+    {
+        "speaker": "Tewksbury",
+        "text": "Make it an hour. _FADE OUT  Scene 2 - The SeaBea Awards Fade in.  Martin, Niles and Daphne are sitting at their table. Roz comes up._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Hello everybody.",
+        "prevSpeaker": "Tewksbury",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Hey, Roz.  Whoa!  You look great, Roz!",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Yeah, that's a beautiful dress.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Thank you.  And after two weeks of eating delicious fat-burning cabbage soup, it finally fits.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Niles made me cabbage with me ossu buco last night.  If I knew it burned fat, I would have had a fourth helping.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well, we do have leftovers.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "No we don't.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "[_aside to Martin_] I haven't seen Daphne in a while.  Is it my imagination...?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "No.  Six squares a day.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "That's not like her.  Maybe she's depressed.  That's when I eat.  Did you say anything to her?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Nope.  Timing's very delicate in somethin' like this, Roz. I figured I'd wait until after she's too big to catch me but before she needs the motorized scooter. _She laughs.  He holds her chair for her.  They sit and Kenny comes over._",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "Hey, has anyone seen Frasier?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "No, not yet.  What's the matter, you look pale.",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "Well, I hate public speaking, and they roped me into giving Frasier's introduction and I want to make sure it's okay.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well, why don't you run it by Niles?  He's a psychiatrist too. And he's just as smart and successful as Frasier.",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Dad...",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "It's true, you are. [_to Kenny_] He is.  ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Hey, Gil.  So, where is that elusive wife of yours?  ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Gil"
+    },
+    {
+        "speaker": "Gil",
+        "text": "If you must know, Deb's on maneuvers with her reserve unit.  ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Emcee"
+    },
+    {
+        "speaker": "Emcee",
+        "text": "Ladies and gentlemen, welcome to this year's Seattle Broadcasting Awards.  Let's get right to our first category: outstanding restaurant critic.  And the nominees are: Merrill George for \"Cafe Chat\", Sheldon Hastings for \"Here's Looking at Food\" and Gil Chesterton for \"Restaurant Beat.\"  And... we have a tie!",
+        "prevSpeaker": "Gil",
+        "nextSpeaker": "Gil"
+    },
+    {
+        "speaker": "Gil",
+        "text": "They expect me to share?  What is this, dim sum?",
+        "prevSpeaker": "Emcee",
+        "nextSpeaker": "Emcee"
+    },
+    {
+        "speaker": "Emcee",
+        "text": "And the SeaBeas go to Merrill George and Sheldon Hastings.",
+        "prevSpeaker": "Gil",
+        "nextSpeaker": "Gil"
+    },
+    {
+        "speaker": "Gil",
+        "text": "No, this can't be happening.",
+        "prevSpeaker": "Emcee",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Oh, come on, Gil, isn't it enough just to be nominated?",
+        "prevSpeaker": "Gil",
+        "nextSpeaker": "Gil"
+    },
+    {
+        "speaker": "Gil",
+        "text": "You tell me, Miss Three-Time-Loser!   **HE WORE HIS FIRST SMOKING JACKET AT 12**  _Scene 3 - Dr. Tewksbury's Office Fade in.  Frasier is talking to Tewksbury._ ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I know I should be happy but I feel so dissatisfied.",
+        "prevSpeaker": "Gil",
+        "nextSpeaker": "Tewksbury"
+    },
+    {
+        "speaker": "Tewksbury",
+        "text": "Well, Frasier, it's no accident that you're going through this on the day that you receive your lifetime achievement award.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, duh. [_then_] I'm sorry, I'm just acting out.  Please, please.  Continue, please.  ",
+        "prevSpeaker": "Tewksbury",
+        "nextSpeaker": "Tewksbury"
+    },
+    {
+        "speaker": "Tewksbury",
+        "text": "As you know, men in our society commonly define themselves by their careers.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, I'll cop to that.  In fact, there's nothing I'm more proud of than my career.  It's because I love to help people, I always have.",
+        "prevSpeaker": "Tewksbury",
+        "nextSpeaker": "Tewksbury"
+    },
+    {
+        "speaker": "Tewksbury",
+        "text": "All right, refresh my memory.  Wasn't it your mother who first sparked your interest in psychiatry?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, it was.  I remember the exact day.  I was eight.  I'd come home crying because one of the older boys had thrown my copy of \"The Fountainhead\" under a bus.  My mother explained to me it wasn't because he didn't like the way I walked or because I wore an ascot to school, it was because he didn't like himself.  And at that very moment, I became a student of human behavior.  It was as if someone had given me an instruction manual explaining why people acted the way they did.",
+        "prevSpeaker": "Tewksbury",
+        "nextSpeaker": "Tewksbury"
+    },
+    {
+        "speaker": "Tewksbury",
+        "text": "Not to mention a way to distance yourself from painful emotions.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, totally.  I took a lot of grief for that ascot.",
+        "prevSpeaker": "Tewksbury",
+        "nextSpeaker": "Tewksbury"
+    },
+    {
+        "speaker": "Tewksbury",
+        "text": "So, you were drawn to psychiatry not because you like to help people, but because you feared them.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I feared them?",
+        "prevSpeaker": "Tewksbury",
+        "nextSpeaker": "Tewksbury"
+    },
+    {
+        "speaker": "Tewksbury",
+        "text": "Psychiatry gives you objectivity.  Objectivity gives you emotional distance.  Distance makes you feel safe.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, yes, granted.  But what does that got to do with me?",
+        "prevSpeaker": "Tewksbury",
+        "nextSpeaker": "Tewksbury"
+    },
+    {
+        "speaker": "Tewksbury",
+        "text": "How's your practice?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I don't have a practice, I have a radio show.",
+        "prevSpeaker": "Tewksbury",
+        "nextSpeaker": "Tewksbury"
+    },
+    {
+        "speaker": "Tewksbury",
+        "text": "Distance.  Any children?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, I have a wonderful son with whom I'm very close.",
+        "prevSpeaker": "Tewksbury",
+        "nextSpeaker": "Tewksbury"
+    },
+    {
+        "speaker": "Tewksbury",
+        "text": "You live with him?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "He lives in Boston.",
+        "prevSpeaker": "Tewksbury",
+        "nextSpeaker": "Tewksbury"
+    },
+    {
+        "speaker": "Tewksbury",
+        "text": "Distance.  With your wife.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "My ex-wife - yes, I know, distance.",
+        "prevSpeaker": "Tewksbury",
+        "nextSpeaker": "Tewksbury"
+    },
+    {
+        "speaker": "Tewksbury",
+        "text": "Wasn't she a psychiatrist?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, she was.  She happens to be a damn good one, too.",
+        "prevSpeaker": "Tewksbury",
+        "nextSpeaker": "Tewksbury"
+    },
+    {
+        "speaker": "Tewksbury",
+        "text": "Well, that's a handy choice for someone who'd rather share ideas than emotions.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Have you ever met Lilith?",
+        "prevSpeaker": "Tewksbury",
+        "nextSpeaker": "Tewksbury"
+    },
+    {
+        "speaker": "Tewksbury",
+        "text": "No.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, she happens to be a very warm and loving woman!",
+        "prevSpeaker": "Tewksbury",
+        "nextSpeaker": "Tewksbury"
+    },
+    {
+        "speaker": "Tewksbury",
+        "text": "Have you had any other meaningful relationships since then?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, as a matter of fact... what is your point?",
+        "prevSpeaker": "Tewksbury",
+        "nextSpeaker": "Tewksbury"
+    },
+    {
+        "speaker": "Tewksbury",
+        "text": "My point is that at the age of eight - at EIGHT - you began to use psychiatry as a way to deal with a world that scared you to death.  And this lifetime achievement award has made you realize that your career is finite and once it's gone, all you'll have left is that frightened eight-year-old boy.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well... would you like to hear my theory?  You have no idea what you're talking about.  I am not an eight-year-old.  ",
+        "prevSpeaker": "Tewksbury",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "And you know something else?  You're not my mentor any more!  _He storms out.  FADE OUT.  Scene 4 - The SeaBea Awards Fade in.  The gang are enjoying dinner at their table._",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Roz, you going to eat your quiche?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Are you kidding?  This would be like pulling the ripcord on my thighs.  It's nothing but cheese and butter and pastry...",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "And bacon!  You sure you don't mind?  ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I have good news.  I just spoke to Frasier, he's on his way.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh, thank goodness.   Not that I'm not having a good time with you, Niles.  ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Dad, I know what you're doing.  You don't have to overcompensate. I'm not some green-eyed monster burning with envy for Frasier.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "All right.  But if you were, I bet you'd be a great one.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Daphne?  I haven't seen you in a while.  How've you been, are you okay?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "I'm better than okay.  I'm in love with a man who loves me. He showers me with attention.  Every morning I wake up wondering what treasures this day will bring.  It really is the happiest time of my life.  And how are you?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "[_choked_] Good. [_flat_] Really good. [_to Kenny_] Could you pass me Frasier's quiche? _Kenny passes it over.  Roz picks it up with her hand and takes a big bite._",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "And the butter?  _He passes it over.  FADE OUT.  Scene 5 - Dr. Tewksbury's Office Fade in.  Dr. Tewksbury is preparing to leave again.  Frasier bursts in._",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "All right, professor.  You know, I hate to be the one to break it to you, but I'm afraid you've lost your touch. Where's your DSM?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Tewksbury"
+    },
+    {
+        "speaker": "Tewksbury",
+        "text": "Uh, there. _He points to a large reference book that Frasier picks up and begins searching through._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "\"Emotionally stunted eight-year-old,\" my eye! [_finds the reference_] Ah, here's what I'm going through: \"Phase-of-life issue: a problem associated with a particular developmental phase or other life circumstance.\"",
+        "prevSpeaker": "Tewksbury",
+        "nextSpeaker": "Tewksbury"
+    },
+    {
+        "speaker": "Tewksbury",
+        "text": "Please.  A mid-life crisis?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Obvious, really.  You know, I'm surprised it didn't occur to me sooner.  If someone had called into my show with this problem, I'd have diagnosed it inside a minute.",
+        "prevSpeaker": "Tewksbury",
+        "nextSpeaker": "Tewksbury"
+    },
+    {
+        "speaker": "Tewksbury",
+        "text": "And then what would you have done?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "That depends on the caller.",
+        "prevSpeaker": "Tewksbury",
+        "nextSpeaker": "Tewksbury"
+    },
+    {
+        "speaker": "Tewksbury",
+        "text": "All right.  The caller... is you.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Fine.",
+        "prevSpeaker": "Tewksbury",
+        "nextSpeaker": "Tewksbury"
+    },
+    {
+        "speaker": "Tewksbury",
+        "text": "On line one, we have Frasier Crane from Seattle.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Hello, Dr. Crane.  I love your show, I'm a big fan. [_laughs, then_] I won't bore you with all the details of my life... because you know them.  Suffice to say, I'm a successful psychiatrist.  My problem is that, in spite of the life I've built, I feel... empty.  ",
+        "prevSpeaker": "Tewksbury",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Ah, emptiness.  The eternal void.  If I'm not mistaken, it was John Keats who once wrote...",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Tewksbury"
+    },
+    {
+        "speaker": "Tewksbury",
+        "text": "Stalling.  Deal with the feelings.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "All right, fair enough.  Perhaps caller, if we reframe the issue...",
+        "prevSpeaker": "Tewksbury",
+        "nextSpeaker": "Tewksbury"
+    },
+    {
+        "speaker": "Tewksbury",
+        "text": "Redefining the problem.  Deal with the feelings.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Uh... let's run down Beck's Depression Inventory...",
+        "prevSpeaker": "Tewksbury",
+        "nextSpeaker": "Tewksbury"
+    },
+    {
+        "speaker": "Tewksbury",
+        "text": "Re-diagnosing.  You know what the problem is: the caller feels empty.  Go on.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "All right.  Last month in the _New England Journal_...",
+        "prevSpeaker": "Tewksbury",
+        "nextSpeaker": "Tewksbury"
+    },
+    {
+        "speaker": "Tewksbury",
+        "text": "He's already read it.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "How do you know?",
+        "prevSpeaker": "Tewksbury",
+        "nextSpeaker": "Tewksbury"
+    },
+    {
+        "speaker": "Tewksbury",
+        "text": "The caller is Frasier Crane.  If you did, he did.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I can suggest certain visualization techniques...",
+        "prevSpeaker": "Tewksbury",
+        "nextSpeaker": "Tewksbury"
+    },
+    {
+        "speaker": "Tewksbury",
+        "text": "He knows them already.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Look, if he knows all this, then why is he calling?",
+        "prevSpeaker": "Tewksbury",
+        "nextSpeaker": "Tewksbury"
+    },
+    {
+        "speaker": "Tewksbury",
+        "text": "He told you: because he's empty.  Keep going.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Sometimes it helps to write yourself a letter...",
+        "prevSpeaker": "Tewksbury",
+        "nextSpeaker": "Tewksbury"
+    },
+    {
+        "speaker": "Tewksbury",
+        "text": "He's already got himself on the phone.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I don't know what he wants!",
+        "prevSpeaker": "Tewksbury",
+        "nextSpeaker": "Tewksbury"
+    },
+    {
+        "speaker": "Tewksbury",
+        "text": "Then why do you keep trying to bury him in psychiatric exercises?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Because that's all I have!  ",
+        "prevSpeaker": "Tewksbury",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I'm sorry, caller, I can't help you. _FADE OUT  Scene 6 - The SeaBea Awards Fade in.  Kenny hurries over to the table again._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "Frasier's up next.  He's not here yet, what the hell am I gonna do?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well, he'll be here in a minute.  Just go up there and stall.",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "[_panicked_] Stall?  Stall?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Yes, like that.",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Emcee"
+    },
+    {
+        "speaker": "Emcee",
+        "text": "Ladies and gentleman, our next presenter, KACL General Manager, Kenny Daily.  ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "I think I'm gonna be sick.",
+        "prevSpeaker": "Emcee",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, fine, relax.  I'll go up there for you.",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "No, Niles, let me do it.  This night's been hard enough on you already.  ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "You are such a weenie.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "[_suddenly much calmer_] Yeah.  Weenie like a fox.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Actually, ladies and gentlemen, I'm Martin Crane.  Kenny very kindly let me do the honors.  You see, I'm Frasier's dad.  ",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "No, no.  More than that, I'm the father of two special guys. So if it's okay with you, I'd like you to give a big SeaBea welcome to my other son, Niles.  C'mon, Niles, stand up, let 'em see you.  ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh, here's Frasier.  ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Ladies and gentlemen, I give you the winner of the Stephen R. Shafer Lifetime Achievement Award, my son, Frasier Crane.  ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Ah.  Thank you for honoring my life.  Just wish I knew what to do with the rest of it. _The guests laugh.  Frasier stands for a moment, then walks off. Martin and Kenny look surprised._",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "What the hell was that?  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Credits"
+    }
+]

@@ -1,0 +1,1527 @@
+[
+    {},
+    {
+        "speaker": "Frasier",
+        "text": "Hello Doug, this is Dr. Frasier Crane.  I'm listening.",
+        "prevSpeaker": "No Previous Speaker",
+        "nextSpeaker": "Doug"
+    },
+    {
+        "speaker": "Doug",
+        "text": "[_v.o:_] Look, it's about my mother.  She's getting on now and she doesn't have much of a life.  And she doesn't want to do anything or go anywhere and she literally hangs around the house all day.  I mean, it's very frustrating...",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I'm sorry Doug, can we just go back a second?  You said your mother literally hangs around the house.  Well, I suppose it's a pet peeve of mine but I suppose what you mean is that she figuratively \"hangs around\" the house.  To literally hang around the house you'd have to be a bat or spider monkey. Now, back to your problem?",
+        "prevSpeaker": "Doug",
+        "nextSpeaker": "Doug"
+    },
+    {
+        "speaker": "Doug",
+        "text": "Do you mind if we stop while I tell you my pet peeve?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Not at all.",
+        "prevSpeaker": "Doug",
+        "nextSpeaker": "Doug"
+    },
+    {
+        "speaker": "Doug",
+        "text": "[_angry_] I hate it when intellectual pinheads with superiority complexes nit-pick your grammar when they come to you for help.  That's what I got a problem with! [_hangs up_]",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_happily:_] I think what he means is, that is a thing with which he has a problem.  Now it's time for a station break and we'll be right back after a word from our friends at [_reads:_] \"Pizza, Pizza, Pizza.\"  ",
+        "prevSpeaker": "Doug",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Hey, do you want to know my pet peeve?  It's when you're in a department store and the clerk is right in the middle of helping you and the phone rings.  So he starts taking care of them.  And you're left standing there going, \"Excuse me, but all I did was come all the way down here in person, whilst some joker is sitting at home in his underwear getting first rate service!\"  Don't you hate that?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Actually, I do most of my shopping by phone.  You know Roz, this conversation with Doug has got me thinking about my father.  He doesn't do much of anything either.  He just sits around most of the time watching TV and doing the occasional crossword puzzle.  What does your mother do?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "She's the attorney general of Wisconsin.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_not believing:_] No, really!",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Really!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I guess that helps fill her day.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Yeah, quote mom, \"Crime never stops - even in the dairy state!\"",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_laughs_] I don't think public office is for Dad, but maybe I could find him a hobby or something.  Any suggestions?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Well, in her spare time my mom likes to water ski a little. She hikes, oil paints... oh, she likes archaeology.  She's on a dig in Honduras right now.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_making up for it:_] Well, maybe I could get him a wood burning set.   **A ROOM WITH A VIEW**  _Scene Two - Frasier's Apartment. Daphne enters from the bedroom to find Frasier standing near the balcony assembling a telescope._ ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Is Dad still asleep?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Yes, he's napping with the dog.  Eddie's little legs are going like mad.  I think he's dreaming about chasing rabbits. [_thinks_] I can't explain your father's twitching!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_focusing telescope:_] I think I'm just about done with this thing.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "I think your dad's going to love it.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Me, too.  I was walking through the hobby shop and saw this thing and it was like, \"Eureka!\"  I actually said \"Eureka!\" [_looking through scope:_] Ah, yes.  There are a million stories in the naked city. [_hopeful:_] Now if we could just find a naked one.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "[_mock anger:_] Dr. Crane, you naughty boy.  Peeking in on other people's privacy.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Daphne, really.  I mean, if people were so concerned about their precious privacy they wouldn't leave their blinds open at that certain angle where you can see the mirror over the mantle that reflects down the hall to the water bed in the back room!",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "I think I hear your father coming.  Stand in front of it, we'll make this a little surprise.  _They stand in front of the telescope so Martin at first won't be able to see it.  Martin enters from his room._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Hi, guys.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Dad.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "How was your nap?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Great, I had the strangest dream.  I dreamt this beautiful woman with bad breath was licking my face.  _At this point Eddie comes out the bedroom and jumps onto the sofa. Martin realizes the source of the dream._ ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_to Eddie:_] Hey, where did you just come from?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Dad, I got a surprise for you.  ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Hey, it's a beaut.  What's the occasion?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, no occasion, just thought you'd like it.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Wow, that's great, thanks.  You know, I saw in the news there's a bunch of falcons nesting in the eaves of the Columbia Tower.  Maybe I can watch them from here.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Dad, Dad, forget the falcons.  You can see everything that's going on in that apartment building over there.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_objecting:_] Hey, I've locked people up for that kind of behavior.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh come on, it's perfectly innocent - just think of it as a hundred more channels to watch.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "[_looking in scope:_] Just look at them, people going about their lives.  There's an old couple watching the telly, and just next door an attractive young woman is working at a computer, while below her a burly man is using a beach towel to soak up a large pool of blood... oh my God!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "What?  _Both Martin and Frasier go to look - banging their heads in doing so. Frasier stands aside to let the cop have a look:_ ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_looking:_] No, that's tomato juice - you can see the can on the counter.  You're right about that woman at the computer though, she's a looker.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Ah, you see, there's a voyeur in all of us.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well, let's see what else the Seattle skyline has to offer.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "I say we make a strict rule, though: if anybody starts doing anything nasty we move on.  Agreed? [_they don't respond_] I said, agreed?  _They eventually relent, look at each other and respond with a reluctant \"yeah.\"_ ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_laughs:_] Well, there's a lady over there with a telescope. She's looking right back at us.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_nervous:_] What shall we do?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "[_worried:_] Hide!  _Frasier goes for cover behind the fireplace as Daphne ducks behind the centre pole._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I knew it, I knew it, every time we do something bad we get caught!",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_waves and shouts:_] Hi, how you doing?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "What are you doing?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "She's waving at us, I'm waving back.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Don't do that!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Why not?  Hey wait, she's writing something down.  She's holding it up.  It says, \"Hello there, stranger.\" [_laughs_] Hey Daphne, get me that pad and pen.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "What for?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "So I can answer her.  Write down \"My name is Martin.\"",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Dad, Dad you shouldn't encourage this person.  I don't really want people looking in on our lives.  I don't think I've even made my bed today.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Is she writing anything else?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Yeah. [_reads:_] \"My name is Irene.\"  Her name's Irene.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Her name's Irene.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_sarcastic:_] Thank you.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Wait, she's writing something else. [_reads:_] \"Is that Dr. Crane from the radio hiding in the back?\"",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "It does not say that! [_looks_] It does say that. [_he waves back:_] Hi! _FADE TO:  Scene Three - Frasier's Apartment. Three mornings later Martin is sitting on a stool looking through the telescope.  There are reams of wadded-up paper laying near him. Daphne is sitting on the step scribbling down Martin's dictations._ ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Her older son's an accountant in Portland.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "He was the breech birth, right?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "No, that's Dennis in Boise.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Oh right, he's the one with the wife that won't let him visit.  I can't stand her.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_enters from room in gown:_] Morning Dad, Daphne. [_waves to window:_] Morning, Irene.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Hey Frasier, when you were a kid, what was the name of that skin condition you had on your butt?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Pityriasis Rosea.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "How do you spell that?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_curious:_] Why?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Irene and I are exchanging family histories.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I really don't think your girlfriend needs to know about that.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_objecting:_] She's not my girlfriend!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, come on.  You two have been exchanging notes now for the past three days.  If you were in the sixth grade you would be sitting in a tree \"K-I-S-S-I-N-G.\"  Here Daphne, let me borrow that pen. [_he does_]",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "What are you doing?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I'm going to help along your little romance and possibly save a small forest.  I'm giving her our telephone number.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_in terror:_] No, no, no, no, no, don't do that!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Why?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well, she'll think I'm being too forward.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "For God's sake, Dad, you met peeping into her apartment.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_sure:_] She's not going to call.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You want to bet?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Yeah, five bucks.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_holds card up:_] Okay. _There is less than a second of silence before the phone begins to ring and Frasier smirks at his father smugly._ ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, are you going to answer?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "You get it.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Dad, it's for you!  ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_into phone:_] Hello.  No, no, this is Frasier.  Hi.  I'm fine. Well, it gets a little flaky when the weather's dry. [_rubs butt_]",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_whispers:_] Tell her I'm not home.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Dad, she knows you're home - she's looking at you through the telescope.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Come on, you're just a little nervous.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_into phone at last:_] Hello?  Hi.  Yeah, it's nice hearing yours.  Can you hold on a minute? [_puts phone to his chest, then to Frasier and Daphne:_] Would you two get out of here?  _Daphne and Frasier relent and let him have his private conversation.  Reset to: Kitchen They enter the kitchen where they chat._ ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "I'm getting a very good feeling about this.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Really? You really think he's interested in her?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "[_laughs:_] Yes, I think so.  _They chuckle along together as Daphne takes a coffee cake out of the oven._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Do you want to hear something cute, Dr. Crane?  I made him this rich gooey coffee cake this morning, because you know what a sweet tooth he has.  And he wouldn't take one bite because - as he put it - \"Women don't like a spare tire on a man.\"",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_laughs_] That's so cute.  Oh, it's funny, you know - the twists and turns of fate.  If I had tried to set Dad up with a woman he would have rejected the idea out of hand - but I go out get him this telescope for a hobby and it kindles this romance.  It's Kismet!  _As Daphne begins cutting the cake, Martin enters the kitchen and begins looking in the fridge without saying a word.  Frasier and Daphne just stare at him until:_ ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "What?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "What happened?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_cool:_] We talked on the phone.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "[_knowingly:_] And?  Was she nice, was she interesting?  What did she say?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "She said a lot of stuff.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_certain:_] So it would be safe to assume that you two will be seeing each other?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Ah, she wanted to, but I said no.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_confused:_] No?  Why?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "She's not my type. [_notices cake, then enthusiastically:_] Oh, coffee cake!  We got any butter round here? **FORCAS FRACAS**  _Scene Four - Caf e Nervosa. That afternoon Frasier and Niles are having on of their snobby chats in their sanctuary._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "You know Brewster Cale?  The pompous twit who is the president of our wine club? [_Frasier nods._] Well, at our meeting the other night I convinced some of my fellow psychiatrists to play a little prank on him.  When he thought he was tasting the Chateau Petrus, he was in fact sipping a Forcas Dupres. You see, we'd switched the labels. [_laughs at the farce_]",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_sarcastic:_] What scamps you are!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "There he was, proclaiming the Petrus to be the superior wine and of course none of us could contain our laughter.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "His face must have turned redder than a \"Piechone Logeavie.\"",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well of course, as so often happens, rough house turns to tears.  At the end of the evening, Brewster tended his resignation.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "That must have put a damper on the evening.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well, not really.  I'm the new president.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Kudos indeed.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, oh, oh, is our dad and his lady friend still playing telescope footsy?  What was her name?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Irene.  No, they've broken it off.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Already?  I thought it was going so well.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well it was, but then they spoke once and Dad said that she wasn't his type. [_objecting:_] So, it's over - done! He's completely cut her out of his life.  I just don't understand what would make him do that.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, who knows why anybody does anything?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Remind me again what you do for a living?  You see the thing is, it was just one phone call.  How can anyone make a sound judgment about another person on the basis of one phone call?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Remind me again what it is YOU do for a living?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well anyway, I suppose it could be any number of reasons. Fear of rejection, shyness...",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_obviously leading up to something_] Or maybe Dad was telling the truth and he just wasn't her type.  If only we knew someone who was... I know!  Maris's lovely Aunt Patrice is in town visiting from Washington, D.C.  Oh, oh, oh, maybe we should set Dad up with her.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_objecting:_] No, Niles, I've met Aunt Patrice.  The woman is a loon.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Frasier, do this for me.  Every time Aunt Patrice comes to visit, Maris makes all these plans, before she dives under the duvet with a two-week migraine and I'm left holding the bag-- literally and figuratively.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, I don't think so, Niles.  I know Dad, don't meddle.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Alright, the least you could do is say hello to Aunt Patrice.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I'm not driving out to your house.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "You don't have to.  She's sitting out in the car.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You left her in the car?!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I cracked open a window.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, then she's fine.  _End Of Act One. (Time: 11:48)  Act Two.  Scene One - Frasier's Apartment. Frasier is on the phone to his son that evening as Martin sits reading the paper._ ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_into phone:_] Now calm down son, listen to daddy.  It's just a bad dream.  I promise you, Senator Thurmond is not in your closet.  That's a good boy.  Yes, okay you go back to bed now. I love you too.  Listen, I'll see you next weekend.  Okay, bye bye. [_hangs up_]",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "How's Freddie?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, Frederick is fine.  Oh, he sends his love.  He said to thank you for the toy gun you gave him.  At least what he can remember of it before Lilith smashed it to bits with a croquet mallet.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "[_enters and looks through telescope:_] Oh it's such a beautiful night.  The city is lit up like a jewel.  Oh look, there's Irene.  She's sitting in her window wearing a stunning green dress.  But her face, it's so sad.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_looks:_] Oh, oh, she's holding a note.  It says, \"Martin, was it something I wrote?\"",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Will you cut it out?  Irene is not sitting in her window.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh alright Dad, no she isn't, but she might as well be, for god's sakes.  That's gotta be what she's thinking!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Haven't you ever met a woman and then decide she's not the one? [_doorbell sounds_]",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, five years after I married her.  ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Hello there, Frasier.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Niles - I was specifically not expecting you.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Frasier, you remember Aunt Patrice.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_greets her:_] Well, of course.  Aunt Patrice, yes.  I don't recall really when we met but I believe there was a lot of laughing and dancing.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Patrice"
+    },
+    {
+        "speaker": "Patrice",
+        "text": "My husband's funeral.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes... well, of course, the laughter was to hide our tears. Let me take your wrap. [_he does_]",
+        "prevSpeaker": "Patrice",
+        "nextSpeaker": "Patrice"
+    },
+    {
+        "speaker": "Patrice",
+        "text": "Thank you.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "We were taking a drive and I thought, \"Why, we are just a couple of short ferry rides from Frasier's,\" so we decided to pop over.",
+        "prevSpeaker": "Patrice",
+        "nextSpeaker": "Patrice"
+    },
+    {
+        "speaker": "Patrice",
+        "text": "[_pointing at Martin:_] Niles, is this the charming gentleman you were telling me about?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, Patrice, you bloodhound.  You've treed another one!  Yes, this is my dad.",
+        "prevSpeaker": "Patrice",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "How do you do, Patrice, I'm Martin Crane.  This is Daphne Moon.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Nice to meet you. [_points to seat:_] Please.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Patrice"
+    },
+    {
+        "speaker": "Patrice",
+        "text": "Thank you. [_sits_]",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "So, what brings you to Seattle?",
+        "prevSpeaker": "Patrice",
+        "nextSpeaker": "Patrice"
+    },
+    {
+        "speaker": "Patrice",
+        "text": "Well, I came to see Maris, but the poor thing's taken to her bed again.  To this day I have no idea how tall she is.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Yes, so I've had Patrice all to myself and we've had a great time, haven't we?",
+        "prevSpeaker": "Patrice",
+        "nextSpeaker": "Patrice"
+    },
+    {
+        "speaker": "Patrice",
+        "text": "Well, if you call sitting in your waiting room for four hours reading old magazines a great time, well then yes - we had a laugh riot.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, now I know where Maris gets her sense of humor!",
+        "prevSpeaker": "Patrice",
+        "nextSpeaker": "Patrice"
+    },
+    {
+        "speaker": "Patrice",
+        "text": "[_laughs_] Oh.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Why don't I pop into the kitchen and gets us all some refreshments?",
+        "prevSpeaker": "Patrice",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "A capital idea, and why don't Frasier and I join you?  That'll give these kids some time to get to know one another.  _Reset to: Kitchen Niles, Frasier and Daphne enter the kitchen.  Daphne knocks up some refreshments as Frasier gives Niles a stern lecture._ ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Niles, I distinctly told you not to bring her here.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I ran out of ways to entertain her.  We went to the arboretum, a fashion show, a matinee of \"La Cage Aux Folles\" and we even spat off the top of the Space Needle.  I'm sorry, I cracked!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Niles, that woman is certainly not Dad's type.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "You never know when love can bloom between two people who seem so different on the surface. [_hoping:_] Do you, Daphne?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "To tell you the truth, I never thought opposites attract.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Neither do I, we are alike in so many ways!",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh come on, Niles.  We can't leave Dad out there alone with her any longer. _Reset to: Living Room They re-enter the living room._",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I'm sure they're doing just fine.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Patrice"
+    },
+    {
+        "speaker": "Patrice",
+        "text": "[_o.s.:_] D'goo y'goo sp'geak g-sp'geak?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh Lord, I was afraid of this.  _Martin is having trouble with her in the room as Niles and Frasier dash in._ ",
+        "prevSpeaker": "Patrice",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "What?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Patrice"
+    },
+    {
+        "speaker": "Patrice",
+        "text": "[_slower:_] D'goo y'goo sp'geak g-sp'geak?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_worried:_] Niles, I think she's having a stroke or something.",
+        "prevSpeaker": "Patrice",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "No, no Dad.  It's just G-speak.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Come again?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "It's something Maris and Aunt Patrice love to try out at parties.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Patrice"
+    },
+    {
+        "speaker": "Patrice",
+        "text": "Yes, you just speak a \"g\" in every syllable.  So you would be, \"M'garg-tin Cr'gane.\"  Just say it with me, come on... M'garg-tin...",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I don't think Dad's interested.",
+        "prevSpeaker": "Patrice",
+        "nextSpeaker": "Patrice"
+    },
+    {
+        "speaker": "Patrice",
+        "text": "Oh, b'ge ag sp'gort, Gniles.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "What did she say?",
+        "prevSpeaker": "Patrice",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "She said, \"Be a sport, Niles.\"",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Patrice"
+    },
+    {
+        "speaker": "Patrice",
+        "text": "B'ge, agus, gesport, geda!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Dad, do you still have your gun loaded?",
+        "prevSpeaker": "Patrice",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "It's in my top drawer.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Patrice"
+    },
+    {
+        "speaker": "Patrice",
+        "text": "Isn't it a hoot?  Of course, it's all the rage in Washington. You know who speaks it all the time?  G'George G'Step-gan-ogp-ogu-logs.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "[_enters from kitchen:_] I found some pizza rolls in the back of the freezer, but the expiration date was yesterday - are we game?",
+        "prevSpeaker": "Patrice",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Er, that won't be necessary, Daphne.  We don't want to spoil our appetites for that dinner we're about to leave for in twenty minutes.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Yeah, that's right, that dinner in... er... twenty minutes.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Patrice"
+    },
+    {
+        "speaker": "Patrice",
+        "text": "Oh Niles, I told you we shouldn't have just stopped by. These people have plans.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "How I envy them.",
+        "prevSpeaker": "Patrice",
+        "nextSpeaker": "Patrice"
+    },
+    {
+        "speaker": "Patrice",
+        "text": "I enjoyed meeting you, Martin.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_shakes her hand_] Likewise.",
+        "prevSpeaker": "Patrice",
+        "nextSpeaker": "Patrice"
+    },
+    {
+        "speaker": "Patrice",
+        "text": "Oh, now, now, you can do better than that.  _Patrice moves in to hug him, however he backs away and also away from the window.  Frasier and Daphne look at each other knowingly. Patrice finally gets what she wanted._ ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Patrice"
+    },
+    {
+        "speaker": "Patrice",
+        "text": "I'll look forward to my next trip to Seattle.  Oh, and if you're ever in the Washington area - I'm in the b'gook. Bye-bye.  ",
+        "prevSpeaker": "Patrice",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "What the hell was that?",
+        "prevSpeaker": "Patrice",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "I feel sorry for the poor thing.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "I feel sorry for Niles.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "That's who I'm talking about.  ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You know, I saw what you just did.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "What did who do?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "When Patrice went to hug you, you moved away.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_laughs_] Well, wouldn't you?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No, Dad, no.  You moved away from the window.  You didn't want Irene to see you with another woman.  You still care about her.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Hey, go chase yourself.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Dad, you do.  There's something stopping you from having a relationship with this woman.  Now, what is it?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "You're not going to let go of this thing, are you?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No, I'm not!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Alright.  Irene's middle name is Rose.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "So?  Rose is a nice name.  Rose was mother's middle name. [_realises_] Oh.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Yeah.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh Dad, you can't feel guilty about that.  Gee, mom's been gone for six years now.  Your feelings for Irene are totally severed from your feelings for Mom.  You know, if she was here, if she could tell you, she'd want you to get on with your life.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Okay, when I'm ready.  Thanks, Frasier.  You know - I guess I don't say it often enough but you're a good kid.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, thanks Dad.  You know, there's something I don't say often enough...",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_correcting:_] There's nothing you don't say often enough.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_realizes what he means_] Right, Dad. _Reset to: Kitchen Martin enters the kitchen to find Daphne busying herself in the fridge._ ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "I couldn't help but overhear.  That was a very nice thing to say.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Yeah, he's a good kid.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "The only strange part is - I could have sworn Irene's middle name was Marie.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "No, it isn't.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Well, I could go and check.  I still have all our notes in the trash.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Alright, alright... well, I had to tell him something.  Look, I don't know why he just won't believe me when I tell him that Irene just isn't my type.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "You sure she isn't?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "You're going to get on my back too?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "No, but I was just wondering if the reason why things didn't work out between you and Irene was, well...",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "What?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Well, maybe if you weren't just a little self-conscious about your hip?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "That's ridiculous.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Well, I'm glad to hear that, because you really don't have anything to be self-conscious about, you know.  With that silvery mane, twinkling blue eyes and whiskey voice.  You're quite a package.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_laughs_] Yeah, I'm quite a catch.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "You are.  And you know as well as I do that history is full of sexy limpers.  For instance, Franklin Delano Roosevelt. [_then:_] Of course he didn't limp so much as roll.  Oh, I know, Toulouse Lautrec. [_then:_] Although he was rather a little person.  Still, he did rather well with the ladies. [_then:_] Of course, they were all prostitutes.  But then again, he was French and there's no explaining their taste.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "What's your point?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "I guess I don't have one.  It's just me running on the way I do.  But there is one last little thing: I did notice that every time you went to the telescope to see Irene - you hid your cane.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_laughs_] I just put it off to the side so I wouldn't trip over the damn thing.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "[_seeing she's got through:_] I knew there was a good reason. It must feel awful silly when that cane trips you up.  _Daphne exits as Martin ponders on her words.  FADE TO:_  **GU-GULP**  _Scene Two - Frasier's Apartment. Later that evening Frasier and Daphne are waiting.  Frasier is calling for his father down the hallway._ ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Dad, Dad, will you hurry up?  She's going to be here any minute.  ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Alright, alright, Daphne.  See if I've got this tie on right?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Just needs a minor adjustment. [_she does it, then:_] What's all this hair on it?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "The only way I can get the knot right is if I tie it on Eddie first.  ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well, it's a long time since I've been dating.  Have things changed much in the last forty years?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, the wardrobe's a little different - but your ultimate goal is still the same!  Dad, I'm glad you changed your mind about this.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Yeah, me too.  Thanks for our little talk.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "My pleasure.  ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Now let's see, you got a hanky in there?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Yep.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Terrific, alright.  Have you got your keys?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Yeah.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You're not going to be out too late, are you?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Frasier!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Dad, I'm just busting your chops here.  _The doorbell goes and both Frasier and Martin go \"Oh My God.\" To understand this scene you've got to realize that Daphne and Frasier seem to act like the mother and father and Martin seems to be their kid going on a first date._ ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Will you two relax?  A word to the wise, though: if she asks you up to her place after dinner - close the drapes! [_laughs_]  _Martin opens the door.  The view is from Irene's P.O.V. Martin is very blushing at the front whilst Frasier and Daphne look on the scene with happiness from behind._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Hi, Irene.  Nice to finally meet you. _",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Credits"
+    }
+]

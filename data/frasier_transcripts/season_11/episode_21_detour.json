@@ -1,0 +1,1563 @@
+[
+    {},
+    {
+        "speaker": "Skyline",
+        "text": "A crane is seen on the horizon lifting a load.  _ACT I  Scene 1 -- Cafe Nervosa Frasier enters happily._ ",
+        "prevSpeaker": "No Previous Speaker",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Can I get my usual, please?  ",
+        "prevSpeaker": "Skyline",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Well, you're in a good mood.  What's up?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, actually... no, I'd better not.  Don't want to jinx it.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "No problem.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Besides, the mark of a-a true gentleman is discretion.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "[_not as interested as Frasier wants her to be_] Okay.  Listen, about your dad's bachelor party...",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Charlotte and I spent the night together.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "I thought she was seeing that super-hottie Frank.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Dumped him, thank you.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "For you? [_then_] I mean, wow, way to go!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, I know.  It's funny I should end up with my own matchmaker, isn't it?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Yeah, I mean that Frank was the whole package.  Those eyes, that chin, that bod that wouldn't quit...",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, well, it didn't have to quit, it was fired.  ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Thank you very much. [_to Roz_] Now, you were saying something about my dad's bachelor party?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Yeah.  Weren't you having a problem deciding on the entertainment?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, yes.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Well, there's this girl in my spin class, and she does it all -- strips, lap dances, movies.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Really?  Would I be familiar with her work?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "I don't know, have you seen \"Grinding Nemo\"?  Anyway, I invited her over here so you could check her out.  She's going to be here any second.  Her name is Amber Licious.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Really, well, I'm afraid I can't do it right now.  I'm meeting Charlotte for coffee, uh-",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Well, you can tell her yourself.  Hey, Amber!  _Amber rushes in.  She is a busty blonde with a wide smile.  Roz and Frasier rise._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "How are you?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Amber"
+    },
+    {
+        "speaker": "Amber",
+        "text": "Hi!",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "This is Frasier.  ",
+        "prevSpeaker": "Amber",
+        "nextSpeaker": "Amber"
+    },
+    {
+        "speaker": "Amber",
+        "text": "Hello.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_after mumbling a bit_] Hello, uh, how do you do, Miss Licious? Uh, I'm terribly sorry, but I've got something scheduled, so I'll have to postpone our interview.  Perhaps we could meet this evening at my place, around 7:00?  I live at the Elliot Bay Towers.",
+        "prevSpeaker": "Amber",
+        "nextSpeaker": "Amber"
+    },
+    {
+        "speaker": "Amber",
+        "text": "Can we make it 7:30?  I have to go re-dub some groans for \"He-Biscuit.\"",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, I'll see you then.  Good.  ",
+        "prevSpeaker": "Amber",
+        "nextSpeaker": "Charlotte"
+    },
+    {
+        "speaker": "Charlotte",
+        "text": "Frasier?  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, hi!  Listen, I... gosh, I'm sorry I had to dash off this morning.",
+        "prevSpeaker": "Charlotte",
+        "nextSpeaker": "Charlotte"
+    },
+    {
+        "speaker": "Charlotte",
+        "text": "It's OK.  I have to dash off myself right now.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, I thought we were having coffee.",
+        "prevSpeaker": "Charlotte",
+        "nextSpeaker": "Charlotte"
+    },
+    {
+        "speaker": "Charlotte",
+        "text": "We were.  I forgot - I have to catch a train to Portland in twenty minutes.  I'm giving a talk to the Northwest Businesswoman's Association.  I'm sorry.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, no, it's all right.  I'm sure you'll be wonderful.",
+        "prevSpeaker": "Charlotte",
+        "nextSpeaker": "Charlotte"
+    },
+    {
+        "speaker": "Charlotte",
+        "text": "Oh, yeah, it's a good speech.  I gave it last year to the Midwest Businesswoman's Association.  Anyway, I'll be back Sunday night.  We can have dinner then.  I really should catch a cab.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Wait, maybe I could just drive you to the station.",
+        "prevSpeaker": "Charlotte",
+        "nextSpeaker": "Charlotte"
+    },
+    {
+        "speaker": "Charlotte",
+        "text": "Oh, you don't have to do that.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No, no, I'd like to.  Besides, I've always been a sucker for that romantic movie-ending goodbye - a fog-shrouded train platform, a-a passionate kiss.",
+        "prevSpeaker": "Charlotte",
+        "nextSpeaker": "Charlotte"
+    },
+    {
+        "speaker": "Charlotte",
+        "text": "[_agreeing_] With a romantic dip.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, well, maybe I am, but there are damn few of us left.  ",
+        "prevSpeaker": "Charlotte",
+        "nextSpeaker": "Charlotte"
+    },
+    {
+        "speaker": "Charlotte",
+        "text": "Dip, dip.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh!  _Frasier takes her hand, getting it.  Charlotte smiles.  FADE OUT_  _Scene 2 - On the road in Frasier's car Frasier is discussing dinner plans.  Charlotte is deep in thought._ ",
+        "prevSpeaker": "Charlotte",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "So, I could make us a reservation for dinner on Sunday. I would suggest Cucina...",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Charlotte"
+    },
+    {
+        "speaker": "Charlotte",
+        "text": "[_distracted_] Yeah, okay.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Charlotte... you seem a little distracted.  Is there something on your mind?  Charlotte?",
+        "prevSpeaker": "Charlotte",
+        "nextSpeaker": "Charlotte"
+    },
+    {
+        "speaker": "Charlotte",
+        "text": "Oh, Frasier.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, boy.",
+        "prevSpeaker": "Charlotte",
+        "nextSpeaker": "Charlotte"
+    },
+    {
+        "speaker": "Charlotte",
+        "text": "Look, I-I really don't want to get into this now.  Why don't we talk about it Sunday night?  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_very worried_] Please.  I can't wait till Sunday.  My imagination will torture me.",
+        "prevSpeaker": "Charlotte",
+        "nextSpeaker": "Charlotte"
+    },
+    {
+        "speaker": "Charlotte",
+        "text": "Okay. [_pause_] I'm moving back to Chicago in three weeks.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Three weeks?!",
+        "prevSpeaker": "Charlotte",
+        "nextSpeaker": "Charlotte"
+    },
+    {
+        "speaker": "Charlotte",
+        "text": "It's not you.  I bought my old business back from my ex. I--I know I should have told you sooner, but it was never the right time.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Charlotte"
+    },
+    {
+        "speaker": "Charlotte",
+        "text": "Are you okay?  ",
+        "prevSpeaker": "Charlotte",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_under his breath_] I had to blab to Roz.",
+        "prevSpeaker": "Charlotte",
+        "nextSpeaker": "Charlotte"
+    },
+    {
+        "speaker": "Charlotte",
+        "text": "What?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_very sad_] Nothing.  Are you sure?",
+        "prevSpeaker": "Charlotte",
+        "nextSpeaker": "Charlotte"
+    },
+    {
+        "speaker": "Charlotte",
+        "text": "This all happened before we got together.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, let's look on the bright side.  I mean, Chicago isn't that far away.",
+        "prevSpeaker": "Charlotte",
+        "nextSpeaker": "Charlotte"
+    },
+    {
+        "speaker": "Charlotte",
+        "text": "I don't want a long-distance relationship.  And neither do you.  You said so on your application.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Okay.  But, you know, we still have three weeks.",
+        "prevSpeaker": "Charlotte",
+        "nextSpeaker": "Charlotte"
+    },
+    {
+        "speaker": "Charlotte",
+        "text": "Don't be hurt, but... if someone called your show and said, \"I'm leaving town in three weeks.  Should I get involved with someone?\" what would you say?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I'd say it was foolish to take the plunge and bring up feelings that must be dashed, and so forth.  But what do I know?  I'm not infallible.",
+        "prevSpeaker": "Charlotte",
+        "nextSpeaker": "Charlotte"
+    },
+    {
+        "speaker": "Charlotte",
+        "text": "[_smiling wistfully_] Frasier...",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_resigned_] All right.  _He unbuckles his seat belt, and they embrace.  He caresses her gently. A train whistle is heard, and the train itself rushes by._ ",
+        "prevSpeaker": "Charlotte",
+        "nextSpeaker": "Charlotte"
+    },
+    {
+        "speaker": "Charlotte",
+        "text": "Son of a bitch!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, I'm sorry.  My hand slipped.",
+        "prevSpeaker": "Charlotte",
+        "nextSpeaker": "Charlotte"
+    },
+    {
+        "speaker": "Charlotte",
+        "text": "No, no, it's my train!  Damn it!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, dear.  All right, look, the next station isn't too far. I'll bet I can beat the train. _FADE TO:  Scene 3 - Frasier's car Time fade to another train station.  Charlotte looks on forlornly as the whistle is heard and the train rushes by._ ",
+        "prevSpeaker": "Charlotte",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well.  Round two to Amtrak.  I could drive us to the next station?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Charlotte"
+    },
+    {
+        "speaker": "Charlotte",
+        "text": "All right, but, you do know you're going to have to drive a little faster.  You do realize we got passed by a school bus and a prefab home.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Point taken.  ",
+        "prevSpeaker": "Charlotte",
+        "nextSpeaker": "Charlotte"
+    },
+    {
+        "speaker": "Charlotte",
+        "text": "I really do appreciate this.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_clearly still smarting_] Oh, it's all right.  Didn't have anything else to do. [_then, realizing_] Oh, dear.  I've got to make a call.  Could you hold the wheel, please?  _She does.  Frasier fumbles around with the wires and earpiece of a phone unit._ ",
+        "prevSpeaker": "Charlotte",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I just got this.  It's a... it's a hands-free unit.  It's, uh, much, uh, much, much safer.  _He finally gets the unit in his ear and retakes the wheel, but the mouthpiece is pointing straight up.  CUT TO: Cafe Nervosa, where Daphne and Niles are speaking._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Can't we just meet her?  Everyone in Frasier's building raves about her, and I hear she's unhappy.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I just hate the idea of poaching the Steingartens' nanny.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "I seem to recall you poaching another man's fiancee once.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, Daphne, I was in college.  I... [_off her look_] oh, you mean...  ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Well, who did you mean?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I'm sorry, I have to get this.  Hello?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_v.o._] Niles.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Frasier!  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Listen, you remember that idea we proposed about Dad's party?  _Charlotte somewhat playfully moves the mouthpiece down to its proper place._ ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "The, uh, the entertainer. [_To Charlotte_] Oh.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "The klezmer band?  _CUT back to car.  Charlotte's hand is still flirtatiously near Frasier's face after moving the mouthpiece._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No, no, the stripper.  ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Uh, well, I found one!  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_nervously_] Daphne's fine, thank you for asking!  She's right here beside me.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Niles, I'm supposed to interview her this evening at 7:30 at my place.  I can't make it.  Something came up.  You'll have to do it for me.  ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, no thank you!  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Niles, if you're worried about Dad being there, he's got a date with Ronee tonight.  ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Charlotte"
+    },
+    {
+        "speaker": "Charlotte",
+        "text": "Don't we want south?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Listen, Niles, I-I know that you get nervous around fan dancers and their ilk, but you have got to conquer your fear...  ",
+        "prevSpeaker": "Charlotte",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_v.o., continuing_] Thank you!  I'll talk to you later. Goodbye.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Charlotte"
+    },
+    {
+        "speaker": "Charlotte",
+        "text": "[_nervously_] South!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "What, I'm sorry?",
+        "prevSpeaker": "Charlotte",
+        "nextSpeaker": "Charlotte"
+    },
+    {
+        "speaker": "Charlotte",
+        "text": "South!!  South!!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "What?  What?",
+        "prevSpeaker": "Charlotte",
+        "nextSpeaker": "Charlotte"
+    },
+    {
+        "speaker": "Charlotte",
+        "text": "[_craning her neck as they pass the turnoff_] SOUTH!!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, dear, uh, you know, perhaps it would be best if you just said left or right.  It's not like there's a compass in the car.  ",
+        "prevSpeaker": "Charlotte",
+        "nextSpeaker": "Charlotte"
+    },
+    {
+        "speaker": "Charlotte",
+        "text": "What's that?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, well, I'll be damned.",
+        "prevSpeaker": "Charlotte",
+        "nextSpeaker": "Charlotte"
+    },
+    {
+        "speaker": "Charlotte",
+        "text": "[_notices something else_] What's that red light?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, that.  Uh, that's nothing to worry about.  It's been on for months.  I think there's something wrong with the bulb. _DISSOLVE TO:  Scene 4 - Dissolve to night The \"door open\" warning beeps.  Charlotte looks forlornly at her cell phone.  Frasier enters the car._ ",
+        "prevSpeaker": "Charlotte",
+        "nextSpeaker": "Charlotte"
+    },
+    {
+        "speaker": "Charlotte",
+        "text": "[_with an ironic smile_] Cell phones don't work here.  Please tell me you know what's wrong with the car?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Not a clue.  I opened the hood as a mere formality.  _Charlotte sighs.  FADE TO:_  **NEIGHBORS DESCRIBED JONATHAN AS A NICE BOY WHO KEPT TO HIMSELF**  _Scene 5 - A country home A knock.  A rustic, pleasant woman opens the door to Frasier and Charlotte._ ",
+        "prevSpeaker": "Charlotte",
+        "nextSpeaker": "Sue"
+    },
+    {
+        "speaker": "Sue",
+        "text": "Hello?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "We're terribly sorry to bother you, but, uh, our car has broken down.",
+        "prevSpeaker": "Sue",
+        "nextSpeaker": "Sue"
+    },
+    {
+        "speaker": "Sue",
+        "text": "Well, come on in out of that cold!  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Sue"
+    },
+    {
+        "speaker": "Sue",
+        "text": "My husband knows everything about cars.  Harbin, these people's car broke down.  Go take a look at it for them.  Harbin!  _Harbin looks up with rather wild eyes.  He crashes something on the table and heads outside, mumbling unintelligibly under his breath._ ",
+        "prevSpeaker": "Sue",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_as he passes_] Thank you!  Thank you very much.  We certainly appreciate that.",
+        "prevSpeaker": "Sue",
+        "nextSpeaker": "Sue"
+    },
+    {
+        "speaker": "Sue",
+        "text": "Well, just have a seat and have a cup of coffee and warm up. I'm Sue, by the way.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Charlotte"
+    },
+    {
+        "speaker": "Charlotte",
+        "text": "Thank you.  You're very kind.",
+        "prevSpeaker": "Sue",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, yes, indeed.",
+        "prevSpeaker": "Charlotte",
+        "nextSpeaker": "Charlotte"
+    },
+    {
+        "speaker": "Charlotte",
+        "text": "I'm Charlotte.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "And I'm Frasier.  ",
+        "prevSpeaker": "Charlotte",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Gosh, you seem to be preparing for some sort of party.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Sue"
+    },
+    {
+        "speaker": "Sue",
+        "text": "Well, Harbin's mother passed away, so people will be coming over tomorrow.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Charlotte"
+    },
+    {
+        "speaker": "Charlotte",
+        "text": "Oh, my God!  I'm-I'm so sorry.  We should get out of your hair.  ",
+        "prevSpeaker": "Sue",
+        "nextSpeaker": "Sue"
+    },
+    {
+        "speaker": "Sue",
+        "text": "Oh, no, please!  The company will do us good.  I mean, Harbin really perked up when you came in.",
+        "prevSpeaker": "Charlotte",
+        "nextSpeaker": "Charlotte"
+    },
+    {
+        "speaker": "Charlotte",
+        "text": "[_looking out the door_] Really?  Because he seems to be crying in our car.  ",
+        "prevSpeaker": "Sue",
+        "nextSpeaker": "Sue"
+    },
+    {
+        "speaker": "Sue",
+        "text": "Excuse me.  ",
+        "prevSpeaker": "Charlotte",
+        "nextSpeaker": "Sue"
+    },
+    {
+        "speaker": "Sue",
+        "text": "Harbin!  For goodness sake, pop the hood!  ",
+        "prevSpeaker": "Sue",
+        "nextSpeaker": "Sue"
+    },
+    {
+        "speaker": "Sue",
+        "text": "You will have to excuse him.  He was _very_ attached to his mother.  A little too attached for my tastes. [_Then_] Hi, baby! Hi! _She walks to greet her son, who has entered.  Jonathan is dressed in a \"stalker\" type outfit of thermal underwear under a short-sleeve shirt. He has a bald head, walks leaning backward with a sort of \"reverse\" hunchback, and is very creepy._ ",
+        "prevSpeaker": "Sue",
+        "nextSpeaker": "Jonathan"
+    },
+    {
+        "speaker": "Jonathan",
+        "text": "Who are these?  ",
+        "prevSpeaker": "Sue",
+        "nextSpeaker": "Sue"
+    },
+    {
+        "speaker": "Sue",
+        "text": "Their car broke down.  This is my son, Jonathan. [_She caresses him._] Isn't he handsome?  Jonathan, this is Frasier and Charlotte.",
+        "prevSpeaker": "Jonathan",
+        "nextSpeaker": "Jonathan"
+    },
+    {
+        "speaker": "Jonathan",
+        "text": "How do you do?",
+        "prevSpeaker": "Sue",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, nice to meet you...  _Frasier holds out his hand, but Jonathan walks right past him and extends his hand to Charlotte, who reluctantly shakes it._ ",
+        "prevSpeaker": "Jonathan",
+        "nextSpeaker": "Sue"
+    },
+    {
+        "speaker": "Sue",
+        "text": "How is your project today, baby?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Jonathan"
+    },
+    {
+        "speaker": "Jonathan",
+        "text": "[_impatiently_] Fine, mother. [_To Charlotte_] You want a butterscotch?  ",
+        "prevSpeaker": "Sue",
+        "nextSpeaker": "Charlotte"
+    },
+    {
+        "speaker": "Charlotte",
+        "text": "No, I-I'm good.  I'm good.  So, what are you making?  ",
+        "prevSpeaker": "Jonathan",
+        "nextSpeaker": "Sue"
+    },
+    {
+        "speaker": "Sue",
+        "text": "Art.  He won't let any of us see it until it's finished.  ",
+        "prevSpeaker": "Charlotte",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh.  So, uh, how's our car?  Can we just scoot right away from here?",
+        "prevSpeaker": "Sue",
+        "nextSpeaker": "Harbin"
+    },
+    {
+        "speaker": "Harbin",
+        "text": "No.  I'll-I'll have to drive to town tomorrow for the parts. So, what happened?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, we were just, uh, driving along the highway, and then suddenly the engine just died.",
+        "prevSpeaker": "Harbin",
+        "nextSpeaker": "Harbin"
+    },
+    {
+        "speaker": "Harbin",
+        "text": "[_sobbing_] Excuse me. ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Sue"
+    },
+    {
+        "speaker": "Sue",
+        "text": "Excuse me.  _She follows her husband.  Jonathan looks on from the doorway. Frasier and Charlotte are increasingly uncomfortable._ ",
+        "prevSpeaker": "Harbin",
+        "nextSpeaker": "Sue"
+    },
+    {
+        "speaker": "Sue",
+        "text": "[_o.s._] Will you please cut out the hangdog bit, Mr. Welcome Wagon?  We've got company!  Get in there, show them some manners.  Offer them a place to stay for the night.",
+        "prevSpeaker": "Sue",
+        "nextSpeaker": "Jonathan"
+    },
+    {
+        "speaker": "Jonathan",
+        "text": "You're not going to like it here.  ",
+        "prevSpeaker": "Sue",
+        "nextSpeaker": "Harbin"
+    },
+    {
+        "speaker": "Harbin",
+        "text": "Of course, uh, of course you'll have to spend the night.",
+        "prevSpeaker": "Jonathan",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "We couldn't.",
+        "prevSpeaker": "Harbin",
+        "nextSpeaker": "Charlotte"
+    },
+    {
+        "speaker": "Charlotte",
+        "text": "No, we really, _really_ couldn't.  There must be a hotel in town.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Jonathan"
+    },
+    {
+        "speaker": "Jonathan",
+        "text": "What does this look like, Lancaster?  ",
+        "prevSpeaker": "Charlotte",
+        "nextSpeaker": "Sue"
+    },
+    {
+        "speaker": "Sue",
+        "text": "It's no problem.  You could bunk with Jonathan, and Charlotte, you could have the fold-out.",
+        "prevSpeaker": "Jonathan",
+        "nextSpeaker": "Jonathan"
+    },
+    {
+        "speaker": "Jonathan",
+        "text": "[_suggestively_] I'll help make up your bed...",
+        "prevSpeaker": "Sue",
+        "nextSpeaker": "Charlotte"
+    },
+    {
+        "speaker": "Charlotte",
+        "text": "No, that's OK!  We'll-we'll stay together.",
+        "prevSpeaker": "Jonathan",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, that's right, together.",
+        "prevSpeaker": "Charlotte",
+        "nextSpeaker": "Sue"
+    },
+    {
+        "speaker": "Sue",
+        "text": "Oh, well, are you married?  Because we don't want to set a bad example for... [_motions with her head toward Jonathan_]",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh yes, yes.",
+        "prevSpeaker": "Sue",
+        "nextSpeaker": "Charlotte"
+    },
+    {
+        "speaker": "Charlotte",
+        "text": "We're married!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, married.",
+        "prevSpeaker": "Charlotte",
+        "nextSpeaker": "Sue"
+    },
+    {
+        "speaker": "Sue",
+        "text": "For how long?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier/Charlotte"
+    },
+    {
+        "speaker": "Frasier/Charlotte",
+        "text": "[_simultaneously_] Oh, two years./Eighteen months.   _END OF ACT I  ACT II_  _Scene 6 - Frasier's apartment Martin is speaking on the phone._ ",
+        "prevSpeaker": "Sue",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Hey, Ronee.  It's me.  Uh, I've got to interview a new physical therapist to fill in for Daph, so pick me up fifteen minutes later, OK? [_Pause_] Just have a drink. [_Pause_] Well, have another one. [_Pause, concerned look_] Really?  Maybe I'll pick you up.  _He hangs up.  CUT to Niles in the elevator, also on the phone._ ",
+        "prevSpeaker": "Frasier/Charlotte",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_stiltedly_] Frasier?  You're too busy to answer the phone -- but I'm just about to interview this... stripper, and I have no idea what to ask.  ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I just hope Dad doesn't walk in and spoil the surprise.  I'm Already developing some sort of aversion-based mouth dryness as we speak. [_Then_] This is Niles, by the way.  ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Hey, Niles!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_nervous_] Oh!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "What's up?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_stilted again_] Frasier is going to split a case of oloroso with me because we both like oloroso, but he's not here, so I'll stop bothering you.  Nice chatting.  _He blocks his nostril and sniffs, his characteristic \"nosebleed of untruth\" about to set in.  He exits.  Martin looks after him with puzzlement.  Reset to: Hall In the hall, Niles runs into a young woman (Becky) wearing a sweat outfit, and carrying a manila folder._ ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh!  Are you here for the interview?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Becky"
+    },
+    {
+        "speaker": "Becky",
+        "text": "Yes.  Crane, right?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Um, yes. [_He gasps a bit with mouth dryness._] Um, the place is a mess.  Do you - do you mind if we talk in the lobby?",
+        "prevSpeaker": "Becky",
+        "nextSpeaker": "Becky"
+    },
+    {
+        "speaker": "Becky",
+        "text": "I guess that's okay.  _He escorts her into the elevator.  As it starts to go down, she smiles a bit uncomfortably.  Niles becomes very stilted now._ ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Um, so, um, how -- uh - how long have you been doing what you do?",
+        "prevSpeaker": "Becky",
+        "nextSpeaker": "Becky"
+    },
+    {
+        "speaker": "Becky",
+        "text": "Oh, years now.  At first I just did it for friends, but then I thought, \"Why am I giving this away when I can make money at it?\"  ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Becky"
+    },
+    {
+        "speaker": "Becky",
+        "text": "Here are my references.",
+        "prevSpeaker": "Becky",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, uh, I -- ahem - didn't know you people had references.  Let alone... the mayor?",
+        "prevSpeaker": "Becky",
+        "nextSpeaker": "Becky"
+    },
+    {
+        "speaker": "Becky",
+        "text": "Yeah.  I started with him, and now I do most of the city council.  _Niles again gasps a bit with the mouth dryness, and hands her back the list._ ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well...uh, that--that's good enough for me.  You're hired.",
+        "prevSpeaker": "Becky",
+        "nextSpeaker": "Becky"
+    },
+    {
+        "speaker": "Becky",
+        "text": "Shouldn't your dad meet me before you decide?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, no, no.  We--we don't want him to see you till you're taking off your clothes.",
+        "prevSpeaker": "Becky",
+        "nextSpeaker": "Becky"
+    },
+    {
+        "speaker": "Becky",
+        "text": "What are you talking about?  And why are you sweating so much?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I'm sorry.  I'm just--I'm just a little ill-at-ease around...",
+        "prevSpeaker": "Becky",
+        "nextSpeaker": "Becky"
+    },
+    {
+        "speaker": "Becky",
+        "text": "What?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_fighting the mouth dryness mightily and finally stammering_] Sex workers.",
+        "prevSpeaker": "Becky",
+        "nextSpeaker": "Becky"
+    },
+    {
+        "speaker": "Becky",
+        "text": "Ew!  Get away from me, you freak! _The elevator reaches the lobby, and she rushes out.  Daphne is waiting. Niles sees her and immediately tries to compose himself._ ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Hi.",
+        "prevSpeaker": "Becky",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "[_not expecting to see him_] Hi.  What are you doing here and why are you so sweaty?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_sniffing again_] I was talking to Dad about my case of oloroso.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Oh.  Well, if it doesn't clear up by tomorrow, you should call a doctor.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I will.  [_N.B. Oloroso -- a variety of sherry._]  _He rushes away, holding the nostril tightly.  Daphne enters the elevator, talking on her cell phone._ ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Oh!  Hello, Kathy?  Yeah, it's Daphne Crane.  Listen, I'm going to be up in 1901, and I was wondering if we could finally meet.  Oh, that's wonderful!  Don't even call it an interview.  Everyone says you're the best nanny in Seattle. Good, I'll see you up there then.  _The door closes.  Upon her arrival, Daphne exits to find Amber waiting at the door._ ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Oh, wow, that was fast.  Come on in.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Amber"
+    },
+    {
+        "speaker": "Amber",
+        "text": "[_confused_] All right, what happened to Dr. Crane?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "He's not feeling well.  ",
+        "prevSpeaker": "Amber",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Thanks for coming.  I know you're busy.  Please, have a seat.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Amber"
+    },
+    {
+        "speaker": "Amber",
+        "text": "Oh, thanks.  Teah, right after this I have to go pick up a new teddy.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Oh, that's so sweet.  ",
+        "prevSpeaker": "Amber",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Well, I'll make this quick then.  We're not expecting anything fancy.  Just the basic burping, diapering, and so forth.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Amber"
+    },
+    {
+        "speaker": "Amber",
+        "text": "O-kay, I guess I'm game for that.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Oh, wonderful!  Why don't I make some tea and we can talk.  ",
+        "prevSpeaker": "Amber",
+        "nextSpeaker": "Amber"
+    },
+    {
+        "speaker": "Amber",
+        "text": "Great!  Uh, did you want me to wear something special?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Oh!  Since you asked, I've always been partial to a simple white nurse's uniform.",
+        "prevSpeaker": "Amber",
+        "nextSpeaker": "Amber"
+    },
+    {
+        "speaker": "Amber",
+        "text": "It's a classic.  ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh, hi, I thought I heard some talking out here!  I'm Marty Crane.",
+        "prevSpeaker": "Amber",
+        "nextSpeaker": "Amber"
+    },
+    {
+        "speaker": "Amber",
+        "text": "Hi.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "How you doing?",
+        "prevSpeaker": "Amber",
+        "nextSpeaker": "Amber"
+    },
+    {
+        "speaker": "Amber",
+        "text": "Great.  ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "So, Daphne give you the third degree?",
+        "prevSpeaker": "Amber",
+        "nextSpeaker": "Amber"
+    },
+    {
+        "speaker": "Amber",
+        "text": "Oh, not really.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh, well, that's good.  I think she's a little sensitive, you know, about being replaced.  She's been doing me for ten years.",
+        "prevSpeaker": "Amber",
+        "nextSpeaker": "Amber"
+    },
+    {
+        "speaker": "Amber",
+        "text": "Oh!  But then she got pregnant.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Right, right.  But you know, lately, she's been having me up on the table.  I like it better on the floor.  The floor all right with you?",
+        "prevSpeaker": "Amber",
+        "nextSpeaker": "Amber"
+    },
+    {
+        "speaker": "Amber",
+        "text": "It's your dime.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well, uh, maybe you could show me your stuff.",
+        "prevSpeaker": "Amber",
+        "nextSpeaker": "Amber"
+    },
+    {
+        "speaker": "Amber",
+        "text": "Oh...",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "I'll, uh, never hear the end of it if I don't take you out for a spin.",
+        "prevSpeaker": "Amber",
+        "nextSpeaker": "Amber"
+    },
+    {
+        "speaker": "Amber",
+        "text": "Oh, sure.  I just need to change.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh, yeah, the powder room's right there.",
+        "prevSpeaker": "Amber",
+        "nextSpeaker": "Amber"
+    },
+    {
+        "speaker": "Amber",
+        "text": "Here?  Okay.  ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Where did she go?  You didn't drive her off, did you?",
+        "prevSpeaker": "Amber",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "No, not at all.  I like her.  What do you think about her?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "I like her a lot.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Good.  Of course, we won't really know until we see her in action.  ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Amber"
+    },
+    {
+        "speaker": "Amber",
+        "text": "Ta-da!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_grinning broadly_] You're hired!   _Scene 7 - The country home Charlotte is seated at the table with Sue and Jonathan.  Frasier enters with Harbin, carrying Charlotte's suitcase._ ",
+        "prevSpeaker": "Amber",
+        "nextSpeaker": "Charlotte"
+    },
+    {
+        "speaker": "Charlotte",
+        "text": "[_desperately, forcing a smile_] Hi, sweetie!  You've been gone for twenty minutes!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes.  Well, uh, Harbin was just giving me a tour of my engine.",
+        "prevSpeaker": "Charlotte",
+        "nextSpeaker": "Harbin"
+    },
+    {
+        "speaker": "Harbin",
+        "text": "You've got either a blown rod bearing or a loose pin.  If we had a stethoscope, I'm sure we could tell the difference.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, well, you know, I'm so hopeless with cars.  I know I would just misdiagnose it.",
+        "prevSpeaker": "Harbin",
+        "nextSpeaker": "Harbin"
+    },
+    {
+        "speaker": "Harbin",
+        "text": "Wouldn't be the first misdiagnosis that ever happened.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Jonathan"
+    },
+    {
+        "speaker": "Jonathan",
+        "text": "Friend Charlotte.  Where's your ring?",
+        "prevSpeaker": "Harbin",
+        "nextSpeaker": "Charlotte"
+    },
+    {
+        "speaker": "Charlotte",
+        "text": "Excuse me?",
+        "prevSpeaker": "Jonathan",
+        "nextSpeaker": "Jonathan"
+    },
+    {
+        "speaker": "Jonathan",
+        "text": "I thought most married women wore a ring, yet your hand is bare and white.  ",
+        "prevSpeaker": "Charlotte",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, it-it is.  That's because this is the hand that I fell in love with.  A hand too... too perfect for, uh... the profanity of gold or-or platinum. [_He sits, looking at her face._] After all, what diamond could possibly rival the sparkle in those eyes?  _During this speech, it is very clear the most of the sentiments he expresses are real, and not just spoken for Jonathan's benefit. Charlotte's flattered response to his words is also natural.  The moment they share is very brief, but palpable.  Harbin suddenly enters._",
+        "prevSpeaker": "Jonathan",
+        "nextSpeaker": "Harbin"
+    },
+    {
+        "speaker": "Harbin",
+        "text": "I'll take my coffee in the living room, _you don't mind!_  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Sue"
+    },
+    {
+        "speaker": "Sue",
+        "text": "If that will make you _happy_ , Harbin.  Shall we?  _Sue and Jonathan follow to the living room.  Frasier and Charlotte share a look of great trepidation.  They follow... and stop dead in their tracks when they see a coffin in the living room._ ",
+        "prevSpeaker": "Harbin",
+        "nextSpeaker": "Jonathan"
+    },
+    {
+        "speaker": "Jonathan",
+        "text": "[_presenting the coffin, matter-of-factly_] This is Grandma.",
+        "prevSpeaker": "Sue",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "We... had no idea.",
+        "prevSpeaker": "Jonathan",
+        "nextSpeaker": "Sue"
+    },
+    {
+        "speaker": "Sue",
+        "text": "We... are having the wake here tomorrow.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Harbin"
+    },
+    {
+        "speaker": "Harbin",
+        "text": "[_sobbing_] Mama... loved to party.  ",
+        "prevSpeaker": "Sue",
+        "nextSpeaker": "Sue"
+    },
+    {
+        "speaker": "Sue",
+        "text": "Excuse me again.  ",
+        "prevSpeaker": "Harbin",
+        "nextSpeaker": "Sue"
+    },
+    {
+        "speaker": "Sue",
+        "text": "[_o.s._] Yeah, she loved to party all right.  With me as her personal slave and handmaiden, doing all the cooking and the cleaning and the wiping her sorry... [_re-entering, changing her tone_] Sugar?",
+        "prevSpeaker": "Sue",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You know, we're a bit tired, really.  Maybe we could just turn in?",
+        "prevSpeaker": "Sue",
+        "nextSpeaker": "Harbin"
+    },
+    {
+        "speaker": "Harbin",
+        "text": "Well, help me get the cushions off the fold-up.  We'll make up the bed.  _He and Jonathan begin to remove the cushions from the couch in that room._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You mean we're-we're sleeping in here?",
+        "prevSpeaker": "Harbin",
+        "nextSpeaker": "Sue"
+    },
+    {
+        "speaker": "Sue",
+        "text": "[_deadpan_] Well, there's Mama's bed. [_then_] But that's in _our_ room.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "This'll be fine.  _Charlotte nods her agreement.  FADE TO:_  _Scene 8 - Later that night Frasier and Charlotte are in the hide-a-bed.  Frasier has dozed. Charlotte is sitting up, staring at the casket.  Then she hears an electric buzzing sound from somewhere in the house._ ",
+        "prevSpeaker": "Sue",
+        "nextSpeaker": "Charlotte"
+    },
+    {
+        "speaker": "Charlotte",
+        "text": "Did you hear that?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_waking_] What?  ",
+        "prevSpeaker": "Charlotte",
+        "nextSpeaker": "Charlotte"
+    },
+    {
+        "speaker": "Charlotte",
+        "text": "_That!_  What do you think he's doing down there?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, how should I know, he's _your_ friend.",
+        "prevSpeaker": "Charlotte",
+        "nextSpeaker": "Charlotte"
+    },
+    {
+        "speaker": "Charlotte",
+        "text": "Shh! _But they chuckle.  Despite everything that's happened to them that day, they are still easy enough with each other to laugh about it.  Footsteps are heard approaching the room.  They assume a sleeping position and close their eyes.  Jonathan enters and checks that they are asleep.  Then he opens the casket.  Frasier and Charlotte, watching him, are both horrified and amused._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Jonathan"
+    },
+    {
+        "speaker": "Jonathan",
+        "text": "[_sotto voce_] Grandma?  It's Jonathan.  I just wanted to tell you that our little secret is still safe. _He closes the casket softly.  Frasier and Charlotte again feign sleep as Jonathan checks them again, then exits.  They then sit up._ ",
+        "prevSpeaker": "Charlotte",
+        "nextSpeaker": "Charlotte"
+    },
+    {
+        "speaker": "Charlotte",
+        "text": "Well, this tops anything that would have happened at the Portland Radisson.  _They begin to laugh again.  Footsteps are again heard, and they re- assume the sleeping position.  Harbin enters, and opens the casket._ ",
+        "prevSpeaker": "Jonathan",
+        "nextSpeaker": "Harbin"
+    },
+    {
+        "speaker": "Harbin",
+        "text": "[_voice breaking_] Hi, Mama!  I can't believe I'm not going to get one more hug. [_leans in_] What's that?  One more?  Ohhhhh... _He picks up the corpse and embraces it.  Frasier and Charlotte can barely contain themselves, quivering in bed and desperately muffling their laughter.  He glances their way and they \"sleep\" again._ ",
+        "prevSpeaker": "Charlotte",
+        "nextSpeaker": "Harbin"
+    },
+    {
+        "speaker": "Harbin",
+        "text": "I better go, Mama.  I'm sorry I scraped your head with my watch. _He closes the lid, then kisses his fingers and puts them on the coffin. Frasier and Charlotte exchange another look, then resume their position before Harbin exits.  After he is gone, they break out in unrestrained, but quiet laughter._ ",
+        "prevSpeaker": "Harbin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You know... he said the same thing to my engine when he opened the hood.  _Charlotte laughs.  Frasier joins her.  The mood between them is very playful and comfortable.  They lie facing each other._ ",
+        "prevSpeaker": "Harbin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Charlotte... I'm afraid we're making a terrible mistake.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Charlotte"
+    },
+    {
+        "speaker": "Charlotte",
+        "text": "Frasier, I'm not switching sides again.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No.  I mean writing off these three weeks just 'cause you're moving.  I had a great time with you today, and with somebody else it would have been a disaster.",
+        "prevSpeaker": "Charlotte",
+        "nextSpeaker": "Charlotte"
+    },
+    {
+        "speaker": "Charlotte",
+        "text": "With somebody else, I would have been in Portland.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Come on, you know what I'm talking about.  We have a lot of Fun together.  And why deny ourselves the chance to have even more?  I know the sensible thing would be to just end it now, and walk away.  And normally that's what I would do, but... I don't want to be sensible.",
+        "prevSpeaker": "Charlotte",
+        "nextSpeaker": "Charlotte"
+    },
+    {
+        "speaker": "Charlotte",
+        "text": "[_with emotion_] But we'd only have three weeks.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I know.  It'd be like a summer fling.",
+        "prevSpeaker": "Charlotte",
+        "nextSpeaker": "Charlotte"
+    },
+    {
+        "speaker": "Charlotte",
+        "text": "But wouldn't we be sad when it ended?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Of course we would.  That's what happens.  You-you're sad When summer's over. [_then_] Well, I... never was.  I always looked forward to the new school year, when I would buy my books...  ",
+        "prevSpeaker": "Charlotte",
+        "nextSpeaker": "Charlotte"
+    },
+    {
+        "speaker": "Charlotte",
+        "text": "[_lovingly_] Are you going to talk all summer?  _They start to kiss.  The buzzing is heard again, and they sit up, smiling.  FADE OUT_  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Credits"
+    }
+]

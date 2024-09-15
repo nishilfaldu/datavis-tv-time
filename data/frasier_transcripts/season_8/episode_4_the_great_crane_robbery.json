@@ -1,0 +1,1239 @@
+[
+    {},
+    {
+        "speaker": "Skyline",
+        "text": "A silver dirigible floats across the skyline.  _ACT ONE  Scene One - KACL Frasier is wrapping up his show._ ",
+        "prevSpeaker": "No Previous Speaker",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I would like to close the show today with a truly inspirational tale.  One year ago, a very successful friend of mine was struck by tragedy.  Prognosis: not good.  Hope: slim.  But armed with only fortitude, this friend of mine fought back. I'm talking, of course, about the reopening of Seattle's finest restaurant, Chez Henri!  Just goes to show you that a four-alarm fire is no match for five-star courage.  This is Frasier Crane saying good day, and good mental health.  ",
+        "prevSpeaker": "Skyline",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "See you still don't have a table for opening night.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "And it's killing me!  ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "OK everyone, it's show time.  The new station owner's on his way down.  So look alive! [_claps his hands_]  Watch what you say, watch what you don't say.  Don't say too much, don't say too little. [_wipes his brow and neck_] What the hell's this thermostat set at, anyway?!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Good lord, Kenny, calm down!  We've done the \"new owner\" drill",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "the glad-handing sycophant, or our salute to teamwork?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "Yeah, yeah, very funny.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Come on, Kenny, you know how these people come and go.  They introduce themselves, they shake your hand, tell us they're big fans, and then they're gone.  Nothing ever changes.  So, you know, don't worry about it.",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "Well, that's easy for you to say, you've got a contract! _Todd Peterson, KACL's new owner, comes in the booth with a candy bar in one hand.  To Frasier and Roz's surprise, Todd is a casually dressed redheaded man in his twenties._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Todd"
+    },
+    {
+        "speaker": "Todd",
+        "text": "Hey, guys!",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "Oh hello, sir! [_sees the candy bar_] Ah, Clark-Bar! [_gives him a thumbs up_] Excellent choice, sir!",
+        "prevSpeaker": "Todd",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You must be the new owner.  Hi, I'm Frasier Crane and this is my producer Roz Doyle.",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Hi.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Todd"
+    },
+    {
+        "speaker": "Todd",
+        "text": "[_shaking hands_] Todd Peterson.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "Mr. Peterson's one of the brightest stars of Silicon Valley.",
+        "prevSpeaker": "Todd",
+        "nextSpeaker": "Todd"
+    },
+    {
+        "speaker": "Todd",
+        "text": "Thank you, Kenny.",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "And he's one of the youngest members of the Fortune 500.",
+        "prevSpeaker": "Todd",
+        "nextSpeaker": "Todd"
+    },
+    {
+        "speaker": "Todd",
+        "text": "Please, you're embarrassing me.",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "And he's a big fan of your show.",
+        "prevSpeaker": "Todd",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, now you're embarrassing me! [_chuckles_] Go on.",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Todd"
+    },
+    {
+        "speaker": "Todd",
+        "text": "It's true, I've been listening since college.  I love the theme weeks.  But I was really into \"Follow-up Fridays,\" when you had previous callers call in, let you know how they're doing.  Why'd you stop doing that?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_gravely_] Oh well, it wasn't _my_ idea.  ",
+        "prevSpeaker": "Todd",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You know, Todd, uh, seeing as how you are such a big fan, perhaps I could bend your ear sometime about a few ideas I have for the show.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Todd"
+    },
+    {
+        "speaker": "Todd",
+        "text": "Great!  I'd love to hear them.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Really?  Well, how about later today perhaps, over cocktails at my place?",
+        "prevSpeaker": "Todd",
+        "nextSpeaker": "Todd"
+    },
+    {
+        "speaker": "Todd",
+        "text": "That would be cool!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Ah, cool indeed!",
+        "prevSpeaker": "Todd",
+        "nextSpeaker": "Todd"
+    },
+    {
+        "speaker": "Todd",
+        "text": "Later.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Right, and may I say it's truly an honor to be serving under your leadership!  This is a great day for KACL, indeed for radio itself!  ",
+        "prevSpeaker": "Todd",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "I see you decided to skip \"glad-handing sycophant\" and go straight for \"boot-licking kiss-ass.\"  _Frasier nods contentedly.  FADE OUT  Scene Two - Apartment Martin straddles a chair while Daphne massages him._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_groans with pleasure_]",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Is that too much?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh no, it feels great, Daph.  Lot of elbow grease there today.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "I suppose I'm a bit wound up.  Niles is out with Mel.  I don't trust that woman.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh, come on.  He's not with her because he wants to be. He's just gonna give her what she wants so she'll give him the divorce.  He's crazy about you, you know that.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "[_smiles_] I know.  And I'm crazy about him.  ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Still, Niles has been gone for a long time.  ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "It's open!  ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Hello!",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Niles.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Sorry I'm late, Mel picked a restaurant on the other side of town.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "I'm getting so tired of that woman's antics.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Antics, that's what they are! _She digs in even harder, he groans.  She stops as Niles hangs up his coat._",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "This whole charade, making you pretend you're a happy couple, it's so unfair!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Criminal!  She won't even allow you to be seen in public together! [_she does nothing_] Did you hear that?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Give it up, old man, the massage is over.  ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Daphne, I know it's difficult.  But once she gives me that divorce, we can go anywhere we want.  Paris... Florence... Rio...",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "[_seductive_] How about my room to fold laundry?  ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I hear it's lovely this time of year.  ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, uh, Dad, listen, you know, I've got some company coming over.  So if you don't mind, uh-",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh, hot date, huh?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, actually, Dad, the new station owner's coming by to hear some ideas I have about my show.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well, it's a woman at least, right?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Whatever gets you out of the room faster, Dad.  _The doorbell rings.  As Martin and Eddie scurry out of the room, Frasier opens the door to Todd._ ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh Todd, come on in.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Todd"
+    },
+    {
+        "speaker": "Todd",
+        "text": "Hi, Frasier. [_comes in_] Whoa!  Sweet view!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Thank you, thank you.  That's the Space Needle there, of course, and Elliot Bay, and actually on a clear day you can see Mt. Rinnear.",
+        "prevSpeaker": "Todd",
+        "nextSpeaker": "Todd"
+    },
+    {
+        "speaker": "Todd",
+        "text": "Epic! [_looks down through the telescope_] Is that a Pizza Hut?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, we did start a petition-",
+        "prevSpeaker": "Todd",
+        "nextSpeaker": "Todd"
+    },
+    {
+        "speaker": "Todd",
+        "text": "Well, it must have worked.  That _is_ a Pizza Hut! [_looks around_] You've got a great place here, Fras!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Thank you.",
+        "prevSpeaker": "Todd",
+        "nextSpeaker": "Todd"
+    },
+    {
+        "speaker": "Todd",
+        "text": "[_picks up an African sculpture_] I like this.  What, did your kid carve it in camp?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Actually, that's a fertility god from Central Africa, it's quite rare. [_Todd hands it back with a naughty chuckle_] Thank you.  Say, uh, Todd, can I interest you in a sherry?",
+        "prevSpeaker": "Todd",
+        "nextSpeaker": "Todd"
+    },
+    {
+        "speaker": "Todd",
+        "text": "Nah.  It'd be wasted on me.  I don't know the first thing about that stuff.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh well, in the great scheme of things, it's not really very important.",
+        "prevSpeaker": "Todd",
+        "nextSpeaker": "Todd"
+    },
+    {
+        "speaker": "Todd",
+        "text": "It kind of is.  I mean, ever since my search engine went public, people have been inviting me to fundraisers and banquets. [_picks up a sculpture from the coffee table and tries to pry it open_] They expect me to know all sorts of things about art and music, wine - I don't know jack, it's embarrassing.  _Having no luck, he tries to break it open on the table.  Frasier rushes forward and snatches it._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I'm sure you're exaggerating.",
+        "prevSpeaker": "Todd",
+        "nextSpeaker": "Todd"
+    },
+    {
+        "speaker": "Todd",
+        "text": "No, I spent my whole life in front of a computer.  I don't know Beethoven from... Beethoven's the only one I know!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You know, it's never too late to learn.  I'd be glad to give you some pointers.",
+        "prevSpeaker": "Todd",
+        "nextSpeaker": "Todd"
+    },
+    {
+        "speaker": "Todd",
+        "text": "Really?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I'd be delighted!  I will play Virgil to your Dante. [_off Todd's blank look_] In a few weeks, I can guarantee you, you will find that delightfully droll.  Say, how about that sherry?",
+        "prevSpeaker": "Todd",
+        "nextSpeaker": "Todd"
+    },
+    {
+        "speaker": "Todd",
+        "text": "Oh, yeah!  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "All right, then - which you should know, is a fortified wine.",
+        "prevSpeaker": "Todd",
+        "nextSpeaker": "Todd"
+    },
+    {
+        "speaker": "Todd",
+        "text": "Wow, Frasier, you really know your stuff!  Look at these great paintings, cool furniture, African sex toys!  This is how I should be living... how much you want for the place?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Excuse me?",
+        "prevSpeaker": "Todd",
+        "nextSpeaker": "Todd"
+    },
+    {
+        "speaker": "Todd",
+        "text": "I could use a place in town.  Name your price.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh no, Todd.  My humble home is not for sale.  But, you know, as luck would have it, there happens to be a unit available directly below mine.",
+        "prevSpeaker": "Todd",
+        "nextSpeaker": "Todd"
+    },
+    {
+        "speaker": "Todd",
+        "text": "This'll be great, we'll be neighbors!  You can teach me to have as much taste and style as you.  And I can do everything possible to make you the biggest star on radio.  _For a moment Frasier just stands there with a rapt, transported look on his face._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I knew one day you'd come.  _He hands Todd a sherry, and they clink glasses.  FADE TO:_  **IT'S ABOUT A CZECHOSLOVAKIAN BAGPIPER**  _Scene Three - Caf e Nervosa Niles is seated at a table.  Frasier comes in._ ",
+        "prevSpeaker": "Todd",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Niles, mind if I join you?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh well, uh, just for a little while, I'm meeting Mel here. Oh, which reminds me- [_slips on his wedding ring_]",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh dear, I am sorry to hear that.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh no, actually this is wonderful news.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Mm-hmm?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "She called.  She said my days of playing the devoted husband are coming to an end.  Frasier, I think my wife is finally going to dump me.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, and they said it would last. [_they laugh_]  You know, actually, I'm celebrating an event myself.  You see, I've just become... a mentor.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Good for you, Frasier, helping the unprivileged.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Actually, he's a billionaire.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Ah, the forgotten minority.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "It's the new station owner.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, for heaven's sake, you're mentoring your boss?  How did you flatter your way into that job?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, Niles, I-I didn't.  The boy practically begged me. I mean, he got rich overnight, and he's hardly had time to shed his fraternity house ways.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Sounds like an enormous project.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, I am a teacher at heart, after all.  You know, last night I took him to Le Cafe du Peridee, to practice sending back wine.  ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Excuse me. [_answers_] Hello?  Ah, Todd, yes, we were just talking about you!  Yes, no.  No, no, no, no, no, never French cuffs with a button-down collar. [_Niles chuckles_] He's being fitted by Haviare.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Very nice.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_into phone_] The long collar, yes.  What sort of stripes? Don't move, I'll be right down there! [_hangs up_] I have to go.  ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Ah, Mel.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Mel"
+    },
+    {
+        "speaker": "Mel",
+        "text": "[_Arctic smile_] Frasier.  You're looking...",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "And you, we must do this again.  ",
+        "prevSpeaker": "Mel",
+        "nextSpeaker": "Mel"
+    },
+    {
+        "speaker": "Mel",
+        "text": "Hello, Niles.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Uh, Mel, hello.  Well, I, uh, I gather things are coming to an end.  Thank you for being true to your word.",
+        "prevSpeaker": "Mel",
+        "nextSpeaker": "Mel"
+    },
+    {
+        "speaker": "Mel",
+        "text": "No, thank you for doing such a good job in... Phase One.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_fazed_] \"Phase One?\"",
+        "prevSpeaker": "Mel",
+        "nextSpeaker": "Mel"
+    },
+    {
+        "speaker": "Mel",
+        "text": "Well Niles, it occurred to me that if we end things now, people will wonder why - when, you know, we've been so happy. So I've decided that it's not so much that I'm going to leave you, as you're going to drive me away.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "How?",
+        "prevSpeaker": "Mel",
+        "nextSpeaker": "Mel"
+    },
+    {
+        "speaker": "Mel",
+        "text": "Through a series of staged events, in which you will thoroughly humiliate yourself by playing the part of a complete ass! [_gives him a ticket envelope_] For instance, this weekend we're going to the opera-",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Ah, I see, I see.  So you want me to... hog the opera glasses and remain seated during the ovation, something of that nature? Well, I-I suppose I could manage it.",
+        "prevSpeaker": "Mel",
+        "nextSpeaker": "Mel"
+    },
+    {
+        "speaker": "Mel",
+        "text": "No, not quite.  At the intermission, invariably some board member will come over to say hello, and I want you to fly into a jealous rage and throw a drink at him!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "That is unthinkable!  I have a reputation in this town, [_throws the envelope down_] and nothing will make me behave that way!  ",
+        "prevSpeaker": "Mel",
+        "nextSpeaker": "Mel"
+    },
+    {
+        "speaker": "Mel",
+        "text": "Well, looks like we're going to be married for a long time. _Niles is trapped, and she knows it.  He takes the envelope and checks the name._ ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_steely_] I'll see you at _Schwander de Dudelsach Feiffen.  FADE TO:  Scene Four - Apartment - Night Frasier opens the door to Roz and Kenny, both formally dressed.  Kenny is sweating again._ ",
+        "prevSpeaker": "Mel",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, what are you two doing here?  Todd's apartment's one floor down.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "We know.  But why walk into his housewarming alone when we can go in with his idol?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh please, I'm hardly his idol.  I'm a paragon at best. _Reset to: Hallway He leads them into the hallway, carrying the African fertility sculpture wrapped in a little bow._ ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "What's that?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, just a little something that Todd admired when he was over.",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "I didn't know we were supposed to bring gifts!  Oh, now I'm screwed! [_they step onto the elevator_] I am so fired.  God, why did I give my wife the go-ahead for that above-ground pool?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Better calm down, Kenny.  I gave you my last pair of dress shields.",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Now remember that Todd has had people working round the clock, transforming his apartment into his vision of style and taste. And no matter how primitive we may think it is, it's best to be kind.  We don't want to stifle his budding creativity.  ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "You also don't want to stifle that fat syndication deal he's putting together for you.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh Roz, you are so cynical!  That's why you could never be a mentor.  ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Todd"
+    },
+    {
+        "speaker": "Todd",
+        "text": "Hey guys, come on in! _They come in - and gape.  Though a sustained shot of the room is not shown, the effect is clear: Todd has duplicated Frasier's apartment exactly, the same furniture/art/appliances in the exactly corresponding positions.  The sole difference (that I was able to catch) is that in place of Martin's armchair stands a slightly newer, cleaner easy chair.  END OF ACT ONE  ACT TWO_  **BOXERS OR BRIEFS? IT'S DRIVING HIM CRAZY**  _Scene Five - Caf e Nervosa. Niles is at a table.  Frasier comes in and joins him._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Hello, Niles.  Say, if memory serves, you went to the opera with Mel last night.  So, did you cause a public spectacle? I didn't read anything in the society pages.",
+        "prevSpeaker": "Todd",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "No, well, it didn't go exactly as I expected.  At intermission I got my drink and waited for someone to approach Mel.  And finally someone did - uh, Founder's Circle stalwart Ace Linneur.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Ah.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I coiled, panther-like, ready to fling my drink on his shirtfront, when I noticed he was wearing that wool crepe hand-tailored tuxedo of his.  Well, [_laughs nervously_] I couldn't raise my hand against such a magnificent garment.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Niles, that tux is a blend and you know it.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Yes, yes, of course I know it!  Frasier, I-I just couldn't do it!  That kind of loutish behavior, it's just not in my nature.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Of course, Niles, that goes without saying.  Just remember for whom you're doing all this.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Believe me, Daphne is the only thing that is keeping me going through all of this.  Tonight I'm supposed to meet Mel for dinner at Chez Henri, and make an ass of myself in front of her society friends.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, lord - Chez Henri.  Their menu is just the culinary minefield to test Todd's mettle.  Hmm...",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, oh, your protege.  How's that coming along?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Actually, things have taken a bit of an odd turn.  You see, yesterday I went to his housewarming party.  As it turns out, to my surprise, he has duplicated my apartment exactly.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Exactly?!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Only thing missing is an old man and a little dog.  I was beside myself.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well, of course you were!  I assume you read him the riot act.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, he is my boss.  He has big plans for my show.  Do I really want to jeopardize that?  ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "There's Todd now.  Uh, Todd?  Over here!  I'd like you to meet my brother, Niles Crane. [_they ad-lib hellos and shake hands_] Niles, this is Todd Peterson.  _As they stand next to each other, Niles realizes Frasier and Todd's suits are exactly identical._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Hello - oh, and-and may I say, what a... what a lovely outfit. Hope you got the volume discount.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Todd"
+    },
+    {
+        "speaker": "Todd",
+        "text": "Guess who's officially hooked on classics!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh well, good for you, good for you.  Now Todd, I-I'd like to talk to you about your apartment.",
+        "prevSpeaker": "Todd",
+        "nextSpeaker": "Todd"
+    },
+    {
+        "speaker": "Todd",
+        "text": "You don't like it.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh no, I do like it.  I've liked it for eight years.",
+        "prevSpeaker": "Todd",
+        "nextSpeaker": "Todd"
+    },
+    {
+        "speaker": "Todd",
+        "text": "So what's the problem?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, I was hoping that my influence would help you to find your own style, not that you would simply duplicate mine.",
+        "prevSpeaker": "Todd",
+        "nextSpeaker": "Todd"
+    },
+    {
+        "speaker": "Todd",
+        "text": "What am I doing?  I'm in way over my head here, let's admit it, with all this culture stuff.  I should just stick to what I know, computers - I'm a computer guy!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No, Todd, you know, perhaps we just took on a bit too much too soon.",
+        "prevSpeaker": "Todd",
+        "nextSpeaker": "Todd"
+    },
+    {
+        "speaker": "Todd",
+        "text": "I need to move back to San Jose, sell the apartment, sell the radio station-",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Steady at the wheel, Todd.  Now listen, uh, all we're really talking about is a couple of couches and some coffee tables.",
+        "prevSpeaker": "Todd",
+        "nextSpeaker": "Todd"
+    },
+    {
+        "speaker": "Todd",
+        "text": "But you said we shouldn't have the same apartment.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, and we shouldn't... Perhaps I'm being too hasty about which of us should be doing the changing.  Perhaps I'm holding on too tight to my possessions!  Decor is, after all, a fluid art!",
+        "prevSpeaker": "Todd",
+        "nextSpeaker": "Todd"
+    },
+    {
+        "speaker": "Todd",
+        "text": "[_reaches for a pen_] Should I be writing this down?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No, no, Todd.  Listen, Todd, I want you to keep the apartment the way it is.  After all, it's a look that has served me well, but it's time that I move on.",
+        "prevSpeaker": "Todd",
+        "nextSpeaker": "Todd"
+    },
+    {
+        "speaker": "Todd",
+        "text": "Thank you, Frasier.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No, thank you, Todd.",
+        "prevSpeaker": "Todd",
+        "nextSpeaker": "Todd"
+    },
+    {
+        "speaker": "Todd",
+        "text": "Hey, you want to come see my new car?  I have a feeling you're gonna like it!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I have a feeling I will. _FADE TO:  Scene Six - Chez Henri Niles and Mel, dressed formally, stand at a distance from their table, at which two other couples (Andrew/Margaret & Chip/Lucy) are seated. _ ",
+        "prevSpeaker": "Todd",
+        "nextSpeaker": "Mel"
+    },
+    {
+        "speaker": "Mel",
+        "text": "Niles, you have been behaving like a perfect gentlemen all night, now cut it out!  And do something offensive!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I don't know at which table you've been sitting!  Did you not just see me unapologetically take the last roll?",
+        "prevSpeaker": "Mel",
+        "nextSpeaker": "Mel"
+    },
+    {
+        "speaker": "Mel",
+        "text": "I need more than that, and you know it.  Now, my friends are giving you plenty to work with - Andrew has been drinking like a fish, and Margaret is wearing that revolting dress, again.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Meow!  I'm glad you're on my side. [_off her look_] I can do this.  ",
+        "prevSpeaker": "Mel",
+        "nextSpeaker": "Mel"
+    },
+    {
+        "speaker": "Mel",
+        "text": "Sorry, everyone!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Margaret"
+    },
+    {
+        "speaker": "Margaret",
+        "text": "Oh, you newlyweds!  Just can't be apart for one second!  ",
+        "prevSpeaker": "Mel",
+        "nextSpeaker": "Mel"
+    },
+    {
+        "speaker": "Mel",
+        "text": "Oh, the bill!  Oh, but we're not finished.  Uh, we still have wine, would anyone like a refill?",
+        "prevSpeaker": "Margaret",
+        "nextSpeaker": "Andrew"
+    },
+    {
+        "speaker": "Andrew",
+        "text": "[_tidges himself up_] I'm a little dry.  ",
+        "prevSpeaker": "Mel",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Dry?  I know that's not your liver speaking!  ",
+        "prevSpeaker": "Andrew",
+        "nextSpeaker": "Mel"
+    },
+    {
+        "speaker": "Mel",
+        "text": "Niles!  We just discussed you were not going to bring that up!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well I did, so there. [_she kicks him under the table_] And I'll say it again! [_to Andrew_] You're probably seeing two of me, so you might as well hear me twice!  You sir, are a complete drunk!  ",
+        "prevSpeaker": "Mel",
+        "nextSpeaker": "Andrew"
+    },
+    {
+        "speaker": "Andrew",
+        "text": "Niles, how could you...",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well, uh-",
+        "prevSpeaker": "Andrew",
+        "nextSpeaker": "Andrew"
+    },
+    {
+        "speaker": "Andrew",
+        "text": "How could you know?  I thought I was hiding it so well. I have a problem, it's time I face it.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Chip"
+    },
+    {
+        "speaker": "Chip",
+        "text": "I've been meaning to say something, but I didn't have the courage.",
+        "prevSpeaker": "Andrew",
+        "nextSpeaker": "Lucy"
+    },
+    {
+        "speaker": "Lucy",
+        "text": "Not like Niles.  You're a good person.",
+        "prevSpeaker": "Chip",
+        "nextSpeaker": "Andrew"
+    },
+    {
+        "speaker": "Andrew",
+        "text": "I'm getting help first thing tomorrow.  I'm so sorry, baby.",
+        "prevSpeaker": "Lucy",
+        "nextSpeaker": "Margaret"
+    },
+    {
+        "speaker": "Margaret",
+        "text": "[_takes Andrew's arm; to Niles_] Thank you for giving me my husband back.  Mel, darling, you married an angel.",
+        "prevSpeaker": "Andrew",
+        "nextSpeaker": "Mel"
+    },
+    {
+        "speaker": "Mel",
+        "text": "[_choking on the words_] Don't I know it. _Niles, to his credit, looks as disappointed as Mel.  FADE TO:  Scene Seven - Apartment Martin comes into the living room and sees Frasier dressed in casual clothes.  The Apartment is now completely redecorated with black, boxy furniture, a weird angular couch - the only thing unchanged is Martin's Armchair._",
+        "prevSpeaker": "Margaret",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Ah, Dad.  What do you think of the new look?",
+        "prevSpeaker": "Mel",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Wow, nice stuff.  You really tied the flow to the motif.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Thanks for trying.  Well, shall we give it a test run?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Yeah.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "A little music... _He turns on the stereo.  \"Classical Gas,\" a guitar anthem from the 1970's, plays.  (If you haven't heard it before, all you really need to know is that it's not Frasier)  Martin settles into his armchair with the newspaper.  Frasier lounges in one of his new chairs, trying to get comfortable.  After a moment, he gets up and lies across his couch, trying to fit his body to the shape of it.  RUN: A series of dissolves where Frasier tries to capture the right look: - the furniture is all white - the furniture is a mix of black and white - the furniture is all red - the final one: the apartment resembles a British lord's bungalow in Africa: bamboo furniture, tall potted ferns, and a zebra skin draped over the couch.  Frasier tries to get comfortable by sitting on the couch and draping the skin over his head.  Scene Eight - Apartment DISSOLVE TO: a close up of Frasier._ ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Dad? _The Apartment is now totally bare, except for Martin, his Chair, and his little drink table, none of which have moved throughout the preceding changes._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_not looking up_] Looks great, son.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "There's nothing here.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "I know.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I give up.  I've tried a million combinations.  I even had early Byzantine mingling with mid-century Danish!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Will they ever get along?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "The only furniture that looks good in my apartment is my own!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well, I could have told you that three loveseats ago!  So what are you waiting for?  Go bring it back!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Well, I'm glad I went to three different stores to find your organic furniture polish.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well Daphne, chin up.  You can always use it to polish the floors.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Oh, yes.  When God closes a door he opens a window.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You know, Dad, even if I do get my furniture back, it doesn't solve anything!  There's still someone downstairs with my apartment!",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "That's not your apartment, this is your apartment!  And if every stooge in the building rips you off, it doesn't take anything away from you because you were the original!  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I am, aren't I?  You know I did, after all, create that look, and that should be gratification enough.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Good for you, son.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I mean, besides, you know, Todd's hardly ever here.  He doesn't have very many friends.  You know, in fact, the only person who's ever gonna see that apartment is probably the Pizza Hut delivery boy! [_laughs_]  ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Ah Todd, come on in.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Todd"
+    },
+    {
+        "speaker": "Todd",
+        "text": "Hey, Fras, I just need to know the name of the chick who made our couch.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, right - it's a reproduction of the one Coco Chanel had in her Paris _atelier_. [_Todd exhales_] But why?",
+        "prevSpeaker": "Todd",
+        "nextSpeaker": "Todd"
+    },
+    {
+        "speaker": "Todd",
+        "text": "The writer from _\"Architectural Digest\"_ wants to know.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "_\"Architectural Digest?\"_",
+        "prevSpeaker": "Todd",
+        "nextSpeaker": "Todd"
+    },
+    {
+        "speaker": "Todd",
+        "text": "They're doing a huge cover story on my apartment!  And I have you to thank for it, buddy!  Well, I got to go, the photographer's waiting.  Later. _Todd leaves, closing the door.  Frasier slowly turns around, apoplectic -- mouth gaping, body convulsing, unable to speak. Martin looks at him worriedly.  Frasier rushes around the Apartment._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I need to sit down! _Martin gets up and motions Frasier to the Armchair.  Frasier backs away from it in horror, looking around in desperation.  Finally he goes into the powder room, sits on the toilet, and buries his head in his hands._",
+        "prevSpeaker": "Todd",
+        "nextSpeaker": "Credits"
+    }
+]

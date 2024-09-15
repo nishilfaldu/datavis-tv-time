@@ -1,0 +1,1665 @@
+[
+    {},
+    {
+        "speaker": "Frasier",
+        "text": "Hello, Roz.",
+        "prevSpeaker": "No Previous Speaker",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Hey.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, what are you up to?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Oh, they put in phone jacks so you can go on-line.  I was just talking to this guy who sounds really great. [_Frasier sighs as if the idea is absurd_] What?  I'm a very busy person, how else am I going to meet people?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "It just seems so impersonal, Roz.  God, what ever happened to human contact?  Engaging people, face to face, eye to eye.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "[_points out Martin at counter_] There's your dad.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Don't let him see me! [_turns away as Martin crosses to the table_]",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Hey, Marty.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Hey, Roz.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Hey.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "What you been up to?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Oh, just surfing the net.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Hi, Dad.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_ignoring his son_] You know, I never got into that net stuff.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Really?  You really ought to give it a try.  It's a great way to stay in touch with your friends and your family.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Family?  Gosh, you know, that's nice to know that some people still care about their family.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Dad, please!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well, I gotta go.  I'm going night-fishing with Duke - and Eddie, of course!  I wouldn't leave Eddie, you don't turn your back on your family! _Martin exits the caf e. _",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "What is that all about?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, our Cousin Dodie's wedding was last week.  Oh, excuse me, Cousin Dodie's \"weddin'!\"  A western theme.  On the response card it asked for our chili preference: mild or \"kick ass!\" Anyway, Niles and I told her that we had a conference to attend at the Therapist's Guild.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "There is no Therapist's Guild, is there?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No.  Dad found us out.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Wait!  Didn't you have a Therapist Guild conference on Alice's last birthday?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_changing the subject_] The point is, it struck a nerve with Dad! [_then_] I'm sorry, Roz, it's just that he thinks we're ashamed of his family, it's been an issue with him for years, and now he hasn't spoken to me for days.  Thank God, I don't have to deal with this tonight.  I've already ear-marked a fine bottle of Chateau Beychevelle.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Oh, hot date?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No, Niles is coming over to watch \"The Antiques Roadshow\" with me.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "[_mocking_] I guess you'll be coming in late, tomorrow!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "It's our favorite show, Roz.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Party!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "All right, that's enough.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Whoo! _Roz carries on mocking Frasier as the picture FADES TO BLACK.  Scene Two - Frasier's Apartment. The lift doors open outside Frasier's apartment.  Niles and Frasier step off of and cross to the door.  They are carry wine and nibbles._",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I think the roadshow is from Harrisburg, Pennsylvania tonight.  Amish country!",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Ooh, quilts!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I'll cork the wine, Niles, you set up the cheese cakes. _However they are startled when Martin enters from the kitchen with some nachos and a can of beer._",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier/Niles"
+    },
+    {
+        "speaker": "Frasier/Niles",
+        "text": "Dad!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I thought you were going night fishing with Duke?",
+        "prevSpeaker": "Frasier/Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, for God's sakes, you can't keep this up forever, Dad. [_no response_] Well, all right, fine.  I hope you don't mind, but Niles and I are planning on watching a television show.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh, really?  Well, I'm surprised you don't have a conference to go to!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Dad, we said we were sorry about Dodie's wedding.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Yes, and we did send her a baby gift.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well, Duke cancelled out on me.  You can have the TV in an hour.  I just want to watch my game show.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh please, not a game show?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Hey, I happen to like it, all right?  People bring in all their junk from the attics and these experts tell them what it's worth. _The brothers realize that this summary is very similar to the show they are about to watch._",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Are you talking about \"The Antiques Roadshow?\"",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Yeah.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, that's the program Niles and I are going to watch!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I'll just check outside and see if the world has ended. _Niles enters the kitchen to set up the cheese cakes as Frasier heads to the couch opening the wine._",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well, if you want to watch it, no one's stopping you.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, wonderful. [_laughs_]",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Presenter"
+    },
+    {
+        "speaker": "Presenter",
+        "text": "[_v.o._] And you have no idea what this writing desk might be worth?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Woman"
+    },
+    {
+        "speaker": "Woman",
+        "text": "[_v.o._] No, my husband bought it at a garage sale.",
+        "prevSpeaker": "Presenter",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "That's a lovely piece.  I'd say it's Sheridan.",
+        "prevSpeaker": "Woman",
+        "nextSpeaker": "Presenter"
+    },
+    {
+        "speaker": "Presenter",
+        "text": "At auction, this would bring in more than eight thousand dollars.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Whoa-ho-ho!  Ca-ching!",
+        "prevSpeaker": "Presenter",
+        "nextSpeaker": "Woman"
+    },
+    {
+        "speaker": "Woman",
+        "text": "What about this chair?  Is it an original too?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "It certainly looks it.",
+        "prevSpeaker": "Woman",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Ah, no, they always do this.  Set 'em up on the first one and then lower the boom on the second one.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I think that carving looks authentic.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "So does the inlay.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "No, no, no!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Presenter"
+    },
+    {
+        "speaker": "Presenter",
+        "text": "I'm sorry to say this chair is a reproduction, worth at best one hundred and fifty dollars.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Woman"
+    },
+    {
+        "speaker": "Woman",
+        "text": "Oh, what a shame.",
+        "prevSpeaker": "Presenter",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Keep watching, boys.  You'll get the hang of it. _DISSOLVE TO:  Scene Three - Frasier's Apartment -- Later. The three Crane men are getting very friendly at last.  Niles is sat on the floor with a wine glass in his hand.  Frasier's sat on the coffee table with a wine glass.  Martin is in his chair with a can of beer.  \"The Antiques Roadshow\" is still running. _",
+        "prevSpeaker": "Woman",
+        "nextSpeaker": "Presenter"
+    },
+    {
+        "speaker": "Presenter",
+        "text": "[_v.o._] But the real clue here is the veneer. _The Crane men, playing their drinking game, all shout out \"veneer!\" and take a swig of their drinks._",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Presenter"
+    },
+    {
+        "speaker": "Presenter",
+        "text": "And now for some background information on the beautiful city of Harrisburg.",
+        "prevSpeaker": "Presenter",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Mute! _Frasier and Niles laugh as Martin turns the sound off.   Daphne enters with a green box._",
+        "prevSpeaker": "Presenter",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Evening, all. [_they greet her_] Wow!  I don't see the three of you watching the same show very often.  What's going on? Pavarotti jumping the Grand Canyon?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "It's \"The Antiques Roadshow.\"  What you got in the box?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Oh, it's Donny's mother's wedding gown.  He wants me to wear it at the wedding.  What if I don't like it?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Daphne, if you want to try it on, we'll be glad to have a look.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Just go put it on.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Dad, Dad, turn it up. [_he does_]",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Sara Briggs"
+    },
+    {
+        "speaker": "Sara Briggs",
+        "text": "But the real masterwork is the unique art deco headboard. It features a variety of veneers.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Sara Briggs"
+    },
+    {
+        "speaker": "Sara Briggs",
+        "text": "Mahogany veneer...",
+        "prevSpeaker": "Sara Briggs",
+        "nextSpeaker": "Sara Briggs"
+    },
+    {
+        "speaker": "Sara Briggs",
+        "text": "Burled walnut veneer...",
+        "prevSpeaker": "Sara Briggs",
+        "nextSpeaker": "Sara Briggs"
+    },
+    {
+        "speaker": "Sara Briggs",
+        "text": "And zebra wood veneer.",
+        "prevSpeaker": "Sara Briggs",
+        "nextSpeaker": "Sara Briggs"
+    },
+    {
+        "speaker": "Sara Briggs",
+        "text": "And now back to our...",
+        "prevSpeaker": "Sara Briggs",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_recovering_] Oh God... next week we gotta pick a different word.  Need another bottle of wine, Niles.",
+        "prevSpeaker": "Sara Briggs",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Yeah, me too, I love these educational shows. _Frasier enters the kitchen with the old bottle of wine as Niles also brings in Martin's old beer cans.  Frasier gets a new bottle as Niles gets another beer from the fridge for his father._",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You know, I can't get over Dad.  It seems this little rift between us has been mended.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Can you believe he used the word \"craftsman,\" and he meant the architectural style, and not the rotary sander?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You know, that's uncanny.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well, you heard him.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No, not that, you just said \"rotary sander.\"",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Dad, did we miss anything?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Nah, just some bozo with a credenza who doesn't know a Biedermeier from an Oscar Meyer.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Presenter"
+    },
+    {
+        "speaker": "Presenter",
+        "text": "That's it for this week.  See you next time on \"The Antiques Roadshow.\"  Next Saturday the roadshow will be here in Seattle.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh!",
+        "prevSpeaker": "Presenter",
+        "nextSpeaker": "Presenter"
+    },
+    {
+        "speaker": "Presenter",
+        "text": "Viewers can bring their treasures to the convention center for a free appraisal.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "We oughta go, that'd be great.",
+        "prevSpeaker": "Presenter",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well sure, Dad.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "That does sound like fun.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Yeah, I'm going to go and have a little root around in our closet.  I bet I can find a nice little [_correct pronunciation_] _objet d'art_ they'd be interested in.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "It's as if that panhandler I gave money to was a genie granting all my wishes.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Would you marry me in this? _We see that Daphne has entered.  She is wearing the \"wedding gown.\" It consists of white go-go boots, a fluffy white veil and very little else.  In fact, just a white miniskirt connected to a tight white bra by flimsy suspenders.  Niles nearly faints._",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_whispers_] How much did you give him?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "It's attractive, Daphne.  It's a bit unorthodox.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Yeah.  That's what I think.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Donny, I've just put your mum's wedding dress on.  A mini- skirt?  It's obscene!  You can see my... What?  No, I took the green box. [_laughs_] No problem, then.  Bye. [_hangs up_] I took the wrong dress.  This is from his mother's third marriage in 1968 in Las Vegas. _Daphne starts laughing along with Niles.  Daphne bends down trying to control her laughter.  Niles peers over her and down her bra without her noticing._",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Can you believe people used to actually dress like this?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I wish I had a picture of it for whenever I needed a laugh. [_tries to follow her to her bedroom_]",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Niles! _Niles walks back sighing in fantasy.  FADE TO:_ **A TSAR IS BORN** _Scene Four - The Antiques Roadshow. Martin and Frasier are hanging around the set.  Martin is holding a rather ugly pewter clock consisting of a small round dial set in the middle of a hideous bear._",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "This bear clock's been in the family for generations, I can't wait to see how much it's worth.  Do you think they'll put a dollar figure on it?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Sounds about right.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Very funny, but you know, your grandpa passed this down to me and someday, when I'm gone, it'll be passed on to you.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Dad, please, I don't even want to think about that day.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "You know, I've got to see if I can go and get this baby appraised.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I am so sorry, but on the way in I had the most amazing celebrity sighting: Hans Dietrich.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_thrilled_] The loveseat expert?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "The very same.  He's much smaller in person than on television. He's that big. [_holds a hand up to the bottom of his neck_]",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Get out!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Boys, come over here, they want to put me and the clock on TV.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Good Lord, we can't appear on TV with that hideous thing.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Everyone we know watches this program.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Thank God he didn't bring along that dreadful mounted jackrabbit's head with the antelope horns.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "The Jackalope!  Texas's answer to the Minotaur.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "So what do you think of that, boys?  They said they've never seen anything like it.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Dad, you know, this could go either way.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh, I know.  I'm not going to act like one of those saps I make fun of.  Doesn't matter if it's worth two dollars or two thousand, I'm just gonna say, \"That's pretty much what I figured.\" _The director shouts that tape is rolling so Niles and Frasier back off out of view from the camera.  The bear clock is on a table in front of the camera.  Martin and the appraiser are standing around the table._",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_calls to boys_] Guys, which one of you wants to come and hold this?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No, no, Dad.  We wouldn't dream of it.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "This is your moment.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Director"
+    },
+    {
+        "speaker": "Director",
+        "text": "Everybody ready?  Action.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Appraiser"
+    },
+    {
+        "speaker": "Appraiser",
+        "text": "So, Martin, what can you tell us about this pewter clock?",
+        "prevSpeaker": "Director",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_playing to the camera_] Well, it is a clock set in the stomach of what appears to be a bear.",
+        "prevSpeaker": "Appraiser",
+        "nextSpeaker": "Appraiser"
+    },
+    {
+        "speaker": "Appraiser",
+        "text": "Actually, it's much more than that.  It's Russian, made in the mid-nineteenth century.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "That's pretty much what I figured.",
+        "prevSpeaker": "Appraiser",
+        "nextSpeaker": "Appraiser"
+    },
+    {
+        "speaker": "Appraiser",
+        "text": "Actually, it's a stunning piece.  It was made by Andre Krogyn, who worked for Tsar Alexander II.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "That is pretty much what I figured.",
+        "prevSpeaker": "Appraiser",
+        "nextSpeaker": "Appraiser"
+    },
+    {
+        "speaker": "Appraiser",
+        "text": "I don't know if you're descended from the Romanovs, Martin, but all of Krogyn's known bear clocks were done exclusively for the Romanov family and are now in the Hermitage Museum. _By now, Niles and Frasier, baffled by the findings, have walked into camera view and are standing alongside Martin._",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Appraiser"
+    },
+    {
+        "speaker": "Appraiser",
+        "text": "Martin, you may be surprised to learn that this clock at auction would easily bring $25,000.",
+        "prevSpeaker": "Appraiser",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_excited_] Ca-ching! _He laughs and claps his hands excitedly, but Frasier and Niles calm him into acting reserved again._",
+        "prevSpeaker": "Appraiser",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "What he means is, that's pretty much what we figured. _Frasier reaches out and strokes the bear clock like a favorite possession while he and Niles smile into the camera.  End of Act One.  Act Two.  Scene One - Frasier's Apartment. Martin, Niles and Frasier enter the apartment with the bear clock in hand._",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "After you, Dad.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Thank you.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "So, you know, Dad?  I've been thinking, we should find an appropriate place for this clock.  How about right here on this console? [_puts it on table behind sofa_]",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh, I get it!  It doesn't look quite so bad to you guys now that it's worth twenty-five grand.  Oh, I could kick myself for not bringing that Jackalope! _Martin exits to the kitchen as Niles and Frasier give a look at each other._",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "What an amazing day, eh?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "It certainly was.  You know, Niles, I was meaning to ask you about something.  Remember the appraiser said something about the bear being from Russia, dad being part of the Romanov family?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Yeah, yeah, you know, that struck my ear too.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, although I don't seriously believe there's any real chance of that.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_half-heartedly_] No, of course not.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_dragging it out_] It's a long shot.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "It's possible.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Although we do have the bear.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I know.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, Dad.  Niles just reminded me of something I completely forgot.  When the appraiser mentioned that the bear was from Russia...",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh, yeah.  Well, it probably got passed down through your great-great grandmother.  She was from Russia.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "A-ha, he said something about the Romanov family?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh, yeah, that, eh?  Are you sure you want to hear about this?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_no question_] Yes, Dad.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well, I guess you would have found out anyway after I died... We're royalty.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "But I didn't want you to grow up spoiled, so I abdicated and took a job in Seattle on the police force. [_the brothers realize his joke_] It was kinda hard giving up that royal way of life, but I think maybe it's the swans that I miss most.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Very funny, Dad.  Point taken.  Sherry, Niles? [_crosses to sherry_]",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Please.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "I'm sorry to disappoint you.  I know you'd rather be anything else in the world except Cranes!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Dad!  Now that is just not true, we are proud to be Cranes. It's just innocent curiosity.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well, I gotta go call Duke.  But don't get excited, he's not a real Duke. _Martin exits to his room as Frasier brings the sherries across to Niles._",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well, we stepped in it that time.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, what the hell is wrong with us?  Asking whether we are related to the Romanovs.  We just got past this whole Crane shame thing.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "We should have known it'd just upset him.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, and for what?  Trying to find some distant connection to royalty.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Even if we can prove it, what do we have?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Huh, a story to tell at parties.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "An occasional seat at a state dinner.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Some meaningless title.  It's insane.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Ridiculous... destructive.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Still, there is this grandmother.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I'm right behind you.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You know, Niles, given our new pride in the Crane name, perhaps it would behoove us to research our family tree.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Actually, in a way we'd be honoring Dad.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, of course we wouldn't need to tell him.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "No.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Just a few hours on the internet, a trip to the library, we could sketch in the entire family tree.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "And if there should happen to be a connection [_breathless with glee_] to the Romanovs...",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, what harm is there in that?  [_N.B. Famous last words._] ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "It is amusing to contemplate, isn't it, Niles?  You, me, Dad - all part of an ancient noble family. _Martin then bursts out his room holding the jackalope to his forehead and chasing Eddie into the kitchen, showing off the true noble spirit of the Crane family._",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Okay Eddie, the jackalope's gonna get ya!  The jackalope is gonna get ya! _FADE TO:  Scene Two - Caf e Nervosa. Frasier is surfing the internet and tracing his family tree at the window seat as Roz enters wearing a red dress with a silk shawl. _",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Hey, Frasier.  How's the research going?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, sit down, Roz.  I'll bring you up to speed.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "No, thank you. [_sits on another table_] I'm meeting someone.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Good God!  Not one of your internet dalliances?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "It's just coffee, okay?  Listen, this guy's totally legit, he e-mailed me his picture. [_holds it up_]",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "A picture?  Oh, for God's sakes, Roz, what can you learn from a picture?  The man's probably a lunatic, a psychopath... [_looks at picture_] Oh, he's a pretty boy.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Yeah.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Wait... I know this photo.  It's the cover of this month's Bidwell's catalogue!",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Are you sure?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I'm positive, I ordered those socks and driving shoes!",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "How could someone do this?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, it's probably some insecure would-be Romeo trying to lure you into a meeting.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Noel"
+    },
+    {
+        "speaker": "Noel",
+        "text": "Hello, Frasier.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Noel.",
+        "prevSpeaker": "Noel",
+        "nextSpeaker": "Noel"
+    },
+    {
+        "speaker": "Noel",
+        "text": "[_to Roz_] What have we here?  An empty seat next to yours. May I?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "No!  Of all the dumbass things you've done to get me to go out with you, e-mailing me this picture is just the most moronic!",
+        "prevSpeaker": "Noel",
+        "nextSpeaker": "Noel"
+    },
+    {
+        "speaker": "Noel",
+        "text": "But, Roz-!",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Forget it, buddy! _The man in Roz's photo enters Nervosa and watches the scene, as Roz backs Noel into the counter, hitting him with the picture._",
+        "prevSpeaker": "Noel",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "I ought to take your mouse cord and wrap it around your nerdy little neck until your eyes pop out like champagne corks!",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Noel"
+    },
+    {
+        "speaker": "Noel",
+        "text": "[_looks at picture_] But I didn't send you this.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Yeah right, then who did?",
+        "prevSpeaker": "Noel",
+        "nextSpeaker": "Noel"
+    },
+    {
+        "speaker": "Noel",
+        "text": "My guess would be... [_points to man_] that guy.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Oh my God!  Oh, Noel, I'm so sorry. [_gathers her things_]",
+        "prevSpeaker": "Noel",
+        "nextSpeaker": "Noel"
+    },
+    {
+        "speaker": "Noel",
+        "text": "How sorry?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Not that sorry.",
+        "prevSpeaker": "Noel",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I just saw the Bidwell's guy!",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes. [_Niles sits_] Well Niles, how goes the research?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, I think you're going to be very pleased.  According to this catalogue of Russian antiquities, the bear clock was last seen in Moscow in 1879.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, hold on to your fur hat, Niles.  I just discovered that our great-great grandmother emigrated from Russia... 1879!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "My God, it's all coming together.  I can practically picture the scene.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Our great-great grandmother, smelling revolution in the wind...",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Secretly slips away in the black Russian night...",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Taking the bear clock with her to remind her of better days.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes!  The ticking hands of time counting down her return, her royal power merely hibernating. [_Frasier's mobile sounds, he answers_] Yes?  Yes, yes, I'll hold.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Who is it?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "It's Dr. Myshkin.  He's an attache at the Russian embassy, also an expert on the Romanovs. [_to phone_] Yes, Dr. Myshkin. This evening would be fine.  About seven \ufffd clock.  Yes, I live in the Elliot Bay Towers.  I'll see you then. [_hangs up_] He has some important information for us.  My God, Niles, this is it.  The final link to our royal past.  I'm going to issue a press release!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Not before I shout it from the rooftops! [_notices Martin entering_] Here's Dad, hide everything! _They quickly clean things off the table and shut the laptop as Martin enters._",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Hey guys, I thought I'd find you here.  You know, you just missed seeing yourselves on \"The Antiques Roadshow.\" [_They fake noises of disappointment_] And you know, the phone's been ringing off the hook, everybody wants to buy that bear clock.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You're not thinking of selling it, are you?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "You're damn right I am!  Some guy just offered me twenty-six thousand for it.  I'm gonna buy me a big, honking fishing boat, with a Wave Pounder 450 and a fun deck.  Good for fishin', crusin', or just plain tubin'! [_laughs_]",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Did you hear that Frasier?  We can go tubin'. [_Mouths to Frasier \"Do Something!\"_]",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You know, Dad, perhaps Niles and I could sell the clock for you.  I mean, we do know the antiques world and you know, we could get you more than twenty-six thousand.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I should think at least thirty thousand.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Huh.  You know, maybe I will let you boys handle this.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Wise move, Dad.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Yeah, we'd hate to see you get manipulated. _Martin leaves the cafe as Frasier and Niles exchange congratulatory grins.  FADE TO:_ **MYSHKIN ACCOMPLISHED** _Scene Three - Frasier's Apartment. The doorbell sounds.  Niles and Frasier answer it to Dr. Myshkin._",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Myshkin"
+    },
+    {
+        "speaker": "Myshkin",
+        "text": "Dr. Crane.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Dr. Myshkin, please.  Come in.  This is my brother, Dr. Niles Crane. _Niles clicks his heels and bobs his head in his version of a communist salute._",
+        "prevSpeaker": "Myshkin",
+        "nextSpeaker": "Myshkin"
+    },
+    {
+        "speaker": "Myshkin",
+        "text": "[_spots clock_] Oh, there it is.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Please, have a look. [_he does_] Is it authentic?",
+        "prevSpeaker": "Myshkin",
+        "nextSpeaker": "Myshkin"
+    },
+    {
+        "speaker": "Myshkin",
+        "text": "Without a doubt. [_Frasier gasps_]",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Frasier...",
+        "prevSpeaker": "Myshkin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I know.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Daphne, you know, there is some caviar on the ice in the kitchen.  Now would be the appropriate time, if you would, please?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "[_sarcastic_] Oh, I am so sorry.  Here I am, dawdling with the laundry when it's ten minutes into caviar time!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Myshkin"
+    },
+    {
+        "speaker": "Myshkin",
+        "text": "As I mentioned, I have some information which should be very interesting to you.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, yes, please make yourself comfortable. Do tell, tell.",
+        "prevSpeaker": "Myshkin",
+        "nextSpeaker": "Myshkin"
+    },
+    {
+        "speaker": "Myshkin",
+        "text": "[_holds up a book_] This is a copy of the diary of Princess Sonia Romanov, daughter to Tsar Alexander II.  At eighteen she fell in love with a commoner, an American. [_Niles mouths \"Our grandmother\" to Frasier_] Their union, of course, was forbidden, but Sonia decided to give everything up for love.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "_Quel elegance._",
+        "prevSpeaker": "Myshkin",
+        "nextSpeaker": "Myshkin"
+    },
+    {
+        "speaker": "Myshkin",
+        "text": "She enlisted the aid of a scullery maid, who smuggled money, clothing and this bear clock out of the palace.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_thrilled_] She would elope to America!",
+        "prevSpeaker": "Myshkin",
+        "nextSpeaker": "Myshkin"
+    },
+    {
+        "speaker": "Myshkin",
+        "text": "Yes, that was her plan, but when Sonia found her way to the train station under the cover of night, the scullery maid absconded with everything, including the clock.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Servants!",
+        "prevSpeaker": "Myshkin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "There's a back aching for the lash! _The camera then cuts to Daphne who has already entered the room with the caviar.  She gets the wrong end of the stick._",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "I'm moving as fast as I can! [_slams caviar down and exits_]",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Now, tell us.  How did we get our clock back?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Yes, tell us, how did Great-Great-Grandmamma retrieve it?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Myshkin"
+    },
+    {
+        "speaker": "Myshkin",
+        "text": "[_confused for a moment, then_] Uh, Drs. Crane... your ancestor is not the princess, your ancestor is the scullery maid. _Silence as Frasier and Niles absorb this bombshell.  Then Myshkin stands and picks up the clock._",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Myshkin"
+    },
+    {
+        "speaker": "Myshkin",
+        "text": "Well, on behalf of the Russian people, I thank you for retrieving this for us.",
+        "prevSpeaker": "Myshkin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You mean, you're just going to take it?!",
+        "prevSpeaker": "Myshkin",
+        "nextSpeaker": "Myshkin"
+    },
+    {
+        "speaker": "Myshkin",
+        "text": "Well, its rightful place is in the Hermitage Museum.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "But this clock has been in our family for generations...",
+        "prevSpeaker": "Myshkin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Niles. [_Frasier motions him to cover the front door, he does_]",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Myshkin"
+    },
+    {
+        "speaker": "Myshkin",
+        "text": "Dr. Crane, we could settle this in the courts, but you wouldn't win.  Do you really want this to come out in the press?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, do you really expect us just to let you walk out of here with a precious family heirloom?!",
+        "prevSpeaker": "Myshkin",
+        "nextSpeaker": "Myshkin"
+    },
+    {
+        "speaker": "Myshkin",
+        "text": "Did I mention that your ancestor, before she married a Noah Crane in 1882, worked as a prostitute in New York?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Enjoy your bear. _Niles steps aside letting Myshkin out.  As the door is opened we find Martin just entering._",
+        "prevSpeaker": "Myshkin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh, hello.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Myshkin"
+    },
+    {
+        "speaker": "Myshkin",
+        "text": "Dr. Profiry Myshkin.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_shaking hands_] Marty Crane.  I see you've got the clock.",
+        "prevSpeaker": "Myshkin",
+        "nextSpeaker": "Myshkin"
+    },
+    {
+        "speaker": "Myshkin",
+        "text": "That's right.  Good evening, all.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Bye. ",
+        "prevSpeaker": "Myshkin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "You sold it!  I hope you got a good price.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Gee, Dad, I hope you didn't buy a boat.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "No, I was thinking about it and then I thought, oh hell. We've been getting along so well... [_to Frasier_] And you don't like fishing. [_to Niles_] And you get seasick.  Why not get something we can all enjoy, you know?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "So I bought this! [_holds up a picture of an RV to the boys_]",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_covering with mock excitement_] A Winnebago!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Yeah!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "A big one!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Thirty-three footer, with air suspension and power jacks. Thirty thousand used, but you got that much for the clock, right?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Of course. [_Niles looks at him sharply_]",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh, that's great.  We can go anywhere.  You know, the first place I want to go is Elmo, Nebraska.  We got a whole mess of cousins down there! [_exits to kitchen_]",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well... we're out fifteen thousand each.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "And we have to take long trips in a Winnebago.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "And we're not Romanovs.  We're descended from thieves and whores.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "You know, I remember reading that Henry James once had a liaison with a Russian prostitute in New York.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I'm right behind you. _They clink glasses once again.  End of Act Two._",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Credits"
+    }
+]

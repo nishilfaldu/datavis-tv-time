@@ -1,0 +1,1347 @@
+[
+    {},
+    {
+        "speaker": "Bebe",
+        "text": "Well, well, well, look who's here.  It's KACL's Frasier Crane.",
+        "prevSpeaker": "No Previous Speaker",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "And Rosemary's Bebe.  ",
+        "prevSpeaker": "Bebe",
+        "nextSpeaker": "Bebe"
+    },
+    {
+        "speaker": "Bebe",
+        "text": "So, quite a little shake-up going on down at the station. I hear the new owner wants to renegotiate everyone's contract.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_turning head_] Mmm-hmm.  And before you drop another gossamer hint, let me tell you that my feelings about you haven't changed.",
+        "prevSpeaker": "Bebe",
+        "nextSpeaker": "Bebe"
+    },
+    {
+        "speaker": "Bebe",
+        "text": "Fine!  Actually, I'm here to meet one of my newer clients, a rising star of the Seattle airwaves.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, really, and what pathetic do-gooder have you lured into your web now?  ",
+        "prevSpeaker": "Bebe",
+        "nextSpeaker": "Bebe"
+    },
+    {
+        "speaker": "Bebe",
+        "text": "[_overly affectionate_] Roz!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_surprised_] Oh, dear God.  ",
+        "prevSpeaker": "Bebe",
+        "nextSpeaker": "Bebe"
+    },
+    {
+        "speaker": "Bebe",
+        "text": "You just get off your feet, little mother.  I'll fetch you a nice, nourishing muffin.  _Roz begins to walk toward the table, still self-conscious, trying to keep her back to Frasier.  Frasier follows her, glaring._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You signed with Bebe?",
+        "prevSpeaker": "Bebe",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "[_sitting_] Okay, I know, I should've told you, I just wasn't in the mood for one of your lectures.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_sitting across from her_] I'm not going to give you a lecture. You're entitled to choose whoever you wish to represent you. Someone who's honest, or a woman whose ethics would've raised eyebrows in the court of Caligula!",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Look, she's gotten me three voice-over jobs.  She may be a little shifty, but she helps me put food on the table.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Bebe"
+    },
+    {
+        "speaker": "Bebe",
+        "text": "One muffin.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "See?",
+        "prevSpeaker": "Bebe",
+        "nextSpeaker": "Bebe"
+    },
+    {
+        "speaker": "Bebe",
+        "text": "[_sitting; pats Roz's belly_] So, Roz, I had a brainstorm last night about how to turn this little bundle of joy into a big bundle of cash!",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "[_confused_] I'm going to use my baby to make money?",
+        "prevSpeaker": "Bebe",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_angry_] Yes, it's high time the little slacker started pulling his weight!",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Bebe"
+    },
+    {
+        "speaker": "Bebe",
+        "text": "[_to Roz_] You know Doctor Clint Weber's medical show?  Well, I see a daily segment called, \"A Pregnant Pause: Roz Doyle's Term of Endearment.\"  All of Seattle will share in the miracle happening inside you - your joys, hopes, morning sickness, sonograms, even the birth! [_excited_]",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "[_still confused_] I'll give birth on the air?",
+        "prevSpeaker": "Bebe",
+        "nextSpeaker": "Bebe"
+    },
+    {
+        "speaker": "Bebe",
+        "text": "It's radio.  Just make the noises. [_laughing_] Hell, I'll make them myself!  ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Waitress"
+    },
+    {
+        "speaker": "Waitress",
+        "text": "Need anything else here?",
+        "prevSpeaker": "Bebe",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Just a shower, thank you.",
+        "prevSpeaker": "Waitress",
+        "nextSpeaker": "Bebe"
+    },
+    {
+        "speaker": "Bebe",
+        "text": "You know, Mr. Integrity, word on the street is you still haven't hired anyone to negotiate this big deal for you. [_Frasier stands_] Could it be because in your heart you know you want to come back to me?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, well if I'm taking my time it's because I'm determined to make the right choice.",
+        "prevSpeaker": "Bebe",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Well, you're gonna need somebody good!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "That's exactly what I intend to find, someone good!  I'm going to prove to both of you it's possible to find an agent who can drive a hard bargain and yet maintain the highest ethical standards!",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Bebe"
+    },
+    {
+        "speaker": "Bebe",
+        "text": "[_sarcastic_] Happy hunting.  If things don't work out, you know my number.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_walking out door_] Still 666, is it?! _FADE OUT  Scene Two - Int. Frasier's apartment Martin opens the front door to Niles._ ",
+        "prevSpeaker": "Bebe",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_walks in_] Hello, Dad.  I believe we switched videotapes on accident.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Believe me, I noticed.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Yes, there you go. [_hands over video_] At first I was dismayed. I popped in the tape, and there was Charles Bronson blowing away street trash, but I actually got into it.  It was quite suspenseful.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Yeah, well, that's the way Duke and I felt about \"My Dinner With Andre.\"  Talk about suspense! [_fake, dramatic anticipation_] Will they order dessert?  Will they leave a good tip? [_walks to chair and sits_]  ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, hello, Niles.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Frasier, I'm sorry to trouble you about this, but could you recommend another couples' therapist?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Good Lord, not again.  What happened to Dr. Prescott?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, please, Maris had me can Dr. Prescott weeks ago.  Now she wants me to fire Dr. Wilphaum.  _Frasier walks in the direction of the kitchen, perhaps to get a drink from the wet bar._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "What's her problem with him?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "She says his criticism of her is too harsh.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, some therapists can be rather blunt and hard-hitting. What did he say?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "He asked her to refrain from catalogue shopping during our sessions. [_sits on couch_]",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You know Niles, if you fire every therapist who finds fault with her, you're never going to make any progress.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "You're right, of course.  I'll just tell her, \"We're not going to change therapists, that's that.\" [_stands_]",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Good!  You know, sometimes there's nothing more rewarding than sticking to a principle.  Case in point, you know, my contract's coming up, and, uh, well, Bebe Glazer's been angling to negotiate my new one.  Anyway, I could've done the easy thing, said yes, taken the money and run, but instead, I said no, and I found myself a new agent, one who's every bit as smart and also ethical.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Hmmm.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "That's him now.  ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well, I don't know what kinda bull that guy sold you, but there's no such thing as an ethical agent.  One's just as slimy as the other.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Hello, Ben.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Ben"
+    },
+    {
+        "speaker": "Ben",
+        "text": "Hi.  Sorry I'm late.  I was making my last Meals on Wheels delivery and I swerved to avoid a pigeon.  You know, splat went the food all over the stuffed bears for the toy drive. I had to run home, throw the bears in the wash, and cook some more borsht for Mrs. Pavlov.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I'm glad you made it.  Anyway, this is my brother, Doctor Niles Crane.",
+        "prevSpeaker": "Ben",
+        "nextSpeaker": "Ben"
+    },
+    {
+        "speaker": "Ben",
+        "text": "Hi, it's a pleasure to meet you.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Hi. [_shakes his hand, leaving_] Sorry, I'm running out. [_turns, laughing_] You're certainly a refreshing change from Frasier's last agent.  I think she would have swerved to hit the pigeon. [_another laugh_]",
+        "prevSpeaker": "Ben",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_laughing_] Well, she would have swerved to hit Mrs. Pavlov! [_closes door_] Ben, I'd like you to meet my dad, Martin.  ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, and this is his home health care worker, Daphne.  Daphne, this is Ben, my new agent.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "[_shakes Ben's hand_] Oh, very nice to meet you.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well, Ben, it sounds like you're a pretty busy volunteer.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, indeed, you know, Ben just won this year's Seattle Samaritan Award.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Ben"
+    },
+    {
+        "speaker": "Ben",
+        "text": "[_quickly_] Well, enough about me.  Let's talk about you. [_gestures to couch_] May I?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, please.",
+        "prevSpeaker": "Ben",
+        "nextSpeaker": "Ben"
+    },
+    {
+        "speaker": "Ben",
+        "text": "[_sitting_] I was thinking that before we start this negotiation it wouldn't hurt to raise your public profile.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_shrug_] I like the sound of that.",
+        "prevSpeaker": "Ben",
+        "nextSpeaker": "Ben"
+    },
+    {
+        "speaker": "Ben",
+        "text": "Okay, here's my plan.  For a year now, I've done pro bono work for the Mercer Island Zoo - you know, getting the word out, creating awareness --",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "[_still sitting at table_] There's a zoo on Mercer Island?",
+        "prevSpeaker": "Ben",
+        "nextSpeaker": "Ben"
+    },
+    {
+        "speaker": "Ben",
+        "text": "[_grin_] You betcha.  This'll be great PR for both of you. They just bought a rare crane.  I convinced them to name it after you - you know, Frasier \"Crane.\"  So, there'll be a ceremony with full newspaper and TV coverage.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I think it's brilliant! [_sits beside Ben_] I'm bolstering my bargaining position and also helping out a plucky little zoo!  I love this man!",
+        "prevSpeaker": "Ben",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "[_stands and walks over with bowl; places it on coffee table_] I think it would be fun to have a crane named after me.  I just love those big pouchy mouths they scoop up the fish in.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Ben"
+    },
+    {
+        "speaker": "Ben",
+        "text": "I think those are pelicans.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Oh, right. [_walking back toward breakfast table_] Cranes are the ones who always sound like they're laughing.  No, wait, I'm thinking of loons.",
+        "prevSpeaker": "Ben",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "That's a coincidence.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Ben"
+    },
+    {
+        "speaker": "Ben",
+        "text": "[_stands_] Oh, shoot, I've got borsht on my sleeve.  Do you have any club soda?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Oh, yes, right through here. [_walking toward kitchen, Ben follows_]",
+        "prevSpeaker": "Ben",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Help yourself.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Ben"
+    },
+    {
+        "speaker": "Ben",
+        "text": "Thank you.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Frasier, you told me this was a pretty big deal.  Are you sure you want to send in that Mouseketeer?",
+        "prevSpeaker": "Ben",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, why does everybody assume that in order to be an agent you have to be some unscrupulous huckster?  It is possible for a good and decent man to be every bit as intimidating as the toughest shark out there.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Ben"
+    },
+    {
+        "speaker": "Ben",
+        "text": "[_entering_] Well, time to skedaddle.  I have to pick up a friend. [_walks toward door; Frasier follows_] The poor guy just went bankrupt, so I'm letting him bunk in my ruckus room for a while.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, that's awfully generous of you.",
+        "prevSpeaker": "Ben",
+        "nextSpeaker": "Ben"
+    },
+    {
+        "speaker": "Ben",
+        "text": "Well, he's not just a friend, he's a client.  _Ben lets himself out, and Frasier closes the door and looks back at Martin shrugging.  FADE TO:_  **BYE BYE BIRDY**  _Scene Three - Ext. Mercer Island Zoo. The Director of the zoo leads Frasier into a tent, where the buffet is. The bird is also in this tent in a small cage._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Director"
+    },
+    {
+        "speaker": "Director",
+        "text": "Um, and then the press and the board members will join us in here for a buffet.",
+        "prevSpeaker": "Ben",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "So I finish my speech, and then I give Mr. Twembly here the cue and he brings out this marvelous creature.",
+        "prevSpeaker": "Director",
+        "nextSpeaker": "Twembly"
+    },
+    {
+        "speaker": "Twembly",
+        "text": "[_kneeling beside cage_] Just give me the signal.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_enters_] Aw, this is great!  Look at this!  Turkey, chicken wings! [_leans down toward crane_] Hey!  Gotta make you a little nervous, huh?",
+        "prevSpeaker": "Twembly",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "[_walks up to Frasier_] [_hushed voice_] Look!  It's Toffee Macintosh, from the news!  I just love her!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, yes, really?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Toffee"
+    },
+    {
+        "speaker": "Toffee",
+        "text": "[_approaching_] Frasier.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Toffee.  Thank you for covering us.",
+        "prevSpeaker": "Toffee",
+        "nextSpeaker": "Toffee"
+    },
+    {
+        "speaker": "Toffee",
+        "text": "[_laugh_] Aw, you know my motto, \"If it happens in Seattle, it's news to me.\" [_laugh_]",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Listen, I'd like you to meet one of your biggest fans, Daphne Moon.",
+        "prevSpeaker": "Toffee",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Hello.  I just love the way you get all somber when you describe a flood or a murder, then you cheer right up the minute you're done!  Makes me think, well, if she can get over it, so can I.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Toffee"
+    },
+    {
+        "speaker": "Toffee",
+        "text": "That's what I'm here for.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Ben"
+    },
+    {
+        "speaker": "Ben",
+        "text": "[_enters_] Ready to greet your public?",
+        "prevSpeaker": "Toffee",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, uh, yes!  Come on, Dad!",
+        "prevSpeaker": "Ben",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_eating_] All right, I'll be there in a sec.  _All but Martin walk toward the seating area.  The outdoors, grassy area is set up for Frasier's program.  In front of a large sign that says \"Mercer Island Zoo\" is a podium.  In front of this is a row of chairs for the audience.  Roz sits to the side smiling brightly with a monkey in her lap. Bebe is beside her.  Several cameras are on them._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Bebe"
+    },
+    {
+        "speaker": "Bebe",
+        "text": "Why, you see what maternal instincts this woman has?  Even little Bobo here can sense it.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_approaching Bebe and Roz_] Well, I can see I'm not the only one getting some publicity today.",
+        "prevSpeaker": "Bebe",
+        "nextSpeaker": "Ben"
+    },
+    {
+        "speaker": "Ben",
+        "text": "[_joins them_] Frasier, they want to start pretty soon.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, Ben, Ben, just a moment, I'd like you to meet some people.  This is Bebe and Roz.  This is Ben, my new agent.  ",
+        "prevSpeaker": "Ben",
+        "nextSpeaker": "Ben"
+    },
+    {
+        "speaker": "Ben",
+        "text": "Hey, talk about your small worlds.  Turns out Mr. Twembly and I both sang tenor for the same choir back home in Salt Lake City.  Nice meeting you ladies.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Bebe"
+    },
+    {
+        "speaker": "Bebe",
+        "text": "[_evil laugh; very sarcastic_] Well, when there's a dirty job to be done, you can't go wrong with a Mormon.",
+        "prevSpeaker": "Ben",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_indignant_] Scoff all you like, the man is a genius at PR.  _The program starts.  The audience in the front row, from left to right, is: Bebe, Roz, Daphne, and a few places over from them, Ben. Ben looks excited._ ",
+        "prevSpeaker": "Bebe",
+        "nextSpeaker": "Twembly"
+    },
+    {
+        "speaker": "Twembly",
+        "text": "Good afternoon, ladies and gentlemen.  On behalf of the Mercer Island Zoo, I'd like to welcome our very special guest, Doctor Frasier Crane. [_applause_]",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_steps up to podium_] Thank you, Mr. Twembly.  I suppose it's only appropriate that the zoo has called upon me to introduce you all to its newest resident.  You see, he happens to be a relative of mine. [_laugh_]  _Bored looks from Bebe and Roz.  CUT TO: Martin is alone in the tent with the Crane, still eating._ ",
+        "prevSpeaker": "Twembly",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Hey, what're you lookin' at?  This is human food.  You don't see me lookin' at your bird food, do you? [_turns away from bird and toward the buffet; bird bites the seat of Martin's pants; turns back around_] What do you think you're doing, huh? That's not very nice! [_shakes his cane at the bird; cane catches on cage, opening gate; bird jumps out_]. Oh, wait, wait, no, no, no, wait, where you goin'?!  _CUT TO:  Frasier is at the podium speaking.  As he speaks, the bird runs behind him.  Then, Martin runs by in hot pursuit of the crane, shaking his arm at the bird.  They exit to the right.  Frasier is entirely oblivious._",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "...We're both tall and have distinctive profiles, we've both been known to winter in Mexico, and let's not forget our voices.  Is there anything as stirring as the crane's majestic cry?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_o.s_] Yeyaaaaaaaa!  Get this thing off me! [_hobbles in, holding ear_]",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Dad, are you all right?  What's happening? [_uproar; bird runs behind him, chased by several men_] My goodness!  What is going on! [_turns toward audience, attempting to cover_] Oh, I'm sorry!  Nothing to be alarmed about!  Just a little family squabble!  _The audience is in uproar; Frasier rushes to Martin's aid.  End of Act One  Act Two  Scene One - Int. Frasier's apartment. Focus on TV.  Toffee Macintosh is reporting in front of the chaos of the crane ordeal._ ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Toffee"
+    },
+    {
+        "speaker": "Toffee",
+        "text": "In a gruesome incident this afternoon, the Mercer Island Zoo seemed more like the Island of Doctor Moreau....  _Shift to: Living room.  Martin is sitting in chair with Frasier to his right and Daphne behind him, all watching the TV._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Toffee"
+    },
+    {
+        "speaker": "Toffee",
+        "text": "[_v.o_]...as a distinguished senior citizen was savagely attacked by Frasier Crane, Bird of Prey.",
+        "prevSpeaker": "Toffee",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I can't watch any more of this.",
+        "prevSpeaker": "Toffee",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well, that makes us even.  I can't hear any of it.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, you weren't hurt that badly!  Of course, you wouldn't know that to listen to Toffee.  She makes the whole thing sound like a disaster!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "I know. [_brightens_] But did you see the way she could smile right after?  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_sitting on couch_] Lord, this entire affair's turned into a PR nightmare!",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well, it's your own fault for hiring Howdy Doody as your agent!  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_walking to door_] Dad, I'm sorry.  Ben had no idea that bird was going to attack you.  Besides, there is a school of thought that says there's no such thing as bad publicity.  ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Frasier, I was just hearing about you on the car radio.  The deejay was offering a cash prize for the best Frasier Crane joke.  Wait, what was the front-runner?  Oh, yes, how can you tell Frasier the Crane's a psychiatrist?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_closing door_] I can't wait to hear.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "He ignores what you say then sticks you with a large bill.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_walking toward Martin's chair as Frasier goes to his bookshelves_] You must excuse my jolly mood, but Maris was over tonight for our weekly conjugal visit.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_clearly disgusted_] Eeww, Jeez.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I've never seen her look so seductive.  She wore a clingy gown, crimson lipstick, even earrings, which she tends to avoid as they make her head droop.  She pulled me down upon the bed and began playing my spine like a zither.  And then, just as things were heating up, she renewed her request that I dismiss Doctor Wilphaum.  So tremulous with desire was I that I almost relented, but then I remembered your advice, Frasier, and I said I wouldn't fire the good doctor - at which point Maris told me I wouldn't be firing anything else in the foreseeable future!!  And she left!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Now, now, now, Niles, withholding sex may be just as difficult on Maris!  She may crumble first!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Are you serious?  One hour of passion can sustain her for months.  She stores it up like some sexual camel.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_defensive_] All right, Niles.  You know that my advice was solid.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I hope you're right. [_phone rings_] I'll get it.  Hello? Oh, hello Roz. [_to Frasier_] It's Roz.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Thank you. [_takes phone_] Roz, hello.  Yes, what is it?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_pointing at flowers on table_] That's a striking arrangement.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "It's from Bebe.  After what happened today, she's trying to woo him back.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Birds of Paradise, I suppose that's her idea of floral irony.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_on phone_] Yes, well, ah, thanks for the warning, Roz.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "What's that about?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, well, it turns out the station manager won't be renegotiating the contracts himself.  Apparently he's brought in one of these hired guns stations use to reduce costs. Some fellow nicknamed \"The Hammer.\"",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_examining flowers_] I'm assuming they call him \"The Hammer\" because he's tough.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No, Niles, because he loves the lyrics of Oscar Hammerstein!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "You know, Frasier, if I were you, I'd give Bebe a call. Now, I'm no fan of hers, either, but this is a pretty big negotiation.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_walks toward door_] No, Dad, I am sticking with Ben. Oh, sure, maybe Bebe could use her dark arts to get me a dollar or two more, but, you know, my integrity is worth more than that. [_opens door_] Hello, Ben.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Ben"
+    },
+    {
+        "speaker": "Ben",
+        "text": "Hey, big guy.  How ya doing?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, uh, fine.",
+        "prevSpeaker": "Ben",
+        "nextSpeaker": "Ben"
+    },
+    {
+        "speaker": "Ben",
+        "text": "Good.  Boy, people sure are being mean about this!  I was just listening to the radio on the way over.  Ouch.  But I always say, if life hands you a lemon, make lemonade.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "That's the spirit. [_hopefully_] So you've got some sort of damage-control plan?",
+        "prevSpeaker": "Ben",
+        "nextSpeaker": "Ben"
+    },
+    {
+        "speaker": "Ben",
+        "text": "You betcha.  I got a way to turn this whole mess around and show that station manager just what you're made of.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Excellent!  But you won't be dealing with him.  You'll be dealing with this free-lancer they call \"The Hammer.\"",
+        "prevSpeaker": "Ben",
+        "nextSpeaker": "Ben"
+    },
+    {
+        "speaker": "Ben",
+        "text": "Hoo-boy. [_sits_]",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "You've gone up against him?",
+        "prevSpeaker": "Ben",
+        "nextSpeaker": "Ben"
+    },
+    {
+        "speaker": "Ben",
+        "text": "Oh yes, and I had to take a pretty firm line with him.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, I'm glad to hear that.",
+        "prevSpeaker": "Ben",
+        "nextSpeaker": "Ben"
+    },
+    {
+        "speaker": "Ben",
+        "text": "Yeah, I finally said, \"You better just clean up your language, Pal.  I walked out on that Mamet play, I can walk out on you.\"",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_hesitates_] So, uh, about your plan.",
+        "prevSpeaker": "Ben",
+        "nextSpeaker": "Ben"
+    },
+    {
+        "speaker": "Ben",
+        "text": "Yeah, right! Um, I think there's a way to show people you're laughing right along with them.  You do a photo op where you, Seattle's best-loved psychiatrist, give the crane therapy. You know, you sit in a chair with a pad on your lap, and the crane - properly sedated, of course - sits on... [_pulls out a miniature psychiatrist's couch_] THIS.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Where on earth did you find a couch that size?",
+        "prevSpeaker": "Ben",
+        "nextSpeaker": "Ben"
+    },
+    {
+        "speaker": "Ben",
+        "text": "Oh, I built it myself.  I have a little workshop in my attic where I make toys for the neighborhood kids.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Look at you!  Agent, samaritan... elf.",
+        "prevSpeaker": "Ben",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Dad, I like this idea!  It's droll... and self-mocking.  It's the perfect way to turn a PR embarrassment into a triumph!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Ben"
+    },
+    {
+        "speaker": "Ben",
+        "text": "Great.  I'll set up the photo op.  And don't you be nervous about The Hammer, all right?  Because I can be a pretty tough customer myself!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_walking him to the door_] I'm sure you can!  I know you're gonna go in there and you're gonna give him hell!",
+        "prevSpeaker": "Ben",
+        "nextSpeaker": "Ben"
+    },
+    {
+        "speaker": "Ben",
+        "text": "Boy, I love show business, but I'll never get used to the cursing!  _Ben opens door and leaves.  FADE TO:_  **MAYBE IT WAS A DISGRUNTLED FORMER ZOO WORKER**  _Scene Two - Int. Caf e Nervosa Frasier walks toward and sits at Niles's table.  He has a large white bandage on his forehead.  Waitress approaches. _",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_quietly_] Latte, please.",
+        "prevSpeaker": "Ben",
+        "nextSpeaker": "Waitress"
+    },
+    {
+        "speaker": "Waitress",
+        "text": "Hey, didn't I see your picture in the paper today?  There was a big bird chasing you around a little couch!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_glares_] Latte, please.  ",
+        "prevSpeaker": "Waitress",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well, I think you have a real case against the maker of those crane sedatives.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Thank you for the sympathy!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "You're not the only one going through a rough patch.  Maris has strained my libido to the breaking point!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Niles, you can't give in!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I'm getting desperate!  This morning, I found myself flirting with my manicurist!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "The one with the thing on her face?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I told you, I'm desperate!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "What can be keeping Ben?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "After all this, you're still using Ben?  Shouldn't you just go back to Bebe?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_points finger_] I see what you're doing.  You think if I bail out on my principles it gives you an excuse to go crawling back to Maris.  Well, I'm not going to do it.  Ben may have made some mistakes, but he is a good man, and he's going to make me a good deal!  _Gil has just entered the Cafe.  He's standing in the doorway in a state of shock._ ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, Gil!  How'd it go with the Hammer?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Gil"
+    },
+    {
+        "speaker": "Gil",
+        "text": "You've never seen such cold, dead eyes!  It was like bargaining with Nosferatu.  My salary's been slashed!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, I'm sorry.  ",
+        "prevSpeaker": "Gil",
+        "nextSpeaker": "Waitress"
+    },
+    {
+        "speaker": "Waitress",
+        "text": "Can I do anything else for you?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_holding up biscotti_] Yes, would you mind nibbling on this provocatively?",
+        "prevSpeaker": "Waitress",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Niles! [_to waitress_] We're fine, thank you. [_waitress leaves_]",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Gil"
+    },
+    {
+        "speaker": "Gil",
+        "text": "I wish you good luck, Frasier.  I don't see anybody squeezing blood from that stone.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Bebe"
+    },
+    {
+        "speaker": "Bebe",
+        "text": "[_triumphantly_] Lattes for everyone!",
+        "prevSpeaker": "Gil",
+        "nextSpeaker": "Gil"
+    },
+    {
+        "speaker": "Gil",
+        "text": "[_shocked_] Dear God, don't tell me you did well!",
+        "prevSpeaker": "Bebe",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "[_thrilled_] I got a weekly spot on Clint Weber's show and a thirty percent raise!",
+        "prevSpeaker": "Gil",
+        "nextSpeaker": "Gil"
+    },
+    {
+        "speaker": "Gil",
+        "text": "How on earth did you get all that?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Bebe"
+    },
+    {
+        "speaker": "Bebe",
+        "text": "[_evil laugh_] Oh, we go way back, the Hammer and I.  I know where the bodies are buried. [_pause_] Usually, that's just a metaphor.",
+        "prevSpeaker": "Gil",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "So, Gil, what'll you have?  My treat?",
+        "prevSpeaker": "Bebe",
+        "nextSpeaker": "Gil"
+    },
+    {
+        "speaker": "Gil",
+        "text": "I think I'll be happier at the losers' table with Aunt Penny, the story lady. [_calls offstage_] Penny!  Don't put that flask away! [_moves off_]",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, congratulations, Roz.  Now, if you'll excuse me, I'm waiting for Ben.  We have to discuss our bargaining position.",
+        "prevSpeaker": "Gil",
+        "nextSpeaker": "Bebe"
+    },
+    {
+        "speaker": "Bebe",
+        "text": "Oh, there're so many to choose from.  Kneeling, crawling, groveling.  I'm sure he'll pick the right one.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_muttering_] God, she is obnoxious!",
+        "prevSpeaker": "Bebe",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_watches her_] Mmmm.  Though alluring, in a buxom, bad-girl kind of way.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, shut up, you horny idiot! [_pause_] My bandage seems a little loose. If Ben gets here, just tell him I went in to fix it. [_leaves for bathroom_]  _Bebe watches Frasier go toward restroom.  CUT TO: Int. restroom Frasier enters and closes the door. He walks to the mirror to examine his bandage.  Bebe opens the door and enters right behind him._ ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Bebe"
+    },
+    {
+        "speaker": "Bebe",
+        "text": "Frasier, we have to talk.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_angry_] Are you aware that you are in the men's room?",
+        "prevSpeaker": "Bebe",
+        "nextSpeaker": "Bebe"
+    },
+    {
+        "speaker": "Bebe",
+        "text": "Oh, please, if I paid attention to signs with little pictures on them... I'd never get a parking space. [_closes door_] Now, it's time we both dropped the masks.  You need me, and I want you back.  Just sign this contract. I'll cut you a deal that'll make Roz's look like lunch money.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Isn't there a zebra carcass somewhere you should be hovering over?",
+        "prevSpeaker": "Bebe",
+        "nextSpeaker": "Bebe"
+    },
+    {
+        "speaker": "Bebe",
+        "text": "You wanna see a carcass, chum? [_grabs Frasier and faces him toward mirror_] Look in the mirror.  Look what you've let that man do to you.  Your face is riddled with bird bites, your name's a punchline, and your career is five minutes from over, and he's only been your agent for three days!  _We see Frasier in the mirror.  He holds a hand up to his mouth, looking horrified at \"what he has become.\"_ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Bebe"
+    },
+    {
+        "speaker": "Bebe",
+        "text": "Send him in against the Hammer and you'll be doing fog reports from a lighthouse in Puget Sound! [_turns him around toward her almost violently_] Admit it!  You're scared!",
+        "prevSpeaker": "Bebe",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_desperately_] All right, maybe I am scared!  But... there is one thing that is stronger than fear!  Faith!  Faith that a good man with a good heart can make a good deal! [_pushes her back_] Now get out of my way!",
+        "prevSpeaker": "Bebe",
+        "nextSpeaker": "Bebe"
+    },
+    {
+        "speaker": "Bebe",
+        "text": "No, I won't let you!  D'you know what I've been through building your career?  I have been to hell and back so often I have frequent flier miles! [_runs to him, grabs the lapels of his coat and pulls him toward her_] You owe me a second chance!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Take your tentacles off of me! [_shoves her away, rushes out_]",
+        "prevSpeaker": "Bebe",
+        "nextSpeaker": "Bebe"
+    },
+    {
+        "speaker": "Bebe",
+        "text": "[_calling after him_] Please! I won't be the same Bebe you knew!  I'll change!  I'll be like Ben! [_pause_] Only competent! _At the table, Roz is nibbling on Niles's biscotti.  He has his hand on her shoulder and is holding the plate up to catch crumbs.  He's watching with a dazed, dreamy look on his face.  He looks up when he sees Frasier and Bebe emerge from the men's room._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Bebe"
+    },
+    {
+        "speaker": "Bebe",
+        "text": "[_chasing Frasier_] Darling, you forgot to sign!",
+        "prevSpeaker": "Bebe",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_starting to stand_] Oh, you reconciled.  Congratulations, I'll just be off to Maris's.",
+        "prevSpeaker": "Bebe",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Sit down, Niles! I'm still with Ben.  ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Ben!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Ben"
+    },
+    {
+        "speaker": "Ben",
+        "text": "Sorry I'm late.  I took my son's troop on a nature hike and little Noah got a bee sting, so I rushed him to the emergency room, then I came straight here.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "It's all right, we've got five minutes.",
+        "prevSpeaker": "Ben",
+        "nextSpeaker": "Ben"
+    },
+    {
+        "speaker": "Ben",
+        "text": "Excuse me. [_leaves_]",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Now, Frasier, you know Bebe can make you a better deal.",
+        "prevSpeaker": "Ben",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Listen to Roz.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Bebe"
+    },
+    {
+        "speaker": "Bebe",
+        "text": "Listen to Niles.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I'm not listening to any of you!  My God, am I the last man on God's green earth that's still willing to stand up for a principle?  _Ben comes back sans trench coat.  He is wearing a boy scout uniform, complete with shorts and red tie/sash._ ",
+        "prevSpeaker": "Bebe",
+        "nextSpeaker": "Ben"
+    },
+    {
+        "speaker": "Ben",
+        "text": "Should we go over those demands for ol' Mr. Hammer? _There is a long pause.  Frasier looks very regretful.  Before he even begins speaking, Niles takes out his cell phone and dials._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_hesitantly_] Ben, could we have a word?",
+        "prevSpeaker": "Ben",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_into phone_] Hello, Maris!  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Uh, listen, I don't think it's news to you that things haven't been going so smoothly with us, and I think I'd feel more comfortable with Bebe.  I know this must seem a bit of a shock to you, but, ah-",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Ben"
+    },
+    {
+        "speaker": "Ben",
+        "text": "[_laugh_] No, I saw this coming.  Yesterday, when you threw that little couch at me, I thought to myself, \"This is not a happy client.\"",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Thanks for understanding. _Frasier and Ben stand, Ben leaves to get his coat, Frasier walks over to where Bebe is standing beside the counter and Roz is sitting at the closest table.  Niles has just closed his cell phone and is now rushing out the door._ ",
+        "prevSpeaker": "Ben",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_o.s_] Taxi!  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Bebe"
+    },
+    {
+        "speaker": "Bebe",
+        "text": "[_handing over paper and pen; almost affectionately_] Sign right here, darling.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You know, I'm holding you to that promise about changing. I won't stand for any more shady doings.",
+        "prevSpeaker": "Bebe",
+        "nextSpeaker": "Bebe"
+    },
+    {
+        "speaker": "Bebe",
+        "text": "[_almost sincerely_] Those days are all behind me.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Once you've worked out this thing with the Hammer, maybe you can see what you can do about defusing this bird situation.  ",
+        "prevSpeaker": "Bebe",
+        "nextSpeaker": "Ben"
+    },
+    {
+        "speaker": "Ben",
+        "text": "Oh, you don't have to worry about the crane anymore.  The poor thing choked to death this morning.  They have no idea who would feed a bird a jawbreaker.  Bye, now. ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_hopefully and fearfully at once_] Is there any chance it wasn't you?",
+        "prevSpeaker": "Ben",
+        "nextSpeaker": "Bebe"
+    },
+    {
+        "speaker": "Bebe",
+        "text": "Oh, darling... [_looks around, trying to come up with an answer he'll be satisfied with_] There's always a chance.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_ponders_] I can live with that. [_signs papers_] _FADE OUT  END OF ACT TWO_",
+        "prevSpeaker": "Bebe",
+        "nextSpeaker": "Credits"
+    }
+]

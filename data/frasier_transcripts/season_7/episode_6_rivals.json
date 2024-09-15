@@ -1,0 +1,1689 @@
+[
+    {},
+    {
+        "speaker": "Poppy",
+        "text": "Hey, Frasier!",
+        "prevSpeaker": "No Previous Speaker",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Hello, Poppy.",
+        "prevSpeaker": "Poppy",
+        "nextSpeaker": "Poppy"
+    },
+    {
+        "speaker": "Poppy",
+        "text": "You should have your hearing checked.  I've been yelling \"wait up!\" for the last four blocks.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_excusing_] Well, I must be getting old.",
+        "prevSpeaker": "Poppy",
+        "nextSpeaker": "Poppy"
+    },
+    {
+        "speaker": "Poppy",
+        "text": "Like an old man can walk that fast!  You were practically running the last block.  Did I ever tell you about my uncle who ran everywhere?  He ran to the store...",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_puts his hand up_] That's a very interesting story.  Yes, I'll see you at the station, okay? [_notices Roz at a front table_] Roz!",
+        "prevSpeaker": "Poppy",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Thank God you were here.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "I know exactly how you feel.  Last week I ducked into a bathroom stall to get away from her and there were three other women already in there.  Listen, I have a favor to ask.  This friend of mine is running this charity dinner dance Friday night...",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, Roz, say no more.  What do they need?  An autographed picture for their silent auction?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "That would be a silent auction!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Very funny.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "No, what I was hoping you'd do is buy a couple of tickets. They're only a hundred bucks each.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I don't know Roz, I'd have to take a date.  Seattle does have certain expectations about the sort of person I'm to be seen with.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Oh, that's easy! [_points out Niles who has just entered the caf e_] Here he is!  Let's see if he's free.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_playing along_] I'll let you know! _Roz gets up, greets Niles, and exits.  Niles greets Frasier and sits with him._",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Mind if I join you?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, actually I'm not staying, I'm avoiding someone.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, who?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_points Poppy out_] The new so-called arts critic at the station, Poppy!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_knowingly_] A-ha.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "The woman drives me mad, she gasses on endlessly about the most mundane matters.  Absolutely infuriating - [_noticing Niles's grin_] - as is that smirk of yours.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well, I'm sorry if I've noticed that not a day goes by that you don't badmouth this woman.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, with good reason.  The woman is a windsock.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I'm wondering if someone isn't protesting a bit too much. She's very attractive, obviously well-bred.  Perhaps all this \"Pigtails and Inkwells\" hostility is actually a veiled attraction.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_sarcastic_] Oh, bravo Dr. Crane!  Yes, I think you're really on to something there.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Poppy"
+    },
+    {
+        "speaker": "Poppy",
+        "text": "Oh, where's Roz gone?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, she dashed off to the office.  We're going to continue our meeting there.  You know, Poppy, I was just telling my brother what an enchanting storyteller you are.  Why don't you take my seat, and he can find out for himself? [_he seats her_] Ta-ta.",
+        "prevSpeaker": "Poppy",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well, nice to finally meet you, Poppy.  There must be quite a story behind that name.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Poppy"
+    },
+    {
+        "speaker": "Poppy",
+        "text": "Yes.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "So... You're the new arts critic at the station, that must be interesting.",
+        "prevSpeaker": "Poppy",
+        "nextSpeaker": "Poppy"
+    },
+    {
+        "speaker": "Poppy",
+        "text": "Oh, yes.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Okay, well if you don't feel like talking, I should be really running along anyway. [_starts to get up_]",
+        "prevSpeaker": "Poppy",
+        "nextSpeaker": "Poppy"
+    },
+    {
+        "speaker": "Poppy",
+        "text": "No, don't go.  I am just amazed at how different you are from your brother.  He's sort of intimidating, I get so flustered around him, I just start babbling.  But you, you're different. You're very warm.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Thank you.  So are you.",
+        "prevSpeaker": "Poppy",
+        "nextSpeaker": "Poppy"
+    },
+    {
+        "speaker": "Poppy",
+        "text": "Polite, not to mention stylish and charming, [_getting carried away_] and incredibly handsome.  Oh my God!  Am I babbling again?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_pleased_] If you were, I'd be too polite and charming to tell you. [_laughs_] _FADE OUT  Scene Two - Frasier's Apartment. Frasier enters his apartment that afternoon to find a half-naked lady on the phone.  All she is wearing is a bath towel._",
+        "prevSpeaker": "Poppy",
+        "nextSpeaker": "Regan"
+    },
+    {
+        "speaker": "Regan",
+        "text": "[_on phone_] Well, what the hell are you doing? _Frasier looks at the scene and exits the room again.  In the hallway, he checks the door number and sees it is his own.  He ponders and wonders if he's gone mad before entering again to find the same scene._",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Regan"
+    },
+    {
+        "speaker": "Regan",
+        "text": "[_on phone_] I've been waiting for twenty minutes. [_hangs up and then to Frasier_] I am so sorry.  You're probably wondering who I am.",
+        "prevSpeaker": "Regan",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I'm mildly curious.",
+        "prevSpeaker": "Regan",
+        "nextSpeaker": "Regan"
+    },
+    {
+        "speaker": "Regan",
+        "text": "I got into the shower - my shower.  I just moved in next door. I probably should have started with that, huh? [_shakes his hand_] I'm Regan Shaw, by the way.  Anyway, the doorbell rang, and I figured it was the phone guy because I've been waiting all day long.  I ran to catch him, and stepped out into the hallway and locked myself out.  Luckily your father came along.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Hey, Fras.",
+        "prevSpeaker": "Regan",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, that was lucky.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "All right, well this should keep you nice and warm and I'll just run in the kitchen and get you your herbal tea.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "If you'll excuse me, I'll just show my father where it's kept. _Martin and Frasier enter the kitchen where Martin sets about pouring the herbal tea._",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Pretty sweet, eh?  I found her right out in the hall.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, well, I'm sorry Dad, but you can't keep her.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "No, I've brought her here for you.  I've been talking you up the whole time.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Really?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Yeah.  Listen, I've served this one to you on a platter.  In fact, if it wasn't for the jasmine on your robe, I'd say this one was a slam-dunk.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I'm just...",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "It's a basketball phrase.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, I know that, Dad.  I want to chat up a half naked woman without looking uncouth.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well, just be friendly, you know.  She's a veterinarian, she's single, she's very athletic, as you can tell from that body.  And Lord... [_thinks about body_]",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Dad!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Just because you're serving the cake doesn't mean you can't have a few crumbs that drop off. _Frasier and Martin enter the living room.  Martin hands over the herbel tea to Regan._",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Hi.  Well, here we go.  There you are.  Now, I've got a call to make so Frasier'll keep you entertained.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Regan"
+    },
+    {
+        "speaker": "Regan",
+        "text": "Thanks for the tea.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Don't mention it. [_exits_]",
+        "prevSpeaker": "Regan",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "So, you're next door?  Oh, that's right.  Judge Gilroy moved in with his daughter.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Regan"
+    },
+    {
+        "speaker": "Regan",
+        "text": "I bet he never wandered into your apartment wearing a towel.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No, but I did hear he wandered into work one day wearing a towel, though.  I guess that's why he had to move in with his daughter. [_laughs_]",
+        "prevSpeaker": "Regan",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Looks like I walked off with your car keys.  I should have known from the big [_stresses and jingles the keys_] BMW on it!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Thank you, Dad.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "So, Regan, that's an unusual name.  Is it by any chance from...",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Regan"
+    },
+    {
+        "speaker": "Regan",
+        "text": "From \"King Lear,\" yeah.  One of the ungrateful daughters. I don't know what my dad was thinking. Never do. I'm sorry, I have some issues with my father.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_obviously prying_] Excuse me again.",
+        "prevSpeaker": "Regan",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I have no idea what that would be like!  What?!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_stands around_] Well, I better be on my way, huh?  Just let you two talk.  He's a wonderful listener.  In fact, that's his motto on his very popular radio show, \"I Listen.\"",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, Dad, don't forget my sign off: \"Goodbye!\" _Martin laughs, hits him on the head with the spoon and exits to his room._",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Regan"
+    },
+    {
+        "speaker": "Regan",
+        "text": "I actually listen to your show.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Really?  Well, I'm flattered, thank you.",
+        "prevSpeaker": "Regan",
+        "nextSpeaker": "Regan"
+    },
+    {
+        "speaker": "Regan",
+        "text": "I think if I hadn't gone into veterinary medicine it would have been psychology.  Think I was just always drawn to animals.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, it is hard not to love them. _Frasier begins stroking Eddie rather harshly before eventually picking him up and putting him on his knee.  Frasier smiles at Regan as if he's loving it.  FADE TO:_ **SPY VS. SPY**  _Scene Three - Frasier's Apartment. Frasier is sat on the couch with his head in his hands as Martin stands by his chair._",
+        "prevSpeaker": "Regan",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "I just feel so responsible.  Maybe there was something more I could have said, something more I could have done.  I keep playing it over and over in my head.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I'll ask her out today, Dad. _Meanwhile, Daphne and Niles are coming up to the apartment in the elevator._",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Dr. Crane, do you believe women have an intuition about men?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Intuition?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Like they might know when a man has a little crush.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "You know, by the way he fidgets or gets a look in his eye or... _Niles cannot stop fidgeting and eventually tries leaning on the elevator side.  He inadvertently presses the fire alarm.  He quickly turns it off._",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "I only ask because I'm getting that feeling from your brother.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_relieved_] Really, huh?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "He's all moony-eyed today, someone he's quite keen on.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Actually I know who it is.  I called him on it yesterday in the coffee shop, he won't admit to it.  The problem is...",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Yeah?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I've developed a crush myself and it happens to be... _The elevator comes to a halt.  The doors open to reveal Frasier standing with Eddie in his arms._",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Frasier?  Whatcha doing?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Come in.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "So, Niles.  How are you?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_hangs his coat up_] Well.  The question is, how are you? I hear you're been running around like a love sick schoolboy.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Who told you that?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well, let's just say that the birds around here are chirping. Anyway... are you prepared to admit that my little theory yesterday was correct?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Are you talking about Poppy?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Yes, the woman you so adamantly denied having any attraction to.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I still do, she's loathsome.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Does it gall you so much to admit I'm right?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "But you're not right.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "So, well then, who is this person you're so interested in?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You don't know her.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Tell me about her.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "It's premature.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, brother!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "All right, fine, if you must know.  The woman happens to be...",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Regan"
+    },
+    {
+        "speaker": "Regan",
+        "text": "[_o.s_] Hello.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_whispers_] Her, my next door neighbor.",
+        "prevSpeaker": "Regan",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_not believing_] Oh, what good timing she has!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Hi, come in.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Regan"
+    },
+    {
+        "speaker": "Regan",
+        "text": "I just wanted to return this tea cup. [_hands it over_]",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, well, you're welcome any time.  Er, Regan Shaw, this is my brother, Dr. Niles Crane. _Niles and Regan exchange nervous greetings.  They obviously recognize each other._",
+        "prevSpeaker": "Regan",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Do you two know each other?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Regan/Niles"
+    },
+    {
+        "speaker": "Regan/Niles",
+        "text": "Yes./No.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, I'll just get us all some coffee and you two can decide if you know each other or not.",
+        "prevSpeaker": "Regan/Niles",
+        "nextSpeaker": "Regan"
+    },
+    {
+        "speaker": "Regan",
+        "text": "I'm so sorry, Dr. Crane.  I just was a little startled seeing you outside your office.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Please, don't even think about it, have a seat. [_they sit_] Well, so I gather this is your new building.",
+        "prevSpeaker": "Regan",
+        "nextSpeaker": "Regan"
+    },
+    {
+        "speaker": "Regan",
+        "text": "Yes.  Right next door to your brother who I just met.  Is that so strange?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Yes, well, remember, I have a policy of total confidentiality. [_Daphne enters_] He never needs to know that you've started seeing me.",
+        "prevSpeaker": "Regan",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Oh, here it is. _Daphne picks up an ashtray and takes it back into the kitchen where Frasier is pacing around._",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "What did you find out?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "It sounded like they've had a date or two.  He mentioned having seen her.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Damn him!",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Come to think of it, he said something in the elevator about having a crush on someone.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, I just have to confront him and see if he's man enough to admit he's horned in on my territory.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Well, excuse me, Dr. Crane, but didn't your brother meet her first?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, honestly, Daphne, just try to keep up.  It's not that complicated!",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, here we are.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Regan"
+    },
+    {
+        "speaker": "Regan",
+        "text": "Actually, I can't stay.  I've got the heating man coming.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh!",
+        "prevSpeaker": "Regan",
+        "nextSpeaker": "Regan"
+    },
+    {
+        "speaker": "Regan",
+        "text": "Can I take a rain check?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, certainly.  Would you like to go out for coffee some time?",
+        "prevSpeaker": "Regan",
+        "nextSpeaker": "Regan"
+    },
+    {
+        "speaker": "Regan",
+        "text": "Yeah, I'd like that.  Bye.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Great.  Bye.",
+        "prevSpeaker": "Regan",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_calls_] Bye. _Frasier opens the door for her.  When she exits he slams the door and looks around at Niles._",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "So, I do take it you two know each other.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well, we met briefly at some event. [_pours a coffee_]",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I see.  Changing the subject completely, Daphne just mentioned that you happen to have a little crush on someone yourself.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_sighs_] Yes, I have.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Care to elaborate?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Yes, I will.  Unlike you, I don't mind being candid.  The woman is Poppy.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_not believing_] Poppy?!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "We had coffee yesterday after you left.  You're not upset?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No, not at all.  Thank you for your candor, Niles.  I'm sure you and Poppy will be very happy together. [_smirks and laughs_]",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Are you laughing at me? [_rises to his feet_] You think so little of my chances?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No, no, Niles. [_a bad tone_] I wish you and Poppy the very best!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I don't need this smug attitude of yours. [_gets his coat_] I fully intended to discuss this amiably.  You refuse, so I'll just say goodbye.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Very well, thanks for dropping by, off you go.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "What kind of a fool does he take me for?  He is obviously pursuing Regan, the man has the nerve to say he's chasing Poppy.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "[_shocked_] Poppy?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, as if anyone could pursue that insufferable air hoi! Well, if it's deceit and chicanery he's after, I'll give him more than he can handle.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Dr. Crane, before it gets to that level, wouldn't it make sense for you two just to have one open and honest conversation?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Honestly, Daphne, how you manage to overreact in absolutely everything! _End of Act One.  Act Two.  Scene One - Caf e Nervosa. Frasier is seated at a table as Roz crosses to him and pulls up a chair. _",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "These shoes are killing me, I can't wait to sit down.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_pulls chair back_] Well, you're not going to sit there.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Why not? [_pulls chair back_]",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_pulls chair back_] I'm expecting someone for coffee.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Well, Niles is small, we can share.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "It is not Niles, will you stop saying that?  I'm meeting a woman.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "[_sits_] Well, I'll move when she gets here.  By the way, I still have four tickets left for that charity ball Friday night.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I'm sorry, Roz, thanks anyway.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Come on, it's for a good cause.  They provide disaster relief.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Poppy"
+    },
+    {
+        "speaker": "Poppy",
+        "text": "Hi, partners! [_crosses to them_] Frasier, I was leaving the booth and I found this umbrella. [_hands it over_] I think it belongs to you.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, it's my emergency umbrella.  I always leave it in the booth.",
+        "prevSpeaker": "Poppy",
+        "nextSpeaker": "Poppy"
+    },
+    {
+        "speaker": "Poppy",
+        "text": "Don't feel bad, I'm forgetful too! _Niles enters from the toilets at the back and notices Poppy as she cradles Frasier's head in sympathy.  Poppy exits._",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I think I'll just go and see what's keeping my latte.  Would you watch my table please, Roz? _As Frasier goes to see the waitress he passes Niles on the other side of the room.  They stare at each other like two cowboys from a western movie.  Niles arrives at Roz's table._",
+        "prevSpeaker": "Poppy",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Hello, Roz.  I noticed that Poppy was here.  Did she mention where she was headed?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "No.  Listen, Niles, can I interest you in a couple of tickets for a charity ball this Friday?  It's a great event.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Is Frasier going?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "No, but do you have to go everything together?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I'll take two. [_does so_] I'm in a hurry, I'll send you a check.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Where was Niles in such a rush off to?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "I have no idea. [_waves tickets_] Last chance, I only have two tickets left.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I thought there were four?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Niles just bought a pair.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Damn him!  He's probably off to intercept Regan right now.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Who?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I'm sorry, Roz, I'm in a hurry.  I'll write you a check for these.  Enjoy the table! _Frasier takes the tickets and runs out, leaving Roz cashless.  FADE TO:  Scene Two - The Charity Ball. In a set nearly identical to the one used in \"Moon Dance\" with the exact same music, everybody is milling about and dancing to light music.  Poppy enters on the arm of Niles._",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Poppy"
+    },
+    {
+        "speaker": "Poppy",
+        "text": "This is the best kind of party.  You get to dress up, have a wonderful time, and it's all for a good cause.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "You know it really is for an impressive organization.  I've heard that within twenty-four hours of any worldwide disaster they can put together a ball. [_Poppy laughs_]",
+        "prevSpeaker": "Poppy",
+        "nextSpeaker": "Poppy"
+    },
+    {
+        "speaker": "Poppy",
+        "text": "Oh, look it's your brother.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "What?  Oh, so it is.  Why don't you find our table and I'll get us some champagne.",
+        "prevSpeaker": "Poppy",
+        "nextSpeaker": "Poppy"
+    },
+    {
+        "speaker": "Poppy",
+        "text": "Yes.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Roz, you didn't tell me Frasier was going to be here.",
+        "prevSpeaker": "Poppy",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Yeah, he bought the last two tickets.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "After he knew I'd be here with Poppy.  Obviously he wants to get a shot at her himself, he bought that pull-a-long as his beard.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "[_shocked_] Frasier's interested in Poppy?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I shouldn't be surprised the subtle signs of attraction are lost on you.  A woman for whom the gunning of a Harley engine is like a come-hither look.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Hello, Roz.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Hi.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I see that Niles has brought himself a \"date\" to the evening.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Yep, and you'll never guess what he thinks.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, I know exactly what he thinks.  He's using Poppy as his patty, steal a few minutes with Regan, try and win her for himself.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "That's not what he thinks.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Roz!",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "He likes Poppy.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Dear simple, Roz.  After six years of listening at my feet. Have you learnt nothing of the dark forces that move people? Open your ears! _Frasier crosses back to Regan.  DISSOLVE TO:  Scene Three - The Charity Ball. Time has lapsed.  Frasier is dancing with Regan as Niles is dancing with Poppy.  However Frasier and Niles are just staring at each other._",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Regan"
+    },
+    {
+        "speaker": "Regan",
+        "text": "You're looking at your brother again.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, I'm sorry.  It's just that he keeps staring over here. For God's sakes, he hasn't paid any attention whatsoever. Can you imagine how that woman must feel?",
+        "prevSpeaker": "Regan",
+        "nextSpeaker": "Regan"
+    },
+    {
+        "speaker": "Regan",
+        "text": "[_knowingly_] Yeah, women hate that.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "He's doing it again.",
+        "prevSpeaker": "Regan",
+        "nextSpeaker": "Poppy"
+    },
+    {
+        "speaker": "Poppy",
+        "text": "What?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "My brother is staring at us.  Obviously thinking what a striking couple we make.  In fact, let's give him something to stare at. _Niles and Poppy do a little move where Niles pushes Poppy away from him on his arm and brings her back in.  However, she falls on Niles's toe and hurts him._",
+        "prevSpeaker": "Poppy",
+        "nextSpeaker": "Poppy"
+    },
+    {
+        "speaker": "Poppy",
+        "text": "I'm sorry.  Same toe as before.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Yes, same toe as before. [_laughs_]",
+        "prevSpeaker": "Poppy",
+        "nextSpeaker": "Regan"
+    },
+    {
+        "speaker": "Regan",
+        "text": "What is going on with you two tonight?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "All right, you'd find out sooner or later anyway.  See, I know about you and Niles.",
+        "prevSpeaker": "Regan",
+        "nextSpeaker": "Regan"
+    },
+    {
+        "speaker": "Regan",
+        "text": "You do?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes.  But it's all right, I don't mind.  It's just that, well, he's really quite smitten with you.",
+        "prevSpeaker": "Regan",
+        "nextSpeaker": "Regan"
+    },
+    {
+        "speaker": "Regan",
+        "text": "Oh my God, really?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Poppy"
+    },
+    {
+        "speaker": "Poppy",
+        "text": "Do you think you're going to lose the nail?",
+        "prevSpeaker": "Regan",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "No, no, I just need to sit down. _Niles sits in agony as the tango music starts up.  Where have we heard that before?!_",
+        "prevSpeaker": "Poppy",
+        "nextSpeaker": "Poppy"
+    },
+    {
+        "speaker": "Poppy",
+        "text": "Oh my God, I love the tango.  You won't mind if I dance one with your brother?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "What?",
+        "prevSpeaker": "Poppy",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, actually Poppy...",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Poppy"
+    },
+    {
+        "speaker": "Poppy",
+        "text": "Oh come on, Niles can keep Regan company. _Poppy stands and shoves her chair in, crippling Niles's toe again. Frasier and Poppy begin to tango._",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "You know, Regan, I'm getting a second wind.  Shall we show them how it's done?",
+        "prevSpeaker": "Poppy",
+        "nextSpeaker": "Regan"
+    },
+    {
+        "speaker": "Regan",
+        "text": "Well, actually, Dr. Crane-",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, don't be so formal.  We're not doctor and patient tonight!",
+        "prevSpeaker": "Regan",
+        "nextSpeaker": "Poppy"
+    },
+    {
+        "speaker": "Poppy",
+        "text": "Your brother's quite romantic, inviting me to a ball on our very first date.  He certainly doesn't waste time, does he?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No, he doesn't! ",
+        "prevSpeaker": "Poppy",
+        "nextSpeaker": "Regan"
+    },
+    {
+        "speaker": "Regan",
+        "text": "You do realize that I'm interested in your brother.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "You mean, you're developing real feelings for him?",
+        "prevSpeaker": "Regan",
+        "nextSpeaker": "Regan"
+    },
+    {
+        "speaker": "Regan",
+        "text": "Yeah.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well, you might think so now, but trust me: You're future's not with him.  I know this is confusing. [_twirls her round in a dizzy daze_] You'll see everything more clearly when I've got you on the couch.",
+        "prevSpeaker": "Regan",
+        "nextSpeaker": "Regan"
+    },
+    {
+        "speaker": "Regan",
+        "text": "[_disgusted_] Oh! _Meanwhile, Poppy and Frasier do a little move as Frasier, unwillingly, traces down her body._",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well, I can't take anymore of this.",
+        "prevSpeaker": "Regan",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I have to cut in.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Poppy"
+    },
+    {
+        "speaker": "Poppy",
+        "text": "How romantic!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_to Frasier_] Yes, come with me.",
+        "prevSpeaker": "Poppy",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "You should be ashamed of yourself.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Your tango wasn't so impressive, either.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I'm talking about your behaviour tonight.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I won't simply stand aside and let you have the woman you want.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Exactly, obviously one of us has to back off, not just tonight but permanently.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Regan"
+    },
+    {
+        "speaker": "Regan",
+        "text": "Frasier, can I talk to you for a moment alone?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, of course, just give me one more moment with my brother.",
+        "prevSpeaker": "Regan",
+        "nextSpeaker": "Poppy"
+    },
+    {
+        "speaker": "Poppy",
+        "text": "Niles, when you're finished I'd love one more dance.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Ah, I'll be right there.",
+        "prevSpeaker": "Poppy",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well, I believe she has made her choice.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, I believe she has. _They both look as if they have won.  Niles goes to Poppy and Frasier to Regan as the song \"On The Street Where She Lives\" from Bernard Shaw's \"My Fair Lady\" is played by the orchestra._",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Regan"
+    },
+    {
+        "speaker": "Regan",
+        "text": "Frasier, I think I'd like to leave if that's all right.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Leave?  Already?  Well, couldn't we just have one last dance?",
+        "prevSpeaker": "Regan",
+        "nextSpeaker": "Regan"
+    },
+    {
+        "speaker": "Regan",
+        "text": "Well, I guess.  I'm just feeling a little uncomfortable.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, well, I certainly don't blame you.  You see, now I've spoken with him, Niles has agreed to behave himself.  Now I can put all my attention on you.",
+        "prevSpeaker": "Regan",
+        "nextSpeaker": "Regan"
+    },
+    {
+        "speaker": "Regan",
+        "text": "That is a relief.  I mean, you can understand why I was kinda freaked out by all that.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Regan"
+    },
+    {
+        "speaker": "Regan",
+        "text": "Right?  Frasier?",
+        "prevSpeaker": "Regan",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "He's a brave little soldier, isn't he?  Awash in despair and yet he dances.",
+        "prevSpeaker": "Regan",
+        "nextSpeaker": "Poppy"
+    },
+    {
+        "speaker": "Poppy",
+        "text": "This is when they wrote songs that were really about something.  True love, broken hearts.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_referring to Frasier but arguably in his heart referring to the last time he was in the ball room and Daphne broke his heart_] Yes, there's nothing quite so poignant as someone with a broken heart, pretending that it isn't. ",
+        "prevSpeaker": "Poppy",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No wonder, he keeps staring over at us.  He's suffered such a crushing defeat tonight.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Regan"
+    },
+    {
+        "speaker": "Regan",
+        "text": "Can we go?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, of course, that's the best thing to do.  You know, let me just have one last word with him.",
+        "prevSpeaker": "Regan",
+        "nextSpeaker": "Regan"
+    },
+    {
+        "speaker": "Regan",
+        "text": "Oh my God!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Niles, if you don't mind.",
+        "prevSpeaker": "Regan",
+        "nextSpeaker": "Poppy"
+    },
+    {
+        "speaker": "Poppy",
+        "text": "You guys are going to wear me out.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Can I see you at the bar, please?",
+        "prevSpeaker": "Poppy",
+        "nextSpeaker": "Regan"
+    },
+    {
+        "speaker": "Regan",
+        "text": "I think I'm going to catch a cab.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Poppy"
+    },
+    {
+        "speaker": "Poppy",
+        "text": "Aren't you having a good time?",
+        "prevSpeaker": "Regan",
+        "nextSpeaker": "Regan"
+    },
+    {
+        "speaker": "Regan",
+        "text": "Frankly, no.  Are you?",
+        "prevSpeaker": "Poppy",
+        "nextSpeaker": "Poppy"
+    },
+    {
+        "speaker": "Poppy",
+        "text": "Oh, yes, I think Niles has got quite a little crush on me.",
+        "prevSpeaker": "Regan",
+        "nextSpeaker": "Regan"
+    },
+    {
+        "speaker": "Regan",
+        "text": "Actually, Poppy, there's something you should know about Niles.",
+        "prevSpeaker": "Poppy",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Niles, I just wanted to let you know that I'm not happy with the way things have ended this evening.",
+        "prevSpeaker": "Regan",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well, neither am I.  How could I be?  And the worst thing is: it's not just tonight.  What happens when we keep running into each other?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, the victor will have his trophy.  The loser will be empty-handed.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "It hardly seems worth it, given the permanent damage this could do to our relationship.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, I can't help but wonder if perhaps we're being a bit short-sighted.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Niles, is that Regan and Poppy leaving just now?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "It was, wasn't it?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I want you to go after her.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "What?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, I won't stand in your way.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "No, Frasier, I would feel better if you went after her.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No, I couldn't do that to you.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I think we're both feeling the same thing.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I know we are.  You noble bastard.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Right back atcha.  Oh, it's for the best.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "After all, the most important thing is our friendship.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I think that's worth drinking to. [_to waiter_] Two bourbons.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You know, while we're at it, let's propose a toast to the one pretty remarkable woman.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well, she'd have to be to have won both of our hearts.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Hear, hear.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well, then...",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier/Niles"
+    },
+    {
+        "speaker": "Frasier/Niles",
+        "text": "To Regan!/To Poppy! _Niles's glass freezes on its way to his lips.  Frasier, less lucky, gets half a sip in his mouth, and it stays there, as comprehension sinks in._",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_swallows_] I think we're going to need two more here. _They throw back the rest of their bourbons, then slam their glasses down and bury their faces.  End of Act Two._",
+        "prevSpeaker": "Frasier/Niles",
+        "nextSpeaker": "Credits"
+    }
+]

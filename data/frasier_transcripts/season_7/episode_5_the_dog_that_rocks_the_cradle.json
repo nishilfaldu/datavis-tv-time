@@ -1,0 +1,1617 @@
+[
+    {},
+    {
+        "speaker": "Roz",
+        "text": "I'm sorry I brought Alice today when we have so much work to do.",
+        "prevSpeaker": "No Previous Speaker",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, that's all right, Roz.  You know what, you'll find another nanny soon.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "I better.  I have a date tomorrow.  It's my first one in a month.  A month!  Between spending my days with you and my nights with Alice, I've forgot what a real conversation is like.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, don't tell Alice that, it might hurt her feelings.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "There we go again! _Roz enters as Martin and Niles enter.  Niles is in his suit, Martin is wearing a long overcoat.  They all greet each other._",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Just look at the dapper gent I ran into on the elevator.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "All right, Niles, that's enough.  Yes, I like the suit you got me. [_Martin takes overcoat off revealing a black suit_]",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "All right.  Well, tell me about the comments.  Did everybody there ooh and aah?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Nope, people were pretty much looking at the guy in the casket.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "So, Dad, how was the funeral?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh, it was terrible.  It's not at all the way Stan would have wanted it.  They did everything on the cheap and that daughter of his, she didn't even get the good priest.  She got some rookie from the seminary who stumbled all through the eulogy and couldn't even pronounce \"Wojadubakowski!\"",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well, I can commiserate with you, Dad.  I had a rather bad day on the death front myself. [_heads to sherry shelf_] Sherry?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes please, Niles.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_pours two glasses_] I received a letter today saying, thanks to my divorce, I've lost my plot at Seattle's toniest cemetery.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You mean, you're out of \"Verdant Hills?\"  Oh, I am sorry, I know how much you were looking forward to being dead there.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "They've wait-listed me, but I don't like my odds.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I don't blame you.  One country club fire, you can kiss your chances goodbye.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "I went to all sorts of funerals as a child.  My uncle's a mortician.  Lovely man.  He's offered to do my make-up for the wedding. [_exits to her room_]",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I can just hear the whispers now.  \"Did you see the bride? Very life-like.\"  Dad, you know, I'm sorry about your friend's funeral not going so well.  Rest assured, when the time comes - years from now - Niles and I will follow your wishes to the letter.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Thank you.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Wait, Dad, what are your wishes?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Never mind, I'm not going to go planning my own funeral, it's bad luck.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "But, Dad...",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Ah, ah, ah, you don't pull the cord on the bus until you're ready to get off.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_confused_] Pull the what on the what?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I don't know.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I'm surprised.  I didn't know Dad had such a bugaboo about his funeral arrangements.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yeah, I know, it's a painful subject, but we've got to plan for it.  We all must be prepared when the cold hand of death comes knocking on our door. _A knocking is then heard on the front door.  Frasier and Niles look at each other._",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Would you get that?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I most certainly will not. _Frasier stands and opens the door.  It's the pizza delivery guy, who is none other than Bob \"Bulldog\" Briscoe.  He thrusts the pizza into Frasier's hand._",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "Pizza.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_taking it_] Oh, thank you very much. [_notices_] Bulldog? Good Lord, come in. [_he does_] Oh heavens, you remember my brother Niles.  Niles, you remember Bulldog.",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Yes, of course.  Hello, Bulldog.  So, are you delivering pizzas for a living?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "[_sarcastic_] No, I'm an eccentric millionaire, this has always been my dream.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Bulldog, I can't tell you...",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "[_interrupts_] No, no, no.  Can the sad face, okay?  Just making some extra cash between radio gigs.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "All right.",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "Oh, it's eighteen bucks, by the way.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well, I just stopped by to leave off these opera tickets. [_hands them to Frasier_] So, I'll be on my way.",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Thank you, Niles.  By the way, I'm a little short of cash. Do you mind, er-?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh yes, thank you. [_hands Bulldog some money_] There you are, and something extra for you. [_hands Bulldog a twenty dollar bill_]",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "Whoa, that's a pretty generous tip!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I'll say, wrong bill! [_exchanges it for a one dollar bill_]",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "Hey, good luck, Doc, I'll see you.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_shakes his hand_] Thanks Bulldog, take care.",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "All right. _Bulldog crosses to the door but is stopped when Roz appears back from the bedrooms._",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Bulldog?",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "Hello, Roz.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Are you delivering pizzas?",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "Yeah, yeah, this is kinda awkward, huh?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Oh, no, don't be embarrassed.  A job's a job.",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "No, I mean awkward for you.  This is the first time you've seen me since we had that fling and I dumped ya.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "I dumped you, pizza boy!",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "Hey, look who's here!  Hey, sweet pea, you are getting so big. Hey, look at that smile, she likes me.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "She's relieved not to be the least mature person in the room anymore.",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "Who's got a mean old mommy? _Bulldog goes to play with Alice as Frasier calls Roz over to talk to him._",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Roz.  Listen, I think you may have solved your babysitting problem.",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Bulldog?  Are you nuts?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, look: Alice is obviously crazy about him, and he could use the money.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "I don't know.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Okay, fine, fine, Roz. You just cancel your date.  I mean, you've been this long without a man, what's a few days more?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Bulldog, do you want a job? **THE NANNY**  _Scene Two - Roz's Apartment. Bulldog and Alice are at the dinner table.  He is feeding her._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "Okay, one more bite, then we can watch \"Sports Center.\"",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Have you seen my purse?",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "Yeah, it's on the chair.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "[_picks it up_] Steve's going to be here any minute.",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "So, you've been dating for a while?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Actually, no.  Tonight's our first date.  In fact, it's my first date in a month.",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "Whoa!  You injured?  You pull something?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "No.",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "I guess no one quite measured up to that week you spent in the doghouse, huh?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Let's get one thing straight.  That little fling we had...",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "I know, I know, I was just joking.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "[_to Alice_] Okay.  If you're not going to have some peaches, we've got some jello in the fridge.  You know, some naughty ladies like to wrestle in that stuff.",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "Who's that?  Who's that? [_opens door to Steve_] He-ho.",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Steve"
+    },
+    {
+        "speaker": "Steve",
+        "text": "Excuse me, is this Roz Doyle's apartment?",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "Yeah, yeah, are you her date?",
+        "prevSpeaker": "Steve",
+        "nextSpeaker": "Steve"
+    },
+    {
+        "speaker": "Steve",
+        "text": "Yeah. _Bulldog checks behind him for Roz, then grabs Steve by the front of his shirt._",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "Listen up: if you go out with Roz tonight, I will rip off your arm, ram it down your throat and use it to squeeze your heart until it stops beating. [_then to Alice_] Who's my pretty girl? [_grabs Steve_] Okay, dirtball.  Listen, when you get out of here, you call Roz and you cancel like a gentleman.  As far as she's concerned, this conversation never took place.  Got it?",
+        "prevSpeaker": "Steve",
+        "nextSpeaker": "Steve"
+    },
+    {
+        "speaker": "Steve",
+        "text": "Who are you?",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "I'm your worse nightmare: the babysitter! _Bulldog shuts the door on him as Roz enters.  She is wearing a very low-cut top._",
+        "prevSpeaker": "Steve",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "Whoa!",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Do I look slutty?",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "All right, if you're fishing for compliments: yeah, you look slutty.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Hello?  Hey, Steven.  Oh, really?  Well, tomorrow's Saturday, I mean you won't have to... No, it's okay.  Yeah, bye. [_hangs up_] I don't believe it!  My first date in a month and he blows me off.",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "What, at the last minute?  What a jerk!  He does not deserve you.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Thanks, Bulldog.",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "Well, I guess I can go.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Mmm.",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "Oh, I ordered a pizza.  Just have him drop it by my place. I'm at the YMCA.  Have him knock hard, I turn up the radio to drown out the sirens.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Why don't you just stay and have your pizza?",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "Are you sure?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Yeah, it's not like I'm doing anything tonight.  Come and tell us what you guys did at the park today.",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "We fed the ducks!  We went on a pony ride and then came back for a whole jar of peas.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Peas?  How did you get her to eat those?",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "There's a trick to it.  You've got to pretend to sneeze them out of your nose.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "How did you come up with that?",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "It's an interesting story...",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Actually, don't tell me. **THE PLOTS THICKEN**  _Scene Three - Caf e Nervosa. Frasier is sat drinking his coffee as Niles enters, pleased with himself. _",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, good afternoon, Niles.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Coffee's on me, I'm back at \"Verdant Hills\" cemetery.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, well congratulations, nothing left now but all that pesky waiting.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I haven't got the official word yet but I've called in a favor: Bruce McGurk, he's on the board of directors.  I gave him grief counseling when his uncle was lost at sea and it occurred to me, there's a plot gone begging!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Tell me something, do I have the word \"loser\" tattooed across my forehead?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No, Roz, but there is a rumor about a \"Tweety Bird\" on your upper thigh.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "I've had two dates this week and both of them have bailed out on me at the last second.  What's wrong with me?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, don't count yourself out just yet, Roz.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Yeah, right.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No, no, there's a young man over there, can't take his eyes off you.  He's been staring at you ever since you came in. _Roz looks at the man who is sitting by the window using his laptop. She gasps with recognition._",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "[_like a school girl_] That's Ted from the ad department! We've been making eye contact for months.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, yes, Ted.  Well, his gaze is so steamy it's re-foaming my latte.  Why don't you go other there and talk with him?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "I can't.  I won't know what to say.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I tell you what, ask him to dinner.  I'm going to \"Chez Henri\" myself this evening, I'll call and get you a table.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "I don't know, I'm feeling a little gun shy.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Roz, you better hurry.  If you talk to me another minute longer, he'll think he's got some serious competition.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "[_laughs_] Thanks, Frasier, I needed a good laugh to loosen me up. _Roz, laughing, goes over to chat with Ted.  Frasier then opens his cell phone and dials._",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_into phone_] Hello, it's Frasier Crane. _Niles's cell phone starts ringing.  He answers it and sits with Frasier._",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I was just wondering, I'd like to get a table for a dear friend of mine tonight as well.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Niles Crane here.  Hello, Bruce.  I'm hoping you're calling with good news about \"Verdant Hills?\"",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Table for two.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Yes, a plot for one.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "By the kitchen?  Oh Lord, I was hoping for something near the fireplace.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Near the parking lot?  I prefer the serenity garden.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, the back row would be fine, who's at the next table?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "The hilltops?  Divine!  Who's in the adjacent plot?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "The Ashbys, wonderful!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "The Ashbys, delightful!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Thank you very much.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I'm very grateful.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "McGurk got me a shady spot on the high hill.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You mean...?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_ecstatic_] Yes, I'll spend eternity looking down on Maris.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, Niles.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Checkmate!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "He said yes.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, of course he did Roz, congratulations.  And you're all set at \"Chez Henri.\"",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Great.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "[_irate_] Okay, what sorry bastard would steal a pacifier from a kid? [_slams a table_] THIS STINKS!  THIS IS TOTAL B.S.! [_then_] Oh, found it, found it. [_gives it to Alice_]",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "Hi.",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "You know, Bulldog, I hate to do this to you.  Could you babysit tonight?  I just get a date with Ted over there.",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "[_miffed_] Really?  Sure, just say.  Way to go, slugger!",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "I better go home and get ready.",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "You go ahead, I'll catch up with you after I go to the can.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Lovely!",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "Hey, Ted, right?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Ted"
+    },
+    {
+        "speaker": "Ted",
+        "text": "Bulldog, long time, no see.",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "I heard you're going out with Roz tonight.",
+        "prevSpeaker": "Ted",
+        "nextSpeaker": "Ted"
+    },
+    {
+        "speaker": "Ted",
+        "text": "Yeah.",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "Listen up!  You have her home forty-five minutes after you pick her up or you'll be sorry.",
+        "prevSpeaker": "Ted",
+        "nextSpeaker": "Ted"
+    },
+    {
+        "speaker": "Ted",
+        "text": "Yeah? [_stands_] What are you going to do about it? _Bulldog holds his hand in front of Ted's face and breaks his own middle finger._",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Ted"
+    },
+    {
+        "speaker": "Ted",
+        "text": "Oh my God!",
+        "prevSpeaker": "Ted",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "If I'm willing to do that to me, just think what I'll do to you.",
+        "prevSpeaker": "Ted",
+        "nextSpeaker": "Ted"
+    },
+    {
+        "speaker": "Ted",
+        "text": "All right, forty-five minutes.",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "Or else! _Bulldog walks to the toilet feeling the pain as he goes.  Then Martin enters and crosses to the boys' table._",
+        "prevSpeaker": "Ted",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Hey boys, feel like taking a ride?",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Sure, Dad.  Where to?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well, I got thinking about what we were talking about the other night, you know, about me not having made any arrangements for myself.  So, just went out and bought myself a burial plot.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Okay, all right, let's go have a look, Dad.  I'm glad to see you've finally realized there's no point in being superstitious about the whole thing.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Yeah, well, I realized that if I let you plan my funeral there'd be all harps, white wine, and frankly a lot of very pissed-off cops! _Martin and the boys exit.  FADE TO:  Scene Four - Cemetery. Daphne is driving her red convertible around the cemetery.  Martin is giving her directions as Niles and Frasier listen in the back seat._",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Right up here on the left.  I've got the whole service mapped out.  It'll start with a bagpiper marching down the aisle...",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Bagpipes?  I'm having bagpipes at my wedding, you knew that!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "And none of that dainty finger food, either.  Big slabs of beef!  Prime rib.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "You can't have prime rib, I'm having prime rib.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh, for Pete's sake.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "No, no, this is lovely!  If you kick off before I get married, you'll ruin everything.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "All right, all right, I'll drop the bagpipes.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "No, no, have the bagpipes!  And what else are you going to have?  A big cake with a little white coffin on the top.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh, put a sock in it, will ya?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "It wouldn't surprise me if you had a hearst with \"Just Buried\" on the side of it.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh, stop it!  I'm warning you. _Daphne stops the car.  They get out.  Niles and Frasier are not impressed but put on a brave face.  They go to Martin's plot where a big building is situated behind._",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Pretty great, huh?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "I'll put your mom's ashes over there on the left.  Because that was her side of the bed and, er, oh, see how close we are to the maintenance shed. [_points out the building_]",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "And that's good because?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "You're the first one to get mowed!  Yeah, so do you really like this place?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, Dad.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Good.  Fras', take about three steps over to your left, will ya?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "There you are.  Niles, stand right next to him. [_Niles does_] Congratulations, you are standing on your very own graves.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "What?!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Yes, they were for sale so I went ahead and bought them.  And seeing how much you like it out here, I'm glad I did.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "But, Dad...",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "I know what you're gonna say, the expense!  But don't worry about it.  Merry Christmas! _Niles and Frasier looks horrified as Daphne holds in her laughter.  End of Act One.  Act Two.  Scene One - Roz's Apartment. Bulldog is preparing the dinner table for an evening meal.  The door opens and Bulldog runs off into the kitchen.  Ted and Roz enter._",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Ted"
+    },
+    {
+        "speaker": "Ted",
+        "text": "Sorry we had to rush out like that.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Me too, is your stomach feeling any better?",
+        "prevSpeaker": "Ted",
+        "nextSpeaker": "Ted"
+    },
+    {
+        "speaker": "Ted",
+        "text": "[_looking around for signs of Bulldog_] Not really.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Fancy some ginger ale or...",
+        "prevSpeaker": "Ted",
+        "nextSpeaker": "Ted"
+    },
+    {
+        "speaker": "Ted",
+        "text": "I think I really better go now. _Ted runs out.  Roz closes the door and looks depressed and angry with herself.  She looks at her clothes and collapses on the couch.  Bulldog enters and acts surprised._",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "She's asleep Roz, don't worry I won't disturb you a... [_then_] Where's Ted?",
+        "prevSpeaker": "Ted",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "He ditched me.",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "What?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "He kept saying his stomach was bothering him, he was looking at his watch the whole time.",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "What is wrong with men?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "It's not them, it's me.  It's been happening all week.",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "No, no, no, trust me.  It is not you.  They're just jerks.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Thanks, Bulldog.",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "Hey, look, if you're hungry, I just whipped up a little something.  There's probably enough for two.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Great.  I'm just gonna go change, okay?",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "Okay. _Roz exits to the bedrooms.  Bulldog gets to work.  With his feet he opens a cupboard as he lays the table.  He takes glasses already filled with wine out of it and a big pot of cooked pasta which he places on the table whilst shutting the cupboard with his foot. Then there's a knock at the door before Ted enters with Roz's purse._",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "What the hell are you doing here?",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Ted"
+    },
+    {
+        "speaker": "Ted",
+        "text": "I know, I'm sorry.",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "You are supposed to be gone.  How many of my own fingers do I have to dislocate before you take me seriously?",
+        "prevSpeaker": "Ted",
+        "nextSpeaker": "Ted"
+    },
+    {
+        "speaker": "Ted",
+        "text": "I got her home in forty-five minutes, okay?  She left this in the car. _We see Roz is watching this scene from the hallway.  As Bulldog growls at him and shuts the door on him, she hides back in the bedroom.  She then reappears and puts a plan into action._",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "[_sits_] Oh, this smells delicious.  Thank you.  Ow, I guess I'm a little tense from that date.",
+        "prevSpeaker": "Ted",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "Allow me. _Bulldog starts to massages her with his hand but feels the pain of his finger so instead he uses his elbow._",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "I forgot how good you were at this!  Come to think of it, you were good at a lot of things. _Roz sits back and sexily unbuttons her blouse revealing her underwear to him._",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "Wow!  \"Victoria's Secrets,\" page 39.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Why don't we just skip dinner and go straight to dessert?",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "Uh-ho!  \"Penthouse Forum,\" page 23. _Bulldog chases Roz to the bedroom.  Scene Two - Roz's Bedroom. Roz runs in and lays on the bed.  Bulldog strips in front of her._",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "[_saucy_] Are you the new pizza man?  I hope you're not double parked.",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "I promise you, ma'am.  I will deliver in thirty minutes or more.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "There's a scented candle out on the balcony, would you get that for me?",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "I'm kinda naked here.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Cedar wood, it promotes stamina and sexual creativity.",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "I'll be right back. _Bulldog runs out onto the balcony and finds no candle.  Roz locks the balcony door on him._",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "Roz, open the door.  Oh, I get it. [_knocks_] Pizza man!",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "You slime bag!  You've been scaring off my dates all week.",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "I don't know what you're talking about.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Cut the crap.  I just saw you talking to Ted.  This is the lowest thing you've ever done!  After the way I've trusted you, this is the way I treat you.",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "Would you let me in, please?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "No.",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "It's freezing out here, [_looks down_] as you can plainly see!",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Good, I want you to suffer.",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Don't sit there, I eat off that table, for God's sake!",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Get dressed.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "Come on, wait. _Roz runs out of the bedroom, Bulldog follows her.  Scene Three - Roz's Apartment. They enter the main room._",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "Wait, would you let me explain?",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "I don't want to hear it, you make me sick!  Just get it out.",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "I wasn't just trying to get you in bed.  Just give me a second, please. [_deep breath_] Last spring, when we were together, it was great and I didn't know how to handle it, so I ran away.  But when I saw you again, it was... I figured if I could keep the competition out of the way, then maybe you and I... I don't know... we could be a couple.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Us?",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "[_sincere_] I think I'm in love with you. _Roz is silent and doesn't know what to say.  She obviously cannot reciprocate._",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "[_crushed_] You're not saying anything, are you?",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Wait a minute!  I know what you're doing!",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "What?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "All this love stuff, it's just another way of getting me into bed.",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "No, Roz, no.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "God, the oldest trick in the book!",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "Wait a minute, Roz.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "And you're still at it!  You're still at it!  You're not Bulldog!",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "No, listen. _Roz then shows to him that she knows he truly loves her but that she cannot love him back._",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Give up, Bulldog.",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "[_feigned_] You can't blame a guy for trying!  I had you going, huh?  All the dishes and the watering.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "You're the master.",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "Yeah, I even put childproof latches on the cabinet.  Part of my plan to get you in the sack.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "You are such a pig! ",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "Well, I better be going.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Okay.  Thank you for all of your help with Alice. [_opens door_] I'll see you, Bob.",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "I'll see you, Roz. _Bulldog then exits.  Roz is obviously frustrated and confused.  She goes to sip some wine as someone knocks at the door._",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "[_shouts_] I'm sorry, Mrs. Wasnick, I know the balcony is not for sex play!",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_off stage_] It's Frasier.  And by the way, charming!",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "It's open!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I just saw you dash out of the restaurant with Ted, I thought, \"God, what's wrong?\"",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "You are not gonna believe what just happened.  Bulldog just told me he loved me.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "What?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Yeah, he made Ted bring me home early, turns out he's been scaring my dates off all week.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, what did you say to him?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "I tried to let him down easy, I felt sorry for the guy.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_amazed_] Bulldog, wow, he's full of surprises, isn't he?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Who'd have thought?  You know what's really weird?  I'm gonna miss him. [_points to dinner_] Look at this.  I never had to worry about Alice, he kept this place so neat and it was really nice to have someone to... [_reflects_] someone to come home to.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, maybe Bulldog, in his own clumsy way, gave you a taste of a more traditional lifestyle.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Yes, I suppose so.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Who knows, Roz?  Maybe the time has come.  You might be willing to start looking for a...",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "[_against the idea_] What?  A husband?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No, I wasn't going to say that.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Just because I'm gonna miss certain things about Bulldog doesn't mean I need to rush out and get married.  Look at this week I've had.  Three guys interested in me and not to mention Bulldog.  I'm liking this! [_reassuring herself, arguably in denial_] Single life is pretty good.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "All right, Roz, as long as you're okay.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "I really appreciate you coming by.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "It's okay.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "I'll see you tomorrow.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Of course.  Good night.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Good night. _Frasier exits and Roz closes the door.  Roz takes a deep breath and heads over to the dinner table.  She takes Bulldog's glass of wine and pours its content into hers, making a big glassful.  She draws up a seat and pulls over the pasta pot.  She tucks in with a thoughtful expression on her face.  End of Act Two._",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Credits"
+    }
+]

@@ -1,0 +1,1449 @@
+[
+    {},
+    {
+        "speaker": "Frasier",
+        "text": "You know, I heard the most extraordinary thing on the radio today.",
+        "prevSpeaker": "No Previous Speaker",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I know.  Rubenstein's torrid survey of the Copin mazurkas. It took all my strength not to turn the car around, drive home and ravish my wife.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "That Daphne is one lucky lady.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No, I was referring to the fact that Maris has been released on bail.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, yes.  Of course she's still under house arrest until her murder trial.  Poor thing, has to wear an electronic tracking device on her ankle.  She can't keep the press off her back, they're printing the most vicious stories about her.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "I saw one of those.  Is it true that she fired one of the gardeners because she found a worm on the front walk?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well, to be fair, Maris has always been frightened and disgusted by them.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "It's just a stupid worm.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "No, I'm talking about gardeners.  [_Martin walks into the coffee shop._] ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Hey, guys.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh hey, Dad.  Why don't you pull up a chair?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh, thanks.  [_Niles moves over so Martin can sit down._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "You're looking sharp.  I don't think I've ever seen this jacket.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well, that's because I don't wear it too often.  But you know, when I do, sometimes I find all kinds of junk in the pockets. It's like putting on a time capsule or somthein'.  [_he pulls out a letter_]  Oh, here, here's something from the world of yesterday.  [_Frasier takes the envelope._] ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Dear God, Dad, that's my home insurance payment.  I asked you to mail this three months ago.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh, sorry, Fraizh.  But you see what I mean about the jacket? I can still see him givin' me that envelope.  [_Frasier dials his cell phone.  Martin pulls another envelope out of a different pocket.  He looks at it, wide-eyed, then hurries out._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No wonder my agent's been calling me. My policy's probably been cancelled!  [_into the phone_]  Yes, Jim Sunquist, please. ... Yeah, Jim, it's Frasier Crane. ... Yes, I know.  I've just discovered that myself.  Listen, how much to renew? ... What?  Well, I'm gonna have to think that over. ... Uh, right, I'll call you.  Thanks, Jim.  [_He disconnects._] ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Scandinavian shyster!  Cold-hearted, glad-handed, highway-robber, phony big-toothed smiling son of a bitch insurance man!  [_He notices the phone is still on._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Not you, Jim.  Love to Marie.  [_He firmly disconnects._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Damn!  Now I'm going to have to pay twice as much!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well, why don't you just find another insurer?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Oh, you know who you should talk to?  Ann Hodges!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, Roz, have you lost your mind?  I never want to see that woman again.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Who is she?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, a friend of Roz's.  We had a stunningly bad date, during which my behavior was...less than chivalrous.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "You ate her ravioli, then hit on another woman in the same restaurant.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Which I concede was less than chivalrous.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Well, the least you can do is throw her some business.  She just did mine and she did a great job.  And she can rush this through.  Here you go, here's her card.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "You should be covered, Frasier.  God forbid something should happen, a pipe bursts, or Dad should screw up again. Remember the great bacon fire of '98?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I suppose spending ten minutes with the woman won't kill me.  [_Frasier pulls out his cell phone._] ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, for God's sake, Jim, hang up already!  [_He stabs at the buttons furiously.  Fade out._]   [_Fade in.  Frasier is getting off the elevator.  Caroline, his neighbor, is still on._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, this is me.  Uh, thanks again for holding the elevator, Caroline.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Caroline"
+    },
+    {
+        "speaker": "Caroline",
+        "text": "Well, you did throw your briefcase into it.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, yes.  Well, you'd be surprised how many people just kick it back out and push the close button.  You know, maybe I could repay you by taking you to dinner some evening.",
+        "prevSpeaker": "Caroline",
+        "nextSpeaker": "Caroline"
+    },
+    {
+        "speaker": "Caroline",
+        "text": "Yeah, I'd like that.  How about next Monday?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Perfect.  Why not stop by my place first for a drink? Around six o'clock?",
+        "prevSpeaker": "Caroline",
+        "nextSpeaker": "Caroline"
+    },
+    {
+        "speaker": "Caroline",
+        "text": "Sounds good.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Great.  Um, thanks again.  And...sorry again about the briefcase.   You might want to put some ice on that ankle.  [_He goes into his apartment as the elevator closes.  Cut to - the living room as he comes in.  Martin enters, eating._] ",
+        "prevSpeaker": "Caroline",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Hi, Fraizh.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Hi, Dad.  What have you got there?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "I made a sandwich with some of your cold chicken in there.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Also known as quail.  Think you can get a plate before you start dripping mayonnaise all over the place?  [_He puts his coat up._] ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh, relax, I'm almost done.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, and by the way:  Until this home is insured once again, there will be no more barbecuing or deep frying.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Does that include the hot plate in my bedroom?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Since when do you have a hot plate?!  [_The doorbell rings, Frasier goes to answer it._] ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Since I finally figured out how to plug it in.  In just one outlet, I have my TV, aquarium, clock radio and that old space heater.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, well, unplug everything!  [_He opens the door to reveal Ann._] ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Ann"
+    },
+    {
+        "speaker": "Ann",
+        "text": "[_cooly_]  Hello, Frasier.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Hello, Ann.  Please, won't you come in?  This is my father, Martin Crane.  [_He closes the door behind her._] ",
+        "prevSpeaker": "Ann",
+        "nextSpeaker": "Ann"
+    },
+    {
+        "speaker": "Ann",
+        "text": "Oh, I've heard all about you.  Frasier and I used to go out.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh...  Well, I'll be in my room.  [_He heads off._] ",
+        "prevSpeaker": "Ann",
+        "nextSpeaker": "Ann"
+    },
+    {
+        "speaker": "Ann",
+        "text": "So, this is kind of weird, huh?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, I hope that you're being here means that you've forgiven me?",
+        "prevSpeaker": "Ann",
+        "nextSpeaker": "Ann"
+    },
+    {
+        "speaker": "Ann",
+        "text": "Well, I was pretty steamed after that date, but my shrink helped me work through the rage.  Good thing you didn't walk in front of my car on the street for the first few weeks or I would've just gotten out and given you a good kick.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, and I would've deserved one, too.  Here, let me take your coat.  You're going to want to look around the place before you write up the policy.  [_He takes her coat back to hang it up._] ",
+        "prevSpeaker": "Ann",
+        "nextSpeaker": "Ann"
+    },
+    {
+        "speaker": "Ann",
+        "text": "Oh, very nice.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, thank you.  Thank you very much.  [_She stops by one of his African masks._] ",
+        "prevSpeaker": "Ann",
+        "nextSpeaker": "Ann"
+    },
+    {
+        "speaker": "Ann",
+        "text": "Hey, this guy looks like my ex.  [_Frasier laughs with her._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Ann"
+    },
+    {
+        "speaker": "Ann",
+        "text": "I'm just kidding.  He wasn't black.",
+        "prevSpeaker": "Ann",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Can I get you something to drink?",
+        "prevSpeaker": "Ann",
+        "nextSpeaker": "Ann"
+    },
+    {
+        "speaker": "Ann",
+        "text": "Oh, just a glass of water.  But I'll get it, I want to see your kitchen.  [_She steps into the kitchen, but keeps talking._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Ann"
+    },
+    {
+        "speaker": "Ann",
+        "text": "Wow!  Shmancy!  And so clean.  You know, there's a homosexual couple that lives in my building and their kitchen is like a pigsty compared to yours.  Whoops, spoke too soon.  Somebody dripped a little bit of mayona...  [_She lets out a screech and there is a thud from the kitchen.  Frasier looks towards the kitchen nervously._] ",
+        "prevSpeaker": "Ann",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Ann?  [_Fade out._]   [_Fade in.  Martin and Frasier are with Ann.  She is in a wheelchair, a cast on her leg._] ",
+        "prevSpeaker": "Ann",
+        "nextSpeaker": "Ann"
+    },
+    {
+        "speaker": "Ann",
+        "text": "Boy, who'da thunk a little mayo on the floor could end up breaking your leg?  [_Martin looks at Frasier, who is glowering at him.  The doctor comes in._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Doctor"
+    },
+    {
+        "speaker": "Doctor",
+        "text": "So, how's that cast feeling?",
+        "prevSpeaker": "Ann",
+        "nextSpeaker": "Ann"
+    },
+    {
+        "speaker": "Ann",
+        "text": "Okay.  I'm worried about my apartment, though.  It's a fourth floor walk-up.",
+        "prevSpeaker": "Doctor",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, dear.  Well, is there a friend or a family member that we could call to come get you?",
+        "prevSpeaker": "Ann",
+        "nextSpeaker": "Ann"
+    },
+    {
+        "speaker": "Ann",
+        "text": "No.  Just my mom, and she lives in Portland.  [_The doctor is trying to look at an x-ray, but the machine isn't working._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Doctor"
+    },
+    {
+        "speaker": "Doctor",
+        "text": "Uh oh.",
+        "prevSpeaker": "Ann",
+        "nextSpeaker": "Ann"
+    },
+    {
+        "speaker": "Ann",
+        "text": "\"Uh oh\"?  What's that supposed to mean?  If you screwed anything up I will sue you blue, buddy boy!  [_Frasier and Martin share a panicked look._] ",
+        "prevSpeaker": "Doctor",
+        "nextSpeaker": "Doctor"
+    },
+    {
+        "speaker": "Doctor",
+        "text": "No, no it's nothing.  The bulb burned out.  Now, let's find you a pair of crutches.",
+        "prevSpeaker": "Ann",
+        "nextSpeaker": "Ann"
+    },
+    {
+        "speaker": "Ann",
+        "text": "Okay.  [_He wheels her out the door._] ",
+        "prevSpeaker": "Doctor",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Watch it on the turns there, Doc.  Precious cargo.  [_He closes the door behind them._] ",
+        "prevSpeaker": "Ann",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I hope you enjoyed your sandwich.  It may end up costing me my apartment.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "You think she'll sue you?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, come on, Dad, she's an INSURANCE WOMAN.  If anybody knows anything about milking money out of an injury, it's her.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well, won't your insurance cover it?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I have no insurance!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh, right, right.  You know what?  Why don't you just try to get on her good side?  Pay all her expenses, maybe throw in a private nurse for a few days.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "That's good, that's good.  But she's too dangerous to be left alone with her thoughts right now.  We've got to try the personal approach.  I tell you what, why don't we inviter her to spend a few days recuperating in our apartment?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_disgusted_]  Oh...",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Friends do not sue friends!  [_Ann comes in on crutches._] ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Ann"
+    },
+    {
+        "speaker": "Ann",
+        "text": "Oh, my pits are barking already.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Ann, listen, Dad and I were just talking.  We thought maybe you should just stay at our place, until you get used to your crutches.",
+        "prevSpeaker": "Ann",
+        "nextSpeaker": "Ann"
+    },
+    {
+        "speaker": "Ann",
+        "text": "Really?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Sure.  That's what friends do.",
+        "prevSpeaker": "Ann",
+        "nextSpeaker": "Ann"
+    },
+    {
+        "speaker": "Ann",
+        "text": "Thanks.  Well, I'll call my super and have him send over some clothes and my trumpet and we're good to go.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You play the trumpet?",
+        "prevSpeaker": "Ann",
+        "nextSpeaker": "Ann"
+    },
+    {
+        "speaker": "Ann",
+        "text": "Oh, I just started.  It's really hard.  [_She turns and goes out the door.  Frasier and Martin nervously follow her.  Fade out._]  _Act 2  Scene 1 - Frasier's Apartment_  [_Fade in.  Frasier is walking around the living room, picking up trash. Ann let's out a shout from the bedroom area._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Ann"
+    },
+    {
+        "speaker": "Ann",
+        "text": "Hey!",
+        "prevSpeaker": "Ann",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh, sorry.  [_He walks into the living room._] ",
+        "prevSpeaker": "Ann",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Dammit, Frasier, I just walked in on your insurance lady takin' a sponge bath.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Dear God.  Which sponge?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "The small one.  It's been the longest two days of my life.  [_He settles into his chair._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, what do you think, it's been a vacation for me?  I have cooked her meals, I have massaged her feet.  I have also wildly applauded her trumpet rendition of \"Froggy Went A-Courtin'\".  [_The doorbell rings, Frasier goes to answer it._] ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "But I have won her over.  There will be no discussion of a lawsuit tomorrow when I send her a-packin'.  [_He opens the door to reveal Niles._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, hi, Niles.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Hey, Frasier.  Hey, Dad.  [_He hands Frasier a bag._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Brace yourself, I have finally gotten around to returning your escargot clamps.  [_He goes to hang up his coat.  Frasier pulls one of the clamps out of the bag._] ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, thank you Niles.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh, that's what those are.  I've been usin' 'em to pull ticks off Eddie's coat.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Sherry?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, yes, please.  Thank you.  [_Niles goes over to the wine area._] ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I have Maris news: She's auctioning off some of her things to help pay for her defense.  She's letting me come by first to claim anything I want.  Well, this is my chance to seize and destroy my boudoir painting.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "What's that?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, well, years ago Maris and I got the idea it into our heads to commission portraits of a... well, quasi-erotic nature.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Dear God.  [_He brings Frasier's sherry over to him.  Martin, a look of disgust on his face gets up and goes to the kitchen._] ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Continue.  [_They sit._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well, Maris is depicted as a doe-eyed wood nymph, while in my painting I am the satyr Pan.  A louche sybaritic goat-man with a depraved appetite for all things sensual.  [_Ann comes in on her crutches._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Ann"
+    },
+    {
+        "speaker": "Ann",
+        "text": "Oh, I forgot to lock that door.  Your dad sure got an eye full.  [_Frasier and Niles get up._] ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, uh, bumbling old man, I'm terribly sorry.",
+        "prevSpeaker": "Ann",
+        "nextSpeaker": "Ann"
+    },
+    {
+        "speaker": "Ann",
+        "text": "Well, no birthday gift for him this year, he's had it.  Hi, Niles.  [_Frasier forces a laugh while Niles makes a face._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Hello, Ann.  It's so nice to see you, I'm sorry I can't stay.  [_He goes to grab his coat._] ",
+        "prevSpeaker": "Ann",
+        "nextSpeaker": "Ann"
+    },
+    {
+        "speaker": "Ann",
+        "text": "You're leaving?  You're always leaving.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, just lately.  Bye.  [_He sweeps out the door._] ",
+        "prevSpeaker": "Ann",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Bye-bye, Niles.  Well, wait 'til you see what I've made you for dinner tonight.  Your favorite:  mac and cheese with sliced hot dogs.  [_He grabs some things and heads for the kitchen._] ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Ann"
+    },
+    {
+        "speaker": "Ann",
+        "text": "Oh, you keep pampering me this way, it'll be hard for me to go home next month.  [_Martin drops something in the kitchen as Ann lowers herself onto the couch._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Next month?!",
+        "prevSpeaker": "Ann",
+        "nextSpeaker": "Ann"
+    },
+    {
+        "speaker": "Ann",
+        "text": "Well, let's cross our fingers. My bones tend to knit slowly.  [_Martin comes out of the kitchen, looking horrified._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Uh, aren't you afraid to leave your apartment unattended for an entire month?",
+        "prevSpeaker": "Ann",
+        "nextSpeaker": "Ann"
+    },
+    {
+        "speaker": "Ann",
+        "text": "No problem.  I just sub-let it this morning to a girl from work.  If she chips so much as one of my porcelain piggies, I'll sue her six ways to Sunday!  [_Frasier turns to go into the kitchen.  Martin mutters as he goes past._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "If you want to beat her to death with one of her crutches I can show you how to make it look like an accident.  [_The go into the kitchen together.  Fade out._]   [_Fade in.  Marta is leading Niles into the living room, which is crowded with things._]  [_N.B. This is Marta's first appearance since[[4.23]](/frasier/transcripts/season_4/episode_23/ask_me_no_questions.html \"Ask Me No Questions\"), \"Ask Me No Questions.\"_] ",
+        "prevSpeaker": "Ann",
+        "nextSpeaker": "Marta"
+    },
+    {
+        "speaker": "Marta",
+        "text": "Here is everything.  I tell Missy Crane you are here.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Thank you, Marta.  [_She heads back upstairs._] ",
+        "prevSpeaker": "Marta",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Wow.  Maybe I can find something nice for Ronee here.  This whole Ann thing has got me practically livin' over there.  [_Daphne picks up an item._] ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Look at this fancy back scratcher.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "That's not exactly what it is.  Every winter Maris would fly down to the private island her family owns in the south Pacific.  On Christmas she'd let the native children come by and fish coins from the fountain.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh, some kind of coin-scooper, huh?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "No, no, it's a stick with a claw on the end it in case any of the children got too close to her.  [_Niles looks around for a moment, then grabs a painting._] ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Ah, I found me.  Daphne, avert your eyes.   Let's get this thing wrapped up and into my trunk.  [_Daphne rolls her eyes and turns her back.  Martin comes around and looks at the painting._] ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh, geez.  How could you stand to look at yourself like that?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I never had to.  It was in Maris' bedroom.  [_He covers it with a cloth, then calls out._] ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Marta, tell Maris we'll be back to say goodbye..",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Marta"
+    },
+    {
+        "speaker": "Marta",
+        "text": "[_calling from upstairs_] Yes, Dr. Crane.  [_As they leave with the painting, Marta comes down.  She checks to see that they've gone, then steps over to a thin crate with a small hole in it._] ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Marta"
+    },
+    {
+        "speaker": "Marta",
+        "text": "You were right, Missy Crane.  They take the painting right away.  [_She holds up a plastic cup and sticks a straw from it into the hole._] ",
+        "prevSpeaker": "Marta",
+        "nextSpeaker": "Marta"
+    },
+    {
+        "speaker": "Marta",
+        "text": "Now drink your protein shake, you've got a long trip ahead of you.  [_There is a slurping sound and the level in the cup drops a bit._] ",
+        "prevSpeaker": "Marta",
+        "nextSpeaker": "Marta"
+    },
+    {
+        "speaker": "Marta",
+        "text": "Oh, very good, Missy Crane, you drink a lot! ... What?  Too much?  Okay.  [_She puts the straw back and the cup refills.  There is a sound at the door._] ",
+        "prevSpeaker": "Marta",
+        "nextSpeaker": "Marta"
+    },
+    {
+        "speaker": "Marta",
+        "text": "Oh, here they come!  [_She puts the cup down and hurries off as the Cranes re-enter._] ",
+        "prevSpeaker": "Marta",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Can we leave now?  This place gives me the chills.",
+        "prevSpeaker": "Marta",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "It was designed to.  Just let me say goodbye to Maris and we'll...  [_He breaks off as Marta comes back down the stairs again, crying out._] ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "What is it, Marta?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Marta"
+    },
+    {
+        "speaker": "Marta",
+        "text": "I no find Missy Crane.  I go up to her room and all there is is this note.  [_She hands a note to Niles, who unfolds it and reads._] ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Dear God.  She says she doesn't believe she can get a fair trial and she can't face life in prison, so she's going to hurl herself off the State Senator Harry R. Burton Bridge. Marta, when was the last time you saw Maris?",
+        "prevSpeaker": "Marta",
+        "nextSpeaker": "Marta"
+    },
+    {
+        "speaker": "Marta",
+        "text": "Just before you come.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Then we can still catch her.",
+        "prevSpeaker": "Marta",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well, don't panic.  She still has that tracking device, the cops'll stop her.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Yes, but if we can catch her, maybe I can talk her down.  [_They hurry out.  Marta goes back to the crate._] ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Marta"
+    },
+    {
+        "speaker": "Marta",
+        "text": "Perfect, Missy Crane.  I put the tracking bracelet behind the painting just like you say.  The workmen will take you in a minute... What?  Okay.  [_She grabs the cup and puts the straw back in the hole.  Instead of being drunk, the liquid level goes up even higher.  Fade out._]   [_Fade in.  Roz gets off the elevator.  Frasier is leaning against the wall outside his door, reading a paper._] ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Hey, Frasier, I'm glad I caught you.  Did you just get home?",
+        "prevSpeaker": "Marta",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No, I've been here a while.  Can't bring myself to go in. Not with her in there.  [_There is a sound of a trumpet badly sounding the scales from inside the apartment._] ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "She's getting better.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Look, I did you a favor.  My lawyer drew up this document, it releases you from all liability, if you just get Ann to sign it.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, Roz, there's no way I'm going to get her to sign this. But I have a better plan:  I've just booked passage for her and her mother on a two week cruise to Alaska.  That way I'll get her out of my home, but we'll still feel like we're friends.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Hmm, not a bad idea.  Good luck with that.  [_She presses the button and the elevator opens._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Thank you.  Roz, I've been meaning to ask you:  how did you ever become friends with Ann?  I mean, she's really not your type, is she?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Oh, we're not really friends.  I rear ended her in 1989.  [_She lets the doors close, smiling at Frasier's shocked look.  Cut to - the living room.  Ann is on the phone as Frasier comes in._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Ann"
+    },
+    {
+        "speaker": "Ann",
+        "text": "Well I say divorce him and take him to the cleaners.  When you play with someone's heart, you deserve to pay big time.  My ex sure did. ... [_laughing_]  Yes, he's still living in his van and he's lucky I let him keep that.  Listen, I gotta go.  My Bunny's home and he's looking so handsome.  Okay, I'll call you later.  [_She hangs up.  Frasier has a worried look on his face as he takes off his coat._] ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Ann"
+    },
+    {
+        "speaker": "Ann",
+        "text": "You!  Alaska!  [_She gets up._] ",
+        "prevSpeaker": "Ann",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, the tickets arrived.",
+        "prevSpeaker": "Ann",
+        "nextSpeaker": "Ann"
+    },
+    {
+        "speaker": "Ann",
+        "text": "You bet they did.  I just called my mother and she's thrilled.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, I'd hoped she would be.",
+        "prevSpeaker": "Ann",
+        "nextSpeaker": "Ann"
+    },
+    {
+        "speaker": "Ann",
+        "text": "She can't believe that you're taking me to Alaska!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You told her I was taking you?",
+        "prevSpeaker": "Ann",
+        "nextSpeaker": "Ann"
+    },
+    {
+        "speaker": "Ann",
+        "text": "Don't worry, I told her your intentions were honorable. [_whispering knowingly_]  But they better not be.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Ann...",
+        "prevSpeaker": "Ann",
+        "nextSpeaker": "Ann"
+    },
+    {
+        "speaker": "Ann",
+        "text": "You know, I've been wondering all week \"Why is Frasier keeping me here?\"  He could've just sent me home with a nurse.  But then I got these and I figured it out:  you've got a thing for me.  Well, I've got news for you Romeo...",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Hold that thought, while Bunny goes and pours himself a big ol' glass o' wine.  [_He starts for the liquor cabinet, but turns back when the doorbell rings.  He opens it to reveal Caroline._] ",
+        "prevSpeaker": "Ann",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Caroline.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Caroline"
+    },
+    {
+        "speaker": "Caroline",
+        "text": "Hi, Frasier.  Am I early?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Uh...",
+        "prevSpeaker": "Caroline",
+        "nextSpeaker": "Ann"
+    },
+    {
+        "speaker": "Ann",
+        "text": "Who are you?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Uh...just a neighbor.",
+        "prevSpeaker": "Ann",
+        "nextSpeaker": "Caroline"
+    },
+    {
+        "speaker": "Caroline",
+        "text": "Is our date still on?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Ann"
+    },
+    {
+        "speaker": "Ann",
+        "text": "Date!?",
+        "prevSpeaker": "Caroline",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_pained_]  No.  Since we made our plans, Caroline, I've met someone else.",
+        "prevSpeaker": "Ann",
+        "nextSpeaker": "Ann"
+    },
+    {
+        "speaker": "Ann",
+        "text": "Me!  So beat it.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Caroline"
+    },
+    {
+        "speaker": "Caroline",
+        "text": "Frasier?",
+        "prevSpeaker": "Ann",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Just go!  [_He closes the door on her face._] ",
+        "prevSpeaker": "Caroline",
+        "nextSpeaker": "Ann"
+    },
+    {
+        "speaker": "Ann",
+        "text": "Well...someone's quite the tomcat.  I don't know what I'm gonna do with you.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_darkly_]  I don't know what I'm gonna do with you either.  [_He heads for the kitchen.  Ann picks up the indemnity release._] ",
+        "prevSpeaker": "Ann",
+        "nextSpeaker": "Ann"
+    },
+    {
+        "speaker": "Ann",
+        "text": "Hey, hey Bunny, what's this?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, it's nothing.  Just some work stuff.",
+        "prevSpeaker": "Ann",
+        "nextSpeaker": "Ann"
+    },
+    {
+        "speaker": "Ann",
+        "text": "It's got my name on it.  It's a liability release!   Oh, my gosh, you think I'm gonna sue you.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No.",
+        "prevSpeaker": "Ann",
+        "nextSpeaker": "Ann"
+    },
+    {
+        "speaker": "Ann",
+        "text": "So that's why you've been so nice to me.  Because you're afraid of a lawsuit.  So this whole romance was just a fake!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No!",
+        "prevSpeaker": "Ann",
+        "nextSpeaker": "Ann"
+    },
+    {
+        "speaker": "Ann",
+        "text": "You were leading me on!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No, never!",
+        "prevSpeaker": "Ann",
+        "nextSpeaker": "Ann"
+    },
+    {
+        "speaker": "Ann",
+        "text": "Well I've got news for you!  Nobody plays with my heart!  I should sue you!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I realize that you're angry now, Bunny...",
+        "prevSpeaker": "Ann",
+        "nextSpeaker": "Ann"
+    },
+    {
+        "speaker": "Ann",
+        "text": "YOU'RE Bunny!  I'm calling a lawyer!  [_She hobbles towards the phone._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "All right, fine!  Go ahead and sue!  I am fed up with this charade!  This was an accident! I have cared for you, I have waited on you, I have pumiced your heels and set your HAIR! Well, if that's not enough for you, so be it!  I don't care anymore, I will not BEG!  You can take me to the cleaners but you cannot take my dignity!",
+        "prevSpeaker": "Ann",
+        "nextSpeaker": "Ann"
+    },
+    {
+        "speaker": "Ann",
+        "text": "Okay, see you in court.  [_Frasier stumbles to the couch and falls to his knees._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh dear God, please, no!  Pleas, no, no, please!  Please, please don't sue me!  My...things, my beautiful, beautiful things.  I love them so...  [_He hugs his coffee table._] ",
+        "prevSpeaker": "Ann",
+        "nextSpeaker": "Ann"
+    },
+    {
+        "speaker": "Ann",
+        "text": "Are you crying?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_weeping_]  No.",
+        "prevSpeaker": "Ann",
+        "nextSpeaker": "Ann"
+    },
+    {
+        "speaker": "Ann",
+        "text": "Gross.  Frasier, pull yourself together.  I'll sign your stupid paper.  [_Frasier gets to his feet._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You will?",
+        "prevSpeaker": "Ann",
+        "nextSpeaker": "Ann"
+    },
+    {
+        "speaker": "Ann",
+        "text": "God, to think I had a thing for you.  Can I pick 'em or what?  [_Frasier hands her a pen.  She takes it and signs the release._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Thank you, Ann.  I'm sorry it had to come down to all this, this legal business.  If it were up to me, I would tear up this piece of paper and forget everything that's happened here.  [_He lifts the page._] ",
+        "prevSpeaker": "Ann",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "And, uh, here.  [_He points and she signs.  He lifts that page._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "And...here.  [_She signs again.  Fade out._]   **THE PAN-AMERICAN HIGHWAY**  [_Fade in.  Daphne is driving, Niles is on his cell phone and Martin is in the back seat._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Yes, officer, we're headed east on Highway 61, toward for the bridge.  Do you have a read on her tracking bracelet yet? They say she just passed Exit 29.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "We just passed Exit 29.  I don't see anyone ahead of us.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Do you suppose we passed her?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "There is a car behind us.  [_The car behind them starts flashing red and blue lights and a cop calls out over the loudspeaker._] ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Patrolman"
+    },
+    {
+        "speaker": "Patrolman",
+        "text": "Pull over immediately.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Dad, you were a cop, what do we do?",
+        "prevSpeaker": "Patrolman",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Pull over immediately.  [_Daphne pulls the car to the side of the road.  Fade out._]   [_Fade in.  Daphne, Niles and Martin are standing in front of a highway patrolman at the side of the highway._] ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "We don't have time for this, we need to get to the bridge!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Patrolman"
+    },
+    {
+        "speaker": "Patrolman",
+        "text": "According to her tracking device, your wife is in this vehicle.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "But that's absurd!",
+        "prevSpeaker": "Patrolman",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "And she's his ex-wife.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh, no, the press is here!",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Patrolman"
+    },
+    {
+        "speaker": "Patrolman",
+        "text": "Open the trunk, sir.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Look, look, please, there's an item of a very personal nature in there, if you could just keep the media away...",
+        "prevSpeaker": "Patrolman",
+        "nextSpeaker": "Patrolman"
+    },
+    {
+        "speaker": "Patrolman",
+        "text": "[_drawing his gun_] Now!  [_Niles opens the trunk._] ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "See, see?  No Maris.  [_The patrolman pulls the painting out._] ",
+        "prevSpeaker": "Patrolman",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, careful with that, that's what I didn't want you to...  [_The patrolman pulls the cover off._] ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh, geez!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Patrolman"
+    },
+    {
+        "speaker": "Patrolman",
+        "text": "What the hell is that?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "It's Pan, the satyr.  A minor god of mischief, debauchery and fornication. [_The patrolman looks disgusted._]",
+        "prevSpeaker": "Patrolman",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "That's what our son would look like if I were a goat.  [_The patrolman checks the back of the painting and holds up the tracking bracelet._] ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Patrolman"
+    },
+    {
+        "speaker": "Patrolman",
+        "text": "Here's your tracking device, right there.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "She conned us!",
+        "prevSpeaker": "Patrolman",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well, you have your bracelet, I guess I'll just take my painting.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Patrolman"
+    },
+    {
+        "speaker": "Patrolman",
+        "text": "Sorry, sir, this is evidence.  [_He picks it up and swings around towards the news crews._] ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "No, no, don't...!  [_The painting ends up fully in the spotlight, with Niles right next to it.  Cameras flash as the photographers all take pictures.  Fade out._]   [_Fade in.  Martin and Frasier are at the dining table, Niles is standing and reading a letter from Maris._] ",
+        "prevSpeaker": "Patrolman",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "\"So, I shipped myself to our private island where, like dear Uncle Julius, I will be immune from extradition.  Thank you all and forgive me.  Best regards, Maris.  P.S.  Big ups to all my homeys in lock-down.  Stay black, Cell Block D.\"  [_He sits down._] ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "So, you were the decoys.  It's ingenious.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Mm-hmm.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "How'd she get the tracking bracelet off?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Apparently she swallowed a salt tablet to make her ankle swell right before they fitted her.  Then, when the swelling went down, the bracelet just slipped right off.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "So, that's it.  No more Maris.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Strange to think I'll never see her again.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "She was a pain, but she was a character.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, then, let's drink a toast to her.  Well, just a drop left.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Perfect, I can't think of a more fitting toast.  [_Frasier pours the last bit of wine into Niles and Martin's glasses._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "There we go.  [_They all raise their glasses._] ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "To Maris.  [_They touch glasses and drink.  Fade out._]  [_N.B. This was the last episode filmed before Jane Leeves gave birth to her second child, on December 19th, 2003.  The next episode filmed after this was \"BOO!\" in which she appeared only in the tag.  After that, she wears a false stomach in every episode until Daphne gives birth._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Credits"
+    }
+]

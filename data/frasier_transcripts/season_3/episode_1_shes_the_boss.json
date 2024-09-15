@@ -1,0 +1,1155 @@
+[
+    {},
+    {
+        "speaker": "Martin",
+        "text": "Come on in!  Come on, it's all over!  He won't mess with you! [_closes door; to Eddie_] Are you nuts?  That was a Doberman!",
+        "prevSpeaker": "No Previous Speaker",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Oh dear, what happened?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh, get the first aid kit.  Eddie got into a fight.  We were on the elevator with that Doberman from upstairs.  Eddie took a perfectly innocent sniff, and wham! _Daphne brings the first aid kit from the powder room. Frasier enters._",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Morning, all.  What's all this?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Eddie was viciously attacked.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh. [_then_] Is that coffee cake I smell?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well, now that I look at it, it's just a scratch.  But I probably should take him to the vet's anyway.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "What are you doing up so early?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, the new station manager's taking over today.  She wanted to meet with all of us.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "\"She?\"  Oh, working for a woman, huh?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, why?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well, it's tough on guys, taking orders from a woman. We resent it!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "That's absurd.  If I had trouble taking orders from a woman, Frederick would never have been conceived!  ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "My brothers couldn't stand taking orders from me.  I was forever telling them, \"Billy, clean your room,\" \"Reginald, get your elbow out of the gravy,\" \"Nigel, take that thing back to the hospital, the whole house is full of flies!\"  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Morning, Niles.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Hello, Frasier.  Dad, Daphne.  Uh, I can't stay, I just wanted to ask a favor.  Dad, can I borrow your gun?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Maris taking singing lessons again?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "No.  Our home security system is down for repairs, and with no electric gates I'll just feel safer if I'm packing heat.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, for heaven's sake, Niles, you don't even know how to pack a lunch.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Dad, please.  Maris is a wreck ever since she found out our entire neighborhood watch is wintering in Palm Beach.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Forget it, you don't know the first thing about guns.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Dad, please.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "No!  I don't believe in civilians having guns.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "This isn't fair!  Maris's mother gave her a gun!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_getting up_] Well, then Maris's mother can clean the mess up after she accidentally blows your brains out.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_following him to the kitchen_] Dad, now you're talking nonsense.  Maris's mother has never cleaned anything in her life. **CRASS APPEAL**  _Scene Two -- KACL Frasier, Gil, and Bulldog are sitting in the hall outside the manager's office.  Roz comes in._ ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "All right, all right, listen up everyone, I've been working the office grapevine, I've got the scoop on the new boss.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Gil"
+    },
+    {
+        "speaker": "Gil",
+        "text": "Is she going to fire me?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "Hey, first things first! [_to Roz_] Is she baggable?",
+        "prevSpeaker": "Gil",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Forget it, Bulldog, she'd have you for breakfast.",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "Right, like I ever stick around that long.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Anyway, the word is that she's like this psycho perfectionist. Everyone at her last station was scared to death of her. She's kind of becoming my idol.",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "Hey, what if she hates sports?  I need this job.  I just promised my mom a new pacemaker.  Wait, think I could get her to believe I said \"pasta maker?\"",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Now, look, there's no reason for us to give in to our insecurities.  We all do good, solid shows.  We hardly even know this woman, and already we're painting her as a heartless Medusa!  ",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Mike"
+    },
+    {
+        "speaker": "Mike",
+        "text": "She said my ratings are down.  She said I'm not \"hip.\"",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Father Mike, are you all right?",
+        "prevSpeaker": "Mike",
+        "nextSpeaker": "Mike"
+    },
+    {
+        "speaker": "Mike",
+        "text": "The little thug fired me!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I'm so sorry.",
+        "prevSpeaker": "Mike",
+        "nextSpeaker": "Gil"
+    },
+    {
+        "speaker": "Gil",
+        "text": "Did she say anything else?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Mike"
+    },
+    {
+        "speaker": "Mike",
+        "text": "She said, \"Send in Frasier.\"   _CUT TO: Manager's Office Kate Costas, the new station manager, is still moving into her office. Boxes sit under empty shelves.  She's talking on the phone._ ",
+        "prevSpeaker": "Gil",
+        "nextSpeaker": "Kate"
+    },
+    {
+        "speaker": "Kate",
+        "text": "Listen, tell the movers I want the couch directly in front of the bookcase. [_Frasier comes in._] Uh-huh. [_to him_] Oh, have a seat.  ",
+        "prevSpeaker": "Mike",
+        "nextSpeaker": "Kate"
+    },
+    {
+        "speaker": "Kate",
+        "text": "[_into phone_] Uh-huh.  Yeah, yes.  No, not there!  In front of the bookcase! _Frasier gets up, moves the chair to a bookcase in the far corner, and sits down._ ",
+        "prevSpeaker": "Kate",
+        "nextSpeaker": "Kate"
+    },
+    {
+        "speaker": "Kate",
+        "text": "Yes, tell her I got somebody here!  Could we move the furniture later?",
+        "prevSpeaker": "Kate",
+        "nextSpeaker": "Kate"
+    },
+    {
+        "speaker": "Kate",
+        "text": "Could we do that? [_hangs up_] Dr. Frasier Crane!  Kate Costas.",
+        "prevSpeaker": "Kate",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_shaking hands_] Kate, what a pleasure.",
+        "prevSpeaker": "Kate",
+        "nextSpeaker": "Kate"
+    },
+    {
+        "speaker": "Kate",
+        "text": "Likewise.  I've been listening to the tapes of all your shows. I love what you're doing.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Really?  Well, thank you very much!  I like to think of my show as a haven for the tempest-tossed in the maelstrom of everyday life.",
+        "prevSpeaker": "Kate",
+        "nextSpeaker": "Kate"
+    },
+    {
+        "speaker": "Kate",
+        "text": "Wow.  You really talk that way.  Anyway, your ratings are very good.  But I still think we can do better.  Any ideas?  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "How to improve my show?  That is a tall order.  Uh... oh, wait, you know, I was thinking of playing classical music before my intros.  Let's say, perhaps, uh, Bartok's Concerto for Orchestra in D Minor.",
+        "prevSpeaker": "Kate",
+        "nextSpeaker": "Kate"
+    },
+    {
+        "speaker": "Kate",
+        "text": "It's too highbrow.  I mean, I love classical music, but to most people it's a big snore.  Oh, incidentally, Bartok's Concerto is in C.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Are you sure?",
+        "prevSpeaker": "Kate",
+        "nextSpeaker": "Kate"
+    },
+    {
+        "speaker": "Kate",
+        "text": "Positive.  I put myself through college working at a classical station.  Let's talk about advertising.  You've got a great face.  I want to see it on t-shirts, I want to see it on park benches, I even want to see it on Frisbees.  Everybody in Seattle should be popping it, wearing it, sitting on it!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Wonderful.  You know, I hate to nitpick, but I was certain that concerto's in D.  I was a music minor at Harvard.",
+        "prevSpeaker": "Kate",
+        "nextSpeaker": "Kate"
+    },
+    {
+        "speaker": "Kate",
+        "text": "It's in C.  It was commissioned by Serge Kosivinsky in 1943 for the Boston Symphony Orchestra, and since then it's been recorded over thirty times--each time, in C.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Kate"
+    },
+    {
+        "speaker": "Kate",
+        "text": "Also, I think you should start doing theme shows.  Devote a whole show to people having extramarital affairs, or devote a whole show to people with aberrant sexual practices. Could you give me a hand with that box over there?",
+        "prevSpeaker": "Kate",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Of course. [_lifts it onto her desk and starts handing her things from it_] Uh, Kate, you know, that advertising thing. It's a very good idea.  But that-these theme shows, uh, it's a less good idea.  You might even say a worse idea.",
+        "prevSpeaker": "Kate",
+        "nextSpeaker": "Kate"
+    },
+    {
+        "speaker": "Kate",
+        "text": "Why is that?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, uh, I am a doctor, and I'd hate to have the serious work I do be tainted by commercialism.",
+        "prevSpeaker": "Kate",
+        "nextSpeaker": "Kate"
+    },
+    {
+        "speaker": "Kate",
+        "text": "But you don't mind the Frisbees.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_hands her a \"Golden Microphone\" award_] Well, I don't want to be entirely uncooperative. [_hands her another_] It's just that, well, you know, I've been in the radio game for some time now, [_a third_] and I think I've learned enough about broadcasting, as they say, [_a fourth_] to know what it is that makes my show [_a fifth_] a good show. [_lifts the last one_] My God, you've won six Golden Mike awards?",
+        "prevSpeaker": "Kate",
+        "nextSpeaker": "Kate"
+    },
+    {
+        "speaker": "Kate",
+        "text": "Aren't you sweet to notice.  Finally, I would like you to start giving priority to the juicier calls.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "That's called pandering!",
+        "prevSpeaker": "Kate",
+        "nextSpeaker": "Kate"
+    },
+    {
+        "speaker": "Kate",
+        "text": "[_lifting out a_] And that is called a Peabody Award!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, what exactly do you expect me to do?  Say to a caller, \"Listen, Bob, I'm sorry you lost your job, but unemployment's a snore!  Why don't you go sleep with your best friend's wife and call in on Monday when it'll be Infidelity Day on the Frasier Crane Show!\"",
+        "prevSpeaker": "Kate",
+        "nextSpeaker": "Kate"
+    },
+    {
+        "speaker": "Kate",
+        "text": "I really know what I'm doing here.  The psychiatrists at my last station went national.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, you know, I'd rather stay local if going national means sucking at the sump-pump of sensationalism!",
+        "prevSpeaker": "Kate",
+        "nextSpeaker": "Kate"
+    },
+    {
+        "speaker": "Kate",
+        "text": "Well, I'm the boss, Doc.  So, pucker up!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Listen, lady, I'm not changing my show.  Unless you're willing to explain to the owners why you fired one of your highest- rated hosts, well then there's nothing you can do about it, is there?  _Kate smiles at him.  SMASH CUT TO:  Scene Three -- Radio Booth Frasier is doing his show with Roz.  The lights in the hallway are off. _ ",
+        "prevSpeaker": "Kate",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, we're coming up on 3 A.M.  _END OF ACT ONE  ACT TWO_  **A LONG NIGHT'S JOURNEY INTO DAY**  _Scene Four -- KACL Frasier is finishing his show._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Keith"
+    },
+    {
+        "speaker": "Keith",
+        "text": "[_v.o._] I got to disagree with your last two callers.  I'm in the same line of work, and I think that what we do is very important!  People depend on us! [_bell dings_] I got to go, Doc, it's time to powder the jelly donuts. [_hangs up_]",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, I hate to cut short this enthralling symposium, but perhaps we could hear from some non-bakers for a change?",
+        "prevSpeaker": "Keith",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Wrap it up, will you?  We're finally done.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, thank God.  Stay tuned for the news, weather, and sports. This is Dr. Frasier Crane, yadda-yadda-yadda, bye.  ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Really stunk up the airwaves with that one, didn't we?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Frasier, I want you to flash forward to tonight.  It's sometime after midnight.  Dennis Abbott and I have just had a glorious meal at Le Ralee.  Dennis has just asked me back to his penthouse apartment to see his priceless collection of silk sheets.  And I lean forward and whisper, [_throaty whisper_] \"I can't.  I have to go to work in an hour.\"  What is wrong with this picture?!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, for starters, you at Le Ralee.  It's a two-week wait.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "So is Dennis Abbott!  Frasier, we have got to get our old time slot back!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Don't worry, Roz, we will she just moved us to break our spirit.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Well, she can saddle me up and ride me around the coffee room!  I can't do this again!  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Kate"
+    },
+    {
+        "speaker": "Kate",
+        "text": "Good morning.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, hello.",
+        "prevSpeaker": "Kate",
+        "nextSpeaker": "Kate"
+    },
+    {
+        "speaker": "Kate",
+        "text": "Enjoying your new time slot?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "As a matter of fact, I found it invigorating!  Didn't you, Roz?  Remember that woman who called in, uh, you know, with the delusions of grandeur?  Couldn't understand why nobody liked her.",
+        "prevSpeaker": "Kate",
+        "nextSpeaker": "Kate"
+    },
+    {
+        "speaker": "Kate",
+        "text": "Well, I hope you explained to her that it's not important that people like her, as long as they respect her.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh yes, respect is important.  So is self-respect.",
+        "prevSpeaker": "Kate",
+        "nextSpeaker": "Kate"
+    },
+    {
+        "speaker": "Kate",
+        "text": "Oh, yes, yes, but some people -- and this is so unfortunate -- can't tell the difference between self-respect and pig-headedness.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, but those people are usually rigid little demagogues who don't know the difference between the kind of respect that is earned and the kind of respect that is irrespective ...of what others expect.",
+        "prevSpeaker": "Kate",
+        "nextSpeaker": "Kate"
+    },
+    {
+        "speaker": "Kate",
+        "text": "Isn't it sad when bad things happen to good sentences?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I think I made myself clear.",
+        "prevSpeaker": "Kate",
+        "nextSpeaker": "Kate"
+    },
+    {
+        "speaker": "Kate",
+        "text": "Well, I really do have work to do.  I've got to find somebody for your old time slot -- now that it's free.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Good luck!  ",
+        "prevSpeaker": "Kate",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Nice going, Frasier, now she's never gonna give in.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Steady, Roz.  She may have been able to intimidate people in other situations, but here at KACL she'll find that we are not a bunch of spineless twits!  ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "[_whispering_] Hey!  Is she gone? _FADE TO:  Scene Five -- Apartment Martin and Daphne are eating breakfast._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "You don't want this bacon, I'm giving it to Eddie.",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "You know that bacon's not good for him.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Eddie!  Hey, Eddie!  Come here, boy! _Eddie runs in.  He's wearing a plastic cone on his neck that encircles his entire head.  Martin feeds him a rasher of bacon._ ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "And can't we take that stupid thing off him?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "No!  The vet said if he scratches the scabs, they'll never heal.  And I have noticed that if you sit him next to the telly, Channel Five comes in a lot clearer.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Look at him, he's humiliated!  ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Yeah, well, it doesn't help that that bully upstairs keeps rubbing it in.  ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "You tell him, boy!  ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, for God's sake, I am trying to get some sleep!  I asked you to keep that dog quiet, and instead you outfit him with a megaphone!  In the last thirty-six hours I haven't had so much as a nap, and I've got to be back at the station by 2 A.M. [_stares at Eddie_] Eddie, listen carefully.  By the time this day is up, one of us is going to sleep.  ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Oh, don't worry, Dr. Crane, I'll take Eddie for a walk.  And as far as your problem at work goes, if you want my opinion--",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "DON'T!  I've had my share of women's opinions for the week, between the station's new Reichschancellor and Roz's incessant whining!  As far as I'm concerned, your entire sex can put a sock in it!  ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Boy, you'd never let me get away with a comment like that.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "[_gets up and goes to the door_] Oh, even the best of us can get a bit cranky when we're overtired.  All Dr. Crane needs right now is a little peace and quiet.  Eddie?  ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_o.s._] Damn it! _Daphne opens the door and runs into Niles, who looks weirdly overconfident._ ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Morning, Daphne.  Where are you off to?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Oh, I'm taking Eddie for a walk.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "By yourself?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Yes, of course.  Why not?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "It's dangerous out there.  You never know when you might need... [_pulls a small revolver from his briefcase_] one of these.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "A starter's pistol?  Oh, I don't think so, Dr. Crane. But thanks for the thought.  ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "How did she know it wasn't a real gun?  It fooled the servants, even the ones who spent years fleeing _juntas._",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "You bought a starter's pistol?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_gesturing with the gun_] Yes, you see, as long as Maris thinks it's real, it makes her feel secure, but this way no one can get hurt. _As if to punctuate the word \"hurt,\" he accidentally pulls the trigger, firing a blank shot that sends him hopping up onto the couch like a frightened cat.  Even Martin is shaken.  Frasier rushes in._ ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "What the hell was that?!  Was that a gunshot?!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Morning, Frasier.  Just getting up?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "\"Just getting up?!\"  Are you out of your mind?!  A gun just went off in here!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Niles bought a starter's pistol.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "And there's no need to get snippy.  Accidents happen, you know.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, I'm sorry, was I snippy?  I didn't realize it was too much to ask that there not be GUNPLAY IN MY LIVING ROOM!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "You know, Niles, you shouldn't have any kind of gun, really. Come to think of it, now that Mr. Sunshine's home during the day, maybe I shouldn't either!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Just relax.  It won't be long before my loyal fans protest, and the afternoon slot is once again home to the compassionate and lovable Dr. Frasier Crane. [_opens the front door_] Now get the hell out, both of you!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "All right, maybe I can catch up to Daphne in the park.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I'll cover you.  _Martin and Niles go out the door.  FADE TO:  Scene Six -- KACL Frasier, wearing a grimy sweatsuit, is in his chair.  A cup-holder with four cups of coffee sits next to him.  Behind him, Roz, wearing a slinky evening dress, takes one._ ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Hello, Seattle, this is Dr. Frasier Crane.  I'll be taking your calls for the next four hours.  Roz, who's on the line?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "How should I know?  I just got here.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Hello, Line Two, you're on with Dr. Frasier Crane.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Mark"
+    },
+    {
+        "speaker": "Mark",
+        "text": "[_v.o._] Uh, hey, Dr. Crane.  It's Mark.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Hello, Mark.  I'm listening.",
+        "prevSpeaker": "Mark",
+        "nextSpeaker": "Mark"
+    },
+    {
+        "speaker": "Mark",
+        "text": "OK.  Uh, well, I work at this all-night mini-mart, and, um, I've been watching myself on the video camera, and the camera-me is doing things I don't approve of. _Frasier puts a hand on his face.  Roz listlessly goes into her booth.  DISSOLVE TO: Later Frasier and Roz are both fast asleep in their chairs.  A woman (Phyllis) is on the line._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Phyllis"
+    },
+    {
+        "speaker": "Phyllis",
+        "text": "[_v.o._] People think insomnia is a laughing matter, but it's hell.  If I don't get some sleep soon, I'll just--I'll go crazy!  You've got to help me, Dr. Crane?  Dr. Crane?  Hey, I'm talking here!  ",
+        "prevSpeaker": "Mark",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "What?!  I'm listening.",
+        "prevSpeaker": "Phyllis",
+        "nextSpeaker": "Phyllis"
+    },
+    {
+        "speaker": "Phyllis",
+        "text": "So what do you think I should do?  _Frasier looks at Roz.  She's shrugs to say she's stumped.  He decides to wing it._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, you know, sometimes these things seem clearer in the light of day.  My advice is to sleep on it.",
+        "prevSpeaker": "Phyllis",
+        "nextSpeaker": "Phyllis"
+    },
+    {
+        "speaker": "Phyllis",
+        "text": "Is that some kind of a joke?!  To make fun of the insomniac?!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, no--",
+        "prevSpeaker": "Phyllis",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, oh, and now for a word from, um, uh, ah, [_shuffles some papers on his console_] I forget, I think they sell paint.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "You hear that whooshing sound?  It's my career going down the toilet.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh God, Roz, I don't think I've helped a single person tonight.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Helped?  You'll be lucky if you don't get sued!  You told a longshoreman to come out of the closet, and a gay guy to spend more time on the docks!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, you're the one who's supposed to keep track of who's on what line!",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "[_losing it_] OK, let me make it easy for you: freaks!  Freaks on Line One!  Freaks on Line Two!  Freaks, everywhere!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_grabbing her_] Roz, Roz, Roz!  We shouldn't get mad at each other.  Oh God, this is all Kate's fault.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "You're right, you're right, she's ruining us!  And there's nothing we can do.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, there is!  If we're gonna go down, we're gonna take her down with us!  We've got one hour left.  If she wants raunch, we're gonna give her more raunch than she ever dreamed of! Are you with me, Roz?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Just pump up the volume and call me Kitty!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "OK! _Roz goes back into her booth and grabs some SFX carts.  Frasier goes back on and speaks in a raucous shock-DJ voice._ ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "We're back, Seattle.  And in accordance with new station policy, we are going to be pandering to the lowest human instinct.  In other words, who wants to talk about SEX?! Sex, sex, sex, sex, sex, sex, sex!  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "YEAH!  I want to know who's having sex!  How you're having it!  I want to know if you're having it right now!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Look, Dr. Crane, the lines are hot! [_sultry voice_] Really _hot!_",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Thank you, Kitty. [_punches button_] Hello, Caller.  What are you wearing?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Nancy"
+    },
+    {
+        "speaker": "Nancy",
+        "text": "[_v.o._] Nothing.  I'm naked.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Hey, that's a great idea!  Let's all get naked!  Hey, I'm getting naked right now!  ",
+        "prevSpeaker": "Nancy",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "While Dr. Crane strips, our new station manager would like to know if you prefer to be the spanker, or the spankee.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Nancy"
+    },
+    {
+        "speaker": "Nancy",
+        "text": "Oh, definitely the spanker.  ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well then, hop in a cab!  I'm not wearing any pants!  _Roz whoops as Frasier twirls his pants over his head.  FADE TO:_  **WHILE YOU WERE SLEEPING**  _Scene Five -- Kate's Office Frasier, still wearing his sweatsuit, is sitting in Kate's office. She leans against her desk, listening to a tape of Frasier's performance._ ",
+        "prevSpeaker": "Nancy",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_on tape_] While Roz laces up her leather bustier, this is Dr. Frasier Crane, KACL - all talk, all night, all naked!  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Kate"
+    },
+    {
+        "speaker": "Kate",
+        "text": "Explain.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "As George Bernard Shaw once said, \"there are two tragedies in life.  One is not getting what we want, and the other is getting it.\"",
+        "prevSpeaker": "Kate",
+        "nextSpeaker": "Kate"
+    },
+    {
+        "speaker": "Kate",
+        "text": "You know full well this is not what I wanted!  You did this to vex me.  And you succeeded.  And it was not Shaw, it was Oscar Wilde.  Did you ever open a book at Harvard?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You know, one of these days, you're going to misquote someone, and I'm going to land on you like a sumo wrestler!",
+        "prevSpeaker": "Kate",
+        "nextSpeaker": "Kate"
+    },
+    {
+        "speaker": "Kate",
+        "text": "All I wanted, all I wanted was a lousy little theme show once or twice a week!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, yeah!  \"Frasier Crane takes a leering look at infidelity!\"",
+        "prevSpeaker": "Kate",
+        "nextSpeaker": "Kate"
+    },
+    {
+        "speaker": "Kate",
+        "text": "No, not a leering look!  Just a good look.  At the pain of infidelity, at what it does to families, at what it does to children, at what it does to the fabric of society, and this is just off the top of my head.  But, no!  You are such an arrogant gasbag, so used to being cock-of-the-walk around here that you can't stand still for one minute and listen to a perfectly valid suggestion from somebody else!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_blood up_] And you are such a smug egomaniac that your entire self-image would shatter like a cheap mirror if you ever had to admit that you had made a mistake!  ",
+        "prevSpeaker": "Kate",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You are a classic case of neurotic narcissism, and a first- class SMARTY-PANTS! [_pause_] You can go ahead and fire me now.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Kate"
+    },
+    {
+        "speaker": "Kate",
+        "text": "[_sits back down_] Yes, I could do that, yeah.  But I'm not going to.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Did you listen to the whole tape?",
+        "prevSpeaker": "Kate",
+        "nextSpeaker": "Kate"
+    },
+    {
+        "speaker": "Kate",
+        "text": "Oh, yeah.  But, unlike you, I put what's good for the station above my personal feelings.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, that's-that's awfully big of you. [_sits back down_] Guess that means I'll be moving back to my old time slot.",
+        "prevSpeaker": "Kate",
+        "nextSpeaker": "Kate"
+    },
+    {
+        "speaker": "Kate",
+        "text": "Guess again, Captain Midnight!  If I give you back your old time slot without your making a single concession to me, that would completely undermine my authority.  Being a crack shrink, surely that's within your grasp.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_stands and leans over her desk_] Grasp this: if I don't get my old time slot, I quit!",
+        "prevSpeaker": "Kate",
+        "nextSpeaker": "Kate"
+    },
+    {
+        "speaker": "Kate",
+        "text": "[_stands face-to-face with him_] Grasp this: you do, and I'll sue you for breach of contract!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "OK, then it's a stalemate!  If we don't want to remain entrenched in these positions forever, one of us had better think of something!",
+        "prevSpeaker": "Kate",
+        "nextSpeaker": "Kate"
+    },
+    {
+        "speaker": "Kate",
+        "text": "Yes, one of us better. _They sit down again.  There is silence as they both ponder as hard as they can._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I've got it!",
+        "prevSpeaker": "Kate",
+        "nextSpeaker": "Kate"
+    },
+    {
+        "speaker": "Kate",
+        "text": "[_hits her chair arm_] Damn!  _CUT TO: Outside Kate's office. Gil and Bulldog walk to the door._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "So, we're together, right?",
+        "prevSpeaker": "Kate",
+        "nextSpeaker": "Gil"
+    },
+    {
+        "speaker": "Gil",
+        "text": "Absolutely.",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "We're not letting her push us around any longer!",
+        "prevSpeaker": "Gil",
+        "nextSpeaker": "Gil"
+    },
+    {
+        "speaker": "Gil",
+        "text": "Nope.  You do the talking.  I'll stand behind you and burn holes through her with my \"You call this a Hollandaise sauce?!\" glare.  ",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I don't care what you say, I like theme shows!  And I'm going to do them, starting this Friday with \"Frasier Crane takes a look at the consequences of infidelity!\"",
+        "prevSpeaker": "Gil",
+        "nextSpeaker": "Kate"
+    },
+    {
+        "speaker": "Kate",
+        "text": "You do, and I'll make you start that show with classical music!  Bartok's Concerto in C, I don't care how much you hate it!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Damn you!",
+        "prevSpeaker": "Kate",
+        "nextSpeaker": "Kate"
+    },
+    {
+        "speaker": "Kate",
+        "text": "It's my way, or no way.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_crushed_] You win.  Bartok it is.  ",
+        "prevSpeaker": "Kate",
+        "nextSpeaker": "Kate"
+    },
+    {
+        "speaker": "Kate",
+        "text": "What do you two want?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "Nothing.",
+        "prevSpeaker": "Kate",
+        "nextSpeaker": "Gil"
+    },
+    {
+        "speaker": "Gil",
+        "text": "Keep up the good work.",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Credits"
+    }
+]

@@ -1,0 +1,1491 @@
+[
+    {},
+    {
+        "speaker": "Frasier",
+        "text": "Well, we've got just about a minute before we go to the news. I understand we have Tom from Freemont on line one. [_presses button_] Go ahead, Tom.",
+        "prevSpeaker": "No Previous Speaker",
+        "nextSpeaker": "Tom"
+    },
+    {
+        "speaker": "Tom",
+        "text": "[_v.o._] I don't want to be squeezed into a minute, I will go on after the news.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, why don't you tell me your problem now and then I can give you my reply when we come back.",
+        "prevSpeaker": "Tom",
+        "nextSpeaker": "Tom"
+    },
+    {
+        "speaker": "Tom",
+        "text": "No, I'll wait.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Very well. [_presses button_] Roz, who else do we have?",
+        "prevSpeaker": "Tom",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "We have Brian on a car phone.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Ah! [_presses button_] Go ahead, Brian, I'm listening.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Brian"
+    },
+    {
+        "speaker": "Brian",
+        "text": "[_v.o._] For what?  Thirty seconds?!  I'll wait too!  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "All right, then.  I guess I'll just use the time myself. [_presses button and picks up a clipboard, he reads_] \"Giddy up, giddy up, let's go\" - to the Seattle Christmas Parade this Saturday, broadcast live on Channel 6 TV and hosted by Kelly Kirkland of Channel 6's Kelly and Carol Show.  You know, I must say that Kelly Kirkland is a real treasure.  She's sincere and charming and... well, just about as likeable as sunshine! [_smiles_] We'll be right back. [_presses button_]  ",
+        "prevSpeaker": "Brian",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Are you okay?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Hm? Well, of course, why?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Oh, I was afraid with all that sucking up you might have burst a lung!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "That's very funny, Roz.  You see, Kelly's looking for a new co-host for the parade this year and I was hoping it might be me.  You know, I've watched that parade since I was a child and this is my chance to become a part of it.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Oh, I thought she did that parade with her husband.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, I guess you haven't heard.  You see, she's discovered that Carol's been having an affair with her cue card girl. [_laughs_]",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "How did she catch him? She find a giant love letter in his pocket?! _Frasier laughs.  Mary Thomas then enters the booth, the warm but loquacious woman from last season's \"There's Something About Dr. Mary.\"  She is carrying three books._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Mary"
+    },
+    {
+        "speaker": "Mary",
+        "text": "Hey, Frasier, guess who?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_laughs_] Mary Thomas, oh.  Hello, Mary.  Roz, you remember Mary, she and I briefly co-hosted my show last year.",
+        "prevSpeaker": "Mary",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Of course, I remember.  I listen to your show on KEZW all the time.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Mary"
+    },
+    {
+        "speaker": "Mary",
+        "text": "Oh, well, thank you so much and just for that, here's a copy of my new book and Frasier, here's one for you too.  ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "[_reading cover_] \"Warm Bread for the Soul\" by Dr. Mary!",
+        "prevSpeaker": "Mary",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I see you're still identifying yourself as a doctor.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Mary"
+    },
+    {
+        "speaker": "Mary",
+        "text": "But now it's true.  You read the inside cover.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Eh? [_reads_] Dr. Mary has healed thousands of Seattle radio listeners and is a _summa cum laude_ graduate of the School of Hard Knocks.",
+        "prevSpeaker": "Mary",
+        "nextSpeaker": "Mary"
+    },
+    {
+        "speaker": "Mary",
+        "text": "Yes.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Mary, I hate to quibble about things like accreditation and such...  ",
+        "prevSpeaker": "Mary",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "Woh, it's like the American Medical Association in here! [_laughs_] So, isn't this great? Dr.  Mary's coming back to KACL!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Oh, hey, congratulations!",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, yes, congratulations, indeed.  I... I must have missed that memo!",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "Yes, she was doing so great in the ratings we had to steal her back.  Now, I thought your doctors took an oath not to hurt anybody, you are killing us!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Mary"
+    },
+    {
+        "speaker": "Mary",
+        "text": "[_laughs_] Oh, you.  You give me some sugar!  ",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Mary"
+    },
+    {
+        "speaker": "Mary",
+        "text": "Oh, Frasier, I hope you're all right with this.  I know last time you weren't thrilled about us working together.",
+        "prevSpeaker": "Mary",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, no, this time we'll have separate shows.  It's not like we're going to be sharing a mike! [_to Kenny_] Er, we won't be sharing a mike, will we?",
+        "prevSpeaker": "Mary",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "Of course not, we're giving Mary the morning drift shift.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_covering jealousy_] Oh, well, the shift with the biggest audience and the best demographics.",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Mary"
+    },
+    {
+        "speaker": "Mary",
+        "text": "Don't you worry, I'll be promoting your show every single day.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "Is this woman not generous?!  Give me some sugar.",
+        "prevSpeaker": "Mary",
+        "nextSpeaker": "Mary"
+    },
+    {
+        "speaker": "Mary",
+        "text": "[_laughs_] No, baby, you've already got yours but here's a book for you. [_hands it over_] And Merry Christmas to all!",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "[_emphatic_] Merry Christmas!  ",
+        "prevSpeaker": "Mary",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "What the hell's wrong with you?!  _Kenny looks wistful as Roz exits to her booth.  FADE OUT  Scene Two - Frasier's Apartment. Frasier seems to have had his way once again this year as his home is aptly decorated in a stylish manner for Christmas.  Frasier answers the door to Niles who is holding a gift._ ",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Hey.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Niles. [_laughs_] I hope you had the presence of mind to bring presents of mine! [_laughs_]",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I haven't heard that line since last year!  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "But then again, Christmas is the season for chestnuts! [_laughs_]  ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "What's all the food for?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, actually, Kelly Kirkland's coming over, I'm trying to make a good impression.  You see, I was doing my best to charm my way into that parade job.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "What is it with you and this parade?  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, Niles, don't you remember when we were kids? We'd sit on the couch and cradle our cocoas and stay up late to watch our holiday hosts, Bob Vernon and Sergeant Michelle - the...",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Both"
+    },
+    {
+        "speaker": "Both",
+        "text": "...traffic lady!  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, I haven't thought about them in years!",
+        "prevSpeaker": "Both",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You know, to me, that was always the official beginning of Christmas and now this is my chance to usher in the season for a whole new generation.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I loved Sergeant Michelle! To this day, every time I cross against the light, I feel like I'm letting her down!  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "All right, what is that fetid smell?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, oh, that's the food.  I'm preparing dishes that have been featured on Kelly's show.  ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, Lord, that'll be my hobo casserole!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Hobo!  That's the smell! _Frasier exits to the kitchen.  Daphne enters from her room and notices Niles._ [_N.B. Jane Leeves' pregnancy is more covered in this episode, however her eating storyline is still being shown.  Daphne is seen to be eating food whenever she is on screen._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Hey, Niles.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_stands and greets her_] Hello, Daphne.  ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "So, where are we going for dinner tonight?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well, er, it's your pick.  All though, word on the street has it that \"Chez Du Mont\" has the most delectable Hudson Valley foie gras.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Niles, you're spoiling me!  All this rich food's gonna start catching up with my figure!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, not you my little hummingbird, never!  ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "You're as sweet as a chocolate souffle.  Let's get some of those, tonight.  ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh, that's it!  I know I should have stocked my old Ballantines as soon as they stopped making it.  Now, I can't find a single can.  ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Christmas is ruined!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Christmas is about more than beer, Mr. Crane!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Yeah, and this year's extra special because Daphne and I are together.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well, that's true. [_thinks_] No more Mel, no Maris, no Lilith... maybe I won't need beer this Christmas!  ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "That's Kelly.  Showtime!  ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Hi, Kelly.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Kelly"
+    },
+    {
+        "speaker": "Kelly",
+        "text": "Hi, Frasier.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Gosh, you know, I haven't seen you since the \"Broadcasters Against Litter\" march!",
+        "prevSpeaker": "Kelly",
+        "nextSpeaker": "Kelly"
+    },
+    {
+        "speaker": "Kelly",
+        "text": "I think we really made a difference.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Indeed we did.  Now, please, come on in.  I'd like you meet my brother, Niles, and his girlfriend, Daphne.  ",
+        "prevSpeaker": "Kelly",
+        "nextSpeaker": "Kelly"
+    },
+    {
+        "speaker": "Kelly",
+        "text": "Do I smell Hobo Casserole?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Yes, close your eyes, it's like you're under a railroad bridge!",
+        "prevSpeaker": "Kelly",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_laughs_] Yes, off you go.  _Frasier gives a stern look at Niles and Daphne who abruptly exits to Daphne's room._ ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "So, you know about Hobo Casserole?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Kelly"
+    },
+    {
+        "speaker": "Kelly",
+        "text": "Oh, I make it on my show.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, I get so many of my recipes from your show that I've forgotten which are mine and which are yours!",
+        "prevSpeaker": "Kelly",
+        "nextSpeaker": "Kelly"
+    },
+    {
+        "speaker": "Kelly",
+        "text": "[_laughs, then sees bowl_] Ah, now don't tell me that's potato chip salad?!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Uh-oh, [_obvious acting_] this is embarrassing.",
+        "prevSpeaker": "Kelly",
+        "nextSpeaker": "Kelly"
+    },
+    {
+        "speaker": "Kelly",
+        "text": "So, you really are a fan of the show, huh?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Guilty.  I especially admire your work on the Christmas Parade.",
+        "prevSpeaker": "Kelly",
+        "nextSpeaker": "Kelly"
+    },
+    {
+        "speaker": "Kelly",
+        "text": "You really want this, don't you?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, Gosh, I do.  I really do.  I must admit.  In fact, you know, I'd be willing to audition for you right now.",
+        "prevSpeaker": "Kelly",
+        "nextSpeaker": "Kelly"
+    },
+    {
+        "speaker": "Kelly",
+        "text": "Oh, Frasier, now that's not necessary.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Please, I'd like to.  Now, I've examined the parade schedule and I have taken a liberty of preparing a few ad-libs.  If you would indulge me in one or two?  ",
+        "prevSpeaker": "Kelly",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Hey, Kelly.  Have you ever seen eighty beavers march in perfect rhythm?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Kelly"
+    },
+    {
+        "speaker": "Kelly",
+        "text": "Oh, Frasier, everyone knows beavers can't march.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, they can, when they're the marching beavers of the Riverside High School Band!",
+        "prevSpeaker": "Kelly",
+        "nextSpeaker": "Kelly"
+    },
+    {
+        "speaker": "Kelly",
+        "text": "Hey, you tricked me.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Sorry, Kelly, but how about those incredible formations. They're so precise.",
+        "prevSpeaker": "Kelly",
+        "nextSpeaker": "Kelly"
+    },
+    {
+        "speaker": "Kelly",
+        "text": "Well, that doesn't surprise me, Fras, after all, the beaver is nature's first ENGINE-er!  [_laughs_]  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Kelly"
+    },
+    {
+        "speaker": "Kelly",
+        "text": "That's nice banter.  _Frasier looks gleeful.  FADE TO:  Scene Three - Radio Station. Frasier is rounding up his show as Roz reads Dr.  Mary's book in her booth._ ",
+        "prevSpeaker": "Kelly",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, Seattle, thank you for your calls. _Frasier knocks on the window to Roz who is immersed in the book. She carries on reading._ ",
+        "prevSpeaker": "Kelly",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Seattle, thank you for your calls!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "[_monotone and bored, still reading_] Hey, Frasier, what are you doing over the Christmas weekend?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, Roz, if you insist on interrogating me, I'll be co- hosting the Seattle Christmas parade tomorrow night... _Roz begins nonchalantly ringing some Christmas bells whilst still reading.  She is obviously not too fussed about Frasier's plans for finishing the show._ ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "...on Channel 6 with the lovely and talented Kelly Kirkland. I hope it will be the beginning of a new holiday tradition. Good mental health, see you at the parade.  _Frasier presses the button to go off-air.  Roz quickly throws down her bells and carries on reading.  Kenny enters._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "Hey, doc.  Oh, Frasier, I wish you hadn't done that little promo.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Why?  Kelly told me I had the job, her word is good enough for me.",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "I got some bad news.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I knew I couldn't trust that woman, and after I had her to my home for that hillbilly buffet!",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "She's got food poisoning.  She'll be laid up for days.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, a tough blow!  But, I'm nothing if not a team player, you know, I'll do the parade myself.",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "Boy, you really know how to land on your feet, doc.  But, er, you're still going to have a co-host.  Listen, nothing officially yet, but there are a few names that are floating around.  _Frasier looks behind him and sees Mary jumping about happily with her co-workers.  She then looks at Frasier through the glass and indicates she will be working with him at the parade.  Frasier looks back to Kenny._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "I'll let you know if I hear anything.  _Kenny exits as Frasier grimaces.  End of Act One.  Act Two.  Scene One - Frasier's Apartment. Martin is on the phone as Frasier enters who puts on his overcoat from the rack._ ",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_on phone_] Oh, that'd be sweet! [_pause_] No, it's Frasier. Okay, see you, Duke. [_hangs up_]",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, Dad, how do I look?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well, a smile'd help!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_sighs_] I know, it's just that this whole Mary thing's got me kinda upset.  You know, that woman grew up in Seattle, she's never even seen that parade, it's a sacrilege.  My God, you know, this event, it's an institution, it carries with it a tradition of pride and pageantry and old-fashioned good times. [_thinks_] Well, that's not bad, I think I might open with it.  _Niles and Daphne enter from her room.  Daphne carries a gift and places it under the tree._ ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Hey, Frasier, good luck tonight.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, thanks, Niles.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "We'll be watching.  Hey, maybe you could say hi to us on the air.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, for God's sake, Daphne, this is not some sort of a home movie!  This event carries with it a tradition of pride and pageantry and old-fashioned good times. [_thinks_] Eh, now I don't like it!  [_exits_]  _Daphne and Niles stand round Martin and begin their obviously practiced banter._ ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Maybe I'll heat up some cider for the parade.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, sounds good to me.  Dad?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "I guess.  Parade just won't be the same without Ballantine.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Is anything the same to you without Ballantine?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Sure, lots of stuff. [_beat_] No, not really. _Niles gives Daphne a knowing glance before she quickly exits to the kitchen._",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Dad, I know, Christmas is a few days off but Daphne and I were wondering if it wouldn't be a good idea for you to open one of your presents early.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "No, no, that'd be cheating.  No opening presents till Christmas morning.  _Daphne enters holding a gift-wrapped present, obviously a six-pack of beer._ ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Are you sure?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_feels at it_] Who-ho-ho!  Well, I guess one wouldn't hurt. I'm not doing this by myself, though.  You two have got to open something too.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_to Daphne_] What do you think?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "One wouldn't hurt.  ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "This is for you.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Oh, and that's yours.  ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Everybody got something?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Yeah.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "All right, good! ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_laughs_] I knew it, thank you so much.  How'd you keep it cold?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "I hid it in the vegetable crisper.  I knew you'd never look there.  ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Niles, they're exquisite.  Thank you.  ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "You're welcome. [_pause_] And you got me... [_unwraps, with enthusiasm_] ...batteries!  Thank you.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "[_let down_] Oh, you opened the wrong package. [_goes to tree_] You were supposed to open this one.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "No, no, I can't open another one, that's not fair.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well, if we all open one more then it'd make it even.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Sounds fair.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Alright, but that's it.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Yeah, no more.   **MARY CHRISTMAS**  _Scene Two - Christmas Parade. Frasier and Mary are on air, sat at their podium.  A fanfare of music is heard in the background._ ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Merry Christmas, Seattle.  This is Dr.  Frasier Crane...",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Mary"
+    },
+    {
+        "speaker": "Mary",
+        "text": "...and Dr.  Mary!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "...Welcoming you to the 42nd annual Christmas parade.",
+        "prevSpeaker": "Mary",
+        "nextSpeaker": "Mary"
+    },
+    {
+        "speaker": "Mary",
+        "text": "Yes, first off, we want to wish Kelly Kirkland a speedy recovery.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Indeed, and may I say, it's an honor to be sitting here in the very chairs that were once occupied by the legendary Bob Vernon and his co-host Sergeant Michelle, who started this tradition so many years ago.",
+        "prevSpeaker": "Mary",
+        "nextSpeaker": "Mary"
+    },
+    {
+        "speaker": "Mary",
+        "text": "And here comes our first float, Frosty the Snowman!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You know, Mary, historically speaking the first float was probably the Trojan horse.  It was a gift from the people of Troy.  Once brought inside the city walls however, they discovered it was filled with Greek soldiers, who slaughtered their Trojan enemies in the street.  Of course, modern floats have come a long way since then. [_with a grin_] We hope!",
+        "prevSpeaker": "Mary",
+        "nextSpeaker": "Mary"
+    },
+    {
+        "speaker": "Mary",
+        "text": "Well, this float comes to us as a gift from Seattle's sister city: Managua, Nicaragua.  You know, I like the way that sounds. [_with accent_] Managua Nicaragua. [_then_] It sounds like the name of a fine Latino man!  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Mary"
+    },
+    {
+        "speaker": "Mary",
+        "text": "[_accent_] Would you like to dance, Dr.  Mary? [_then_] Yes, I would, Managua Nicaragua.  Shake that piece of Costa Rica for me! [_laughs_] For more information, here's float reporter Mike.",
+        "prevSpeaker": "Mary",
+        "nextSpeaker": "Director"
+    },
+    {
+        "speaker": "Director",
+        "text": "And we're clear.  ",
+        "prevSpeaker": "Mary",
+        "nextSpeaker": "Mary"
+    },
+    {
+        "speaker": "Mary",
+        "text": "This is fun, isn't this fun?",
+        "prevSpeaker": "Director",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, yes, but you know, Mary, maybe we should try sticking to the script, hmm?  The more we improvise, the less professional we look.",
+        "prevSpeaker": "Mary",
+        "nextSpeaker": "Mary"
+    },
+    {
+        "speaker": "Mary",
+        "text": "Oh, okay, I'm sorry now.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Director"
+    },
+    {
+        "speaker": "Director",
+        "text": "Hey, Mary, great ad-libbing.  More of that.  Frasier, try to loosen up.  We're back in five! [_counts down_]  _CUT TO: Later.  We now see Frasier and Mary at the parade on the television at Frasier's apartment._ ",
+        "prevSpeaker": "Mary",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Say, Mary, this enormous stocking is overstocked with presents!",
+        "prevSpeaker": "Director",
+        "nextSpeaker": "Mary"
+    },
+    {
+        "speaker": "Mary",
+        "text": "Ooh, I'd like to tear into one of those gifts right now.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, not until Christmas morning, Mary.  You know, in my house, we don't even shake the boxes.  _The camera pulls back to show the household watching the television in the midst of much wrapping paper and opened presents.  Martin is sat in his fishing gear with an ear-flap hat on.  Daphne is decked out in skiing gear.  Niles is sat wearing his winter clothes reading a book.  They react to Frasier's comments._ ",
+        "prevSpeaker": "Mary",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "We're going to need some wrapping paper.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "There's a couple of rolls in my room.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "I'll get some tape.  _The three start about the task.  FADE TO:  Scene Three - Christmas Parade. Frasier and Mary are continuing their \"banter.\"  \"We Wish You A Merry Christmas\" plays behind them._ ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "This is the 5th float sponsored by a local software company.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Mary"
+    },
+    {
+        "speaker": "Mary",
+        "text": "Hey, those guys on that giant were knocked over by candy cane.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, Mary, [_showing her script_] and for a hundred and fifty feet, it certainly is the largest float on the parade.",
+        "prevSpeaker": "Mary",
+        "nextSpeaker": "Mary"
+    },
+    {
+        "speaker": "Mary",
+        "text": "Throw some candy canes over here!  [_shouts_] Come on, come on, put some muscle into it, you nerd!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Mary...  _Suddenly, a barrage of candy suddenly engulfs Frasier, knocking his headset off._ ",
+        "prevSpeaker": "Mary",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_smiling_] This might be a good time for a break.  We have an exciting surprise coming up - a special mystery guest.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Mary"
+    },
+    {
+        "speaker": "Mary",
+        "text": "[_suddenly, ad-libbed_] It's Santa!  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Thank you, Mary!",
+        "prevSpeaker": "Mary",
+        "nextSpeaker": "Director"
+    },
+    {
+        "speaker": "Director",
+        "text": "And, we're clear!  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I think I'm gonna go get some air.",
+        "prevSpeaker": "Director",
+        "nextSpeaker": "Mary"
+    },
+    {
+        "speaker": "Mary",
+        "text": "But we're outside.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Stretch my legs!  _Frasier goes down from his podium to Roz, who is watching the parade with Alice._ ",
+        "prevSpeaker": "Mary",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Hey, Frasier, thanks for the tickets.  Alice is having a great time.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, I'm glad somebody is.  Mary is ruining my parade.  Do you know, [_refers to his script_] this has been called \"nice banter\" by a top parade professional.  Does anybody get to hear it?  No.  Instead, Mary just prattles on endlessly as if every idea that pops into her head is worth saying out loud. She is totally unpredictable.  Now, Santa's coming up and I've prepared a really cute bit and I know she's going to ruin that too!",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Look, if you tell her how important it is, I'm sure she'll back off.  She's a reasonable person.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Director"
+    },
+    {
+        "speaker": "Director",
+        "text": "Fifteen seconds.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Good luck.  ",
+        "prevSpeaker": "Director",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Mary, listen, I've let you have free reign over the parade this evening, could I please do the Santa interview myself?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Mary"
+    },
+    {
+        "speaker": "Mary",
+        "text": "Oh, of course, of course.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Great.",
+        "prevSpeaker": "Mary",
+        "nextSpeaker": "Director"
+    },
+    {
+        "speaker": "Director",
+        "text": "And cue.  _Frasier walks down to in front of the podium.  On air: \"Santa Claus is Coming to Town\" plays in the background._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "And we're back.  I see someone special getting off his sleigh.",
+        "prevSpeaker": "Director",
+        "nextSpeaker": "Santa"
+    },
+    {
+        "speaker": "Santa",
+        "text": "[_enters_] Ho-ho-ho, ho-ho. [_to crowd_] Well, hello, up there.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Some call him St.  Nick, others Kris Kringle, in Holland he's affectionately known as...  ",
+        "prevSpeaker": "Santa",
+        "nextSpeaker": "Santa"
+    },
+    {
+        "speaker": "Santa",
+        "text": "Oh, you must be Dr.  Mary.  You know, I've been meaning to call your show.  My elves always seem to get a little blue when the work is done, and I thought, well, maybe you could help.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Mary"
+    },
+    {
+        "speaker": "Mary",
+        "text": "Oh, Santa.",
+        "prevSpeaker": "Santa",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Santa, I've got some questions over here for you.",
+        "prevSpeaker": "Mary",
+        "nextSpeaker": "Mary"
+    },
+    {
+        "speaker": "Mary",
+        "text": "Maybe we all could put our heads together and come up with a solution.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Santa"
+    },
+    {
+        "speaker": "Santa",
+        "text": "[_to crowd_] Do you think that Dr.  Mary could help Santa to cheer up his elves?  [_they cheer_]",
+        "prevSpeaker": "Mary",
+        "nextSpeaker": "Mary"
+    },
+    {
+        "speaker": "Mary",
+        "text": "Why don't you give them some candy?  ",
+        "prevSpeaker": "Santa",
+        "nextSpeaker": "Santa"
+    },
+    {
+        "speaker": "Santa",
+        "text": "That's a great idea.",
+        "prevSpeaker": "Mary",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No, that's a terrible idea.  Your elves are probably suffering from seasonal-affective disorder.  Now, loading them up with sweets will only aggravate the problem!",
+        "prevSpeaker": "Santa",
+        "nextSpeaker": "Santa"
+    },
+    {
+        "speaker": "Santa",
+        "text": "Kids love candy!  [_the crowd cheers_]",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Elves are not kids, they're tiny men!",
+        "prevSpeaker": "Santa",
+        "nextSpeaker": "Mary"
+    },
+    {
+        "speaker": "Mary",
+        "text": "Well, if you want my opinion...",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No, thank you, Mary.  We've been listening to your opinions all night, and frankly there isn't enough room left in our heads for another one, now if you would just get back in... _Frasier puts his hands out and accidentally punches Santa on the nose with his microphone._ ",
+        "prevSpeaker": "Mary",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I'm so sorry.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Santa"
+    },
+    {
+        "speaker": "Santa",
+        "text": "What the hell's wrong with you?  Look, I'm bleeding, I'm bleeding.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "It was an accident.",
+        "prevSpeaker": "Santa",
+        "nextSpeaker": "Santa"
+    },
+    {
+        "speaker": "Santa",
+        "text": "I'm feeling dizzy.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Director"
+    },
+    {
+        "speaker": "Director",
+        "text": "Cue the tape.  I don't care what tape, find something! Woman: What's wrong with you?  You attacked Santa Claus!",
+        "prevSpeaker": "Santa",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Look, it was an accident.  Wasn't it, Mary?  You saw it.",
+        "prevSpeaker": "Director",
+        "nextSpeaker": "Mary"
+    },
+    {
+        "speaker": "Mary",
+        "text": "Oh, now, you want my opinion.  Honey, you're on your own.  _We FADE OUT.  Scene Three - Christmas Parade. The parade has ended and the place is empty.  Frasier walks up to Mary with a guilty look on his face._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Hello, Mary.",
+        "prevSpeaker": "Mary",
+        "nextSpeaker": "Mary"
+    },
+    {
+        "speaker": "Mary",
+        "text": "Hello.  Any word on Santa?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, he'll be all right.  They gave him a coagulant.  I'd like to apologize for the way I acted toward you.  It was rude and disrespectful.",
+        "prevSpeaker": "Mary",
+        "nextSpeaker": "Mary"
+    },
+    {
+        "speaker": "Mary",
+        "text": "Well, what did I do to make you treat me that way?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, it's just that doing this parade has been a dream of mine and it felt like you were taking that away from me.",
+        "prevSpeaker": "Mary",
+        "nextSpeaker": "Mary"
+    },
+    {
+        "speaker": "Mary",
+        "text": "Oh, what do you mean?  We're a team.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, yeah.  I was the boring, stiff guy and you were the one everybody loved.",
+        "prevSpeaker": "Mary",
+        "nextSpeaker": "Mary"
+    },
+    {
+        "speaker": "Mary",
+        "text": "Oh, come on, now.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No, it's true, Mary.  This town has taken you into its heart in a way that they never have with me.  I guess I'm a little jealous of that.",
+        "prevSpeaker": "Mary",
+        "nextSpeaker": "Mary"
+    },
+    {
+        "speaker": "Mary",
+        "text": "Oh, Frasier, if it helps, I forgive you and you know something, when you're not trying so hard, you're actually kinda lovable yourself.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Really?  Would I be over-stepping my bounds if I were to ask for some sugar right now?  ",
+        "prevSpeaker": "Mary",
+        "nextSpeaker": "Mary"
+    },
+    {
+        "speaker": "Mary",
+        "text": "Merry Christmas, Frasier.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Merry Christmas, Mary.",
+        "prevSpeaker": "Mary",
+        "nextSpeaker": "Mary"
+    },
+    {
+        "speaker": "Mary",
+        "text": "Well, I'm gonna get on out of here, now.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Right, right, you know, I'd offer to walk you to your car but there's still some angry parents in the parking lot!",
+        "prevSpeaker": "Mary",
+        "nextSpeaker": "Mary"
+    },
+    {
+        "speaker": "Mary",
+        "text": "Oh, okay.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Bye-bye. _Mary exits.  Frasier wanders over to the stands and sits.  A man puts his hand down to him, Frasier assumes it is the cleaner.  The man remarks \"Excuse me\"._ ",
+        "prevSpeaker": "Mary",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You just sweep around me.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Bob"
+    },
+    {
+        "speaker": "Bob",
+        "text": "Um, no, I want to introduce myself.  I'm Bob Vernon.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "What?  Bob Vernon?",
+        "prevSpeaker": "Bob",
+        "nextSpeaker": "Bob"
+    },
+    {
+        "speaker": "Bob",
+        "text": "That's right.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, it's an honor, sir.",
+        "prevSpeaker": "Bob",
+        "nextSpeaker": "Bob"
+    },
+    {
+        "speaker": "Bob",
+        "text": "Thank you.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Say, you didn't watch the parade this evening did you?",
+        "prevSpeaker": "Bob",
+        "nextSpeaker": "Bob"
+    },
+    {
+        "speaker": "Bob",
+        "text": "Well, I turned it off when the smelling salts started making Santa nauseous.  You know, Frasier, I got off to a rather rough start at this parade myself.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You did?",
+        "prevSpeaker": "Bob",
+        "nextSpeaker": "Bob"
+    },
+    {
+        "speaker": "Bob",
+        "text": "Hm.  Oh yes.  Sergeant Michelle and I had absolutely no rapport that first year.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_surprised_] No?!",
+        "prevSpeaker": "Bob",
+        "nextSpeaker": "Bob"
+    },
+    {
+        "speaker": "Bob",
+        "text": "Frankly she got on my nerves.  You know, she wasn't a real sergeant.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_shocked_] No?!",
+        "prevSpeaker": "Bob",
+        "nextSpeaker": "Bob"
+    },
+    {
+        "speaker": "Bob",
+        "text": "Listen, son, try to lighten up on yourself.  You did some real nice work down here today.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Thanks.",
+        "prevSpeaker": "Bob",
+        "nextSpeaker": "Bob"
+    },
+    {
+        "speaker": "Bob",
+        "text": "Good luck.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Say, Mr. Vernon?",
+        "prevSpeaker": "Bob",
+        "nextSpeaker": "Bob"
+    },
+    {
+        "speaker": "Bob",
+        "text": "Yes?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Is there any chance that you'd like to join me in a little banter?",
+        "prevSpeaker": "Bob",
+        "nextSpeaker": "Bob"
+    },
+    {
+        "speaker": "Bob",
+        "text": "It would be an honor.  _They sit on the steps as Frasier opens his script.  Bob puts on his reading glasses._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Right here: [_reads_] Say, Bob.  Have you ever seen eighty beavers march in perfect rhythm?",
+        "prevSpeaker": "Bob",
+        "nextSpeaker": "Bob"
+    },
+    {
+        "speaker": "Bob",
+        "text": "Frasier, everyone knows beavers can't march.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "They can, when they're the marching beavers of the riverside high school band!",
+        "prevSpeaker": "Bob",
+        "nextSpeaker": "Bob"
+    },
+    {
+        "speaker": "Bob",
+        "text": "Oh, you tricked me.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Sorry, Bob, but how about those incredible...  _They carrying on bantering as Frasier fulfills his childhood dreams.  End of Act Two._ ",
+        "prevSpeaker": "Bob",
+        "nextSpeaker": "Credits"
+    }
+]

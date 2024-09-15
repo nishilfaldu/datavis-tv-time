@@ -1,0 +1,1311 @@
+[
+    {},
+    {
+        "speaker": "Frasier",
+        "text": "[_on air_] Well, I think we have time for one last call, who's up next, Roz?",
+        "prevSpeaker": "No Previous Speaker",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "We have Elliot, on line three.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Hello, Elliot.  I'm listening.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Elliot"
+    },
+    {
+        "speaker": "Elliot",
+        "text": "[_v.o. He sounds like a thirteen year old_] Well, you see Dr. Crane, I have a problem.  I'm a salesman...",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Ah, a salesman?  How old are you?",
+        "prevSpeaker": "Elliot",
+        "nextSpeaker": "Elliot"
+    },
+    {
+        "speaker": "Elliot",
+        "text": "Forty-three.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Forty-three?",
+        "prevSpeaker": "Elliot",
+        "nextSpeaker": "Elliot"
+    },
+    {
+        "speaker": "Elliot",
+        "text": "Yes.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Now tell.  Let's be truthful.",
+        "prevSpeaker": "Elliot",
+        "nextSpeaker": "Elliot"
+    },
+    {
+        "speaker": "Elliot",
+        "text": "I'm forty-three.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Elliot, we were not born yesterday.  Clearly you are just an adolescent, trying to prove to your little friends how clever you are by getting on the radio.  But you know what you are really doing, you're taking time away from people with real problems.",
+        "prevSpeaker": "Elliot",
+        "nextSpeaker": "Elliot"
+    },
+    {
+        "speaker": "Elliot",
+        "text": "Hey, I'm forty-three, I was born in New Providence, and I have a very young-sounding voice that people make fun of all the time!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_contrite_] Oh, I'm so sorry, Elliot, that was very insensitive of me.",
+        "prevSpeaker": "Elliot",
+        "nextSpeaker": "Elliot"
+    },
+    {
+        "speaker": "Elliot",
+        "text": "Hah!  Gotcha, Dr. Doofus!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, indeed you did \"get us,\" Elliot, but we are not so stuffy here on this program that we can't laugh at ourselves from time to time. [_off-air_] Roz, can't you keep these pimply- faced little maggots off the air?! [_on air_] Well, that's our show for today.  This is Dr. Crane signing off and wishing you good mental health.",
+        "prevSpeaker": "Elliot",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Have a good weekend, Roz.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Wait, Frasier.  I want to ask you a question, and I want you to give me an honest answer.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No, that outfit does not make you look fat.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Well, that wasn't the question.  But why would you think it was?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, as a rule, when a woman prefaces a question with \"I want an honest answer,\" that's usually the question.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Well, I'm not that insecure.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Good.  I'm sorry, you were right.  Your question, please.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Would you say the back of my head is unattractive?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Roz, have you completely lost your mind?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "No, I'm serious.  You know how I have season tickets to the Seahawks games?  Well, there's this really cute guy who sits right behind me, and a few weeks ago we said \"Hi\" and we smiled at each other, but so far he hasn't asked me out yet. So I was thinking there was something, you know, weird about the back of my head.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Roz, there could be hundreds of reasons why he hasn't asked you out.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "[_sarcastic_] Thank you, that makes me feel much better.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No, no, maybe he's married, maybe he's in a relationship, maybe he's gay.  Or maybe, just maybe, he's there to watch a football game and not cruise for chicks.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "...Okay, you're right.  I'm being ridiculous.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Of course you are.  See you Monday.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "All right. [_sits back down_] _Before he leaves, however, Frasier can't help staring at the back of her head.  She catches him._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "I saw that! [_he runs out of the booth, she chases him to get his opinion_] Wait! **HEIR TO THE THRONE**  _Scene Two - Frasier's apartment. He is sitting at the table whilst Eddie stares at him._ ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You are not getting the rest of my scone, so just forget it... [_takes a bite out of scone_] Mmm.  Really good, too.  Yum, yum yum yum... Listen, I don't care, you can sit there 'til you're blue in the face... As far as I'm concerned, you don't even exist, you're not even here... [_he goes back to reading his paper, but soon crumbles under Eddie's unrelenting stare_] Oh, all right, here! Get fat!  _He gives the rest of the scone to Eddie, who runs off with it. Martin enters._ ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Ah, got you again, huh?  You're such a soft touch.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I am not.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well, he never begs while I'm eating.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Maybe he doesn't like what you're eating.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Trust me, he's not picky.  I saw him eat a beetle.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Eddie?!  Let's go for another walk.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "I thought you already walked him this morning?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "I did, twice.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "He's gotta go again?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "No, actually I do! [_she catches herself as Martin and Frasier give her sharp looks_] That didn't sound right.  There's a very nice-looking gentleman who plays frisbee in the park with his Labrador.  Eddie and I are hoping to run into them again. Come on, Eddie. [_pulls his leash, Eddie doesn't want to move_] He's just playing hard to get.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I'm glad somebody is.  ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Hey Frasier, how about fixing that toilet of yours?  It keeps running all the time, the noise is driving me crazy.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "All right, Dad.  I'll call a plumber.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "What do you mean, \"Call a plumber?\"  You've got two hands, fix it yourself.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Dad, I am a doctor.  I have more important things to do with my life than to fix a toilet.  ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Good news, Frasier.  I pulled some strings with the spa, and they're squeezing us in for a salt glow with our Swedish massage.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Fabulous!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Ah, forget about a plumber, I'll do it myself.  My manicurist cancelled on me.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Dad, you will not do it yourself.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "I'll bet you don't even have any tools around here.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh well, that's where you're wrong.  Let me show you something, mister.  Here... _He opens a drawer and pulls out a pocket toolkit.  It's like a Swiss Army knife, but has pliers, allan keys, etc. instead of blades.  Very useful when it's in the glove compartment of your car, but you try using it to remove the battery strap when you're stuck in the middle of nowhere!_",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "See this?  Every possible tool for every possible need. Got this from Hammacher-Schlemmer.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Is that turquoise inlay?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, it also comes in ebony and onyx.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Onyx.  Onyx is so showy.  I don't...",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, I don't think so.  I love onyx, onyx is a stone that resonates within me...  ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "This is why I never took any home movies.  You two realize what a couple of delicate doilies you are?  Sheesh, you don't even know the meaning of the word self-reliant.  Thank God there's not a national disaster happening, you'd be helpless. [_exits_]",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_examining the toolkit_] Oh!  A lemon zester!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes... You know Niles, I'd actually like to fix that toilet, just to prove Dad wrong.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Frasier, when a man is born with superior genes, the last challenge he should face involving a toilet is learning how to use one.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, but we-we've conquered the intellectual world, but in the world of nuts and bolts we're at the mercy of tradesmen.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "You're serious?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes!  We could borrow some tools and fix it ourselves. It would be good practical experience, and it would shut Dad up.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "We'll show him!  We're made of tougher stuff than he thinks!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Exactly.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "And it's early.  We can let the Eucalyptus wrap be our reward. **IF YOU WANT IT DONE RIGHT...**  _Scene Three - Frasier's bathroom. As you'd expect, it's the height of good taste.  Frasier is pondering a ball-cock while reading a \"How to do it\" manual, as Niles phones Maris.  (Of course Frasier has a phone in his bathroom!)_ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_on phone_] Maris.  I'm afraid I'll be delayed a few hours. Frasier and I have taken it upon ourselves to tackle a home repair.  Yes, I'm working with my hands... Yes, I've worked up a bit of a sweat... I suppose I could take my shirt off.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Niles, what are you doing?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "She seems to be getting aroused at my attempt at manual labor. [_on phone_] Maris?  I'm holding some sort of wrench...",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_taking phone_] Give me that! [_on phone_] Hello, Maris?  Maris, Niles is busy now... No, never mind what I'm wearing. [_hangs up_] May we continue, please?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Fine.  All right. [_starts reading out instructions_] \"Take the ball-cock assembly, thread it through the tank hole.\"",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Done.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "\"And fasten it under the tank with a lock-nut.\"",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, very well, lock-nut.  You see Niles, until today, you didn't even know what a locknut was.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "That Niles is dead.  Call me Dutch.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You know Niles, working with our hands like this, I'm reminded of that glorious tradition of the Amish barn raising.  All the men of the village coming together, the mind, the muscle, all toward that simple, yet extraordinary goal. [_replaces the tank lid_] All right... we are ready to flush.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Here's to what the Crane brothers can accomplish when they put their minds to it.  Flush away.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "It's working!  Oh my God, it's working.  Look, it's draining out of the tank, into the bowl...",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "It's filling the bowl, and then the tank -- oh, I've seen it a million times, but never has it meant so much!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "It's glorious.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Frasier?  Shouldn't it be stopping now?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "One would think so, yes. _The bowl overflows.  The Crane boys panic.  Frasier retreats while Niles perches on the step of the bathtub._ ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Ohh, ohh!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Ohh! [_referring to instructions_] Look it up. What does it say to do now?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_flipping rapidly_] It says - oh, it says nothing!  Where are all your Amish friends now?! **THE CIRCLE OF LIFE**  _Scene Four - Living Room Niles hands Frasier a glass of wine._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "The plumber's been called, the wine is properly chilled, suddenly my world makes sense again.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "We've had a tough day.  We've tangled with a little pipe and porcelain.  Now it's Montrachet time.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "When you think about it, our only mistake today was trying to fix that toilet ourselves.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, we tampered with the natural order of things.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "But now, order has been restored.  By hiring a plumber, that plumber can now afford, say, a Dolly Parton album.  Miss Parton can then finance a national tour which will, of course, come to Seattle, allowing some local promoter to make enough money to send his cross-dressing teenaged son to us for $150- an-hour therapy.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_raises his glass_] To the circle of life.  ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "That must be the plumber.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well, are you going to answer that, or are you going to hire somebody to do that for you too?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Dad, we tried, okay? _The doorbell bing-bongs again.  Daphne enters from the hallway carrying a mop and wearing long yellow rubber gloves.  She's obviously been cleaning up the mess in the toilet._ ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Oh please, I wasn't doing anything.  Let me get it.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Danny"
+    },
+    {
+        "speaker": "Danny",
+        "text": "Somebody call for a plumber?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Not nearly soon enough.",
+        "prevSpeaker": "Danny",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Follow me. [_he and Danny exit to toilet_]",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "What a lovely way to spend an afternoon.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well Daphne, we're not plumbers, we're psychiatrists.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Yeah, well there are some heads you shouldn't tamper with. ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Frasier, you've got to get him out of here.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "What?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "That man is not fit to touch your toilet!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Niles, have you been self-medicating again?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "That was Danny Kreizel.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "\"Kreizel the Weasel?\"  How can you be sure, it's been twenty- five years.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I'd recognize him anywhere.  He bullied me throughout my entire childhood!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "He certainly didn't recognize you just now.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well, perhaps that was because he wasn't sticking my head down a toilet and FLUSHING IT!  That was his trademark.  He called it... a swirly.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Niles, you don't have to remind me of the Kreizel reign of terror.  I'm quite convinced I can trace my fear of confined spaces back to the time when his older brother Billy shoved me into a locker, wearing a girl's field hockey uniform!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I'm sorry, I didn't mean to deny you your pain.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Thank you.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_back to his own pain_] I can still hear the laughter, and Kreizel's mocking voice as he'd hoist me over the bowl. \"Hold your breath, Jocko!\"  Then the crowd would start its awful chant.  \"There goes Crane, Down the Drain!\" [_starts to bow over the armchair_] \"There goes Crane, Down the...\"",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "NILES!  Niles, get a hold of yourself!  Stop it!  Stop, stop. It's all right.  You're no longer an awkward teenager, you're a renowned psychiatrist.  Danny Kreizel may have won a battle or two back in junior high, but that's where he peaked.  You won the war.  You know the expression, \"Living well is the best revenge\"?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "It's a wonderful expression.  Just don't know how true it is. Don't see it turning up in a lot of opera plots.  \"Ludwig, maddened by the poisoning of his entire family, wreaks vengeance on Gunther in the third act by living well.\"",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "All right, Niles. [_heads into the kitchen_]",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_follows him_] \"Whereupon Woton, upon discovering his deception, wreaks vengeance on Gunther in the third act again by living even better than the Duke.\"",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, all right! _CUT TO: Frasier's bathroom. Danny is fixing the toilet, Martin is keeping an eye on his work._ ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "That's a _new_ part, right?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Danny"
+    },
+    {
+        "speaker": "Danny",
+        "text": "Yeah.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "'Cause I'm sure you're charging me for a new part, so I wouldn't want you charging me for a used part.",
+        "prevSpeaker": "Danny",
+        "nextSpeaker": "Danny"
+    },
+    {
+        "speaker": "Danny",
+        "text": "What are you, the plumbing police?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_exiting_] I'll be back.  ",
+        "prevSpeaker": "Danny",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Don't mind me, just came in for some aspirin.  Tannic acid gives me the tiniest headache.  That's the price I pay for drinking nothing but expensive wine.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Danny"
+    },
+    {
+        "speaker": "Danny",
+        "text": "[_not reacting to jibe_] Hey. [_whistles to get Niles's attention_] You got a real mess here.  I'm gonna have to call the shop, have my partner bring out a whole lotta new parts. You're looking at two guys on golden time, is that okay with you?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "It's only money.  Hmph...",
+        "prevSpeaker": "Danny",
+        "nextSpeaker": "Danny"
+    },
+    {
+        "speaker": "Danny",
+        "text": "Say, uh, has somebody been trying to fix this thing?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Not me.  I don't even set the clock in my _Mercedes E320_.",
+        "prevSpeaker": "Danny",
+        "nextSpeaker": "Danny"
+    },
+    {
+        "speaker": "Danny",
+        "text": "Boy, that's a nice car.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Yes, I should say it is.",
+        "prevSpeaker": "Danny",
+        "nextSpeaker": "Danny"
+    },
+    {
+        "speaker": "Danny",
+        "text": "Yeah, I had one for a while.  But it was too small for the whole family, so we upgraded to the S class.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "You have the big Mercedes?",
+        "prevSpeaker": "Danny",
+        "nextSpeaker": "Danny"
+    },
+    {
+        "speaker": "Danny",
+        "text": "Oh, yeah.  And I gotta tell you, my 13 year-old's already got his eye on it.  That's a great kid right there.  Except he got in a fight at school the other day.  ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, really? [_reaches out to flush the toilet_] With some small- boned child with superior language skills? _Danny looks up, causing Niles to pull his hand away and act as though he were stretching._ ",
+        "prevSpeaker": "Danny",
+        "nextSpeaker": "Danny"
+    },
+    {
+        "speaker": "Danny",
+        "text": "Nah.  It was some big jerk on the football team who tried to steal his lunch money.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Ah.",
+        "prevSpeaker": "Danny",
+        "nextSpeaker": "Danny"
+    },
+    {
+        "speaker": "Danny",
+        "text": "Yeah. [_bows his head in again_]",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well, there's nothing like a bully. _He raises his foot to push Danny's head in, but Danny looks up again, causing Niles to grab his foot and flex his leg behind his back, again as if stretching._ ",
+        "prevSpeaker": "Danny",
+        "nextSpeaker": "Danny"
+    },
+    {
+        "speaker": "Danny",
+        "text": "Well, I gotta tell you, I'd rather he'd be a bully than one of those wussy kids that always get picked on.  You know the kind I'm talking about?  Kids who are too gutless to fight back?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "You admire someone who fights back, do you?",
+        "prevSpeaker": "Danny",
+        "nextSpeaker": "Danny"
+    },
+    {
+        "speaker": "Danny",
+        "text": "Well, sure. I mean, if you don't fight back, what are you? You're a wuss, you're a wimp, you're a...  _Frasier enters in time to stop Niles lunging at Danny. Danny doesn't notice._ ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "STOP!  Niles, leave the man alone while he's trying to work!  _END OF ACT ONE  ACT TWO  Scene Five - Living Room Niles angrily paces back and forth on the balcony.  Each time he passes by Frasier's ficus tree, he swats it with his hand.  Frasier stands inside, watching him. Daphne enters._ ",
+        "prevSpeaker": "Danny",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "What's Dr. Crane doing?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "He's a little frustrated because I wouldn't let him do something.  He's taking his anger out on my ficus.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "I've never seen him so angry, he's like a madman. _Niles's arm waving gets more extreme, until he's wildly flinging his arms about.  Sensing something wrong, Frasier lets him in._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Good Lord!  There's a bee out there the size of a wood finch!",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Niles, you've had a chance to cool off.  Are you ready to talk about this now?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "No, I'm not ready yet. _He goes into the kitchen.  Frasier follows.  Daphne looks through the telescope, searching the park for the man with the Labrador.  Reset to: Kitchen._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Niles, I have to be honest.  I'm a little disappointed in you. Were you actually going to stick another human being's head into a toilet?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_getting soda from fridge_] You don't seem to understand, I feel this RAGE!  It's as if this BEAST has been awakened within me! [_he can't get the top off the bottle_] Could you get that for me?  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Niles, you see, there is a beast in all of us.  Part of becoming a rational adult is learning to control it. That's what separates us from the Kreizels of this world.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "That and their tendency to squat on their haunches and groom each other.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Don't you see?  You have an opportunity with Danny that I never had with Billy.  To confront him as a rational adult and achieve some closure.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Easier said than done, Frasier.  One look at that oafish face, those dead Kreizel eyes, and you see there is no chance for communication.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, there is, Niles.  There has to be.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I can't go in there and talk to him.  If the coward turns his back on me, I'll attack him again.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No, you won't.  You're not a child anymore. [_taking Niles by the hand_] Now come with me, I'm taking you to the bathroom!  _Reset to: Bathroom Danny and his partner are still working on the toilet as Frasier and Niles enter._ ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Excuse me sir, I'd like to have a word with you.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Danny"
+    },
+    {
+        "speaker": "Danny",
+        "text": "Yeah, go ahead.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I'd like to take you back in time to the 1970's.  There was an intellectually gifted young student at John Adams Junior High. You took it upon yourself to terrorize that student, simply because he was different from you. I was that student.",
+        "prevSpeaker": "Danny",
+        "nextSpeaker": "Danny"
+    },
+    {
+        "speaker": "Danny",
+        "text": "No kidding?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I was hoping we could step into the living room and come to some sort of understanding.",
+        "prevSpeaker": "Danny",
+        "nextSpeaker": "Danny"
+    },
+    {
+        "speaker": "Danny",
+        "text": "It's okay with me.  Any room in the house is still fifty-nine bucks an hour. [_drops a tool into his toolbox_] I'll be right back, Billy.  ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "_Billy_? _From beneath the toilet rises Danny's older, more heavyset brother Billy._",
+        "prevSpeaker": "Danny",
+        "nextSpeaker": "Billy"
+    },
+    {
+        "speaker": "Billy",
+        "text": "Ah, that's my brother for ya.  Always getting into stuff. But if you ask me, your friend over there is getting all worked up over nothing.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You think so, Billy?",
+        "prevSpeaker": "Billy",
+        "nextSpeaker": "Billy"
+    },
+    {
+        "speaker": "Billy",
+        "text": "Kids pick on other kids, it's part of growing up. If anything, it made those weak kids tougher.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Really?",
+        "prevSpeaker": "Billy",
+        "nextSpeaker": "Billy"
+    },
+    {
+        "speaker": "Billy",
+        "text": "Come on, you're a big guy.  You must have been involved in some kinda stuff?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, I was involved...  _For a moment Frasier wants to give in to his beast.  Then he looks back toward the hallway, remembering his advice to Niles._ ",
+        "prevSpeaker": "Billy",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Billy, I would like to take you back in time...",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Billy"
+    },
+    {
+        "speaker": "Billy",
+        "text": "[_stands_] No.  Let me take YOU back.  I remember once, we jammed this poindexter into a locker, wearing a girl's field hockey uniform! [_laughs_] _CUT TO: Living Room Niles is standing sideways, presenting his profile to Danny._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Danny"
+    },
+    {
+        "speaker": "Danny",
+        "text": "No, I'm sorry.  I just don't remember you.",
+        "prevSpeaker": "Billy",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well, perhaps you'll remember third period gym class. You used to make me wear my jockstrap like a tiara?",
+        "prevSpeaker": "Danny",
+        "nextSpeaker": "Danny"
+    },
+    {
+        "speaker": "Danny",
+        "text": "Oh, yeah!  Were you the kid who used to carry his gym shorts in an attache case?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "...It was a valise.",
+        "prevSpeaker": "Danny",
+        "nextSpeaker": "Danny"
+    },
+    {
+        "speaker": "Danny",
+        "text": "I remember you.  Boy, those were some crazy times.  You ever see any of the old gang?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Look, you're missing the point.  I was severely scarred by those experiences...",
+        "prevSpeaker": "Danny",
+        "nextSpeaker": "Danny"
+    },
+    {
+        "speaker": "Danny",
+        "text": "Hey, wait a minute.  I can't defend everything I did back in junior high, I mean who can?  But let's face it, when you show up at school wearing a tweed blazer with elbow patches and carrying a valise, I mean, I think the guilt here is fifty- fifty.  _CUT TO: Bathroom Billy is still enjoying the trip down memory lane._ ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Billy"
+    },
+    {
+        "speaker": "Billy",
+        "text": "He's yelling at us something about \"repressed tendencies,\" so we stuffed a fire extinguisher down his pants!  We called it... [_thinks_]",
+        "prevSpeaker": "Danny",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_slapping a tube of toothpaste into his palm_] A _jet pack._",
+        "prevSpeaker": "Billy",
+        "nextSpeaker": "Billy"
+    },
+    {
+        "speaker": "Billy",
+        "text": "[__howling with laughter__] That's it!  Man, you remember them all.  _CUT TO: Living Room Now Danny is seated on the couch while Niles is sitting on the edge of Martin's Chair._",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well then, my next question to you would be \"Why would you behave this way?\"",
+        "prevSpeaker": "Billy",
+        "nextSpeaker": "Danny"
+    },
+    {
+        "speaker": "Danny",
+        "text": "Well, I don't know.  I mean, I guess because people thought it was funny.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I see, I see.  So then, to get this validation, you would, say, squeeze my head between your ankles and hop around the lunch room?",
+        "prevSpeaker": "Danny",
+        "nextSpeaker": "Danny"
+    },
+    {
+        "speaker": "Danny",
+        "text": "I did that to you?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Yes.  How does that make you feel?",
+        "prevSpeaker": "Danny",
+        "nextSpeaker": "Danny"
+    },
+    {
+        "speaker": "Danny",
+        "text": "...Well, kinda bad!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "The healing has begun!  ",
+        "prevSpeaker": "Danny",
+        "nextSpeaker": "Billy"
+    },
+    {
+        "speaker": "Billy",
+        "text": "So, so in front of the whole bus, we pants him!  He's yelling at us, [_squeaky voice_] \"Gimme back my pants!\"  But - whoops! -- they fell out the window!  _CUT TO: Living Room. By this time, Danny is lying on the couch._ ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "So then it's possible these acts of aggression were misplaced outbursts aimed at your father.",
+        "prevSpeaker": "Billy",
+        "nextSpeaker": "Danny"
+    },
+    {
+        "speaker": "Danny",
+        "text": "[_almost in tears_] Yes.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "He was the real bully, wasn't he?",
+        "prevSpeaker": "Danny",
+        "nextSpeaker": "Danny"
+    },
+    {
+        "speaker": "Danny",
+        "text": "Oh, yes!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Let it out, Danny, let it out!",
+        "prevSpeaker": "Danny",
+        "nextSpeaker": "Danny"
+    },
+    {
+        "speaker": "Danny",
+        "text": "Nothing I ever did was good enough for him! [_sits up_] I am so sorry that I picked on you, man.  I just wanted to be good at something, and I was good at that.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_puts his hand on Danny's shoulder_] You were the best.  ",
+        "prevSpeaker": "Danny",
+        "nextSpeaker": "Billy"
+    },
+    {
+        "speaker": "Billy",
+        "text": "Then we made him hula in his underwear in front of all the girls! [_laughs and dips his head back in the toilet_] You shoulda been there!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I WAS there! [_lunges at Billy_]  ",
+        "prevSpeaker": "Billy",
+        "nextSpeaker": "Danny"
+    },
+    {
+        "speaker": "Danny",
+        "text": "Thanks. This has just been terrific for me.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I can't take all the credit.  Half the thanks belongs to my brother.  He convinced me a civilized person can work anything out, as long as he approach it in a calm, rational manner. ",
+        "prevSpeaker": "Danny",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Run, Niles, run!  The beast is loose!  _Billy charges in, dripping wet and fit to kill.  He chases Frasier out the front door.  FADE TO:  Scene Six - Frasier's bathroom. Frasier and Eddie watch as Martin fixes the toilet._ ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "So you really shoved his head right in here?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I don't know, Dad.  It's all really sort of a blur.  I guess I just lost control.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Bet it felt good though, didn't it?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No... it felt _damn_ good.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_laughs_] Ah, it's too bad you didn't do it twenty years ago, you could have given him a much better swirly.  These low-flow toilets don't have the same velocity as the old ones.  So what did he do to you?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "He didn't have the nerve to do a thing.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "You paid him off, huh?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I've never written a check so quickly in my life.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_flushing toilet_] Well, there she goes.  Good as new.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Thanks, Dad.  Can I buy you a beer?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh yeah, sounds good. [_gets up_] Come on, Eddie. _They start to leave.  Eddie runs to the toilet and drinks from the bowl._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh, for God's sake Eddie, don't drink out of the toilet. Some guy just had his head in there!   ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Credits"
+    }
+]

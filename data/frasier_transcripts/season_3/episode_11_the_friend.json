@@ -1,0 +1,1335 @@
+[
+    {},
+    {
+        "speaker": "Outstanding Guest Actor in a Comedy Series",
+        "text": "Griffin Dunne  * * *  ## Transcript {Iain McCallum}     Act 1  Scene 1 -- Frasier's Apartment [_Martin comes in with Eddie. Frasier is sitting on the couch reading a newspaper whilst Daphne is doing the cleaning._] ",
+        "prevSpeaker": "No Previous Speaker",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_talking to Eddie first_] Slow down! Hey Daphne, guess what Eddie ate in the park today?",
+        "prevSpeaker": "Outstanding Guest Actor in a Comedy Series",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Ooh let's see. A hot dog wrapper?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "No. Guess again.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "A cigarette butt?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "No. Guess again.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Apple core?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "No. Guess again.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_becoming increasingly exasperated_] Oh really, must you two play this ridiculous game? She makes some feeble stab and you say \"No. Guess again.\" Then she starts flailing away with even more ludicrous answers, all the while you chanting \"Guess again\", until she's gibbering like some auctioneer with a bad bladder. Then you finally reveal the answer at which point nobody even cares.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "[_looking at Martin_] I'm not sure which one of us got the worst of that, but I think it was you.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Guess again.  [_The doorbell rings and Frasier goes to answer. It's Niles._] ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Niles.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "There's a half-eaten lizard in your elevator!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "And that's the last hint you're getting.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_reaching for his pocket_] Oh Frasier, I had a breakthrough today with one of my compulsive gamblers and he gave me two tickets to the racetrack on Saturday. It's a luxury box -- I though you might want to go.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh I would love to Niles. Why don't you want to use them?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well, the jockeys if you must know.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "What?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Diminutive, underweight figures in expensive silks wielding riding crops. It just reminded me too much of Maris.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Dad, what about you? I've never known you to turn down the horses.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Ah, sorry. I've got poker with the guys.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh well then. I'll just call one of my friends. [_Frasier walks towards the phone before stopping suddenly_] Jeez. This is sort of embarrassing. The first three names on my list are all back in Boston.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "What about someone from your wine club?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh well truth be told Daphne, those people are insufferable bores unless they have a glass in their hands. Sherry, Niles?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Please.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh I know. How about Ed O'Hanlon?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Moved away last year.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Ooh, how about Edmund Kelly? If I know old Ed he'd never leave Seattle.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Indeed not. They buried him here three years ago.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Dear me. Really? I'll miss him.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Yes. Three years from now when you think of him again there'll be a void!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "My God how did this happen? I've been back here for two years and I've yet to forge any new friendships.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_wriggling about uncomfortably in his chair_] You'd better watch it Frasier. Next thing you know you're gonna be like one of these old people who are so set in their ways that they're only happy hanging around with people who are the same as they are.  [_Cut to Eddie wriggling about on his back on the floor._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "What exactly is your point Dad? That I've lost my knack for making friends?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well I hate to bring it up but you never were very good at it. It was always you and Niles ever since you were kids. The two of you always holed up in that damned garage -- at least until you burned it down.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "You burned down the garage?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well, between Frasier and his Bunsen burner and me and my mosquito repellent\ufffdin retrospect it was unavoidable!",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Still, you know Dad, I did have friends in college and back in Boston. It's only since I moved to Seattle that I've started falling back on Niles.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Ooh -- \"falling back on Niles\"?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Niles, you know what I mean. Settling for what's comfortable and familiar. My God, you and I can go out together and I know what you're thinking before you even say it.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well then I'm sorry you had to hear that Frasier!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You know what? This would make a wonderful topic for my show. \"Making New Friends\" What are we so afraid of?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Why do you make everything so complicated? You wanna meet somebody new? You just walk up to him, stick out your hand and say \"Hi. How you doing?\"",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Thank you Dad. I can always count on you not to overthink something.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Thanks [_realises what Frasier has just said_] Hey!  Scene 2 -- KACL  **MAYBE JUST A SHAMPOO AND SET**  [_Frasier is doing his show while Roz looks on._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "So why is it we have so much trouble making friends? Is it because we've become closed off? No longer want to reach out to our fellow man? Well I'd like to think that if one of you listeners out there happened to see me on the street you'd feel free to walk right on up to me and\ufffd",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Excuse me Dr. Crane, we have to stop for a very important public service announcement [_waits for show to go off air_] HAVE YOU LOST YOUR MIND? You're opening yourself up to every creep out there!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh Roz that's exactly the kind of cynicism I'm talking about. I, for one, happen to believe in the kindness of strangers.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Well I believe in the strangeness of strangers! [_signals show is about to start again_] Three seconds.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Hi, we're back with the topic of friendship. Now let's go to the switchboard. Roz, who's on line one?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Good news Dr. Crane. It's Gerard from Stanwood. A new friend.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Hello Gerard. I'm listening.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Gerard"
+    },
+    {
+        "speaker": "Gerard",
+        "text": "Well I called for another reason Dr. Crane. But what you just said really moved me. I wish more people felt that way.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well thank you Gerard. I sense a kindred spirit.",
+        "prevSpeaker": "Gerard",
+        "nextSpeaker": "Gerard"
+    },
+    {
+        "speaker": "Gerard",
+        "text": "Maybe we could get together some time? Have a beer? Maybe I could\ufffdyou know\ufffdcomb your hair?  [_Roz gives Frasier the \"thumbs up\". The scene fades out and back in to Frasier still taking increasingly stranger calls from the listeners._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well thank you so much for your offer of friendship George but I really don't have five thousand dollars to invest in your French fries vending machine. And for the sake of those who do invest I suggest, Sir, that you find a better name than \"The Spuddy Buddy\". This is Dr. Frasier Crane wishing you all good mental health. I mean that today more than ever!",
+        "prevSpeaker": "Gerard",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "[_entering the booth looking smug_] I just love it when I'm right. It makes the day so good.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You stacked the deck didn't you?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Oh please. You should have heard some of the calls I didn't put through let alone these faxes. Read some of these. They're sick.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh Roz my listeners are not sick\ufffd[_reads some of the faxes_]\ufffdalthough this one does bear watching! Here's one that has promise. \"Dear Dr. Crane. I never thought I'd write a letter like this but I was moved by today's show. As a photographer I come into contact with new people on a daily basis yet I often find it difficult to make that one on one connection. However your words offered hope and I just wanted to say thank you. Sincerely. Bob Reynolds.\"",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Doesn't sound too wacky.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You know what? I think I'm going to give Mr. Bob Reynolds a call.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Are you nuts? He could be a raving psychopath with a trunkful of decomposing squirrels.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh rubbish Roz. I'm going to call him. Where did you come up with such a disgusting image?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "[_handing Frasier another fax_] Meet Garth from Tacoma.  Scene 3 -- Cafe Nervosa  BUTANE AND THE BEAST  [_Frasier and Niles are sitting at their usual table._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "You're late today but I'm glad you're here. I need your help. My designer is ready to mutiny if I don't pick a fabric for my new couch. Now I've brought lots of swatches so make yourself comfortable.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Frankly Niles I'm not here to see you. I'm meeting a new friend.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "A new friend?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, you remember I was talking about widening my circle of friends.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh I see. No more \"falling back on Niles\"",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "It's not that I'm trying to replace you Niles. It's just that Bob and I\ufffd",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Bob? You're dumping me for someone named Bob?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Niles I am not dumping you. I'm just worried that Bob might feel awkward meeting the two of us.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh well we wouldn't want to make Bob feel uncomfortable now would we? I mean after all I've only been your brother for\ufffd[_looking at watch_]\ufffd38 years now. What does that mean when there's the possibility that Bob may feel awkward?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Waitress"
+    },
+    {
+        "speaker": "Waitress",
+        "text": "[_to Frasier_] There's a man over there who says he's waiting for you.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "No doubt the much ballyhooed Bob!",
+        "prevSpeaker": "Waitress",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Niles.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh it's all right. It's all right. I'll go quietly. Don't worry about me. I'll be fine. I'll just go home to my Maris. Oh [_slapping his hand off his head_] that's right!  [_Niles leaves the Caf e. Frasier goes and joins Bob at another table._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Bob?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Bob"
+    },
+    {
+        "speaker": "Bob",
+        "text": "Dr. Crane.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Call me Frasier.",
+        "prevSpeaker": "Bob",
+        "nextSpeaker": "Bob"
+    },
+    {
+        "speaker": "Bob",
+        "text": "Frasier then. I'm glad you called.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_looks over at the counter_] Coffee please. Well uh\ufffdso.",
+        "prevSpeaker": "Bob",
+        "nextSpeaker": "Bob"
+    },
+    {
+        "speaker": "Bob",
+        "text": "So.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "So. Listen, thank you for your fax.",
+        "prevSpeaker": "Bob",
+        "nextSpeaker": "Bob"
+    },
+    {
+        "speaker": "Bob",
+        "text": "I listen to your show all the time. I think you're brilliant. You're probably sick of hearing that though right?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "One would think but it's my cross.",
+        "prevSpeaker": "Bob",
+        "nextSpeaker": "Bob"
+    },
+    {
+        "speaker": "Bob",
+        "text": "That's the thing I love about your show. You're not just serious. You can be funny.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, I believe humour can be a therapeutic tool.",
+        "prevSpeaker": "Bob",
+        "nextSpeaker": "Bob"
+    },
+    {
+        "speaker": "Bob",
+        "text": "Against the assault of laughter nothing can stand.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Mark Twain. \"The Mysterious Stranger\". I have a first edition.",
+        "prevSpeaker": "Bob",
+        "nextSpeaker": "Bob"
+    },
+    {
+        "speaker": "Bob",
+        "text": "I'm a collector myself.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You know I was a bit trepidatious about this experiment Bob, but I'm feeling a real simpatico here.",
+        "prevSpeaker": "Bob",
+        "nextSpeaker": "Bob"
+    },
+    {
+        "speaker": "Bob",
+        "text": "Yeah, me too.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I'm going to go out on a limb. What do you say once we finish these coffees we treat ourselves to a proper dinner?",
+        "prevSpeaker": "Bob",
+        "nextSpeaker": "Bob"
+    },
+    {
+        "speaker": "Bob",
+        "text": "Hey that sounds great.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "OK. [_notices a book on the table_] Say, what are you reading?",
+        "prevSpeaker": "Bob",
+        "nextSpeaker": "Bob"
+    },
+    {
+        "speaker": "Bob",
+        "text": "It's my bible. \"The Big Book of Barbecue\" by Jeff Filgo. He's a Texan. Of course all Texans think they invented barbecue. Arrogant bastards! You like barbecue?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well\ufffdum\ufffdnational holiday\ufffd4th July.",
+        "prevSpeaker": "Bob",
+        "nextSpeaker": "Bob"
+    },
+    {
+        "speaker": "Bob",
+        "text": "You know the secret to good barbecue? Mesquite. And the secret to mesquite is you gotta soak them in water for 10 minutes. On special occasions I'll soak them in beer. Once I soaked them in Sake for that [_quotes with fingers_] \"flavour of the Far East\". You know in Japan they call their barbecues \"hibachis\"? The arrogant bastards! I'm digging my own barbecue pit right now\ufffd  [_The scene fades out and back in with Bob still extolling the virtues of Barbecues and Frasier growing weary whilst trying to force a smile._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Bob"
+    },
+    {
+        "speaker": "Bob",
+        "text": "\ufffdmy speciality is the Shian Smoky Quail. The trick is a high engulfing flame. Like a forest fire. Of course they call forest fires \"nature's barbecue\". You know my co-workers call me \"Shish-ka-Bob\"?",
+        "prevSpeaker": "Bob",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well Bob. Do you have any charcoal free interests?",
+        "prevSpeaker": "Bob",
+        "nextSpeaker": "Bob"
+    },
+    {
+        "speaker": "Bob",
+        "text": "Yeah I'm a professional photographer. [_quotes with fingers_] The camera never lies.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I'm a bit of a camera buff myself. What's your trade? Photo journalist?",
+        "prevSpeaker": "Bob",
+        "nextSpeaker": "Bob"
+    },
+    {
+        "speaker": "Bob",
+        "text": "I take kids portraits at Value-Mart [_quotes with fingers_] Where your dollar buys more! You know what? Why don't we talk about this over dinner?  [_Frasier goes to the counter to get the cheque looking less than pleased. While he does so Bob moves away from the table and we see that he is in a wheelchair._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You know, Bob, about that dinner? [_sees the wheel chair_] How about Tex-Mex?",
+        "prevSpeaker": "Bob",
+        "nextSpeaker": "Bob"
+    },
+    {
+        "speaker": "Bob",
+        "text": "[_putting on a ridiculous tartan bunnet_] You're talking my language.  [_Bob wheels himself out the Caf e. His wheel chair has an awful squeak and Frasier follows uneasily._]  Act 2  Scene 1 -- Frasier's Apartment [_Martin and Daphne are in the kitchen. Daphne is making Martin a healthshake for breakfast._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "[_pulling Martin's unhealthy breakfast out his hand._] No you don't. I'm fixing you a breakfast drink with fresh fruit, yoghurt, carob, pitted prunes. A healthy body makes for a sunny disposition.",
+        "prevSpeaker": "Bob",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_menacingly_] You want sunny? Let me have my fritter.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Oh shush. [_whisks the drink_] There we are.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "There just aren't enough drinks that build up a nice head of black foam!  [_Martin walks through to the living room to find Frasier sitting at the table drinking a coffee._] ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Morning.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well you were home late last night.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I had dinner with a new friend. Bob.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh that's right. Have a good time?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Hardly. The man talks endlessly on subjects that are of no interest to anyone but him.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_sarcastic_] Gee. I can't imagine what that's like.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh Dad. He took me to this God-awful barbecue place. All they serve is huge platters of charred greasy beef. The only sound you can hear is the gnawing of meat, the smacking of lips and the clatter of bones hitting the floor.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "I can't take it any more. I'm having that fritter!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "If you don't like this man why did you have dinner with him?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well I was going to tell him that I didn't want to see him anymore but you see it's a bit more delicate than just that. The problem is he's in a wheel chair.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "So what? If you don't like him you don't like him.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well I know that. It's just that I'd hate to have him think it was just because of the chair.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "I have worked with the disabled for over 10 years now. And if it's one thing I've learned they don't want special treatment.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_comes out of the kitchen_] Oh I forgot to bring in the paper. [_puts a pained look on his face all of a sudden._] Daphne would you get it? My leg's just aching and throbbing!  [_The doorbell rings._] ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I'll get it. You know, Daphne, you're right? I was kind of a coward wasn't I? Well, at least I got through the evening.  [_Frasier answers the door to find Bob wearing the bunnet, newspaper in hand and the awful squeak still there as he wheels himself in._] ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Bob"
+    },
+    {
+        "speaker": "Bob",
+        "text": "Here's your paper Buddy!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Bob you're here. Did we have plans?",
+        "prevSpeaker": "Bob",
+        "nextSpeaker": "Bob"
+    },
+    {
+        "speaker": "Bob",
+        "text": "No. I was in the neighbourhood. Just thought I'd stop by.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Did I mention where I lived? I'm astonishingly sure I didn't.",
+        "prevSpeaker": "Bob",
+        "nextSpeaker": "Bob"
+    },
+    {
+        "speaker": "Bob",
+        "text": "You'd be amazed what you can find out with computers today. Anyway -- brought bagels, poppy seeds, pumpernickel, rye, sesame, onion, garlic. 'Cos after all breakfast is the [_quotes with fingers_] most important meal of the day. Hey-ho you must be Martin. You're Daphne.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "And you must be Bob.",
+        "prevSpeaker": "Bob",
+        "nextSpeaker": "Bob"
+    },
+    {
+        "speaker": "Bob",
+        "text": "That's me. Bob! Same forwards as backwards.  [_Martin and Daphne both laugh. However Frasier is clearly not happy._]  Scene 2 -- KACL  **THE SQUEAKY WHEEL GIVES THE GRIEF**  [_Frasier has just finished his show. Roz is in the booth handing him a bunch of notes._] ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Got some messages. Bob. Bob. And\ufffdoh look\ufffdhere's one from Bob.",
+        "prevSpeaker": "Bob",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_in desperation_] 2 weeks and 45 phone calls. Can't we just get an unlisted number?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "They sort of frown on that with call-in shows. Frasier -- you've got to do something about Bob.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I know Roz. I'm working up to it.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "You know the longer you put it off the worse he's going to feel when you finally tell him.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes I know that. I'm a psychiatrist. I'm quite capable of dealing with difficult problems in a sensitive mature fashion\ufffd[_opens the door to leave_]\ufffdWait! Did you hear that? That squeak!",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "What squeak?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_worried_] He's here. It's Bob!",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "I don't hear anything.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh that's right. Only dogs and I can hear it.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Frasier, you're being paranoid.  [_From the distance we hear the unmistakable squeaking sound of Bob's wheelchair. Frasier looks panicked._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "It's the sound of his chair. I'd know it anywhere.  [_Frasier looks out the booth's window and sees a tartan bunnet move ominously past the crest of the window like a shark's dorsal. Frasier wails in distress and crawls under the window ledge before hiding behind his desk. Bob comes in._] ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Hi Bob.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Bob"
+    },
+    {
+        "speaker": "Bob",
+        "text": "Knock Knock Roz. Frasier around?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "You just missed him.",
+        "prevSpeaker": "Bob",
+        "nextSpeaker": "Bob"
+    },
+    {
+        "speaker": "Bob",
+        "text": "Too bad. I got great news. I checked out that vacancy in his apartment building and guess who's gonna be neighbours? [_A muffled scream is heard from beyond._]",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Bob"
+    },
+    {
+        "speaker": "Bob",
+        "text": "What was that?",
+        "prevSpeaker": "Bob",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Feedback. This equipment's old [_looking in Frasier's direction_] and pathetic!",
+        "prevSpeaker": "Bob",
+        "nextSpeaker": "Bob"
+    },
+    {
+        "speaker": "Bob",
+        "text": "Well maybe I can catch Frasier back at his place\ufffdcorrection, our place.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Bye Bob.",
+        "prevSpeaker": "Bob",
+        "nextSpeaker": "Bob"
+    },
+    {
+        "speaker": "Bob",
+        "text": "Bye Roz.  [_Bob exits. Roz moves round to the back of the desk to find Frasier still cowering._] ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "OK he's gone. You can come out now.",
+        "prevSpeaker": "Bob",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No he's not. He's never really gone!",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "So Bob's gonna be your new neighbour? [_hillbilly accent_] Well, break out the butane there every Barbecue day!  [_N.B. Peri Gilpin was born and raised in Waco, Texas._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "NO! NO! He's not going to move into my building. I won't allow it. I'm going to talk to him Roz. Listen, I could use your advice. You've broken up with a lot of people. What do you find to be the most effective thing to say?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "I love you and I want to have your baby.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Good, I've got my fallback.  Scene 3 -- Cafe Nervosa. [_Niles is ordering a coffee. Frasier rushes in._] ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Ooh Niles, Niles. I need to talk. Bob's meeting me here\ufffd[_notices the coffees in Niles' hand_]\ufffdthis isn't my usual.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well it's not for you. It's for my friend.  [_Niles motions over towards a man sitting at their usual table. He's dressed fairly casually and doesn't look a typical \"Niles friend\"._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "That man is your friend?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Yep. We share thoughts, feelings. We talk about the arts, current events. Today we're just\ufffdhangin'!  [_Niles goes to sit down with his new friend (Ralph). Meanwhile in the background we hear the \"squeak\" before Bob enters to join Frasier._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_handing Ralph a coffee_] There you are.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Ralph"
+    },
+    {
+        "speaker": "Ralph",
+        "text": "Thanks.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "My pleasure.",
+        "prevSpeaker": "Ralph",
+        "nextSpeaker": "Ralph"
+    },
+    {
+        "speaker": "Ralph",
+        "text": "You know, I can't stay long. I've got 4 more pools to clean today besides yours and I'm gonna to lose sunlight.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "You know, Ralph, I was thinking that in many ways my profession is a lot like yours. I start out skimming the surface of the human psyche. Then I plunge ever deeper into the murky undercurrents, adding chemicals when necessary.",
+        "prevSpeaker": "Ralph",
+        "nextSpeaker": "Ralph"
+    },
+    {
+        "speaker": "Ralph",
+        "text": "[_at a loss for words_]\ufffdThere's a lot of leaves this year!  [_The scene switches to Frasier and Bob's table._] ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Bob"
+    },
+    {
+        "speaker": "Bob",
+        "text": "I'm glad you called. I was starting to get self-conscious here. It seems like I'm always the one calling or stopping by or suggesting dinner or movies or shopping for hats. Oh [_taking out a similarly hideous tartan bunnet to his_] I got you a beaut!",
+        "prevSpeaker": "Ralph",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_forcing a smile_] Bob. You really shouldn't have.",
+        "prevSpeaker": "Bob",
+        "nextSpeaker": "Bob"
+    },
+    {
+        "speaker": "Bob",
+        "text": "I knew you'd like it, neighbour.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "About that Bob. Have you actually signed a lease yet?",
+        "prevSpeaker": "Bob",
+        "nextSpeaker": "Bob"
+    },
+    {
+        "speaker": "Bob",
+        "text": "No. Why?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, we need to talk.",
+        "prevSpeaker": "Bob",
+        "nextSpeaker": "Bob"
+    },
+    {
+        "speaker": "Bob",
+        "text": "Whoa. If you were a woman I'd swear you were dumping me.  [_Bob laughs whilst Frasier looks awkward. The scene switches back to Niles and Ralph's table where Niles is showing Ralph different sections of coloured wallpaper._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Ralph"
+    },
+    {
+        "speaker": "Ralph",
+        "text": "Blue one's nice.",
+        "prevSpeaker": "Bob",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Mmm. I'm just concerned that blue might be a bit overbearing on a couch of that size. Although it might complement that Killin rug I was telling you about. What do you think?",
+        "prevSpeaker": "Ralph",
+        "nextSpeaker": "Ralph"
+    },
+    {
+        "speaker": "Ralph",
+        "text": "[_staring deadpan at Niles_] I live in my van!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "So you'd probably go for colours that add the illusion of space?",
+        "prevSpeaker": "Ralph",
+        "nextSpeaker": "Ralph"
+    },
+    {
+        "speaker": "Ralph",
+        "text": "You know, Dr. Crane to be perfectly honest, when you asked if I wanted coffee -- I thought you were gonna bring me one.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Duly noted Ralph. Next week you can go back to drinking from the hose.  [_Ralph gets up and leaves. The scene switches back to Frasier and Bob's table._] ",
+        "prevSpeaker": "Ralph",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You see I just don't think there's a basis between us for a sound friendship. Neither of us should feel bad about it.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Bob"
+    },
+    {
+        "speaker": "Bob",
+        "text": "That's easy for you to say. You're not the one being rejected.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No, no. I'm not rejecting you. Truth is you're pleasant. You're charming.",
+        "prevSpeaker": "Bob",
+        "nextSpeaker": "Bob"
+    },
+    {
+        "speaker": "Bob",
+        "text": "Frasier, I'm an adult here. At least respect me enough to tell me what it is you don't like about me.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well all right, all right. We have absolutely nothing in common. You talk on endlessly about subjects that I have no interest in. You call me all the time. Frankly you're suffocating me!",
+        "prevSpeaker": "Bob",
+        "nextSpeaker": "Bob"
+    },
+    {
+        "speaker": "Bob",
+        "text": "[_looking hurt_] Wow. I don't know what to say. I wish you'd said something sooner.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I wanted to. Frankly I was afraid you'd think it was because of the\ufffdyou know\ufffd",
+        "prevSpeaker": "Bob",
+        "nextSpeaker": "Bob"
+    },
+    {
+        "speaker": "Bob",
+        "text": "The what?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "The wheelchair.",
+        "prevSpeaker": "Bob",
+        "nextSpeaker": "Bob"
+    },
+    {
+        "speaker": "Bob",
+        "text": "Why would I think that?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I don't know. I just wanted you to know that.",
+        "prevSpeaker": "Bob",
+        "nextSpeaker": "Bob"
+    },
+    {
+        "speaker": "Bob",
+        "text": "I wish it did have to do with the chair.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I beg your pardon.",
+        "prevSpeaker": "Bob",
+        "nextSpeaker": "Bob"
+    },
+    {
+        "speaker": "Bob",
+        "text": "Well, if the chair were your problem that would make you a jerk. This way, I'm the jerk.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, I wouldn't say that.",
+        "prevSpeaker": "Bob",
+        "nextSpeaker": "Bob"
+    },
+    {
+        "speaker": "Bob",
+        "text": "Come on, you just did. You just said I'm boring and obnoxious. Who knows people better than you? You can keep the hat. [_Bob turns to leave._]",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Bob, wait, please. I've got to level with you. Truth is I find nothing wrong with you. I was just ashamed to admit it. It is the chair.",
+        "prevSpeaker": "Bob",
+        "nextSpeaker": "Bob"
+    },
+    {
+        "speaker": "Bob",
+        "text": "What?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_clearly lying_] I think frankly that you are wonderful company. Wildly stimulating. Your hobbies are so fascinating. [_picks up his tartan bunnet_] You have a sense of style that really, I mean, doesn't compare to anyone's. It's just me. I feel petty and small about it but I can't get past the chair. I'm sorry Bob. Please. [_Frasier gets up to leave_] I'm sorry. This is goodbye.",
+        "prevSpeaker": "Bob",
+        "nextSpeaker": "Bob"
+    },
+    {
+        "speaker": "Bob",
+        "text": "I don't believe this. You don't want to be my friend 'cos I'm in a wheelchair.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Waitress"
+    },
+    {
+        "speaker": "Waitress",
+        "text": "[_listening nearby_] What? That's the worst thing I've ever heard!",
+        "prevSpeaker": "Bob",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_protesting_] Look. You don't understand.",
+        "prevSpeaker": "Waitress",
+        "nextSpeaker": "Bob"
+    },
+    {
+        "speaker": "Bob",
+        "text": "What's not to understand. You just said flat out -- my chair repulses you  [_By now a crowd is forming around them._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Patron #1"
+    },
+    {
+        "speaker": "Patron #1",
+        "text": "What kind of a person does that?",
+        "prevSpeaker": "Bob",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well\ufffd",
+        "prevSpeaker": "Patron #1",
+        "nextSpeaker": "Patron #2"
+    },
+    {
+        "speaker": "Patron #2",
+        "text": "I've got a birthmark on my back. I guess we can't be friends either!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_in desperation_] People please. Frankly this doesn't concern any of you.",
+        "prevSpeaker": "Patron #2",
+        "nextSpeaker": "Bob"
+    },
+    {
+        "speaker": "Bob",
+        "text": "When I think about all the gifts I gave you. All the barbecue sauce -- Hot 'n' Spicy, Tex Mex, Mesquite, Teriyaki, Honey Mustard\ufffd",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_getting mad_] Oh For God's sake Bob -- put a sock in it.",
+        "prevSpeaker": "Bob",
+        "nextSpeaker": "Patron #2"
+    },
+    {
+        "speaker": "Patron #2",
+        "text": "[_to Bob_] We were just on our way to dinner. Would you like to join us?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Bob"
+    },
+    {
+        "speaker": "Bob",
+        "text": "I'd love to.  [_Bob turns to leave with the couple grabbing Frasier's tartan bunnet on the way._] ",
+        "prevSpeaker": "Patron #2",
+        "nextSpeaker": "Bob"
+    },
+    {
+        "speaker": "Bob",
+        "text": "So. You guys like barbecue?",
+        "prevSpeaker": "Bob",
+        "nextSpeaker": "Patron#1"
+    },
+    {
+        "speaker": "Patron#1",
+        "text": "Yeah. Who doesn't?  [_The crowd moves away looking at Frasier. Frasier is left standing alone in the centre of the Caf e. He turns to look at his usual table where Niles is sitting. Niles looks away for a second before pushing out the other chair at the table with his foot. Frasier sits down slowly looking extremely guilty._] ",
+        "prevSpeaker": "Bob",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Are these wing tips too busy with these pants?",
+        "prevSpeaker": "Patron#1",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, yes. They're a bit frenzied. Perhaps a woven lace would tone down the glitz.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Might have to go overseas for that.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No, not at all. You can get them downtown.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well, who shops downtown anymore?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well I do for one\ufffd  [_The scene fades out with Frasier and Niles continuing to discuss their personal fashion intricacies._] ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Credits"
+    }
+]

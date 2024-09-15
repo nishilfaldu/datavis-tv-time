@@ -1,0 +1,1401 @@
+[
+    {},
+    {
+        "speaker": "Skyline",
+        "text": "The light atop the space needle flashes.  _ACT 1  Scene 1 -- Cafe Nervosa. Roz and Frasier are seated.  Kenny brings them coffee. _",
+        "prevSpeaker": "No Previous Speaker",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Oh, thank you for the coffee, Kenny.",
+        "prevSpeaker": "Skyline",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "Oh, you don't have to thank me.  We're not keeping score. Life's too short to keep track of who owes who for this or that or whatnot.  Let's just enjoy ourselves.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Whatever you want, Kenny, the answer is no.",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "[_caught_] Just hear me out.  Look, I need a favor but before I tell you what it is, I want you to look at this.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "\"KACL Psychographics.\"",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "We hired a firm to sift through the program data and give us a kind of profile on each show's average listener.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "All right, let's see. [_reading_] Gil's average listener is a woman, mid-30's, well-educated, hmmm...  What about my average listener.  Who is she?",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "[_taking the papers_] Well, actually, uh, she's an older gentleman... [_Frasier reacts unhappily_] who likes to keep the radio on for company.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Ouch.",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, and Roz, it seems a number of listeners think you're a man.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "What?!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_indicating the data_] I'm sorry the-the station spent its money on this nonsense, but this research is patently absurd.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "Regardless, you could really stand to increase your audience in the youth market.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, I thought we upped the advertising budget for that very reason.",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "I did, but I need some help.  How would you like to be a guest on _Teen Scene_?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I'm sorry, Kenny.  I've done that show before, I'm not doing it again.",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "Doc, you could use younger listeners.  You've seen the research.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "My show is fine.  That so-called _research_ is nothing but a bunch of... confounded correlations and mediocre deductions. _A Caf e guest, Lucy, approaches the table. _",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Lucy"
+    },
+    {
+        "speaker": "Lucy",
+        "text": "Excuse me, are you Dr. Frasier Crane?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, as a matter of fact I am.",
+        "prevSpeaker": "Lucy",
+        "nextSpeaker": "Lucy"
+    },
+    {
+        "speaker": "Lucy",
+        "text": "Can I get your autograph?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "What's your name?",
+        "prevSpeaker": "Lucy",
+        "nextSpeaker": "Lucy"
+    },
+    {
+        "speaker": "Lucy",
+        "text": "Lucy.  But make it out to Paul.  I volunteer at his hospice, and I think you're just about the only friend he has left anymore.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_to Kenny_] Fine, I'll meet the kids. **NILES GETS HIS DAILY DOSE OF SPINACH** _Scene 2 - Frasier's apartment. Niles and Daphne are seated on the couch._",
+        "prevSpeaker": "Lucy",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I have a little something for you.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Ohh... Earrings.  They're beautiful.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Try them on.  I've disinfected them with peroxide.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Niles, it's a lovely thought, but you kind of gave me the exact same pair last summer.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "No, I did not.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Yeah, take a look.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I am _so_ sorry.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Oh, don't be silly.  It was bound to happen sometime after all the nice presents you give me.  I'll just have to get pierced somewhere else.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Still, I... _He reacts to what she has just said with shock and then a cheesy smile. Somewhat taken aback, he then mouths \"What?\"  Daphne grins.  Martin enters in his robe._",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Well, well, look who's up.  How was your company party, Mr. Crane?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Fine.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Sounds like it was more than just fine if you're getting up this late.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "He came in late, too.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_sitting at the table_] Didn't know there was a curfew.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "[_rising, moving toward him_] Oh my God!  Is that lipstick on your chin?  It is!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "I got kissed, okay?  Big whoop.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "There's no lipstick on my chin.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Busted!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well, so what's her name?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Yeah, when can we meet her?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Her name's Peg, and nobody's meeting anyone.  It was just a little fooling around, that's all.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well, are you going to see her again?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "No, and if she calls I'm not here, got it?  I don't want to encourage her.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Well, why not?  It sounds like you had fun.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "See, this is exactly the conversation I'm trying to avoid with Peg.  You kiss a girl, and suddenly she wants to know \"What does it mean?\" and \"When can I see you again?\" \"Why don't you call me?\"",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "[_disdainfully_] That's a wonderful attitude.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Hey, it was great and I loved it, but I don't want to ruin it by making it more than it was.  Women never let you have a bite of ham.  They always make you sit down for spinach. _Niles and Daphne ponder his point.  FADE OUT.  Scene 3 -- Cafe Nervosa. Frasier and Roz are seated.  Kirby walks in and approaches them. _",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Kirby"
+    },
+    {
+        "speaker": "Kirby",
+        "text": "Whoa!  This is embarrassing, huh?  All three of us going to the same place when we're skipping out on work.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "We are not skipping out on work.",
+        "prevSpeaker": "Kirby",
+        "nextSpeaker": "Kirby"
+    },
+    {
+        "speaker": "Kirby",
+        "text": "Right, we're all at the doctor's. [_chuckles \"knowingly\"_]",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Kirby, we don't work the same hours that you do.  We're done for the day.",
+        "prevSpeaker": "Kirby",
+        "nextSpeaker": "Kirby"
+    },
+    {
+        "speaker": "Kirby",
+        "text": "Oh, yeah, that's good.  It's better if we don't all use the same excuse. [_He sits._]",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Kirby, I think it's time for you to straighten up.  You show up late every day.  You are inattentive, and you have a bad attitude.  How do you expect to thrive in this job or any other job?  I am this close to giving you a lecture!",
+        "prevSpeaker": "Kirby",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "Hey, guys.  Uh, Doc, you got a minute?  There's someone I want you to meet. _We see Emily seated in the corner.  She is well-dressed, sitting up straight, looking the typical high school honor student._",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Kirby"
+    },
+    {
+        "speaker": "Kirby",
+        "text": "Oh, dude, that's Emily Crowther - one of the nimrods from Those guys go to my old high school.  A bunch of losers.",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "For your information, Kirb... Hey, I thought you were at the doctor.",
+        "prevSpeaker": "Kirby",
+        "nextSpeaker": "Kirby"
+    },
+    {
+        "speaker": "Kirby",
+        "text": "I was.  Uh, he says everything is fine.  He also said I probably shouldn't come in tomorrow until about 11:30.",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "How dumb do you think I am?  You will show up first thing tomorrow morning - after your \"Meals on Wheels\" delivery.",
+        "prevSpeaker": "Kirby",
+        "nextSpeaker": "Kirby"
+    },
+    {
+        "speaker": "Kirby",
+        "text": "You got it.",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_rising_] Listen, Kenny, I'm actually just on my way out. Perhaps I could meet this young lady tomorrow at the station?",
+        "prevSpeaker": "Kirby",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "Oh, come on.  Say hi to the kid.  She's a big fan.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Really?  Well, gosh, I would hate to appear standoffish. After all, the young lady has built up a certain image of me in her mind, and that shouldn't be crushed certainly. [_He puts on his coat._]",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Do we have to go through this _every_ time?  Go over there! _She gestures for them to leave, twice.  Frasier and Kenny walk to the corner where Emily is seated.  Emily rises._",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "Emily Crowther.  Dr. Frasier Crane.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Hello, Emily.",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Emily"
+    },
+    {
+        "speaker": "Emily",
+        "text": "Pleased to meet you, Dr. Crane!  I look forward to having you on our show!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, technically, I haven't agreed to do it yet.  You see, I had a rather bad experience on _Teen Scene_ the last time.",
+        "prevSpeaker": "Emily",
+        "nextSpeaker": "Emily"
+    },
+    {
+        "speaker": "Emily",
+        "text": "[_exuberant_] Are you familiar with the new _Teen Scene_?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, uh, no, actually I'm not.",
+        "prevSpeaker": "Emily",
+        "nextSpeaker": "Emily"
+    },
+    {
+        "speaker": "Emily",
+        "text": "[_jumping in excitedly_] Well then you don't know that we do hard- hitting journalism with a youthful bent! [_slipping into obvious flattery_] Of course, it's not _nearly_ as distinguished as your show, which I adore. _Her nose is quite brown at this point -- and Frasier laps it up. _",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Really.",
+        "prevSpeaker": "Emily",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "Big fan!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Emily"
+    },
+    {
+        "speaker": "Emily",
+        "text": "Dr. Crane, may I be frank?  Having you on our show would be, In your own words, \"a great boon\" to us.",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "A boon.",
+        "prevSpeaker": "Emily",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Do you really think so?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "Oh, major boon.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, then, consider it granted.  I'm sure we'll have a splendid time.",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Who knows, I may even learn something from you.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Emily"
+    },
+    {
+        "speaker": "Emily",
+        "text": "Oh, you flatter me, Dr. Crane.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Hello, Frasier.",
+        "prevSpeaker": "Emily",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Ah, Niles.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Who's manning the Pasquini?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Jimmy Ray! [_he exits_]",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Capital. [_he takes off his coat and moves to the counter_] Cappuccino, please.  Hello, Roz.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Hey, Niles.  What are you doing here?  Shouldn't you be out buying Daphne another pair of earrings?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh... please, don't make me feel any worse.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Actually, I thought it was sweet.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well, I feel just awful.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "You want to know what I would do?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_hesitating_] Oh, what the hell? [_He sits._]",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "First of all, enough with the earrings.  Everything doesn't have to be so fancy.  Don't get me wrong.  Jewelry is terrific, but sometimes a woman likes to know that you're paying attention.  Mix it up a little.  Do something crazy - I mean totally out there.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Are you talking about scarves? [_The waiter hands him his cup._] Thank you.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "[_regrouping after Niles's question_] OK, let me give you an example.  When I was 20, my boyfriend stole a \"Doyle's Pub\" sign for me.  We were drunk and we saw it, and he said \"Hey, that's your name on that sign.  You should have it.\"  It was spontaneous, and a little dangerous... and very romantic!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_thoughtful, the wheels turning_] Spontaneous and dangerous... Thanks, Roz.  You've given me something to mull over during my herbal wrap. _He sips his coffee thoughtfully.  FADE OUT.  Scene 4 - Frasier's apartment. Martin enters.  Daphne is carrying a food tray to the table._",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Oh, good.  I thought you were going to miss Dr. Crane on the radio.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "How many times a day is that guy on?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "It's not his show, it's _Teen Scene_.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh, I don't have time for that teenage crap. [_taking off his coat_] Did I get a call from a girl today?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "[_carrying the tray to the coffee table_] You mean Peg?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Or any girl.  Or Peg. [_fishing_] Did Peg call?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "No.  It's been a few days, hasn't it?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "I really thought she'd try to spring that relationship stuff on me.  Well, I guess I misjudged her. [_He sits in his chair._]",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Unless she didn't like her free sample.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_grinning and chuckling_] I think we can rule that out.  When a lady gets the full Marty Crane treatment, she doesn't forget it.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "[_coyly_] And Peg got the Full Marty?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "I never give anything less.  So, yeah, I guess I am a little surprised she hasn't called.  I mean, mostly relieved, of course, but... also surprised.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Don't feel bad.  Maybe you had an off night.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_snorting sarcastically_] Anything's possible, I suppose. _The phone rings.  Daphne slowly moves to answer it, making Martin squirm.  She picks it up on the third ring._",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Hello? [_excitedly_] Well, yes he is! One moment please.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_imitating Al Pacino (\"Scent of a Woman\")_] Hola! [_Daphne rolls her eyes._] Uh-huh.   Oh, I think that would be fine. Thursday at 9:00?  See you then.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Well... look who's suddenly in a relationship!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Shows you what you know.  That was the dentist.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Thank goodness, right?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Right! _Daphne nods sarcastically behind his back and heads for the kitchen. Martin stares forlornly at the phone.  FADE OUT.  END OF ACT 1  ACT 2  Scene 5 - Radio Station. Frasier is standing in the hall outside the studio talking to Emily, who is standing primly, with a very officious attitude._",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Emily"
+    },
+    {
+        "speaker": "Emily",
+        "text": "I agree with you, sir.  The difference between valedictorian and salutatorian is largely arbitrary.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Thank you, Emily.  I didn't mean to go on like that, but... the wound is still raw.",
+        "prevSpeaker": "Emily",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Hello, Kirby.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Kirby"
+    },
+    {
+        "speaker": "Kirby",
+        "text": "[_icily_] Hello _Emily_.  How's Honors everything?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Emily"
+    },
+    {
+        "speaker": "Emily",
+        "text": "Splendid, thank you. [_disdainfully_] How's carrying a bunch of boxes around a radio station?",
+        "prevSpeaker": "Kirby",
+        "nextSpeaker": "Kirby"
+    },
+    {
+        "speaker": "Kirby",
+        "text": "Good.",
+        "prevSpeaker": "Emily",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You know, Emily, I was thinking that perhaps after the show I could invite you and your friends to a... a cheeseburger or some such.",
+        "prevSpeaker": "Kirby",
+        "nextSpeaker": "Emily"
+    },
+    {
+        "speaker": "Emily",
+        "text": "Oh, we'd like that very much. [_Her grin is cheesier than the proposed burger._] Can I get you a coffee?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, yes.  Thank you, Emily.  You know I asked for one a little while ago, but it never showed up.",
+        "prevSpeaker": "Emily",
+        "nextSpeaker": "Kirby"
+    },
+    {
+        "speaker": "Kirby",
+        "text": "[_shouting down the hall at Emily, dodging Frasier's anger_] Now who's carrying a bunch of stuff around a radio station? _Frasier groans at Kirby.  CUT TO: the interior of the studio.  A man is seated at Frasier's usual console.  He is smoking heavily, and his hair and clothes are very unkempt.  Frasier enters._",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Andy"
+    },
+    {
+        "speaker": "Andy",
+        "text": "Hi, Dr. Crane.",
+        "prevSpeaker": "Kirby",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh.",
+        "prevSpeaker": "Andy",
+        "nextSpeaker": "Andy"
+    },
+    {
+        "speaker": "Andy",
+        "text": "Andy McNiff. [_They shake hands._]",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Andy.",
+        "prevSpeaker": "Andy",
+        "nextSpeaker": "Andy"
+    },
+    {
+        "speaker": "Andy",
+        "text": "I'm the moderator.  I'm really glad you could make it.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, well... likewise, I look forward to some intergenerational byplay.",
+        "prevSpeaker": "Andy",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Uh, by the way, Andy, are you going to be smoking all night?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Andy"
+    },
+    {
+        "speaker": "Andy",
+        "text": "[_looking at his pack, which is apparently full_] Yeah. [_Frasier's displeasure shows._] Look, no matter what happens, I'm on your side.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_confused_] Thank you.  What does that mean exactly?",
+        "prevSpeaker": "Andy",
+        "nextSpeaker": "Andy"
+    },
+    {
+        "speaker": "Andy",
+        "text": "Well, uh... _He is interrupted by the appearance of Emily and two male friends who enter from the booth._",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Andy"
+    },
+    {
+        "speaker": "Andy",
+        "text": "Hi, guys!  Your guest has arrived.",
+        "prevSpeaker": "Andy",
+        "nextSpeaker": "Emily"
+    },
+    {
+        "speaker": "Emily",
+        "text": "[_handing Frasier a mug_] Here's your coffee, Dr. Crane.  These are my colleagues, Ryan and Trent.",
+        "prevSpeaker": "Andy",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Trent. [_They shake hands._]",
+        "prevSpeaker": "Emily",
+        "nextSpeaker": "Trent"
+    },
+    {
+        "speaker": "Trent",
+        "text": "Pleased to meet you, sir.  We're very excited.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Likewise.  Hello, Ryan. _He shakes Ryan's hand.  Ryan and Trent also look the role of the honor student, both wearing Dockers and collared shirts._",
+        "prevSpeaker": "Trent",
+        "nextSpeaker": "Andy"
+    },
+    {
+        "speaker": "Andy",
+        "text": "[_on a signal from a producer in the booth_] Ten seconds, guys. [_He puts on headphones._]",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_somewhat nervous_] Ah, right. [_He sits back down._] You know, you may be surprised to learn that it was not so very many years ago when I myself occupied those tough years 'twixt 12 and 20. _He puts on headphones, as do the three youths.  They take their places on stools in front of microphones behind Andy, looking like the stunt double line-up for a movie starring Ryan Phillipe, Reese Witherspoon, and Freddie Prinze, Jr.  Andy opens the show._",
+        "prevSpeaker": "Andy",
+        "nextSpeaker": "Andy"
+    },
+    {
+        "speaker": "Andy",
+        "text": "Hi, and welcome to _Teen Scene_ , Seattle's premier talk show for young people.  I'm Andy McNiff, and for the next 60 minutes we'll be engaged in some straight talk with our special guest. [_Frasier grins._] And here to get things rolling is our _Teen Scene_ panel: Trent, Ryan, and Emily.  Trent?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Trent"
+    },
+    {
+        "speaker": "Trent",
+        "text": "Tonight, we're talking to Dr. Frasier Crane, a man who knows what makes us tick.  But what do we know about him?",
+        "prevSpeaker": "Andy",
+        "nextSpeaker": "Emily"
+    },
+    {
+        "speaker": "Emily",
+        "text": "Dr. Crane, you're a popular psychiatrist and radio personality. What would you say is the secret of your success?",
+        "prevSpeaker": "Trent",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I suppose it has something to do with the fact that I am a good listener and have a friendly voice, and I also try to pass along some real psychological insight and advice.",
+        "prevSpeaker": "Emily",
+        "nextSpeaker": "Emily"
+    },
+    {
+        "speaker": "Emily",
+        "text": "[_glancing at her notes_] My research shows that your replies Are typically less than five minutes long.  Doesn't seem like a lot of time for substantive psychological advice.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, well if I believe there's a real problem than I usually refer the caller...",
+        "prevSpeaker": "Emily",
+        "nextSpeaker": "Emily"
+    },
+    {
+        "speaker": "Emily",
+        "text": "[_interrupting him with an evil grin_] So if it's a real problem than you pass the buck. _Frasier, dumbfounded, looks and mouths words at Andy, who seems disinterested and looks away._",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Excuse me?!",
+        "prevSpeaker": "Emily",
+        "nextSpeaker": "Ryan"
+    },
+    {
+        "speaker": "Ryan",
+        "text": "February 9, 1993.  Does that date mean anything to you?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Should it?",
+        "prevSpeaker": "Ryan",
+        "nextSpeaker": "Ryan"
+    },
+    {
+        "speaker": "Ryan",
+        "text": "According to the _Boston Globe_ you spent two hours on a ledge threatening to jump if your wife left you.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Ryan"
+    },
+    {
+        "speaker": "Ryan",
+        "text": "How many of your listeners are aware that they're taking advice from a man who was nearly a stain on the sidewalk?  [_N.B. This event occurred in an episode of the last season of \"Cheers.\"  The only other references to it on \"Frasier\" of which I am aware are in Episodes[[1.02]](/frasier/transcripts/season_1/episode_2/space_quest.html \"Space Quest\") \"Space Quest,\" [[2.18]](/frasier/transcripts/season_2/episode_18/the_club.html \"The Club\") \"The Club,\" and, obliquely, in [[1.08]](/frasier/transcripts/season_1/episode_8/beloved_infidel.html \"Beloved Infidel\") \"Beloved Infidel.\"_] _Andy does not intervene, but taps the spent end of his cigarette into the ashtray, seeming somewhat oblivious._",
+        "prevSpeaker": "Ryan",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Andy, isn't it about time for a commercial break?",
+        "prevSpeaker": "Ryan",
+        "nextSpeaker": "Andy"
+    },
+    {
+        "speaker": "Andy",
+        "text": "Actually, this show is a public service, therefore commercial- free.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_resigned_] Splendid. _FADE OUT.  Scene 6 - A residential street, presumably in suburban Seattle.  Niles is walking Eddie down the street.  He is dressed in black from head to toe, including a trench coat.  He passes a street lamp. A pause.  He moves with stealth back to the lamp, with Eddie in tow.  The camera reveals the top of the lamp, which also serves as the corner street indicator.  The two signs read \"Maple Street 1700,\" and, far more significantly, \"Daphne Lane 200.\"  Niles looks around nervously.  Eddie barks.  Niles whistles.  Eddie lifts his leg and appears to do his business on the lamp pole.  They are briefly illuminated by the headlights of a passing vehicle.  Niles whistles at Eddie again, and he lowers his leg.  He gives Eddie a treat and walks with him to the hedge behind the sidewalk.  Niles pulls a folding stepladder from behind the hedge.  He stands it next to the pole.  He then flips back his coat to reveal a tool belt, from which he takes a wrench.  (Who does he think he is, Batman?  And any seasoned burglar would have told him to go motorized, sacrificing silence for speed. - Mike Lee)  Looking up at the sign, he places the wrench in his mouth and begins to climb the ladder, but is interrupted by Eddie barking at something. He climbs back down, hurriedly sticks the ladder back behind the hedge, removes the wrench from his mouth, and moves Eddie back to the pole, whistling again.  Eddie repeats the leg-lifting routine.  A couple of pedestrians walk past, and Niles nervously waves and says \"Hi\" to them as they go by.  He whistles at Eddie again, who lowers his leg.  He gives him another treat, retrieves the ladder again, and again places it next to the pole.  He climbs the ladder and places his hands on top of the \"Daphne Lane\" sign.  Nervously, he begins to use the wrench to undo the bolts attaching the sign to the pole.  As he does so, he loses his balance.  Struggling to regain it, he inadvertently kicks the ladder away, so that it is no longer under his feet. He is left hanging from the sign.  Eddie barks repeatedly.  Niles is then literally \"caught in the headlights\" as we hear a car pull up.  The sound of a siren reveals the nature of the car. He stares mortified into the lights, still hanging from the sign. Eddie continues to bark.  FADE OUT.  Scene 7 - The lobby of the office building where Martin works as a security guard.  A woman in uniform is seated behind the desk, reading a book. Martin enters from the elevator._",
+        "prevSpeaker": "Andy",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well, hi, Peg!  Geez, I didn't know you were working the graveyard tonight.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Peg"
+    },
+    {
+        "speaker": "Peg",
+        "text": "All this month.  What brings you here?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Actually, I was in the neighborhood, and I wanted to make sure they'd fixed that elevator camera.  But see, I thought Rich was on tonight, which explains why I didn't know you'd be here. [_He grins nervously._]",
+        "prevSpeaker": "Peg",
+        "nextSpeaker": "Peg"
+    },
+    {
+        "speaker": "Peg",
+        "text": "Right. Well, it's... fixed.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well, that's good. _There is an awkward pause.  Martin remains standing at the desk while Peg goes back to her book._",
+        "prevSpeaker": "Peg",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Somebody broke it.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Okay, then.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Peg"
+    },
+    {
+        "speaker": "Peg",
+        "text": "See ya later.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "See ya.",
+        "prevSpeaker": "Peg",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Hey, how come I never heard from you?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Peg"
+    },
+    {
+        "speaker": "Peg",
+        "text": "[_flustered_] Oh, geez!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well, I was under the impression we had some chemistry going. I think I deserved at least a phone call.",
+        "prevSpeaker": "Peg",
+        "nextSpeaker": "Peg"
+    },
+    {
+        "speaker": "Peg",
+        "text": "Hey, we made out a little.  Let's not ruin it by making it more than it was.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Just what I was thinking.",
+        "prevSpeaker": "Peg",
+        "nextSpeaker": "Peg"
+    },
+    {
+        "speaker": "Peg",
+        "text": "Good.  Then it won't be awkward or anything if we pull the same shift, right?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_with feigned indifference_] What are you talking about? Don't worry about me.  Watch yourself.",
+        "prevSpeaker": "Peg",
+        "nextSpeaker": "Peg"
+    },
+    {
+        "speaker": "Peg",
+        "text": "Okay.  No worries. [_They shake hands._] So I'll see you around then.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Yeah, see ya.",
+        "prevSpeaker": "Peg",
+        "nextSpeaker": "Peg"
+    },
+    {
+        "speaker": "Peg",
+        "text": "Hey! You going to Jerry's retirement party?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "I might drop in for a pop or two.",
+        "prevSpeaker": "Peg",
+        "nextSpeaker": "Peg"
+    },
+    {
+        "speaker": "Peg",
+        "text": "Yeah, same.  Maybe I'll see you there.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Yeah.  Maybe you will. _Martin takes this as an affirmation, which boosts his confidence. He resumes the \"Full Marty\" demeanor as he struts to the elevator. FADE OUT.  Scene 8 - Radio Station. Frasier's appearance on \"Teen Scene\" continued.  Things have obviously degenerated even further._",
+        "prevSpeaker": "Peg",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Again, I freely admit that I assisted my ex-wife in psychological experiments on lab animals.  However, at that time, putting a pair of sunglasses on a monkey did not constitute cruelty! _His gestures and expressions during this speech indicate that his level of exasperation has increased considerably._",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Emily"
+    },
+    {
+        "speaker": "Emily",
+        "text": "[_smugly, confrontational_] We'll just agree to disagree.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You know I scarcely see how this line of questioning about my personal life can benefit your listeners!",
+        "prevSpeaker": "Emily",
+        "nextSpeaker": "Emily"
+    },
+    {
+        "speaker": "Emily",
+        "text": "Well, Dr. Crane.  Every day you ask your listeners to blindly trust you.  Isn't the public entitled to know a little bit more about that \"friendly voice\" that seems to know all the answers?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh... I understand.  This isn't about me at all.  You see, Your combative line of questioning is completely age- appropriate.  The challenging of authority, the zeal for truth...",
+        "prevSpeaker": "Emily",
+        "nextSpeaker": "Ryan"
+    },
+    {
+        "speaker": "Ryan",
+        "text": "Speaking of truth, I have a few questions about your last tax return... [_of which he has a copy, rifling through it_]",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Andy"
+    },
+    {
+        "speaker": "Andy",
+        "text": "I hate to interrupt, panel, but it's time for our regular news break.  We'll be back with more _Teen Scene_ fun after this. _They remove their headphones.  Frasier is shell-shocked.  Kirby sticks His head in the door._",
+        "prevSpeaker": "Ryan",
+        "nextSpeaker": "Kirby"
+    },
+    {
+        "speaker": "Kirby",
+        "text": "Dr. Crane, can I borrow you for a second?",
+        "prevSpeaker": "Andy",
+        "nextSpeaker": "Emily"
+    },
+    {
+        "speaker": "Emily",
+        "text": "[_with the old grin_] You're doing great! _Frasier glares murderously at her as he exits the studio.  He joins Kirby in the hall._",
+        "prevSpeaker": "Kirby",
+        "nextSpeaker": "Kirby"
+    },
+    {
+        "speaker": "Kirby",
+        "text": "Dude, you're in trouble here.",
+        "prevSpeaker": "Emily",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Thanks for the update!",
+        "prevSpeaker": "Kirby",
+        "nextSpeaker": "Kirby"
+    },
+    {
+        "speaker": "Kirby",
+        "text": "Take it easy, Mr. Snappy.  I'm here to help you. _Kirby shows him a notebook.  CUT BACK to the studio:_",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Trent"
+    },
+    {
+        "speaker": "Trent",
+        "text": "Can you believe that Kirby guy works here?",
+        "prevSpeaker": "Kirby",
+        "nextSpeaker": "Emily"
+    },
+    {
+        "speaker": "Emily",
+        "text": "I can't believe they finally graduated him.",
+        "prevSpeaker": "Trent",
+        "nextSpeaker": "Andy"
+    },
+    {
+        "speaker": "Andy",
+        "text": "Now, remember, guys, you're still goodwill ambassadors...",
+        "prevSpeaker": "Emily",
+        "nextSpeaker": "Emily"
+    },
+    {
+        "speaker": "Emily",
+        "text": "[_cutting him off disdainfully_] We weren't talking to you.",
+        "prevSpeaker": "Andy",
+        "nextSpeaker": "Andy"
+    },
+    {
+        "speaker": "Andy",
+        "text": "[_giving up, taking another drag_] Oh-kay. _Frasier re-enters, looking much happier.  He is carrying Kirby's notebook._",
+        "prevSpeaker": "Emily",
+        "nextSpeaker": "Trent"
+    },
+    {
+        "speaker": "Trent",
+        "text": "Everything okay, Dr. Crane?",
+        "prevSpeaker": "Andy",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Absolutely.  I didn't fully appreciate the hard-hitting nature or your journalism, but I... I think I know how to handle it now.",
+        "prevSpeaker": "Trent",
+        "nextSpeaker": "Andy"
+    },
+    {
+        "speaker": "Andy",
+        "text": "We're back with more _Teen Scene_ and our special guest, Dr. Frasier Crane.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Trent"
+    },
+    {
+        "speaker": "Trent",
+        "text": "Now, Dr. Crane, where were we?",
+        "prevSpeaker": "Andy",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I believe we were discussing my competence as a mental health professional.  And though it is true that I have suffered several emotional setbacks in my life, if we are to be honest... haven't we all?",
+        "prevSpeaker": "Trent",
+        "nextSpeaker": "Trent"
+    },
+    {
+        "speaker": "Trent",
+        "text": "And that's your defense... that we all have problems.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Perhaps I can better illustrate my point by reading from a Poem entitled, \"An Onion for Trisha.\"",
+        "prevSpeaker": "Trent",
+        "nextSpeaker": "Trent"
+    },
+    {
+        "speaker": "Trent",
+        "text": "[_taken aback_] Where did you get that?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_reading_] \"My heart is like an onion, filled with layers of tears.  Why, oh, why did you leave me, Trisha?\"",
+        "prevSpeaker": "Trent",
+        "nextSpeaker": "Trent"
+    },
+    {
+        "speaker": "Trent",
+        "text": "Okay, give me that.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Emily"
+    },
+    {
+        "speaker": "Emily",
+        "text": "[_clearly upset_] Trisha _Sharpe_?  You said you never liked her!",
+        "prevSpeaker": "Trent",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_gleefully_] Ooh, Trent, tough blow!  Yes, it seems that youthful relationships are _fraught_ with emotional hazards. Especially in the case of a -- [_flips to another page_] a young woman who finds her first love at Math Camp.",
+        "prevSpeaker": "Emily",
+        "nextSpeaker": "Trent"
+    },
+    {
+        "speaker": "Trent",
+        "text": "What happened at Math Camp?!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Emily"
+    },
+    {
+        "speaker": "Emily",
+        "text": "[_highly distressed_] I don't want to talk about it!",
+        "prevSpeaker": "Trent",
+        "nextSpeaker": "Ryan"
+    },
+    {
+        "speaker": "Ryan",
+        "text": "[_trying to save the situation_] Uh, Dr. Crane!",
+        "prevSpeaker": "Emily",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, Ryan. [_leafing through the notebook_] Or as the boys on the swim team call you...",
+        "prevSpeaker": "Ryan",
+        "nextSpeaker": "Ryan"
+    },
+    {
+        "speaker": "Ryan",
+        "text": "[_cutting in desperately_] So, do you have any good advice for kids that want to go to college?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "As a matter of fact, I believe I do. _DISSOLVE TO:  Scene 9 - Time fade to the end of the show. Frasier has taken over the show.  His three interrogators are slumped on their stools, looking depressed and defeated._",
+        "prevSpeaker": "Ryan",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "In short, caller, there is nothing wrong with you, and you're not going to get sick.  But remember, the more frequently you do it, the less special it becomes.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I hope that answers your question.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Mike"
+    },
+    {
+        "speaker": "Mike",
+        "text": "[_v.o._] Uh, yeah.  Well, uh, thanks a lot.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Andy"
+    },
+    {
+        "speaker": "Andy",
+        "text": "Well, that about wraps it up for tonight's _Teen Scene._  For Trent, Ryan, and Emily, this is Andy McNiff - reminding you we're still taking applications for the moderator's job - and wishing you a teen-tastic week.  Good night! _They go off the air.  The three teens quickly grab their notes and head for the door._",
+        "prevSpeaker": "Mike",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Thanks, kids, I had fun!",
+        "prevSpeaker": "Andy",
+        "nextSpeaker": "Trent"
+    },
+    {
+        "speaker": "Trent",
+        "text": "[_icily_] Yeah, thanks.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Andy"
+    },
+    {
+        "speaker": "Andy",
+        "text": "Thank you.  You made my month. _Frasier chuckles and shakes Andy's hand heartily.  Frasier exits the studio, where Kirby is waiting in the hall._",
+        "prevSpeaker": "Trent",
+        "nextSpeaker": "Kirby"
+    },
+    {
+        "speaker": "Kirby",
+        "text": "Way to go, Dr. Crane, that was sweet!",
+        "prevSpeaker": "Andy",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I'm not exactly proud of myself, Kirby.",
+        "prevSpeaker": "Kirby",
+        "nextSpeaker": "Kirby"
+    },
+    {
+        "speaker": "Kirby",
+        "text": "Oh, you should be, man, those dinks brought it on themselves. They were, like, \"We're gonna get this old dude!\" and then you were, like, \"Old dude!  Say what?\" and then they were like \"Wham bam!... [_he descends into gibberish imitations of their arguing._] It was awesome.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well said, Kirby.  And thank you for helping me out.  By the way, how did you dig up all that stuff?",
+        "prevSpeaker": "Kirby",
+        "nextSpeaker": "Kirby"
+    },
+    {
+        "speaker": "Kirby",
+        "text": "Uh, let's just say I've got a few operatives who were, uh, Held back.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Ah.",
+        "prevSpeaker": "Kirby",
+        "nextSpeaker": "Kirby"
+    },
+    {
+        "speaker": "Kirby",
+        "text": "Hey, you know, why don't you and I continue this conversation over a... a cheeseburger or some such.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I'd like that very much. _They put their arms around each other as they walk down the hall. And we:  FADE OUT  END OF ACT 2_ ",
+        "prevSpeaker": "Kirby",
+        "nextSpeaker": "Credits"
+    }
+]

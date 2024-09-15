@@ -1,0 +1,1371 @@
+[
+    {},
+    {
+        "speaker": "Skyline",
+        "text": "A helicopter rises above the city._  **PREVIOUSLY ON FRASIER** ",
+        "prevSpeaker": "No Previous Speaker",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "What's got Daphne all worked up now?",
+        "prevSpeaker": "Skyline",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "It wasn't Daphne.  It was Maris.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "She's gotten involved with some Argentine polo player. It turns out [ ] he's a gold digger, with a violent temper to boot. ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Esteban"
+    },
+    {
+        "speaker": "Esteban",
+        "text": "Dr. Crane?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes?",
+        "prevSpeaker": "Esteban",
+        "nextSpeaker": "Esteban"
+    },
+    {
+        "speaker": "Esteban",
+        "text": "I'm Esteban de Rojo. [_He punches Frasier._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_to Daphne_] I tell you, Maris will never come between us again. _As they exit to the kitchen, we hear the radio: \"And now, news headlines: Police have just arrested Seattle socialite Maris Crane for the murder of Argentine polo star Esteban de Rojo...\"  The radio fades out._   _Scene One - The Montana It is later that night, after everyone has heard the news.  Niles opens the door to Frasier and Martin._ ",
+        "prevSpeaker": "Esteban",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Come in.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Niles! [_they embrace_] What have you heard?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Not much.  The TV news is still pretty sketchy.  Dad, did you find anything out?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well, I called some buddies at the station.  They'll call back when they know something. _Frasier and Martin hang up their coats and head for the bar, to which Daphne has brought some plastic cups and where there are still refreshments left over from the fake baby shower._",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "It's just so freaky!  I can't believe that man is dead. He was standing right where you are just a few hours ago.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "How are you holding up, son?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "As well as can be expected. [_He moves his hand to his eye._]",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "I meant your brother.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, well, I'm--I'm stunned of course, the idea that Maris actually killed someone.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, we've all seen her murder many a lively dinner party.  ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Frasier!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "That's terrible.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, come on, I'm joking.  And haven't I earned the right to my gallows humor? [_haunted voice_] After all, are you forgetting that just this afternoon I was punched in the face by a man now dead?  ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Thank you.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_handing a glass to Niles_] Here, drink this.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, thanks.  ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Hello? [_pause_] Yes, of course.  I'll be there shortly. [_He hangs up._] It's the police.  They want to talk to me.  ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "My God, why?  They don't suspect you of anything, do they?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, I don't think so, I don't think they could, they couldn't, could they?  Dad?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Calm down.  You had lunch with her today.  They just want to know what you talked about.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well, what did we talk about?  What did we talk about?  Uh, we-we discussed the upcoming women's arts festival and their tableau vivant.  They're going to be re-enacting Schmitt's painting of \"The Martyrdom of St. Ursula by Atila the Hun.\" Naturally, Maris will pose as the Hun.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Ah.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "A tad Germanic for my taste, but nonetheless I told her I'd help out by lending her my antique crossbow to help complete the tragic scene on the Rh\ufffdne.  Of course, talk of the Rh\ufffdne inevitably led to that wonderful anecdote about the Nazarene painters of Biddlesbock Palace...",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_joins Niles in loud guffaws_] Those beer-loving rascals!  Tell it, Niles!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "_No_!  What did she say about the polo guy?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well, I-I told you, she mentioned she felt unsafe around him, and she thought that he only wanted her for her money, and I urged her to end the relationship.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well, that's pretty tame stuff.  It'll take more than a little lunch to tie you into a murder.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, dear.  Niles, they're in front of Maris's house now.  ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Announcer"
+    },
+    {
+        "speaker": "Announcer",
+        "text": "There's been a startling new development in the society murder case.  Sources say alleged murderer Maris Crane killed her polo-playing lover, Esteban de Rojo, with an antique crossbow...",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "You gave her the murder weapon!  ",
+        "prevSpeaker": "Announcer",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Hello? [_aside_] It's a reporter.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I'm not home.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "[_into phone_] I'm sorry, he's not here, and I don't know when he's coming back. [_pause_] I'd rather not say. [_another pause_] I'd rather not say! [_charmed_] Oh, thank you, Manchester, actually.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Hang up!",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Goodbye. [_does_]",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I don't believe this.  It's an unlisted number.  They must think I'm involved somehow.  Th-they're actually trying to imply that...",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "No, no, no, I'm not going to panic.  The only way to get through this is to remain calm.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Right, now, let's go on down to the station and get this all sorted out.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "I'm coming too.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "No!  You have to rest up for our doctor's appointment tomorrow morning.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I'll stay with Daphne.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Don't worry.  Everything's going to be fine.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You know, that's going to go on all night.  Do you want to just stay at my place?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Oh, thanks, but if I have them drive me out of me own home, then they've won.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Allow me. [_He answers._] Hello?  Yes, I'll tell her. [_hangs up_] That was your mother.  She heard the news, she's on her way over.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "I'll pack a bag, you get the car. _She heads to the back as Frasier goes out the door.  FADE OUT_  **FRAZER WITH A \"Z\"**  _Scene Two - Frasier's apartment Martin and Niles enter and Daphne receives them._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well, we survived!  The kid held up.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "[_embracing him_] What took you all night?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, there was a lot of waiting.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_helping Niles with his coat_] Here, let me take that.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Thank you.  Fortunately we found a nice cold metal bench between two drunk bikers and a pimp who called me \"Peaches.\"",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Yeah, and the interesting thing happened when we were leaving. We ran into Maris's lawyer on the way out.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "And he told us the whole story.  Apparently, Maris and Esteban had a fight, and Maris kicked him out.  She was trying to calm herself by practicing her tableau vivant pose with the, with the crossbow.  Which, she needs all the practice she can get. She has terribly weak triceps.  Well, all of a sudden Esteban burst back in through the balcony window.  Maris was-was startled to death and pulled the trigger in self-defense. He was dead before he hit the parquet.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "So where is she now?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "They're holding her as a flight risk.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Can you imagine?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well, it didn't help that when they found her, she had a passport, a wig, and $10,000 in her purse.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Maris always has those things in her purse.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, you've got to admit, Niles, it doesn't look very good.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I can't believe she could have planned this.  You do learn something about a woman when you've slept in a room next to hers for fifteen years.  [_N.B. Actually less time - Niles and Maris dated for three years, lived together in marriage for eleven, and were separated for two before he finally filed for divorce, which took another two years -- Mike Lee_] _They are all uncomfortable and irritated, particularly Daphne.  A thump on the door is heard._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, that must be the paper.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "So, she just happened to be posing with a loaded crossbow at the exact moment he burst in on her?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "And don't you just know the prosecutor is going to try to twist that into something sinister?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, dear.  It's on the front page.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "They don't mention Niles, do they?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, let me see.  Ah, here we are, yes. [_reading_] Uh, \"Maris Crane is believed to have gotten the crossbow from her ex- husband, Dr. Niles Crane, with whom she lunched on the day of the murder.\"",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_looking over shoulders at the paper_] Is that you and Maris on your honeymoon?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Ah, that is the experimental liposuction center in Gstaad. [_wistfully_] So, yes.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "\"According to sources, Crane divorced the accused some years ago to marry her plastic surgeon, whom he left in order... to marry...\"  Oh, dear.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "[_snatching the paper_] \"To marry Daphne Moon... a housekeeper.\" Oh, that's just lovely.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Now, now, now, the press is notorious for getting things wrong.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, Niles is right.  For example look, further on here it says, ha-ha, \"Dr. Crane is the brother of local deejay, Frazer--with a 'Z'--Crane.\"  You just have to laugh these things off.  ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Well, I can't laugh.  That horrible woman has managed to slither her way back into our lives.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "No, she is not back in our life.  This whole thing is going to blow over in no time.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "How can you be so calm?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well, in situations such as this, there are only two ways to react: either you go to pieces or you stay calm, and I've chosen to do the latter.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Bravo, Niles, that's very healthy.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well, you'd better go home, son, and get some sleep, you've had a long night.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "That is a good idea.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I'll call you later.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Thank you. [_with forced enthusiasm_] Oh!  We have your doctor's appointment this morning.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Oh, don't worry, you don't have to come.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh.  And miss hearing my baby's heartbeat?  I don't think so. [_naively_] Plenty of time to sleep after the baby's born.  _Niles and Daphne exit.  FADE TO:_  **FAIR AND UNBALANCED**  _Scene Three -- Cafe Nervosa Frasier, Niles, and Roz are sitting down_ ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Niles, how are you holding up?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Apart from the lack of sleep, I'm all right.  Although, now that it's in the news that I provided the crossbow I can't go anywhere without people whispering and pointing.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, excuse me. [_answers_] Hello?  Hello, Maris.  Oh, I'm-I'm so sorry.  That's awful.  I'll-I'll-I'll do what I can.  All right. [_hangs up_] Oh, that was Maris.  Poor thing lost her shoes.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "She put them outside her cell to be polished, and... someone named Big Judy is holding them for ransom.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, how often does she call you?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Uh, more often than you'd think she could, being in jail.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Hasn't she made your life hard enough?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, I can't turn my back on her now, Roz, she's literally fighting for her life. _Engine noises are heard outside, and Niles glances out the window. He glances out the window_",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, wonderful.  More news vans.  Maybe it's time I made a statement. [_starts to rise_]",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No, no, absolutely not, Niles. That is the worst possible thing you could do.  It would only fan the flames.  I'll tell you what.  Why don't you slip out the back way, and I will talk to them for you.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, that... there's no need, Frasier.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No, Niles, I insist.  I'm used to dealing with these media jackals.  You have no idea how they can twist your words with editing tricks and such.  All right, off you go.  ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Thank you, Frasier.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Reporter"
+    },
+    {
+        "speaker": "Reporter",
+        "text": "Is Niles Crane in here?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "He is not.  I will be speaking on his behalf.  Gentlemen, you may roll tape. [_He prepares for his delivery._] Good afternoon, Seattle,  this is Dr. Frasier Crane, spokesman for the Crane family.  ",
+        "prevSpeaker": "Reporter",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Recent events involving my brother, Niles Crane and his ex-wife are tragic, almost as tragic as the _rampant_ media speculation concerning his involvement.  If there is any justice in the world, Maris Crane and Niles Crane will soon be executed.  Thank you, that is all I have to say. _He returns to his table as the camera crew begins to leave, in a buzz of excitement.  Roz quickly whispers in his ear._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I said no such thing.  I did?  I did.  Excuse me?  Excuse me! Come back!  _FADE OUT as Frasier runs after the press corps.  END OF ACT ONE  ACT TWO  Scene Four - Frasier's apartment Frasier and Martin are watching the news._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_v.o._] Maris Crane and Niles Crane will soon be executed.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "That's four times in one newscast.  Must be some kind of record.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "They know I meant \"exonerated.\" _He covers his face and groans.  Niles and Daphne enter.  They are not amused._",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, Daphne, Niles.  Listen, I'm, I'm so sorry about today's little gaffe.  You know what I meant.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Oh, don't worry.  Anyone can make a little slip.  We know you were only trying to ruin our lives--[_feigning self-correction_] I mean, help.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Niles, once again, I'm so sorry...",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "No, no, Frasier, please, it's all right.  I should have talked to them myself.  I hope it'll be all right if we stay with you for a while.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Why?  What happened?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well, since Frasier's little press conference, the media frenzy has only increased.  It's become a nuisance for our neighbors.  TV crews, news helicopters, plus the entire press corps from Esteban's hometown in Argentina.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Last night some cheeky bloke from the _Buenos Aires Herald_ climbed a tree and took a picture of old Mrs. Gottschalk in her _sitz_ bath.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Apparently, the readership of the _Herald_ is mostly lonely gauchos.  ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You know, Niles, your good cheer in spite of everything is just remarkable.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well, I've chosen not to let it get to me, and it hasn't. Of course, most of the credit goes to my Daphne.  I'm truly blessed to have such a loving and supportive wife.  She is at once my huggle-bunny and my rock.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "I think I might throw up.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Huggle-bunny was a bit much.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "No, no, my stomach is upset.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, Daphne, can I get you something?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Oh, thank you, Frasier.  I wouldn't mind ten years in prison-- oh, I meant crackers.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, uh, I-I guess I deserved that, but may I remind you I'm a bit of a victim myself... [_haunted voice_] as just yesterday I was punched in the face by a man... now dead.  ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Thank you.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Hello?  Hello, Mm--M [_swallowing it_] No, no I haven't forgotten.  Yes, I'll try to get there tomorrow morning. All right, goodbye, Mm... [_He hangs up._]",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "That was Maris, wasn't it?  Where will you be tomorrow morning?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_guiltily_] The jail.  I-I-I said I'd try to visit her...",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Have you lost your bloody mind?  I have tried to be patient, but this is too much! [_rising_]  You promised me that woman would be out of our lives!  Now she's calling every minute, the papers reporting as though you two are still married, and I can't even sleep in my own bed!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I know, darling, b-but you can't blame me for everything that's happened.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "The hell I can't!  If you hadn't have snuck off to have lunch with her, we never would have been dragged into this, and you wouldn't be sleeping alone on the couch tonight!  But you did, and we were, so you are! [_passing Frasier_] I hate that kind of cracker!  ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Boy, that was kind of harsh.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I'll say, these are imported from Belgium.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Poor thing, she's over-tired and a little hormonal.  I'll-I'll go try to talk her into choosing to be calm.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Boy, he's really holding up well.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "A little too well.  I'm starting to fear he's not dealing with his emotions at all.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Right.  That's the whole secret to holding up.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Dad, it's called \"repression\" and it is not healthy.  The man is a walking pressure-cooker.  It's his senior year all over again.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "What are you talking about?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, that's right.  He swore me to secrecy. [_beat_] Well...",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Niles got mono and he missed four weeks of class, right? So, he was studying around the clock trying to catch up. Just before finals, his girlfriend dumped him - for his roommate.  Niles insisted he was just fine - right up until the very moment when they found him in the all-night grocery, sitting in a freezer bin talking to a bag of frozen corn, whispering \"Why so cold, my love?\" _Niles re-enters, carrying bedding.  His cheerfulness is becoming increasingly taut._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "All calm!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Want me to help you make up the couch?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "No, no, I can manage.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Okay, well, I think I'll hit the rack too.  ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Sherry, Niles? [_holds out a glass_]",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, how lovely, thank you.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "To the balcony?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Mm, after you.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Niles, while I admire your initial fortitude, I can't help thinking you may have taken things to extremes.  As you know, it can be dangerous to repress one's emotions.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "True, but there is no way of weathering a situation like this without a certain degree of detachment.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Are you sure you're not too detached?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, nonsense, everything's under control.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, look at that!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "What in the hell?!  ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_shouting_] Just a news chopper.  Pay it no mind.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_yelling over the rotors_] That doesn't bother you?!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "You get used to it.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, for heaven's sake, get inside! [_shouting at the helicopter_] You should be ashamed of yourselves!  You know perfectly well I meant EXONERATED!!  _He goes back inside.  FADE TO:  Scene Five - Caf e Nervosa Niles approaches the counter.  Roz is there.  Niles is still wearing his suit, but looking very haggard._ ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Hello, Roz.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Hi, Niles!  A cappuccino, please.  And one for him. You don't look so good.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well, I didn't get much sleep last night--again.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Well, I'm surprised you're here after yesterday.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I refuse to be cowed into changing my routines.  Let me get this.  I have my coffee, I go to work.  Of course, all my patients want to talk about is Maris. [_mechanically dropping bills on the counter_] Esteban's crazed brother left me a message saying I owe him some sort of blood debt. [_chuckles_] I tell you, some days it just doesn't pay to get off the sofa. [_He adjusts his kinked neck._]",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "You've had it pretty rough.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "What are my choices?  I can go to pieces or I can bear up and live my normal life.  Can I get a straw, please?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Waitress"
+    },
+    {
+        "speaker": "Waitress",
+        "text": "Oh sorry, sir, that was the last one.  ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I see. [_with meaning_] The last straw.  Gosh, is it warm in here? [_He begins to loosen his tie._] It is.  It is.  It's warm in here.  Oh, it's suffocating. [_He removes his tie._] There, that's better.",
+        "prevSpeaker": "Waitress",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "I'll get you a straw, Niles.  Do you need a straw?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, no, no, you heard her.  There are no more straws.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, that feels so much better! [_He begins to untuck his shirt._] Oh, everything was just so tight before!  He is now unbuttoning his shirt, straining with the last buttons. ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Ahh, ye-es!  Oh!  Coffee shop without straws? [_giggles maniacally_] It makes no sense! _He has removed his shirt, revealing his undershirt.  He then reaches down and tosses away his shoes._",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "You can borrow my straw, see?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_loosening his belt and removing his pants_] Oh, this is great!  I was being smothered!  Oh, I can breathe.  I don't know how you stand it! _Niles hops out of view as he removes his pants, wearing only his undershirt, shorts, and socks.  By now of course, everyone is staring at him in horror.  Roz desperately makes a call on her mobile._",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Hello, Frasier, it's me.  How close are you to the cafe? All right, well hurry up and park because Niles is almost completely... _She looks.  Niles is now seated at the window, not wearing a thing, and \"hiding\" behind the newspaper he's calmly reading._ ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Niles is completely naked! [_She hangs up and approaches him._] Oh... Niles!",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Barista"
+    },
+    {
+        "speaker": "Barista",
+        "text": "I'm calling the cops.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "The hell you are!  This man's tips alone have probably paid for all the pot you'll ever smoke.  Just back off, cowboy! And that goes for the rest of you, too. _Frasier rushes in.  Roz indicates Niles.  Frasier approaches him and sits._",
+        "prevSpeaker": "Barista",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Hello, Niles.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_still reading the paper_] Hey.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "What's going on?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Heat wave in Texas.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, uh, Niles, maybe you should put some clothes on.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Ah... nah.  No, too much, too much on me.  I'm feeling very constricted. [_Frasier gently reaches out_] I'm fine now, don't touch me.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Niles, look at yourself.  ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Hello! [_chuckles_] I think I'm having that dream where I'm naked in Nervosa!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I think a lot of people are having that dream.  We have to go now, Niles.  ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "But! - you're not getting in my car like that.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Is he okay?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "It's just a panic attack.  It's happened before, but he's never been quite this close to butterfly-net territory.  ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_to the Barista_] May I have your apron, please?  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_to the waitress_] And, and yours? _She also surrenders her apron.  Frasier gives Niles's clothes to Roz, then carries the aprons over._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "All right, Niles.  I'm going to wrap you up like a big, green Christmas present.  You like Christmas, don't you? _He places one apron over Niles's head, covering his front. Niles rises._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "There we are.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Ooh, okay. _Frasier covers Niles's backside with the other apron as Roz delivers the following speech._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Okay, listen up!  Me and my friends are going to back out of here, nice and easy.  As far as any of you are concerned, this never happened.  And if any of you decide to be a hero and call the police... trust me, I will find you!  ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Wow, Roz, that was persuasive.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Yeah, well, there's nothing worse than waking up naked with a bunch of cops standing around.  I've been there... _Roz and Frasier escort Niles out, as Roz starts to tell the story.  FADE TO:  Scene Six - The Montana Martin, Daphne, and Frasier are seated.  Niles comes down the stairs in his bathrobe._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well, there he is!  Rise and shine, lazybones!",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_still being calm_] I'm surprised it's still light out. I thought it would be dark by now.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, it was already.  You've been asleep for twenty hours.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, well, I guess I needed it.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "So how are you feeling?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, much better.  Frasier, I'm so sorry I embarrassed you.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, Niles, you didn't embarrass me one bit.  Well, maybe just a little... On our way to the car the breeze from a passing school bus turned your apron into a cape, and...  ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Hello? [_She covers the mouthpiece._] It's Maris.  You don't have to take this.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "No, I really should. [_taking the phone_] Hello, Maris!  Yes, yes, listen, there's something I want to say...Yes, but...",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_losing his patience_] Well, of course you're alone!  You're alone because you killed your boyfriend!  ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Now, I am on your side, but there is a limit because I have a wonderful, pregnant wife, and as far as my attention is concerned, she comes first, always!  I will help you through this, but now, you have to help me by saying goodbye.  No, no, no, what do you have to say?  Yes, goodbye. [_hangs up_]",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Now there's the Niles that's been missing in action.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Thanks for what you said about me, though I haven't been completely wonderful.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_zero tolerance_] No, you've been irritable and you made me sleep on a couch.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "That's the stuff, Niles, doesn't it feel good to get it off your chest?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, stuff it, Mr. Malaprop!  Family spokesman, the Manson family should have a spokesman like you!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_delighted_] He's really getting the hang of this, isn't he?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "And you!  I'd have been home from that jail an hour earlier if you hadn't convinced your buddies to let you squeeze off a few rounds into a dumpster!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "You kept him waiting while I was at home worried sick?!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "I was doing him a favor!  I was keeping him away from you and your hormones.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Oh, some favor!  Making me stay with Frasier!  He made me do housework!  ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "I'd forgotten that until this moment!",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "You made her do housework!",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I did no such thing!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "A pregnant woman?!  That's pretty low!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_self-righteous_] Oh, fine!  Fine!  Turn your anger on me. It's almost as if you'd forgotten that [_haunted voice_] not three days ago I was punched in the face by a man now dead.  ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Thank you! [_then_] Now who wants pancakes?  _They all answer in the affirmative and move to the kitchen.  FADE OUT  END OF ACT TWO_ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Credits"
+    }
+]

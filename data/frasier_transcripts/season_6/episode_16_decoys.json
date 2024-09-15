@@ -1,0 +1,2187 @@
+[
+    {},
+    {
+        "speaker": "Martin",
+        "text": "Oh, hey!  How was your afternoon?",
+        "prevSpeaker": "No Previous Speaker",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Do you know what this wonderful man did?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Donny"
+    },
+    {
+        "speaker": "Donny",
+        "text": "[_modest_] Oh Daphne, please don't...",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "[_shushes him, then_] He filled a basket full of my favorite English foods: blood pudding, jellied eels, kidney pie. And then he hid it in the shrub so we'd stumble upon it during our stroll through the park.",
+        "prevSpeaker": "Donny",
+        "nextSpeaker": "Donny"
+    },
+    {
+        "speaker": "Donny",
+        "text": "I was only a little afraid that somebody would find it before we got there, but fortunately - [_off basket_] untouched.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, well just because it was untouched doesn't mean someone didn't find it.  ",
+        "prevSpeaker": "Donny",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Hello, Dr. Crane.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_happily_] Hello, Daphne. [_much less enthusiastic_] Donny.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Donny"
+    },
+    {
+        "speaker": "Donny",
+        "text": "Hey, Tiger.  Look what I've got for you.  Think fast. _Donny throws Niles some keys, however as usual he doesn't think fast and the keys go flying off.  Frasier picks them up and hands them to Niles._ ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "What are the keys to?",
+        "prevSpeaker": "Donny",
+        "nextSpeaker": "Donny"
+    },
+    {
+        "speaker": "Donny",
+        "text": "Your ex-wife's lakefront cottage, now YOUR lakefront cottage. A little something I hammered out for you in the settlement.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Thank you, Donny!  I never thought I'd see \"Shady Glen\" again.  _Donny & Daphne kiss at the door.  Donny leaves and Daphne walks over to the other side of the room._ ",
+        "prevSpeaker": "Donny",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, congratulations, Niles.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Yeah, looks like Donny really did a job on Maris's legal team!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Yes, well he certainly is ruthless all right. [_in Daphne's earshot_] As a divorce lawyer, what a callous attitude he must have towards human relationships.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Yeah, you'd think so, Dr. Crane, but actually he's just the opposite.  I've never met anyone so incredibly romantic. [_leaves to her room_]",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_shouting_] Yes, well I'm sure he seems that way on the OUTSIDE...",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_sternly_] Niles!  Please, stop what you're doing.  It's unseemly enough when she's actually in the room!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, I'm sorry, what am I supposed to do?  For the first time since I've known her I'm free and single and now she's with someone.  Am I supposed to just suffer in silence?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "I'd take that!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I just don't understand, what does she see in him? [_to Frasier_] If you were Daphne, would you go out with Donny?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well no, but I wouldn't massage Dad's ass for what I pay her either!  ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Look, I'm sorry, Niles, it's just that Donny and Daphne seem very happy together.  Now either it's true love, in which case it's too late for you to declare yourself, or it's just a temporary infatuation-",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_jumping with hope_] It's got to be!  It's got to be!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "...In which case it will pass, and then you can make your move! And in the mean time I suggest that maybe you start looking elsewhere.  You know, maybe make a fresh start, do something to get your mind off of Daphne.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I know, I know, it's just difficult.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, I understand that... say, you know what, I've got an idea. Why don't the three of us go up to that new cabin of yours for the weekend?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh sorry, I can't.  I've got a dentist appointment Saturday morning.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, that's all right, Dad.  Niles can go up on Friday night, put things together, and then you and I can drive up on Saturday afternoon.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_excited_] Why not?  It's a fabulous place, Dad.  It's got a stereo and a big screen TV, and a sauna, wine cellar...",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_laughs_] Perfect for three guys roughing it in the wilderness!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well, I'm game.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You know what?  I can stop at the butcher, I'll pick up a couple of ducks and make my justly celebrated duck a l'orange.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Washed down with a winsome yet robust Chambertin?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Chambertin!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Yeah, and I'll bring a quart of whiskey in case of snakebite.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Dad, Dad, there are no snakes up there.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_feeling happy_] All right, I'll bring a snake! [_leaves to his room_]",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "God, this is great, Niles!  You know what, I've got to dash down to the mailbox to drop that letter in before the last pickup.  Niles, trust me, you'll be glad you took my advice on this one.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I already am, thank you, Frasier.  It's going to do me a world of good to get away from Daphne for a while.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, I couldn't agree more.  ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Hey Daphne, how'd you like to see my new lakefront cottage?  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Sounds lovely, when?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "This weekend.  We're all going.  You can drive up with me on Friday, and Dad and Frasier will be... right behind.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Well, that's very sweet, Dr. Crane, but I can't.  One of my cousins is going to San Francisco this weekend and I promised I'd fly down.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "That's a shame.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Yeah, Donny's not too thrilled about it either.  He wanted to come with me.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "And he's not?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "No.  That would have meant staying in a hotel together, and I'm not sure we're ready for that yet.  I suppose you think I'm being a bit old-fashioned.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_ecstatic from the news_] Dear God in heaven, no!",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "You can't force these things, you have to wait for the moment when you know it's right.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_hopeful_] Yes, and sometimes the moment never comes and you just have to move on.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "But I really appreciate the invitation and I'll hope you'll invite me again.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_joking_] All right.  Daphne, how'd you like to see my new lakefront cottage?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Silly!  _Daphne laughs with him and hits him on the shoulder as a joke.  He jokily hits her back.  They do this for a while, reminiscent of the \"Heart & Soul\" scene in \"First Date.\"  However, once she leaves Niles slaps the counter, feeling depressed.  FADE OUT_  **THIS COULD BE THE START OF SOMETHING WEIRD** _Scene Two -- Cafe Nervosa On Friday afternoon, Martin and Niles are sitting in Cafe Nervosa when Roz arrives._ ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Martin, Niles!  Boy, this place is jammed.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh hey, Roz. [_stands up and hands seat over_] You can have my seat, I'm on my way to Duke's.  Yeah so, how's the world treating you?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Like dirt!  My social life is nonexistent.  Every time I meet a guy who's halfway decent all I have to do is mention I've got a kid and he runs like a cheap pair of pantyhose.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh-ho... well, maybe you and Niles can cheer each other up.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_nervous_] Dad...",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Why, what's his problem?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh, Daphne's got a new boyfriend and it's eating him up.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Dad!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "What? [_to Niles_] You've got a thing for Daphne?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "What, you didn't know that after all these years?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "No!  I can't believe Daphne never told me.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well, how could she?  She doesn't know either.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "You're kidding! [_they laugh_]",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Yes, yes, he's a great kidder.  Now, you Dad, run along, and you be very careful crossing streets!",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_to Roz_] Six years, can you believe it?  Some people just don't even know when it's time to pull the plug. [_leaves_]",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_shouting after him_] Well, I won't make that mistake twice!  ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "So let me get this straight...",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_moaning_] Oh...",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "You've been hot for Daphne all this time and you never made a move?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I was a happily married man.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "You were never happy and you've been separated for almost two years!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well... somehow the right moment never came along.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Oh, come on.  I-I'm not trying to make you feel bad, it's just... waiting all this time and now she's got a boyfriend? [_chuckles_] My God, that is really pathetic! [_laughs_]",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Obviously you've never let someone you've grown to care deeply about get away.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Well, sure I have.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I'm not talking about when the migrant workers leave at the end of the picking season.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "[_gives him a \"very nice\" look, then_] No really, I've had a couple of boyfriends I shouldn't have let get away.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Serious relationships?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Yeah.  In fact, I can name one right off the top of my head: that lawyer I gave you, Donny?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Really?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Yeah.  I mean, you only know him professionally, but he's very funny, warm, thoughtful. [_smiling_] We were together for about six months, but he really wanted a family and I wasn't ready, so I dumped him.  Now I have a family but no Donny.  Gee, I wonder who he's seeing these days?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "What's so funny?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I'll tell you in a minute. [_laughing_] I just want to savor it, you've been having all the fun!",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "So tell me! [_laughs with him_]",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Donny's Daphne's boyfriend.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "[_stops laughing_] That's not funny!  When did this happen?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well, she met him when he was working on my case.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "[_sighs_] Wow, and I was calling you a loser.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "You never called me a loser.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "In my head I did!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well, at the moment I have to agree with you.  I've had plenty of opportunities and I've always chickened out.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Oh, don't blame yourself.  She's living with your brother, working for your dad - it's an awkward situation.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "It is!  Well... don't feel bad about Donny.  It wasn't right for you at the time, that's nobody's fault.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Thanks, Niles.  Hey listen, the next time you find somebody you like, don't wait so long to tell her. [_looks at watch and gets up_] Oh, I've got a babysitter waiting.  Mrs. Hines is seventy years old and has a mole like Abe Lincoln but I bet SHE has plans for the weekend!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "You know what, I just had the craziest idea.  My settlement with Maris includes a  beautiful lakefront cottage and I'm going up there this afternoon.  Why don't you come along?  You can bring Alice.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "[_sits back down_] Are you serious?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well, Frasier and Dad are coming up tomorrow, but tonight it'd just be us: Love's losers licking our wounds, laughing at our pain.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Gee, I don't know..",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well, Frasier's making duck a L'orange and I'm bringing the wine.  What about it?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "[_surprised_] Well, I never thought I'd say this, but: you're on.  ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_excited_] Oh, in a funny way this reminds me of that wonderful moment in \"A Streetcar Named Desire\" when the brutish Stanley says to the ultra-refined Blanche, \"We've had this date with each other from the beginning.\"",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Well, I don't know the play all that well, but I can tell you right now I'm not all that refined.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "No, actually I was picturing you more as Stanley.  _Roz gives Niles a look as they both leave the caf e together.  End Of Act One. (Time: 8:00)  Act Two.  Scene One - Cabin Niles is in his lakefront cottage opening a bottle of wine when Donny walks through the front door with his valises._ ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Donny"
+    },
+    {
+        "speaker": "Donny",
+        "text": "Hi, there.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Donny!  I'm so glad you could make it.",
+        "prevSpeaker": "Donny",
+        "nextSpeaker": "Donny"
+    },
+    {
+        "speaker": "Donny",
+        "text": "Well, thanks for inviting me. [_looks around_] Wow, this is a great place to get some work done, with no distractions in sight.  Thank-  ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Donny, I'd like to introduce... [_mock remembering_] Oh, that's right, you two know each other, don't you?",
+        "prevSpeaker": "Donny",
+        "nextSpeaker": "Donny"
+    },
+    {
+        "speaker": "Donny",
+        "text": "Roz!  How the hell are you?  Hi!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "[_surprised_] Donny! [_he kisses her cheek_]",
+        "prevSpeaker": "Donny",
+        "nextSpeaker": "Donny"
+    },
+    {
+        "speaker": "Donny",
+        "text": "I didn't know you were going to be here.  Well, this is going to be fun.  Now, Niles, I've got to put these things somewhere...",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "I didn't know you'd be here.",
+        "prevSpeaker": "Donny",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh yeah, just in one of the bedrooms upstairs. [_Donny heads up_] Oh, but be careful not to wake Roz's baby.  She's in that first room.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Donny"
+    },
+    {
+        "speaker": "Donny",
+        "text": "Roz, you've got a baby? [_she nods_] Congratulations!  That means that you're...",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Married?  No, she's free as a bird!",
+        "prevSpeaker": "Donny",
+        "nextSpeaker": "Donny"
+    },
+    {
+        "speaker": "Donny",
+        "text": "Well, I'll try to be quiet.  ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "What the hell is this?",
+        "prevSpeaker": "Donny",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "What do you mean?  I just thought you two might enjoy reminiscing about all the good times you've shared...",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Oh, no you don't!  Donny is seeing Daphne and I am not the kind who steals other people's boyfriends!  Not friends' boyfriends... not good friends'... [_sitting down distraught_] Not again!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Roz, you might recall you went out with him for six months. She's only seen him three or four times, they're not even sleeping together.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "What?  How would you know?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "She told me.  I don't want to be the bad guy here, but you did have him first and he did want to make a life with you.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "[_thinks about it, then_] Listen, there is no way that I am going... She hasn't slept with him?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "She's English.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "[_thinks about it more, then_] Why don't you just admit it? You're just doing this because you want Daphne.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Yes!  Yes!  Yes, I want Daphne - I think we belong together, just like I think you and Donny belong together, and why should two people be happy when four people can be ecstatic?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Well, you got a point there! [_then_] No!  No, no, no, it's just not right! _At this moment Donny walks out of Alice's room carrying a wide-awake Alice._",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Donny"
+    },
+    {
+        "speaker": "Donny",
+        "text": "Roz, I swear I did not wake her, she was already up when I went in to look at her. [_mushy_] She's got such a sweet little face.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Her name is Alice.",
+        "prevSpeaker": "Donny",
+        "nextSpeaker": "Donny"
+    },
+    {
+        "speaker": "Donny",
+        "text": "Hi Alice, I'm Donny.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "She doesn't usually let strangers hold her.",
+        "prevSpeaker": "Donny",
+        "nextSpeaker": "Donny"
+    },
+    {
+        "speaker": "Donny",
+        "text": "Oh, I've always been pretty good with kids. [_to Alice_] Come on, sweetie, come on. [_exits to bedroom_]",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "[_to Niles_] How's my hair? _Niles gives her a thumbs up, and she follows Donny.  Niles, happy with what he has done, takes his glass of wine and sits down on the couch. But before he his back has touched the pillow, the door is opened by Frasier and Martin.  Frasier is carrying a shopping bag._ ",
+        "prevSpeaker": "Donny",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Niles!",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Aah! [_jumps up startled_] Frasier?  Dad?  What are you doing here today?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh, my dentist is sick, we had to reschedule.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, no!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh, it's just a head cold.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier Oh God, you haven't even heard the worst yet, Niles"
+    },
+    {
+        "speaker": "Frasier Oh God, you haven't even heard the worst yet, Niles",
+        "text": "the butcher shop was closed, so here I am with all my spices, everything I need to make my duck a l'orange - all I've got's the l'orange!  ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well, looks like we're going to have get our ducks the old- fashioned way!  But we better get a move on, there's only a couple hours of daylight left.",
+        "prevSpeaker": "Frasier Oh God, you haven't even heard the worst yet, Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Yes, you know, I saw some boxs of ammo in the mud room, Dad, through the kitchen.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Are you insane?!  I'm not going to shoot any ducks, it's barbaric!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh, I get it!  You'll eat them but you won't kill them. What do you think, these things are born \"a l'orange?\"  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_laughs_] Dad does have a point.  You know, there is a duck blind right across the lake,  and it would be such a good opportunity for you two to bond.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Niles, what about you?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_takes his bag_] Well, I will stay here and season the pans.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, I'm not going hunting!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well then you'll just have to drive back to Seattle, find another shop that's open, and come back tomorrow as scheduled!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "What the hell is going on?  Are you trying to get rid of us?  ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, that's preposterous, why should I be trying to...  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Frasier!  Martin!  You weren't supposed to be here until tomorrow.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Roz, what are you doing here?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Niles brought me.  I'm just going to go heat up a bottle for Alice.  _Roz exits to the kitchen.  Martin thinks that Niles and Roz are here for a date and nudges Niles on the shoulder with a saucy look._ ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Roz?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Roz? [_realizing_] Roz.  Yes, so why don't you two run along and leave me alone with... [_surprised at himself_] Roz.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Roz?!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well, didn't you urge me to make a fresh start?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "True, but I gotta tell you Niles, Roz isn't the freshest start you could make!  _For once Niles is the one to leap to Roz's defense, batting Frasier on the arm while Frasier shrugs._ ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Now butt out, Frasier, if these two want to be alone together for a while, that's fine.  Now we're going to go hunting, now come on.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I'm not going hunting, Dad!  Roz and Niles?!  Please! You guys have nothing in common!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_hands Martin a shotgun_] Frasier, we're not getting married. We're going to spend an afternoon together and-and see what comes from it, and... there's nothing wrong with trying something different!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_hands Frasier the shotgun_] Which is exactly what you're going to do right now!  So come on, let's go get some ducks.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Dad...",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_hands Martin another shotgun and two hunting vests_] And please, take as long as you need.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I don't want to go hunting!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Now, come on!  Didn't you ever hear the expression, \"Two's company, Three's a crowd\"?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No Dad, I don't think I ever did, how does it go?! _Frasier and Martin leave, mad with each other through the front door. Donny walks downstairs and heads for the front door, Niles stops him:_",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Donny"
+    },
+    {
+        "speaker": "Donny",
+        "text": "I left some papers in the car.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_stops him_] Oh, where'd you park?",
+        "prevSpeaker": "Donny",
+        "nextSpeaker": "Donny"
+    },
+    {
+        "speaker": "Donny",
+        "text": "Out back!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Ah, then it's best to go through the kitchen because we have a loose plank on the porch.",
+        "prevSpeaker": "Donny",
+        "nextSpeaker": "Donny"
+    },
+    {
+        "speaker": "Donny",
+        "text": "I already came in that way.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Yeah, well you cheated death once, don't push your luck!  _As Niles pushes Donny into the kitchen, Frasier enters through the front door._ ",
+        "prevSpeaker": "Donny",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Niles, one last warning.  Take it from someone who knows you both: you and Roz are not a good couple.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I understand you're saying that, but believe me, I have seen a new Roz today and underneath that brazen exterior she is a sweet, sensitive, shy, and vulnerable woman.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "[_calling from kitchen_] Niles, have you seen my nipples?! _Niles shrugs at Frasier, who leaves with a look of disgust.  Roz enters from the kitchen with Alice's bottles.  The sucking parts of them are missing._ ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Uh, no. **CHICKS AND DUCKS AND GEESE NEEDN'T WORRY**  _Scene Two - Duck Blind Frasier & Martin are in the duck blind.  They both have shotguns and Frasier is carrying a duck call._ ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Niles and Roz?  It's just ridiculous!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh, not this again!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, they are just completely incompatible.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well, haven't you ever heard about \"opposites attracting\"? I mean, look at your mother and me.  We went together for six months, nobody thought it would last, we had forty happy years together!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Never thought of it that way.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Yeah.  And then, there are those relationships where people have a ton of things in common and of course _they_ always work out _real_ well! [_laughs_]",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Thank you, Dad, I suppose that was a backhanded comment about me and Lilith.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_sighting gun_] Wouldn't it be great if she was flying by here on her broomstick right now? [_they laugh_] Come on, sight up.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No, no, Dad, I told you I'm not shooting anything.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Alright, blow the duck call.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, all right. [_blows duck call twice_] Gee, you know, I keep thinking about you and Mom; maybe Niles and Roz do have a chance.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Sure they do.  Blow it again.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_blows duck call twice_] Gosh, you know, I hope I didn't discourage Niles too much by the way I reacted.  You know how much stock he puts in my opinion.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Blow it, Frasier.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_blows duck call twice_]",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "I didn't mean the duck call!  _Frasier gives him a look just as Martin catches sight of something in the sky and quickly aims his shotgun.  As we FADE OUT we hear a gunshot._  **DOESN'T ANYONE WANT TO SEE THE DAMNED SUNSET?**  _Scene Three - Cabin Back in the cottage, Roz and Donny are getting on like a house on fire. They are laughing and joking about old times when Niles enters carrying some nibbles._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Donny"
+    },
+    {
+        "speaker": "Donny",
+        "text": "What about that time in Cancun when the car breaks down and that guy gives us a ride on-",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "A donkey! [_they laugh_]",
+        "prevSpeaker": "Donny",
+        "nextSpeaker": "Donny"
+    },
+    {
+        "speaker": "Donny",
+        "text": "[_to Niles_] Oh Niles, you have to hear this... [_notices time_] Oh God, I didn't realize it had gotten so late.  I have to fax these contracts to the office right away.  You wouldn't happen to have a machine, would you?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well, there's one in the study, it's right down that hall. But can't that wait?  We're all getting so mellow here.",
+        "prevSpeaker": "Donny",
+        "nextSpeaker": "Donny"
+    },
+    {
+        "speaker": "Donny",
+        "text": "You're right, it can wait.  You know what we need?  Another bottle of wine, I brought one, I'll get it.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Excellent, excellent.  ",
+        "prevSpeaker": "Donny",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well, it's going well, don't you think?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Yeah, except your dad and Frasier will be here any minute, and if either one of them sees Donny, things are over.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "They're not going to see Donny, because you're going to invite him to watch the sunset down by the lake, you're going to continue to work his charms on him, and then you're going to invite him out to dinner, and who knows where that'll lead? [_laughs_] Well, what am I saying, we both know where that'll lead!",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "You really think it'll work?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Yes, yes, yes.  _At this point, unknown to Niles and Roz, Frasier enters and catches the rest of the conversation:_ ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Now you go down there and you enjoy that romantic sunset. I'll stay here with the baby.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, for heaven's sake!  You're not going to let her go down and enjoy the sunset by herself!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Frasier, what are you doing back so soon?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I came back for some more ammo.  Who knew ducks were so shifty?  Listen, I know that you took my advice to heart, but I tell you I've changed my mind: I now approve of you and Roz.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "What?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, yes, the two of you should go for it.  OK, come on, off you two go, let's go.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I don't think this is a good idea.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Why not?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Yeah, I've changed my mind too, I'd rather stay here.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "What?  You know what, you guys are putting far too much stock in my opinion.  Come on, let's get down to the lake and enoy that sunset.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "But-but-",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Let's go, no, not another word.  Down to the lake.  _Frasier manages to push Niles and Roz out of the front door and follows them.  Donny enters from the kitchen with a bottle of wine._ ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Donny"
+    },
+    {
+        "speaker": "Donny",
+        "text": "OK, I've got a... [_no-one's around_]  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Donny"
+    },
+    {
+        "speaker": "Donny",
+        "text": "Alice, it's OK, honey!  _Donny puts the wine on the table and runs upstairs.  After he exits, Frasier enters through the front door and goes to the table.  He sniffs the wine and pulls a face before entering the kitchen for the extra ammo.  At this point, Niles and Roz enter the room again._ ",
+        "prevSpeaker": "Donny",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "All right, you wait here, I'll get Donny. [_enters kitchen saying_] You know, Roz is heading down to the lake to catch that sunset...",
+        "prevSpeaker": "Donny",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_pushing Niles back out with him_] And you should be going with her too!  For God's sake, I told the two of you I withdraw my objection.  Come on, let's go!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "I'm really worried about leaving Alice here alone.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Roz, listen, I will attend to the baby. I was just about to make myself a cup of tea anyway.  Now come on, let's go. March, both of you!  Out the door!  You're going to catch that romantic sunset if I have to drag you down there myself.  _Frasier, Roz and Niles leave via the front door as Donny comes back out of Alice's room.  He takes his documents and heads down to the fax in the hall.  He closes the door behind him.  Frasier enters back through the front door._ ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Good lord, I just can't believe the two of them.  Ridiculous behavior!  My God... [_heads into the kitchen_] AAH!  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Daphne!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "I'm sorry, did I startle you?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No, no, no, no, no.  That's quite alright.  It's just that if Niles knew you were here he would never... well, forgive himself for not being here to greet you.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Oh, he wasn't expecting me.  My plans changed and I thought I'd drive up and join you all.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, well isn't that nice? [_then_] You've got to leave!",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Why?!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No, well you see, Niles is up here for what I think you Brits call a \"dirty weekend\" with someone...",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Ooh... [_chuckles_]",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "And the someone happens to be Roz.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Roz?  You mean, _Roz_ Roz?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, yes!  Now, you've got to get out of here.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "But I just drove two hours and it's getting dark outside!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "All right, I'll tell you what, I'll tell you what.  There's a nice bed and breakfast just up the road.  I think Dad, you, and I should all stay there this evening, alright?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "All right.  If you don't mind, could I use the bathroom first?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No, no, of course, right in there.  _Daphne enters the bathroom right next to the front door. Alice starts crying again._ ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, dear God.  _Frasier runs up the stairs to tend to her.  Meanwhile, Niles and Roz re-enter._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Where's Donny?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well, he can't be in the kitchen, Frasier would have seen him.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "[_sees the door to Alice's room_] Look, the door!  He must be up there.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "You keep a lookout, I'll go get him.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "OK.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_goes to doorway_] Why don't I take over here and you can join Roz?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_enters from room_] For the love of God!  If I'd known the two of you were gonna take my words this seriously I would have chosen them more carefully.  For God's sake, get out of here, get down to that lake!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "You know, I really think I should check on Alice.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No, no, Roz, your baby is just fine.  I burped her once and she went out like a light.  Come on, let's go, Niles. _Meanwhile, Niles has noticed that Donny is at the fax machine.  So he blocks the door to the hall with a large wing chair and sits in it. However Donny begins opening it, so Niles shuffles about to cover up the sound._ ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, you know, I am thinking about it.  I think it's much more romantic to stay here by the fire than watch some sunset. [_Roz joins him_] Why don't you clear out so we can have our privacy?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_confused_] Well, alright.  _He is just about to leave when Daphne opens the bathroom door to enter the main room. Frasier pushes her back in and stands in front of it._ ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "On the other hand, you know, you can enjoy the fire all night long.  You've only got ten more minutes for the sunset.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Are you going to get some ammo while it's still daylight? It's almost sunset.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Don't tell me, tell them!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_tries to push Frasier away_] Is that the bathroom?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Yes, it is.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "It's out of order.  _At this point a knocking is heard on the door - Daphne's trying to get out._ ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Let me check again.  _Frasier opens the door and looks in, making a \"sssshh\" sound which also could be interpreted as a gushing nose._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "My God, one of the pipes is burst and the other one's knocking.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Fine, is there one down the hallway there? [_points to the door Niles is blocking_]",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "No.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, there is!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "No, it's out of order too!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_mad, to Frasier_] Well, it's a good thing I brought all that beer!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You know, Niles, you're behaving awfully strangely.  What the heck is going on?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "What do you mean?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I mean that you show absolutely no desire to be alone with Roz!  I'm starting to have serious doubts about this so- called \"romance\"!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, really?  Well, does this look so-called to you? [_to Roz_] Come here, Pookie!  _Niles pulls Roz across his lap and gives her a passionate kiss. They stop for air before going back for another.  At this point Donny walks in through the front door, having gone out through back door, and spots the two._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Donny"
+    },
+    {
+        "speaker": "Donny",
+        "text": "That's why the door was stuck.  You two, why didn't you tell me?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Donny?",
+        "prevSpeaker": "Donny",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "[_entering from bathroom_] Donny?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Daphne? [_jumps out of his seat, dumping Roz on the ground_]",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Donny"
+    },
+    {
+        "speaker": "Donny",
+        "text": "Daphne?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_to Donny_] What are you doing here?",
+        "prevSpeaker": "Donny",
+        "nextSpeaker": "Donny"
+    },
+    {
+        "speaker": "Donny",
+        "text": "Well, Niles invited me.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_realizing_] Oh, did he?",
+        "prevSpeaker": "Donny",
+        "nextSpeaker": "Donny"
+    },
+    {
+        "speaker": "Donny",
+        "text": "Yeah, it was really nice of him.  Roz and I had a chance to catch up on old times.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "[_remembering, but not angry_] Oh, that's right, you two used to date, didn't you?",
+        "prevSpeaker": "Donny",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, isn't that nice of Niles to organize this little reunion?!  ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "I hope I don't have anything to worry about! [_laughs_]",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Donny"
+    },
+    {
+        "speaker": "Donny",
+        "text": "Oh come on, are you kidding?  _Donny and Daphne kiss which causes Roz and Niles to hit each other with frustration._ ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, [_angrily_] obviously Roz and Niles can barely keep their HANDS OFF EACH OTHER!  You know, why don't all of us get out of here?  Give these two little kids a little privacy.",
+        "prevSpeaker": "Donny",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "[_to Donny_] You know, we could use some privacy of our own. Dr. Crane tells me there's a bed and breakfast up the road from here.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Donny"
+    },
+    {
+        "speaker": "Donny",
+        "text": "Really?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "[_saucily_] Really. _Daphne leaves as Niles gapes at them.  Donny stands in the doorway so Daphne comes back._ ",
+        "prevSpeaker": "Donny",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Even more fun if we both go.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Donny"
+    },
+    {
+        "speaker": "Donny",
+        "text": "Yes, yes.  ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well, come on, Frasier, let's go get a nice Sloppy Joe. I'll pay for it.",
+        "prevSpeaker": "Donny",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Something tells me I'll pay for it too. [_to Roz & Niles_] Oh, I realize now that you two don't need my blessing, so I'll just leave you with this.   ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Credits"
+    },
+    {
+        "speaker": "Credits",
+        "text": "  Martin is reading his paper in Frasier's apartment.  Eddie is lying next to his Chair.  Martin's hand drifs to the breast pocket of his shirt, and he finds the duck call.  He sounds it just for fun, but Eddie runs away.  Martin goes back to reading the paper, but then Eddie comes back and drops a rubber duck into Martin's lap.    * * *  ## Guest Appearances    **Special Guest Star** SAUL RUBINEK as Donny Douglas   * * *  ## Synopsis {kathy churay}    _This episode has been transcribed by Nick Hartley. But Kathy Churay has written a quick synopsis for those in a hurry._  ACT ONE  Scene 1 - Frasier's Apartment - Day _  Martin is reading the paper and Frasier is at the table writing a letter as Donny and Daphne come in from a walk in the park.  Daphne is glowing -- Donny romantically hid a basket filled with English goodies under a bush in the park where Daphne would find it. (Horrible stuff -- blood pudding, jellied eels, kidney pie.)  Donny is clearly smitten.  Niles enters from the kitchen, greets Daphne warmly and gives Donny a decidedly cool reception.  Donny tosses Niles a set of keys which prove to be the keys to Shady Glen, Maris's lakefront cottage which Donny has acquired for Niles in the settlement.  Niles is grateful but obviously torn, wanting to hate Donny but aware of the wonderful job Donny's doing as his advocate.  He's even more conflicted as Daphne gives Donny a warm kiss goodbye at the door.   After Donny's departure Niles tries to tell Daphne how ruthless lawyers are, to which Daphne responds that Donny is incredibly romantic, and exits happily to her room.  Frasier reproves Niles for his unseemly behavior.  Niles protests that for the first time he's free and single, and now Daphne is seeing someone. Frasier counsels patience:  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "** I'm sorry Niles, it's just that Donny and Daphne seem very happy together.  Now either it's true love, in which case it's too late for you to declare yourself, or it's just a temporary infatuation--",
+        "prevSpeaker": "Credits",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "** It's got to be!  It's got to be!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "** --in which case it will pass, and then you can make your move.  In the meantime I suggest that you start looking elsewhere, maybe make a fresh start, do something to get your mind off of Daphne.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "** I know, it's just difficult.  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  So Frasier suggests that he, Niles and Martin spend the weekend at Niles' newly acquired lakefront cabin.  Martin says he can't, he has a dentist appointment on Saturday morning.  Frasier suggest that Niles should go up to the cabin on Friday night, and Frasier and Martin can drive up on Saturday after Martin's appointment.  Niles is enthused and begins selling the place to Martin -- stereo, big screen TV, wine cellar and sauna.  Frasier catches Niles' enthusiasm and says he will buy a couple of ducks on the way up to make his famous Duck a l'Orange.  Martin happily agrees and exits to his room. Frasier goes out to mail his letter.  Frasier is barely out the door when Daphne reappears and Niles is offering to drive her up to the cottage on Friday night.  \"We're all going, and Dad and Frasier will be right behind.\"  But Daphne can't. One of her cousins will be in San Francisco over the weekend and Daphne's promised to fly down. Donny's not coming with her, though. \"That would have meant staying in a hotel together and I'm not sure we're ready for that yet.\"  Niles is shocked and delighted to find out she and Donny aren't sleeping together yet.  _FADE OUT  Scene 2 - Cafe Nervosa_  Niles and Martin are having coffee as Roz comes over with a cup of coffee and nowhere to sit in the crowded cafe.  Martin yields his seat and puts on his jacket to head out to Duke's:  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "** So how's the world treating you?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "** Like dirt.  My social life is non-existent.  Every time I meet a guy who's halfway decent, all I have to do is mention I have a kid and he runs like a cheap pair of pantyhose.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "** (laughing)  Well, maybe you and Niles can cheer each other up.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "** Dad--",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "** Why, what's his problem?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "** Oh, Daphne's got a new boyfriend and it's eating him up.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "** (mortified)  Dad!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "** What?  (to Niles, avid for the gossip)  You've got a thing for Daphne?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "** You didn't know that after all these years?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "** No!  I can't believe Daphne never told me!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "** Well, how could she?  She doesn't know either.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "** (laughing)  You're kidding!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "** (glaring)  Yes!  Yes, he's a great kidder.   Now, Dad, you run along, and you be very careful crossing streets.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "** (to Roz)  Six years, can you believe it?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "** What?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "** Some people just don't know when it's time to pull the plug.  HE EXITS. ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "**(calling after Martin)   Well, I won't make that mistake twice!  NILES IS DEFENSIVE AS ROZ GRILLS HIM. ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "** So let me get this straight.  You've been hot for Daphne all this time and you've never made a move?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "** I was a happily married man.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "** You were never happy, and you've been separated for almost two years.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "** Well, somehow the right moment never came along.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "** Oh, come on.  I'm not trying to make you feel bad.  It's just that you've been waiting all this time, and now she's got a boyfriend? (laughing)  My god, that is really pathetic!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "** Obviously you've never let someone you've grown to care deeply about get away.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "** Well, sure I have.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "** I'm not talking about when the migrant workers leave at the end of the picking season.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "** No, really.  I've had a couple of boyfriends I shouldn't have let get away.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "** Serious relationships?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "** Yeah.  In fact, I can name one right off the top of my head. That lawyer I gave you?  Donny?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "** (intrigued)  Really?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "** Yeah.  I mean, you only know him professionally, but he's very funny. Warm, thoughtful...  We were together for about six months, but he wanted a family and I wasn't ready so I dumped him.  Now I have the family, but no Donny.  Gee, I wonder who he's seeing these days.  NILES BEGINS TO CHUCKLE MALICIOUSLY. ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "** What's so funny?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "** (laughing)  I'll tell you in a minute.  I just want to savor it. You've been having all the fun.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "** (laughing along with him)  So tell me?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "** Donny is Daphne's boyfriend.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "** (upset)   That's not funny!  When did this happen?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "** She met him when he was working on my case.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "** Wow.  And I was calling you a loser.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "** You never called me a loser.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "** In my head I was.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "** Well, at the moment I have to agree with you.  I've had plenty of opportunities and I always chickened out.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "** Aw, don't blame yourself.  She's living with your brother, working for your dad, it's an awkward situation.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "** It is!  Well, don't feel bad about Donny.  It wasn't right for you at the time.  That's nobody's fault.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "** Thanks, Niles.  Hey, listen, the next time you find somebody you like, don't wait so long to tell her.  (rising to go) Oh, I've got a babysitter waiting.  Mrs. Hines is 70 years old and has a mole like Abe Lincoln, but I'll bet she has plans for the weekend.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "** You know what?  I just had the craziest idea.  My settlement with Maris includes a beautiful lakefront cottage and I'm going up there this afternoon.  Why don't you come along? You can bring Alice.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "** Are you serious?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "** Well, Frasier and Dad are coming up tomorrow, but tonight it'd just be us.  Love's losers, licking our wounds and laughing at our pain.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "** Gee, I don't know, I...",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "** Frasier's making Duck a l'Orange, and I'm bringing the wine. What about it?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "** I never thought I'd say this, but you're on.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "** Oh!  In a funny way, this moment reminds me of that wonderful moment in \"Streetcar Named Desire\" when the brutish Stanley says to the ultra-refined Blanche, \"We've had this date with each other from the beginning.\"",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "** Well, I don't know the play that well, but I can tell you right now I'm not all that refined.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "** Actually, I was picturing you more as Stanley.   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  _ACT TWO  Scene 1 - The Cottage - Day_  Niles is opening a bottle of wine as Donny knocks and opens the front door. Niles is delighted to see him and Donny is happily planning to get lots of work done over the weekend until Roz emerges from the kitchen.  Niles starts to introduce them, but \"That's right, you two already know each other!\"  He sips his wine innocently as Roz stands transfixed at the sight of Donny, who greets her very warmly with a kiss and a hug.  (Nice guy, this Donny!)  Donny wants a place to leave his briefcase and Niles directs him to an upstairs bedroom, carefully pointing out, \"But don't wake Roz's baby!  She's in that first room.\"  Donny the aspiring family man is delighted.  \"Roz, you've got a baby?  Congratulations!  That means",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "** \"Married?  Nope, free as a bird!\"  Roz is shocked and wants to know what Niles thinks he's doing.  She tells him she's not the type to steal a friend's boyfriend.  Niles argues very reasonably that: (1) Roz saw Donny for six months, whereas Daphne's only had 3-4 dates with him, (2) Daphne and Donny aren't sleeping together, and (3) Roz had Donny first, and he did want to make a life with her.  Roz is sorely tempted but accuses Niles of doing this just so he can have Daphne. ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "** \"Yes!  Yes!  Yes, I want Daphne.  I think we belong together, just like I think you and Donny belong together.  And why should two people be happy when four people can be ecstatic?\"  Roz is weakening but still resistant, when Donny comes out of the bedroom carrying Alice.  Apparently Alice doesn't take to strangers, but she's putty in the hands of Donny.  That's it for Roz.  With a last glance back at Niles and a whispered \"How's my hair?\" she follows Donny out of the room.  Niles is just settling down on the couch with a self-satisfied smile and a glass of wine when Frasier and Martin burst through the front door with a hearty greeting.  Niles appalled at their arrival a day early.  Martin's dentist was sick, and the butcher shop was closed, so they headed up to the cabin early, with all the fixings for dinner except for the duck.  Martin says it's no problem.  Patting the rack of shotguns by the front door, he declares they can go out and shoot their own ducks.  Frasier refuses, but Martin argues for the hunt, and goes off to the mud room to find ammunition for the shotguns.  Niles is attempting to push a resisting Frasier back out the front door toward the duck blind, but Frasier refuses.  \"What the hell is going on? Are you trying to get rid of us?\"  Niles' denial is cut short by Roz emerging from the bedroom.   To Frasier's shocked inquiry she replies, \"Niles brought me,\" then goes out to the kitchen to heat up a baby bottle for Alice.  As soon as she's out of the room Martin begins to chuckle slyly and nudge Niles knowingly.  \"Roz?\" Frasier inquires in disbelief.  Niles decides to go with it and says he brought Roz to the cabin with romantic intentions. After all, he's just following Frasier's advice to make a fresh start. Martin, meanwhile, decides to cooperate with Niles' new romance and pushes a reluctant Frasier out the door with the rifles and hunting gear.  As Frasier and Martin leave, Donny emerges from the bedroom and is about to go out the front door to his car to retrieve something, but Niles pushes him out the back instead so he doesn't run into Frasier and Martin.  Just as Donny leaves, Frasier comes back in the front to try to persuade Niles against forming a relationship with Roz.  Niles tells him Roz is a sweet person underneath her rough exterior, and even Roz's call of  \"Niles, have you seen my nipples?\" from the kitchen isn't enough to dissuade him. Frasier leaves in a huff.   As Frasier and Martin are sitting in the camouflage blind waiting for ducks, they are discussing Niles's romance with Roz.  Frasier is appalled, can't think of two people who are more different.  But Martin points out that he and Hester were very different people and had 40 happy years together. Frasier can't think of a rejoinder to that argument, and has to admit he might be wrong.  Knowing how his opinion influences Niles, he decides to go back to the house to tell Niles about his change of heart.   Donny and Roz are sitting on the couch enjoying the wine and one of Donny's funny stories as Niles emerges from the kitchen with a plate of canapes. Donny goes off to the kitchen to fetch another bottle of wine, leaving Niles to grill Roz about her progress with Donny.  Roz is worried that Frasier and Martin will show up at any minute and blow the whole plan, but Niles has another idea.  Roz will take Donny down to the lake to watch the sunset, where she'll work her charms on him, invite him out to dinner, and then, who knows?  Niles volunteers to stay with the baby.  But Frasier walks in just in time to hear Niles planning to stay inside with Alice.  Frasier is appalled to think his opinion of their romance is dampening their ardor, and he pushes them out the door toward the lake to watch the sunset, following close behind them.  As he leaves the room Donny emerges from the kitchen into a now-empty living room with the wine bottle.  He doesn't have much time to wonder about it as he hears Alice crying from upstairs and goes off to comfort her.  Frasier returns to the cabin for the ammunition and spots Donny's wine bottle.  He picks it up, takes a sniff, makes a face and exits to the kitchen.  As he leaves Niles and Roz sneak back in the front door.  Niles heads into the kitchen loudly dropping hints about Roz going to watch the sunset, but instead of Donny he finds Frasier, who pushes him back out into the living room and out the front door again with Roz. Frasier follows.  As the door closes Donny emerges from the bedroom into an empty living room, glances around, picks up a folder of documents and goes off to the study to fax them.  As he leaves Frasier enters and heads for the kitchen, where he is startled to meet Daphne coming in with her overnight bag.  Daphne tells Frasier about Niles' invitation, but Frasier tells her she has to leave because Niles is at the cabin for an intimate weekend with Roz.  Daphne is surprised and reluctant to leave, having just driven two hours and arriving just dark is approaching.  But Frasier is persuasive, and she agrees to go to a local bed and breakfast, to be quickly followed by Frasier and Martin.  She heads for the powder room just off the living room.  Frasier hears Alice crying and runs up the stairs to her room.  Roz and Niles sneak back into the cabin looking for Donny.  Niles notices Alice's door ajar and creeps over to the door, hissing, \"Why don't I take over here and you can join Roz?\"  Frasier emerges from Alice's room and once again tries to push Roz and Niles out the door. But this time Roz refuses. \"I really think I should check on Alice.\" Frasier tries again, but Niles refuses too.  Niles drags a wing chair over in front of the kitchen door and sits in it, effectively blocking Donny who is trying to open the kitchen door but can only bump the back of Niles' chair.  Niles beckons Roz over to him and she sits on the arm of his chair as Niles tells Frasier to clear out so he and Roz can be alone.  Frasier frantically to persuade them to leave as he blocks the bathroom door with his own body so Daphne can't emerge into the living room.  Just then Martin comes in, looking for ammunition for the shotguns before the light goes and they can't shoot any more ducks.  He's looking for a bathroom too, but Frasier tells him it's out of order. He heads for the one in the back of the cabin, but Niles is still blocking the kitchen door and tells him that one's out of order too.  Frasier accuses Niles of plotting some strategy, saying that Niles is showing absolutely no interest in being alone with Roz.  Niles indignantly denies it.  \"Come here, Pookie!\" he tells Roz, pulling her onto his lap and kissing her lengthily.  But it's no good.  Donny comes through the front door and sees Roz and Niles kissing.  Then Daphne emerges from the bathroom and sees Donny.  Niles drops Roz unceremoniously on the floor when he sees Daphne.  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "** Donny, what are you doing here?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Donny"
+    },
+    {
+        "speaker": "Donny",
+        "text": "** Niles invited me.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "** Oh, did he?",
+        "prevSpeaker": "Donny",
+        "nextSpeaker": "Donny"
+    },
+    {
+        "speaker": "Donny",
+        "text": "** Yeah, it was really nice.  Roz and I had a chance to catch up on old times.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "** Oh, that's right.  You two used to date, didn't you?",
+        "prevSpeaker": "Donny",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "** (knowingly)  Oh, isn't that nice of Niles to organize this little reunion!",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "** (to Donny)  I hope I don't have anything to worry about.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Donny"
+    },
+    {
+        "speaker": "Donny",
+        "text": "** (kissing her)  Oh, come on, are you kidding?......  ROZ AND NILES START HITTING ONE ANOTHER IN FRUSTRATION. ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "** Well, obviously Roz and Niles can barely keep their hands off each other!  You know, why don't all of us get out of here and give these two little kids a little privacy?",
+        "prevSpeaker": "Donny",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "** (to Donny)  You know, we could use some privacy of our own. Dr. Crane tells me there's a bed and breakfast up the road from here.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Donny"
+    },
+    {
+        "speaker": "Donny",
+        "text": "** (hopefully)  Really?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "** Really.  SHE WALKS OUT THE FRONT DOOR.  DONNY STARES AFTER HER WONDERING IF SHE REALLY MEANS IT.  NILES IS HORRIFIED.  DAPHNE COMES BACK AND TAKES DONNY BY THE ARM. ",
+        "prevSpeaker": "Donny",
+        "nextSpeaker": "Daphne"
+    }
+]

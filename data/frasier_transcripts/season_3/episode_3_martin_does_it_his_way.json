@@ -1,0 +1,1083 @@
+[
+    {},
+    {
+        "speaker": "Frasier",
+        "text": "Well, we have time for one more caller.  Roz?",
+        "prevSpeaker": "No Previous Speaker",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "We have Ed on line three.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Hello, Ed, I'm listening. [_no answer_] Ed? [_no answer_] Ed? Well, we seem to have lost Ed.  Let's take another caller. On line four we have.... Roz? ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Roz?  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "We have....  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Eye...  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Lean. [_then:_] Oh, Eileen.  Hello Eileen, I'm listening.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Eileen"
+    },
+    {
+        "speaker": "Eileen",
+        "text": "[_v.o:_] Dr. Crane, I've been very happily married for twenty years and I wouldn't dream of cheating, but lately when we're making love I find myself fantasizing about people... other than my husband.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, that's perfectly normal.  It's quite normal to spice up one's love life by imagining a tryst with, oh, a sports figure or a movie star or...",
+        "prevSpeaker": "Eileen",
+        "nextSpeaker": "Eileen"
+    },
+    {
+        "speaker": "Eileen",
+        "text": "Or a radio psychiatrist?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Excuse me?",
+        "prevSpeaker": "Eileen",
+        "nextSpeaker": "Eileen"
+    },
+    {
+        "speaker": "Eileen",
+        "text": "It's your voice, Dr. Crane.  You must have the most sensuous voice on earth.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_putting on a sensuous voice:_] Oh, I don't know, Eileen.",
+        "prevSpeaker": "Eileen",
+        "nextSpeaker": "Eileen"
+    },
+    {
+        "speaker": "Eileen",
+        "text": "I've never seen your picture.  Would you mind describing yourself?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, well I don't really think that's appropriate...",
+        "prevSpeaker": "Eileen",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "I'll do it.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Roz, I don't think...",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "He's about six-one, with a granite jaw and the broad shoulders of a marine.  He's been wearing his hair short lately but that only accentuates his cobalt blue eyes, his chiseled cheekbones and his full, provocative lips.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Eileen"
+    },
+    {
+        "speaker": "Eileen",
+        "text": "Wow!  Thanks Roz, and thank you, Dr. Crane.  I'll be thinking of you tonight - with any luck, twice! [_hangs up_]",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, this is Dr. Frasier Crane feeling a little red in his chiseled cheeks.  Till tomorrow then, this is KACL 780 AM. [_signs off air_] _As Frasier presses a button Roz enters his booth and goes to the tape deck._ ",
+        "prevSpeaker": "Eileen",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Roz, that was quite a flattering description.  You know, just out of curiosity: were you just helping that lady with her fantasy or do you really see me that way?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "[_freezes, then in a haunted voice:_] You really don't know, do you? [_turns around_] Frasier, I am so attracted to you, I always have been. [_starts to get closer to him_] Your looks, your voice...  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "You don't know how many times I've wanted to strip naked and hurl myself at that glass partition like a bug on a windshield.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Are you through?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "[_smacks his head_] Well, ask a stupid question! _She gets off of him and goes back to the tape deck as Frasier sorts his briefcase out._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "All right Roz, I will see you tomorrow.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Hey, aren't you going to the staff meeting?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No, no, no, just tell them that my aunt died.  I'm off to her lawyer's now, she put me in charge of her memorial.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Oh, I'm so sorry.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, don't be, she was a dreadful old harpy.  Life around her was miserable.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "That should look nice on her headstone.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, I don't mean any disrespect but you know, the entire time I knew her she never said anything to me that wasn't scornful, derisive or contemptuous.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "So how come she made you in charge of her memorial?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I was her favourite! _FADE OUT  Scene Two - Frasier's Apartment. Daphne is cutting Martin's hair at the dinner table whilst he reads the paper.  Niles and Frasier enter with bags and they ad-lib greetings.  Frasier notices Eddie rolling on the couch._ ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Dad, I thought we had an agreement: Eddie doesn't roll around on the sofa and I don't throw him in front of a bus!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Hello, Daphne.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Oh, hello Dr. Crane.  Will you be joining us for dinner?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "If it's not too much trouble.  It's Maris's night to host her book club and they are more comfortable not having a man there.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, apparently Niles makes the ladies self-conscious.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well, I sat in on the last discussion and Mrs. Esterbrook- Kindred developed a facial tic every time she had to say the word \"Balzac.\"",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "So how did it go with Aunt Louise's lawyer?  Did you get the old bat's affairs straightened out?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Ask her yourself. _Niles places her urn on the table.  This causes Eddie to run off down the corridor to Martin's room._ ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Apparently, it was Aunt Louise's wish that Niles dispose of her ashes.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Now the pressure's on me to find the perfect place for her to rest for eternity.  I haven't the faintest idea what to do with her.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Why don't you just flush her down the toilet?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Mr. Crane, you can't do that!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Why not?  She loved the water.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, oh, that's it: the beach.  Oh, no, no, she hated seagulls. And vice-versa. [_then:_] Oh, oh, oh... no! [_then:_] It doesn't matter where I pick, you know it's not going to be good enough.  Whatever I did she always found fault.  Remember when I used to mow her lawn?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, what about the Christmas tree I bought her?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "The ashtray I made at camp?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_imitating her:_] \"Is that the best you can do?  It wobbles!\"",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_to urn:_] I wish I had that ashtray now!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "So when's the memorial service?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "It's two weeks after tomorrow.  Lucky lucky me, her last request was that I deliver the eulogy.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Oh come on now, you can handle it.  You just stand up there and say a few nice things.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "There aren't any!",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Then just make them up.  Everyone lies a little in eulogies.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No Daphne, I refuse to invent virtues the woman didn't have. I'll just have to find something good I can honestly say about her.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_stands:_] Good luck!  She was nothing but a crabby, tight- fisted old pain.  All she ever did was sit around that house day after day watching TV.  She kept that same old cruddy furniture all her life. _Martin sits down in his old chair in front of the box prompting Niles and Frasier to give a stare at each other._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "What?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, remember how she always used to complain about the winters?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh yeah, every year she was going to take a trip to the South Pacific.  It was her big dream.  But would she spend the money?  Nooooo.  She just sat around whining all the time about how she'd like to be in a warmer climate.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "My guess is she finally made it.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "[_hinting:_] I think it would be terribly bad to go through life having a secret dream and never fulfilling it.  You'd never do anything silly like that, would you Mr. Crane?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "What're you talking about?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Oh, I don't know.  Perhaps a little something involving a certain shoebox you keep hidden.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Shoebox?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Forget it, it's not important.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Oh fine, if you don't want to talk about it, don't talk about it.  It's only something you've given over thirty years of your life to.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Hey, I didn't tell you that so you can go around blabbing it to everyone.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Tell us, dad, what's in the shoe box?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Nothing, all right?  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "It's just some songs I wrote... for Frank Sinatra.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "And he keeps them in his shoebox.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "I think your work here is done.  ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Your mother and I used to listen to Sinatra all the time. I know most of his songs by heart.  I guess I got it into my head one day that I'd try to write a song myself.  I'd be at the station house or on a stakeout, I'd get an idea and pretty soon I had a shoebox full.  I used to imagine your mother and I seeing Frank in the stands in Vegas and he'd open the show with one of my songs.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh gee, dad, why did you never tell us about this?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Because it is stupid.  They were no good...",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh...",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "And don't bother to ask, I'm not letting you see 'em.  ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Here they are. Just like I told you, in his shoebox.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_reads:_] \"You are the song my soul would sing.\"",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Very poetic.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_reads:_] \"You make my heart go ring-a ding-ding.\"",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "That was during Frank's ring-a-ding period.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Lord, this shoebox is full of them. [_reads:_] \"I didn't mean to hurt her, she made me lose my mind\".",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Hey, lemme see that! [_reads then:_] No, that's just some confession I took from a guy.  The lyrics are on the back. Anyway, I never finished them.  They were never any good. [_picks one up_] Well, except this.  I gotta admit this has got \"Frank Sinatra\" written all over it.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_reads:_] \"She's such a groovy lady.\"",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "It's still got that nice contemporary sound.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "So, why don't you send it to old Blue Eyes?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "No, they're just words scribbled on a piece of paper.  The tune's in my head, I don't know how to write it down.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, Niles and I do.  You've got the tune in your head, why don't you let us write it down for you?  _They begin arguing over this and Martin decides it's a bad idea. So Daphne is tactical._ ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Oh, you're wasting your breath trying to convince him to do something.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Dad, come on. [_he refuses:_] Yeah, you're probably right. You just sit there night after night watching TV until the time finally comes when we collect your ashes and scatter them over that chair - where they'll probably go unnoticed.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_realising:_] All right, okay.  _Niles and Frasier are overjoyed and run to the piano.  Niles sits down claiming he'll be sitting at the piano, however Frasier isn't too happy about this.  Martin goes up near to the piano and they begin._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Okay, so boys, the way I'm hearing the intro, it goes something like this.  _Martin shouts a weird noise mixed with bwobbety-bwas, scobba-doobas, and finishing an unearthly noise sounding like \"bwaaaaaa!\"_ ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Of course, it is your piano.  _Niles stands up, however Frasier pushes him back into his seat realising that he ended up with the best job after all.  End Of Act One.  Act Two.  Scene One - Frasier's Apartment - Night.  Niles is at the piano.  Frasier is stood up behind him and Martin is sat on a high chair by the piano.  It's late at night, and all three men are in their undershirts.  Niles is playing the conclusion to the song, and Martin is happily snapping his fingers in time to it._ ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "No, no, it goes: Groovy lady of mine, ba-ba-ba-bap-bam-ba-a- aaa-a-a-a!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Like: [_plays something along those lines_]",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "No, no, come on, this is the big finish.  Ba-ba-bap-bam-ba-a- aaa-a-a-a!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Dad, dad, in Niles's defense, after four hours your \"ba-bap- ba-ba-a-a-a's sound a lot like your \"scoopety, boop, bop, bam!\"  Right, Niles, let's just try it again.  ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Yeah!  That's it.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "All right?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Yeah.  Let's hear the chorus one last time.  ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "She's such a groovy lady, She makes my heart go heidi-hiedi, She is the chick I spend my nights dreaming off... ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_stops:_] Niles. [_Niles stops_] Dad, I don't mean to criticise. You know that \"heidi-hiedi?\"  It sounds like Cab Calloway sung backwards.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "You got any better suggestions?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Er, yes, yes: \"She's like a wood, all cool and shady!\"",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No, no: \"She makes the bravest cat go 'fraidy!\"  ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "I've got it: \"She could have slept with Warren Beatty!\"",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_patronising:_] Very nice Daphne, no.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well, I'm sticking with my one, keep singing.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Her lips are red as ruby, She makes my heart go scooby dooby, She is the broad who makes me coo-coo in the heart.  ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I'm sorry, I'm sorry, I don't mean to quibble but it seems like her heart is always going heidi-hiedi, ringy-dingy, or scooby dooby.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Look, I don't need another critic.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Fine, perhaps a cardiologist?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "In all due respect, I think I'm a little more tuned in to what Frank likes and this is pretty close to perfect the way it is.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "How about that!  Thirty years and I've finally finished it.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Never too late.  ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Yeah, first thing tomorrow, I'm mailing it to Frank's people. A little help from Lady Luck, maybe they'll kick it upstairs to the chairman himself. [_starts singing:_] \"She's such a groovy lady, [_throws sweater over his shoulder:_] She makes my heart go heidi-hiedi...\" [_walks off_]  _The Crane brothers and Daphne look on with an air of pride as the scene FADES OUT.  Scene Two - Frasier's Apartment. Two weeks later it is the morning of Aunt Lousie's funeral.  Frasier is still writing his eulogy on paper.  However, he takes the paper, rips it up and starts again.  A photo album is also laid out on the table.  Martin enters._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh Jeez!  The service is in an hour.  Aren't you finished with that eulogy yet?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I can't even come up with a first line.  I got this old photo album, probably one of her pictures might inspire me.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "How about this: \"We all loved Aunt Louise, even if the camera didn't!\" [_laughs with Frasier_]",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "[_enters with a tissue - her voice sounds like she has a cold:_] Dr. Crane, you've been agonising over this for two weeks. Perhaps it's time to start bending the truth a little.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No, I refuse to lie.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Why?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "I find it hard to believe there isn't one nice story you can tell about her.  Maybe a cute little saying she used?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I'm not sure that, \"Stop crying, or I'll give you something to cry about\" would qualify.  ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Where are you off to?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Just going to go check the mail.  ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "I wish they'd just give him an answer about that song.  He must have made a hundred trips to the mailbox during the past two weeks. [_sneezes_]",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, bless you, Daphne.  Are you sure you're up to coming to the memorial?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Oh, it's just a little cold. [_blows nose_] Besides, in my family, when there was a funeral everybody went.  I remember when Grammy Moon passed on.  My brothers had been off on a three-day bender.  They couldn't even stand on their own - pissed as newts!  But they crawled to that chapel on their hands and knees.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Very commendable.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Yeah, well, they had an obligation.  They were the pallbearers.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Hello, Daphne.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Hello.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh dear Lord, Niles, don't tell me you haven't disposed of those ashes yet.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Frasier, I have taken them to a dozen locations.  Fossy glade, a babbling brook, a moonlit pond.  None of them felt right, what am I going to do?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, winter's coming.  The sidewalks are always slippery. I'm having the same problem with the eulogy!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_sees album_] Oh, remember when this photo was taken - the day Aunt Lousie took me to Wilson's Meadow to fly a kite? It cost her 35 cents and when it got stuck in a tree she made me climb up after it.  I fell out, broke my collarbone in two places.  I think that's the only time I saw her laugh. [_inspired_] Frasier!  I think she might be happy there!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Niles, I think you might be right.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "And even if she's not, let's still do it.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Any news about your song?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Nah.  Listen, we better get started.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "All right.  Perhaps I'll have some inspiration on the way over in the car.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "And Wilson's Meadow is on the way.  We can stop and scatter the ashes.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Fine.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Well, this sounds like a family affair.  Maybe I'll take my car and meet you there.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "All right, let's go.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Wilson's Meadow is the perfect place.  Aunt Louise, you've tormented me for two weeks and finally I've shown you I can do something right.  _Martin, Frasier and Niles exit the front door.  After a pause Niles enters again to pick up the urn of ashes he left behind._ ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_to urn:_] Oh, shut up!  _Niles exits with urn.  FADE TO:  Scene Three - Wilson's Meadow. The three pull up in the car - Frasier driving, Niles in the passenger seat and Martin in the back._ ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Here, here, yes, yes.  Perfect. [_about urn:_] There's something rattling in here.  Like some great grisly morata. _Niles gets out.  Throughout the following conversation between Martin and Frasier we see Niles trying to get the urn open unsuccessfully. He even hits it against a tree and jumps on it._ ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "What am I going to say at this memorial?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Don't ask me.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You write lyrics, don't ya?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Right!  Tell that to Sinatra!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, dad, it's a good sing.  I even caught myself singing it in the shower this morning.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Yeah.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Just because you haven't heard anything yet doesn't mean... you have heard something?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Yeah. [_takes out letter:_] This morning they rejected it.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, I'm sorry, dad.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh, it's okay.  Sinatra must gets thousands of songs sent to him.  What did I expect?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, you know, at least you gave it your best shot.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Yeah, I guess.  I mean, sure it would have been nice to hear it sung, but hey, I finished it, finally!  Yeah, I walked down that highway, and climbed that mountain, and reached for the stars. [_realising lyric-like sentence_] Oh sure, now I get hot!  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I can't open the damn urn!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_gets out:_] Oh, you are so helpless!  For Pete's sake, give it to me, give it to me.  _Frasier yanks the lip open.  However, the ashes gust out and cover Niles and Frasier.  They try to dust themselves clean.  FADE TO:  Scene Four - Church. It's the memorial service.  Daphne is sat down on the front row. Martin and Niles join her._ ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "It looks like Louise's whole rest home showed up.  It must be \"Liver & Onions Day\" in the cafeteria.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Apparently when they heard it was Frasier Crane from the radio speaking, the whole rest home turned out.  Can't wait to hear what he has to say.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Neither can he: He's huddled in the rectory still working on his first sentence.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "How did the scattering go?  Were there any problems?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "No, nothing important.  _Niles takes off his shoe and empties some ashes out onto the floor. The service begins._ ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Minister"
+    },
+    {
+        "speaker": "Minister",
+        "text": "Dear friends, thank you all for coming today.  I know how very deeply your friendship was treasured by Louise.  We are privileged to have with us her favourite nephew, one of Seattle's most eloquent speakers, Dr. Frasier Crane.  Dr. Crane has spent the last fortnight reflecting on what Louise meant to him.  Dr. Crane?  ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, well, well.  What can I say about Aunt Louise?  What can I say?  Louise... touched us all. [_dusts his clothes:_] In fact, she touches us still. [_dusts again_] Aunt Louise... loved to teach us all lessons.  You know, it's hard to picture her without hearing her saying, \"I'm going to teach you a lesson.\" What particularly comes to mind, by the very way she lived her own life: she taught us how important it is to pursue our dreams. [_Martin looks up_] Whether we succeed or fail, what really matters is that we tried.  And now as we say goodbye to Louise, a phrase comes to mind.  It was coined by my very own father... \"She's Such A Groovy Lady.\"  ",
+        "prevSpeaker": "Minister",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I said, \"She's Such A Groovy Lady.\"  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Choir"
+    },
+    {
+        "speaker": "Choir",
+        "text": "Oh, that groovy lady, Oh, that groovy lady...  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Choir"
+    },
+    {
+        "speaker": "Choir",
+        "text": "She's such a groovy lady, She makes my heart go heidi-hiedi, She is the chick I spend my nights dreaming of.  Her lips are red as ruby, She makes my heart go scooby dooby, She makes me wanna shout \"Hey Vagers, above!\"  She's got the whole world swinging, She makes my heart start ringing-dinging,  That hubba hubba groovy lady of mine, Of mine, of mine,  That hubba hubba groovy lady of mine, Oh yeah, Oh yeah... ",
+        "prevSpeaker": "Choir",
+        "nextSpeaker": "Base"
+    },
+    {
+        "speaker": "Base",
+        "text": "Yeah!",
+        "prevSpeaker": "Choir",
+        "nextSpeaker": "Choir"
+    },
+    {
+        "speaker": "Choir",
+        "text": "Yeah!  _Niles, Daphne and Martin have been dancing in their seats and clap along with the congregation and the studio audience.  End Of Act Two._ ",
+        "prevSpeaker": "Base",
+        "nextSpeaker": "Credits"
+    }
+]

@@ -1,0 +1,1437 @@
+[
+    {},
+    {
+        "speaker": "Frasier",
+        "text": "Till tomorrow then, this is Dr. Frasier Crane wishing you... _Roz knocks on the booth.  Frasier looks around a sees a grumpy old man looking in through the screen._",
+        "prevSpeaker": "No Previous Speaker",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, yes.  Be sure to tune in later for the final broadcast of KACL's loveable curmudgeon, Chester Ludgate.  You know, most of us here at the station were surprised to hear that he was retiring.  I for one thought he'd never leave. [_presses button_]",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "[_enters_] So, should we order a pizza?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Sorry?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Those PSA's you promised you'd help me with are due tomorrow.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh gosh, Roz, I really am sorry.  You know, it seems Mrs. Delafield's daughter is coming here to join us as an intern. I promised Kenny I'd show her around and take her to dinner.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "So, while I'm working late, eating my vending-machine dinner, you'll be out having a gourmet meal with some cute rich girl.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, you can make anything sound unfair. _Roz exits to her booth as Kenny and the cute rich girl, Poppy, enter the booth.  Poppy is like a character out of \"Clueless\": Long blond hair, dressed totally in a red \"girly\" outfit with red high heels and red hand bag.  She speaks with an annoying, ditzy accent._",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "Hey, Doc.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Kenny, and who have we here?",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "Dr. Frasier Crane, I'd like you to meet Miss Poppy Delafield. Well, gotta run. [_swiftly exits_]",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Poppy, what a pleasure to meet the daughter of our beloved station owner.  So, what brings you to KACL?",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Poppy"
+    },
+    {
+        "speaker": "Poppy",
+        "text": "Well, I was in Paris last month - or was it Madrid? - No, Paris, and I said to myself, \"that's enough gallivanting for you, young lady, it's time to get a job.\"  So I flew home and asked my mother, Minnie, if I could nose around and see if some job, you know, spoke to me at one of her radio stations, or TV stations or newspapers.  But not her brewery, thank you very much!  So, here I am.  Sleeves rolled up, ready to learn.  Is this where you do your show? Of course it is, there's your mike right in front of me. Earth to Poppy!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Poppy"
+    },
+    {
+        "speaker": "Poppy",
+        "text": "There's Gil, I met him earlier.  Hi, Gil! _She waves, Gil runs away.  Frasier also waves and then wonders what he is doing and looks back at Poppy, who carries on._",
+        "prevSpeaker": "Poppy",
+        "nextSpeaker": "Poppy"
+    },
+    {
+        "speaker": "Poppy",
+        "text": "Nice man.  I think it's marvelous what you do.  To really help people.  Unlike the psychiatrists I've been to, both of whom had some sort of, I don't know, narcolepsy.  I sympathize, but if you can't stay awake, don't be a psychiatrist! _Behind her back, Frasier removes his cell phone, dials a number, and then hides it in his pocket._",
+        "prevSpeaker": "Poppy",
+        "nextSpeaker": "Poppy"
+    },
+    {
+        "speaker": "Poppy",
+        "text": "To do what you do, to face that microphone day after day and know that for the next three hours you're going to have to talk and talk and talk?  I could not do it!  I would freeze! Literally freeze!",
+        "prevSpeaker": "Poppy",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Excuse me. [_grabs the phone_] Hello?  Yes, Dad.  All right, calm down, calm down.  Was there much blood?",
+        "prevSpeaker": "Poppy",
+        "nextSpeaker": "Poppy"
+    },
+    {
+        "speaker": "Poppy",
+        "text": "Oh my gosh!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "All right, Dad, I'll be there as soon as I can, hang on a second. [_puts phone to chest, to Poppy_] I'm terrible sorry, there's been a small emergency at home.  I'm gonna have to pass on today, may I take a rain check?",
+        "prevSpeaker": "Poppy",
+        "nextSpeaker": "Poppy"
+    },
+    {
+        "speaker": "Poppy",
+        "text": "Oh, and we were having such a nice chat.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "This is Roz, my producer.  You know Roz, I'll gladly do those promos if you would be so kind as to take Poppy to dinner and answer her questions.",
+        "prevSpeaker": "Poppy",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Sure, if you don't get bored listening to me drone on about radio.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, I don't think there's much chance of that! _Poppy whizzes Roz out of the booth, chatting to her on the way.  FADE OUT  Scene Two - Frasier's Apartment. Frasier and Daphne are sitting at the dining table.  Martin enters and hurries Eddie into the apartment, checking the hallway for people._",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "What the hell is happening?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well, remember last week when Eddie killed his first rat? And how proud I was?  I told you that story, right?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, Dad, you told us.  If you had a guitar you would have written a ballad.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well, we were just down in the basement and I saw another rat. I said, \"go get him, boy!\"  So just as he picked him up, had him in his teeth, shaking the life out of him, and I hear this little bell, ting-a-ling.  And I thought, \"that's funny - rats don't wear bells!\"",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Oh, little Robbie Greenberg's missing hamster!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, I read that flyer.  He was offering a ten dollar reward.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well, the most we can claim at this point is about six-fifty.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You know Dad, this is actually your fault.  You know if you hadn't encouraged him after he killed his first rat he wouldn't have moved on to murdering hamsters!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well, what are you talking about?  We don't know it was Eddie who killed him.  He might have had a heart attack, or some kind of seizure when he bounced off the boiler! _The doorbell sounds.  Frasier crosses the room and opens the door to Niles.  He is carrying a magazine and two tickets. A smile is beaming across his face._",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Niles!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Prepare to whoop like a sweepstakes winner.  Cancel our dinner!  I've scored us two seats, front row for the event of the season.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You mean...?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Yes.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "But...?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I know! [_proudly holds up the tickets_]",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Niles!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_aside to Daphne_] I love it when they do it this way, I can pretend it's a Seahawks game. _He sits in his chair as Frasier eagerly takes the tickets and scans them._",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "My God, it's for the Cecilia Bartoli concert!  My God, they've been sold out for months.  How on earth did you score these tickets?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I simply phoned the box office and said this is Niles Crane, the new arts critic for \"The Monocle.\" _Frasier takes in a gasp of half delight for his brother and half jealousy as Niles slaps the magazine on the table._",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "\"The Monocle.\"  Isn't that that magazine they hand out to rich people in all the snootiest apartment buildings?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "And the snootiest hotels.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "How could this happen, Niles?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I was at a party thrown by the publisher, Olga Suerbread. The pretentious fop who had the job before me was there too, spouting sheer drivel about Leonard Bernstein.  Being polite I kept my tongue sheathed.  Until he referred to Bernstein's conducting as \"overrated.\"",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_indignant_] I assume you pounced?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_dignified_] Like a ninja!  By the time I had finished with him, Olga could see I was a far better critic than that arrogant poseur.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "She fired him right there?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well, he was leaving anyway for his junior year abroad.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, it's a post.  Congratulations are in order.  You know, who would have thought my little brother a professional music critic?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, oh, and not just music.  I can review anything I want. Theater, dance, art exhibits.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You don't say?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Yes, from now on, wherever we go, I'll be armed with my trusty pad and penlight.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Wherever we go?  What fun.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_takes some opera glasses from his pocket_] I'll have to take a damp cloth to these opera glasses, although I don't know what will we use them for, sitting in the front row?  Unless it's to scan the faces of the jealous people behind us.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "So, are you sure you're okay with Niles getting this critic job?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Why wouldn't I be, Dad?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh, come on, I know what it's like with you two when one of you gets something the other one doesn't have.  It's like when you were kids.  Niles got a telescope, so you had to have a telescope.  You got that funny little guitar, Niles...",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Dad, it was called a lute!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh yeah, whatever.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Dad, believe me, I do not envy Niles his critic's job.  As kids we would aggravate the situation by flaunting our toys in each other's faces.  We're much more mature than that now, all right?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Niles, you know, it's about time we got going.  We don't want to be late for the curtain.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_flaunting_] Don't be silly, I'm press now.  They'll hold it. _Niles walks out with great esteem, his chin pointed up.  Frasier grovels behind him, ignoring Martin's smug look.  FADE TO:_ **HOW A POPPY BECOMES HEROIN** _Scene Three - Caf e Nervosa. Front stage, Frasier and Roz are having a coffee and a chat together. Meanwhile upstage, Poppy is telling a weary crowd around her (including Gil and Kenny) about her life. _",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Poppy"
+    },
+    {
+        "speaker": "Poppy",
+        "text": "So, that's how it ends: B minus average, ten extra pounds and still no boyfriend.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "I see Poppy's having a little party.",
+        "prevSpeaker": "Poppy",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "That's not a party, that's a hostage situation.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Thank God today is her last day.  You know, this morning she cornered me by the coffee machine and told me her whole life story.  I just wanted to grab her by the throat and say, \"What am I, your biographer?  Shut up!\" _Frasier laughs.  Gil finally gets out of the \"party\" and arrives at Frasier's table._",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Gil"
+    },
+    {
+        "speaker": "Gil",
+        "text": "Dear God!  I thought I'd never break free.  I feel like a mongoose at the mercy of a chatty cobra.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Hello, all.  I see you all ready have the \"Times.\"  I'm quoted there today.",
+        "prevSpeaker": "Gil",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "In the \"Times?\"",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Yes, here, [_shows Roz the bit_] it's in an ad for \"St. Joan\": \"'Incandescent,' Niles Crane, 'The Monocle.'\"",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "[_stands_] Wow!  Excuse me while I go and tell all my friends I know you!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_yawns_] Forgive me.  Olga and I were up till all hours at a party for the \"Royal Shakespeare Company.\"  I'm rubbing pretty impressive shoulders these days.  And to think it's all because I have a small column.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_keeping his eyes on his newspaper_] That would certainly be the Freudian interpretation!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "If I were to review that attitude I would say it was a chilling portrait of malice and envy.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh Niles, I'm not the least bit envious that you get to spout off in that glorified cat-box liner.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "You just can't stand it that my opinion means more than yours.  That the arts community looks to me for my insight, my approval, my thumbs-up.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I think we both know what your thumb's up these days!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "That's a good one, Frasier.  Perhaps you should use it in your column.  Oh, that's right - you don't HAVE one!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "That smug jackass!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Frasier, you have a radio show.  If you wanted to say what you thought of a play, what's stopping you?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "It's not the same thing as being a real critic, Roz.  You don't get free tickets... you don't get quoted... forget hobnobbing.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "My God, this competition between you and your brother is sick. Your obsessive one-upmanship.  You're both going to end up bitter old cranks like Chester Ludgate.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You know, you do raise a good point, Roz.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Thank you.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Chester's time slot is free, I could do my own arts show.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Kenny?  Listen, Roz just had a wonderful idea.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "Yeah, doc?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "What do you say about yours truly hosting a bouncy little show about the arts in Seattle?",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "Culture? Wow!  That's a great idea, let me chew on that and I'll get back to you.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Great!  You see, Roz, he loved your idea",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "That was not my idea.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "It was too your idea.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "It was not...",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "Look, Doc, honestly, I feel kinda bad about what I just did. I let you think there was a chance that I might you let you do this culture show and... there's not.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No chance at all?",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "No.  I mean, come on Doc.  You, culture, opera.  Who's listening?  Not me! [_laughs_]",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Damn!  I think my show's a good idea.",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Well, Kenny's the station manager and he doesn't.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You know what, frankly, I don't like his attitude.  He acts as if he owns the station but he doesn't.  Someone else does.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Poppy!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "The next best thing, her mother!",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "No, Poppy. _Roz points to Poppy who is coming over.  Roz quickly picks up her bag and exits._",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Poppy"
+    },
+    {
+        "speaker": "Poppy",
+        "text": "Hi, Frasier.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Hello, Poppy.  Gosh, would you care to join?",
+        "prevSpeaker": "Poppy",
+        "nextSpeaker": "Poppy"
+    },
+    {
+        "speaker": "Poppy",
+        "text": "I can't.  Mummy's taking me shopping.  She spoils me something horrible, I guess it's an \"only child\" thing.  Anything I want, I just have to ask.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_getting an idea_] Anything you want?  Well, that's interesting.  You know, Poppy, we could join each other for lunch after your shopping spree.",
+        "prevSpeaker": "Poppy",
+        "nextSpeaker": "Poppy"
+    },
+    {
+        "speaker": "Poppy",
+        "text": "Oh, I'd love it.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Would you really?  You know, it just seems a shame you leaving the station and us never really getting to know one another.",
+        "prevSpeaker": "Poppy",
+        "nextSpeaker": "Poppy"
+    },
+    {
+        "speaker": "Poppy",
+        "text": "Oh, it hasn't been easy.  I mean, with you having those dental appointments everyday.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_guilty_] Yes.  Let me walk you out. [_stands up_]",
+        "prevSpeaker": "Poppy",
+        "nextSpeaker": "Poppy"
+    },
+    {
+        "speaker": "Poppy",
+        "text": "You know, I should get the name of your dentist.  I can't find one I like.  They're always giving me Novocaine when I don't need it and then it's hours before I can talk again.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh yes, well, I can give you his number, although I'm not sure he'd be any different. _Frasier and Poppy exit.  End of Act One.  Act Two.  Scene One - Frasier's Apartment. Daphne is sat, irritated, on Martin's chair.  Frasier and Poppy are sat on the sofa with wine and pat e on the table.  The last chords of a Beethoven piece is being played on the stero.  Frasier is air- conducting as Poppy is laid back listening. _",
+        "prevSpeaker": "Poppy",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Divine Beethoven.  Extraordinary, isn't it?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Poppy"
+    },
+    {
+        "speaker": "Poppy",
+        "text": "Oh, yeah.  And do you know what makes it more amazing?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "What?",
+        "prevSpeaker": "Poppy",
+        "nextSpeaker": "Poppy"
+    },
+    {
+        "speaker": "Poppy",
+        "text": "[_declares_] He was deaf!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Daphne, more pate please. _Daphne picks up the pat e dish still staring at Poppy before she exits to the kitchen. _",
+        "prevSpeaker": "Poppy",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Poppy, I can't tell you how wonderful it is to meet someone who shares my passion for the arts.  It's a rare thing to find in Seattle, believe me.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Poppy"
+    },
+    {
+        "speaker": "Poppy",
+        "text": "Is it?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh yes, sadly.  If only more people were better informed about our city's rich cultural treasures. [_hinting_] But what can we as mere radio folk do?",
+        "prevSpeaker": "Poppy",
+        "nextSpeaker": "Poppy"
+    },
+    {
+        "speaker": "Poppy",
+        "text": "Well... [_delayed reaction_] What about a radio show all about the arts in Seattle?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh my God, Poppy, that's a wonderful idea.  How do you do it, you just pull these things out of the air!  Good Heavens, of course we'll have to find ourselves a proper host, but who?",
+        "prevSpeaker": "Poppy",
+        "nextSpeaker": "Poppy"
+    },
+    {
+        "speaker": "Poppy",
+        "text": "Well someone very smart.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, indeed.",
+        "prevSpeaker": "Poppy",
+        "nextSpeaker": "Poppy"
+    },
+    {
+        "speaker": "Poppy",
+        "text": "And cultured.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_French_] _Bien Sur!_",
+        "prevSpeaker": "Poppy",
+        "nextSpeaker": "Poppy"
+    },
+    {
+        "speaker": "Poppy",
+        "text": "And with a lovely speaking voice.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_articulated_] Oh, I don't think we need to look too far. _Daphne enters with the pat e. _",
+        "prevSpeaker": "Poppy",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Here you go.  It's very rich, so don't spread it on too thick!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Poppy"
+    },
+    {
+        "speaker": "Poppy",
+        "text": "Frasier, I'm so glad you're on board with this.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You know, my only concern is will Kenny go for it?  You see, he's a bit of a Philistine.  It might be better if the suggestion came not actually from us but from... [_no response_] someone else.",
+        "prevSpeaker": "Poppy",
+        "nextSpeaker": "Poppy"
+    },
+    {
+        "speaker": "Poppy",
+        "text": "Who?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, someone with more authority, power, influence... [_no response_] Someone older... [_no response_] A woman perhaps... [_no response_]",
+        "prevSpeaker": "Poppy",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "[_fed up_] Your mother!  He means your mother!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Poppy"
+    },
+    {
+        "speaker": "Poppy",
+        "text": "Oh, what a great idea.  I'll call her. [_stands_]",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Here, use mine.",
+        "prevSpeaker": "Poppy",
+        "nextSpeaker": "Poppy"
+    },
+    {
+        "speaker": "Poppy",
+        "text": "Thank you.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Poppy"
+    },
+    {
+        "speaker": "Poppy",
+        "text": "Hello, mummy.  I'm with Frasier Crane and we think there should be an arts show on KACL.  But I really like this idea! So, you'll call Kenny and tell him you want this, okay?  Love you too, okay, bye. [_hangs up_]",
+        "prevSpeaker": "Poppy",
+        "nextSpeaker": "Poppy"
+    },
+    {
+        "speaker": "Poppy",
+        "text": "And the first show should be?",
+        "prevSpeaker": "Poppy",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Why don't we start tomorrow?  But we'll need something to review.",
+        "prevSpeaker": "Poppy",
+        "nextSpeaker": "Poppy"
+    },
+    {
+        "speaker": "Poppy",
+        "text": "That revival of \"A Streetcar Names Desire\" opens tonight.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Brilliant, let's go together.  I'll see you at the theater. _Poppy gets up to the door and is greeted by Martin who enters with Eddie._",
+        "prevSpeaker": "Poppy",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh, Poppy.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Poppy"
+    },
+    {
+        "speaker": "Poppy",
+        "text": "[_to Eddie, loudly as if he is a baby_] Hewwo, wittle Eddie, did you have a good walk? [_Eddie runs off_]",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Actually, we've just been to the vets.",
+        "prevSpeaker": "Poppy",
+        "nextSpeaker": "Poppy"
+    },
+    {
+        "speaker": "Poppy",
+        "text": "[_standing in door way_] I had the cutest little dog when I was young, named Mr. Poops, every time we took him to the vet's he...",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "You took Eddie to the vet, is he sick?",
+        "prevSpeaker": "Poppy",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "No, it turns out the building security camera caught Eddie taking out Robbie Greenberg's hamster.  So this Greenberg kid's trying to make Eddie out to be some kind of pit bull, he's organizing some petition to get him banned from the building.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_repressing glee_] Oh Dad, that's terrible.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Yeah, it is.  I don't know, I just wanted everyone to see what a nice, calm, friendly dog Eddie was.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Why did you take him to the vet?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Tranquilizers.  They don't even work anyway.  I gave Eddie one of those pills on the ride home, they didn't do a thing to him.  I don't know, I think maybe he needs something else.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Uh, Mr. Crane? _Daphne points to Eddie laid, seemingly unconscious, on the upstage floor.  Martin looks._",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Looks like all he needs is a lava lamp and some sitar music. _The doorbell sounds.  Frasier crosses to the door and opens it to Niles._",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Niles!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well, I'm glad to see you're in a better mood.  I was hoping you'd lend me your Tennessee Williams biography.  I have to review that revival of \"Streetcar\" tonight and I wanted to throw in some background stuff.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, I'm sorry Niles, you know, normally I would have lent it, but I'll be needing it myself for my own review.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh.  Well, in that case I'll... [_realizes_] What?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, that's right, you wouldn't have heard.  You see, starting tomorrow I'll be doing my own little arts show on KACL, twice weekly.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "You envious reptile!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_picks up plate_] Pate?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I achieve one thing, one tiny distinction you don't have, and what do you do?  You run whining to Kenny for extra airtime.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I did no such thing!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "No, he went to that Poppy woman instead.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Poppy?!",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_to Daphne_] Is this a panel discussion?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "You loathe Poppy!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I do not, I think she's delightful, [_to Daphne_] isn't she?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "She's an idiot!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "You conniving copy-cat!  You have to have whatever I have.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I don't have what you have.  My audience is twice as large as yours is!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well, at least my audience can read!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "How dare you review my audience!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I'll review anything I want to! _Niles and Frasier, bickering, exit to the kitchen.  Martin is laid back in his chair listening to them as Daphne watches Eddie._",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "[_referring to Eddie_] I've never seen him like this.  Eyes bulging, tongue lolling out...",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh, he always gets that way when he fights with Niles! _FADE TO:  Scene Two - Radio Station. Roz is in her booth getting ready for the show as Frasier enters._",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Good morning, Roz.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Hi.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Are you ready for our debut?  I'm thinking of calling the show, \"Frasier Crane's 'I'll Say'.\"  But with the \"I'll\" spelt like a theatre aisle.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "[_sarcastic_] That should work real well on radio!  You better watch out for Kenny, I heard he's pretty mad at you for going over his head.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "He can't be mad at me, the whole thing was Poppy's idea. [_Poppy runs by outside_] Oh, here she is now, come to wish me luck.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Poppy"
+    },
+    {
+        "speaker": "Poppy",
+        "text": "I was afraid I wouldn't get here in time.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, here, here. [_sits her down in his chair_] We've got a few minutes to go before the show starts.  Take a seat, catch your breath.  Oh gosh, I'm really glad you made it.  You know, it wouldn't be a proper debut without you.",
+        "prevSpeaker": "Poppy",
+        "nextSpeaker": "Poppy"
+    },
+    {
+        "speaker": "Poppy",
+        "text": "Wow!  All these buttons, how do you do it?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, it's not that complicated, really.  You know, I turn on the mike here, these are my call buttons.  Oh, and I push this button here if I want to cough. [_shows her_]",
+        "prevSpeaker": "Poppy",
+        "nextSpeaker": "Poppy"
+    },
+    {
+        "speaker": "Poppy",
+        "text": "How does it make you cough?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You know, Poppy, I hate to rush you, but we've just a couple of minutes before the show so...",
+        "prevSpeaker": "Poppy",
+        "nextSpeaker": "Poppy"
+    },
+    {
+        "speaker": "Poppy",
+        "text": "[_screams and stands up, only to sit back down again taking a script out of her handbag_] I better get a move on. [_reads her script_]",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Poppy, what are you doing?",
+        "prevSpeaker": "Poppy",
+        "nextSpeaker": "Poppy"
+    },
+    {
+        "speaker": "Poppy",
+        "text": "Getting ready for my show.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "[_confused_] One minute!",
+        "prevSpeaker": "Poppy",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Your show?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Poppy"
+    },
+    {
+        "speaker": "Poppy",
+        "text": "Well, okay, our show.  After all, it was your idea for me to do it. [_shouts_] Everybody, everybody come in here, please. _Everybody from the corridors comes to the doorway to listen to her. Even Kenny and Gil stand by._",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Poppy"
+    },
+    {
+        "speaker": "Poppy",
+        "text": "Before I begin my new show I just want to say a few words. Yesterday, I was ready to leave KACL.  To run away like I have from so many other challenges.  It was the support of one man, Frasier Crane, [_Frasier looks horrified at what he's done_] that helped me overcome this shyness many people may have observed in me, and to follow my dreams. [_crying_] Oh my God, I want to cry.",
+        "prevSpeaker": "Poppy",
+        "nextSpeaker": "Gil"
+    },
+    {
+        "speaker": "Gil",
+        "text": "We all do.",
+        "prevSpeaker": "Poppy",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "[_angry_] Ten seconds! _Poppy gives a little shriek of excitement.  Everyone exits apart from Poppy, who puts on the headphones.  Roz to her booth.  Kenny, Gil and Frasier to the corridor._",
+        "prevSpeaker": "Gil",
+        "nextSpeaker": "Gil"
+    },
+    {
+        "speaker": "Gil",
+        "text": "How could you do this to us?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I had no idea she intended to stay.",
+        "prevSpeaker": "Gil",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "That's not what her mother told me!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Gil"
+    },
+    {
+        "speaker": "Gil",
+        "text": "And I thought I'd seen some cruel pranks in the army.",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I assure you, she is way out of her depth here.  Any moment she'll realize she's in over her head, she'll be begging me to go in there and take over for her.",
+        "prevSpeaker": "Gil",
+        "nextSpeaker": "Poppy"
+    },
+    {
+        "speaker": "Poppy",
+        "text": "[_slow, excruciating voice obviously reading from a script_] \"A Streetcar Named Desire\" is a very powerful Broadway play. It was made into a movie starring Marlon Brando.  This gave the play a very personal relevance to me, as I once sat next to Mr. Brando on the Concord and we had a very lovely chat until a sudden cramp forced him to change seats.\" _As Poppy's show continues, Frasier slowly collapses into a heap against the booth door in the corridor, almost crying at what he has done._",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Poppy"
+    },
+    {
+        "speaker": "Poppy",
+        "text": "\"Streetcar\" tells the tragic tale of [_Southern accent_] Blanche DuBois, who's a very gentile, very proper Southern lady. [_as if it is a horror movie_] Or is she?! _FADE TO:  Scene Three - Caf e Nervosa. Frasier enters the cafe to find Kenny, Gil and Roz chatting at a table. They all turn away from him and stop talking.  Roz puts her purse on the free seat, forcing Frasier to sit with his brother.  Rather than looking smug, however, Niles looks strangely sympathetic. _",
+        "prevSpeaker": "Poppy",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Go ahead, Niles, I know you were listening.",
+        "prevSpeaker": "Poppy",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well, I wish you'd lent _her_ your Tennessee Williams's biography.  She wouldn't have kept forgetting his name and calling him \"Indiana Jones.\"",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "If it's any consolation, I got fired from \"The Monocle.\"",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_stops the smile creeping to his face_] Niles, I'm sorry.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I panned a wretched musical, not realizing the lead was the person who does Olga's hair.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "She fired you just to placate her hairdresser?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Electrolysist.  And if you'd ever seen her in a sundress, you'd forgive her as I have.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, I am sorry, Niles.  Gosh, it's a shame, really.  You know, I know how much you loved that job, and to lose it in such an unceremonious fashion.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well, you know... I was thinking of quitting that job anyway.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I thought I was spreading myself too thin.  Getting distracted from my real work.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I had the exact same thought.  Even as I was preparing my show, I thought, \"Am I being fair to my regular listeners?\"",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "They do depend on you.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "As do your patients.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Thank you.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "God, is it any wonder we find ourselves ex-critics?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "We were meant to lose those jobs.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "It's as if the Gods of psychiatry, jealous of our dallyings, have quietly stepped in and put things right.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well put!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Thank you.  You know, Niles, if you're feeling a bit hungry, we could catch an early dinner and then...",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, oh, and then catch the new Stoppard play.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You know, it's just a shame my listeners never got to hear my review of \"Streetcar.\"",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Insightful?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Groundbreaking!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "As was mine.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes well, it takes a psychiatrist to interpret that play.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Indeed.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "All right, you go first.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "All right.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Go.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "\"A descent into madness, and it was well worth the trip in this incandescent revival of 'A Streetcar Named Desire'....\"",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Just a moment Niles, \"incandescent,\" isn't that the word they quoted you on in \"The Times?\"",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well, yes.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You use that all the time. _Frasier and Niles continue bickering as they exit.  End of Act Two._",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Credits"
+    }
+]

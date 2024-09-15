@@ -1,0 +1,1569 @@
+[
+    {},
+    {
+        "speaker": "Martin",
+        "text": "[_to Eddie_]  Hey, you're lookin' a little under the weather. You all right?",
+        "prevSpeaker": "No Previous Speaker",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "He most certainly is not.  He dined on that lovely can of bacon fat you've been hiding under the sink.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh, geez.  Poor little guy.  [_The doorbell rings, Frasier gets up to answer it._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "You know, bacon grease is bad for dogs.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Ironic, considering its vast health benefits for humans.  [_He opens the door to reveal Niles and Daphne.  They come in as everyone greets each other._] ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Sorry we're late.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, that's all right, we're not having lunch until 1:15.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Ah, great.  [_Niles yawns as Martin sits down at the table.  Daphne and Niles sit on the couch._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Long night, Niles?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, a bit.  We were out at a party last night.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "At Bill Gates' house.  [_Frasier looks jealous._] ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Really?  Some sort of... charity event?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "No, no, just a few people over for dinner.  His wife has been following Maris' case and she wanted to meet us.  It seems the story's captured everyone's imagination and people want to get the inside scoop.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Their house is enormous.  I got lost going to the loo, but a voice in the wall guided me back.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Sounds like fun.  Anyway, I thought after lunch we might stop by the museum for the Goya exhibit.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Actually, we're going tomorrow night with the Blenkinsops.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Tomorrow?  But the museum's closed tomorrow.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Uh, not for Bunny and Bruce.  [_Frasier looks put out._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, with all the rarified elbows you've been rubbing lately, I'm surprised you could find the time for lunch with a commoner like me.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, now stop.  But if we could get going, I have a perfume launch at four.  [_He and Daphne rise.  As they all head for the door, the doorbell rings. Daphne checks the peephole._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "It's a pretty lady holding some mail.  Oh, you didn't pull that trick again, did you?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I have no idea what you're talking about.  Step aside!  Don't want her to slip it under the door!  [_He pulls her to the side and opens the door to a young woman, Caroline._] ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Hello.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Caroline"
+    },
+    {
+        "speaker": "Caroline",
+        "text": "Hi, sorry to disturb you, some of your mail got mixed in with mine.  [_She hands it over._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, dear, how did that happen?",
+        "prevSpeaker": "Caroline",
+        "nextSpeaker": "Caroline"
+    },
+    {
+        "speaker": "Caroline",
+        "text": "I don't know.  Some of it just seemed to be jammed in there.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Uh, huh.  Really, well, we must make allowances for our mailman.  He's a veteran.  So, uh, my name's Dr. Frasier Crane.",
+        "prevSpeaker": "Caroline",
+        "nextSpeaker": "Caroline"
+    },
+    {
+        "speaker": "Caroline",
+        "text": "Caroline Harwich.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Nice to meet you.  And this is my family.  My father, Martin Crane.",
+        "prevSpeaker": "Caroline",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Hi.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "My sister-in-law, Daphne, and my brother, Niles.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Caroline"
+    },
+    {
+        "speaker": "Caroline",
+        "text": "You look awfully familiar, have we met?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, I am somewhat of a media figure.",
+        "prevSpeaker": "Caroline",
+        "nextSpeaker": "Caroline"
+    },
+    {
+        "speaker": "Caroline",
+        "text": "No, your brother.  Oh, you're Niles Crane from that big murder case.  I saw you on the news.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "He's been on three times this week.  He's practically famous.",
+        "prevSpeaker": "Caroline",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well, hardly famous.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "My brother doesn't like to toot his own horn.  You know, I was discussing that very personality type today on my very popular radio show.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Caroline"
+    },
+    {
+        "speaker": "Caroline",
+        "text": "Oh, right, right.  Dr. Frasier Crane.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes.",
+        "prevSpeaker": "Caroline",
+        "nextSpeaker": "Caroline"
+    },
+    {
+        "speaker": "Caroline",
+        "text": "Yes, my mother listens to you.  Well, anyway, it was nice meeting you all.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, likewise.  [_She turns and leaves.  Frasier closes the door behind her._] ",
+        "prevSpeaker": "Caroline",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Isn't it nice to know there are still honest people in the world?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "How come your mail never gets mixed up with that sweaty fat guy's upstairs?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "We should really be going.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, yes.  I'm afraid we'll have to be lunching at Vindaloo. I couldn't get us in at Le Toque.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh...",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Oh, no.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Maybe I should call.  I've had the best luck with restaurants lately.  [_He pulls out his cell phone and dials._] ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, they swore that they were absolutely booked solid.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, dear. [_into phone_] Hello?  Yes, wondering if you could possibly squeeze in three for lunch today?  Dr. Crane.  No, actually it's Niles.  Oh, how lovely.  Thank you.  We'll see you in a bit.  [_He disconnects and follows Daphne out.  Frasier shoots a look of injustice at Martin, who just smiles.  Frasier follows his brother. Fade out._]  **BLACK TIE FOR MEN NIGHTGOWNS FOR WOMEN**   [_Fade in.  Frasier is sitting at a table with his coffee.  Roz comes in._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Hey, Fras.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, hi.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "I'm so sorry about the show.  I was a little distracted.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, I sensed that when you patched through Wanda, who wanted to know what our soup of the day was.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "My sister Denise is in town.  I hate it when she visits.  She isn't happy until she makes me feel completely miserable. Do you know what she called my place?  \"Cozy.\"",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, that's a compliment.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "No, it's code for \"smaller than hers\".  [_to waiter_] Cappuccino, please.  [_She sits_] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "She wraps every insult up in a compliment, and when I try to call her on it she just says \"Huh?  I was trying to be nice, you're so sensitive.\"  And of course, everything in her life is so perfect.  Her home, her husband, the stretch of highway she keeps clean.  She's so competitive.  [_The waiter brings her coffee._] ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Thank you.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, if it's any comfort, Niles has been perfectly insufferable of late.  This whole Maris affair has gained him some minor notoriety, he's been... flaunting it like a tattered boa.  I'm trying to do the right thing and rise above it, of course, but there are times I just want to step on his feet.  And hard, too.  [_Roz's sister, Denise, walks in._] ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Denise!  [_Frasier rises to greet her._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "How do you do?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Denise"
+    },
+    {
+        "speaker": "Denise",
+        "text": "Frasier, hi.  [_She kisses him on the cheek._]  [_N.B. Sometime between \"Guilt Trippers,\" and this episode, Roz probably told Denise that Frasier wasn't her boyfriend Roger._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Denise"
+    },
+    {
+        "speaker": "Denise",
+        "text": "Well, you are looking very distinguished.",
+        "prevSpeaker": "Denise",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Thank you.  [_She turns to put her coat up as Frasier sits down._] ",
+        "prevSpeaker": "Denise",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "That's code for \"old\".",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I know.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Denise"
+    },
+    {
+        "speaker": "Denise",
+        "text": "I am so sorry I'm late.  Craig called.  The poor thing, he misses me so much it's just impossible to get him off the phone.  [_She sits and grabs a shopping bag._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Denise"
+    },
+    {
+        "speaker": "Denise",
+        "text": "I hope this makes it up to you.  Now, Roz, I know you love your sports wear, but trust me, men like women who wear dresses once in a while.",
+        "prevSpeaker": "Denise",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "So you've said.  [_She takes the bag._] ",
+        "prevSpeaker": "Denise",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Denise, having fun on your trip?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Denise"
+    },
+    {
+        "speaker": "Denise",
+        "text": "Oh, yes.  Staying with Roz is so much fun, it's sort of like camping.  [_Her cell phone rings and she answers._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Denise"
+    },
+    {
+        "speaker": "Denise",
+        "text": "Hello? [_to Frasier_]  It's my contractors.  Take my advice: never build a pool house.  [_She hands a magazine to Roz._] ",
+        "prevSpeaker": "Denise",
+        "nextSpeaker": "Denise"
+    },
+    {
+        "speaker": "Denise",
+        "text": "Oh, hon?  I picked us up a Seattle Magazine so we can find some fun things to do this week.  [_She gets up, Roz pulls the dress out of the bag._] ",
+        "prevSpeaker": "Denise",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Does that include rolling it up, turning it sideways and....",
+        "prevSpeaker": "Denise",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Now, Roz.  At least she's trying.  She did get you a gift, after all.  And look, it's very chic and expensive, I'm sure.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Oh, and two sizes too small.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "All right, she's a bitch.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Thank you.  [_Kenny walks in._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "Hey, hey!  It's Mr. SeaBeas!",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "The nominations are in?",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "Yep.  Two of 'em!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Roz!",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Oh, yay!  [_Kenny sits._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "Actually, Roz, they're both for Frasier.  You're up for best host and best informational special, which gives you the lifetime record for most nominations.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, my God, I'm, I'm so flattered.  I hope you two will join me at my table.",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Oh, those awards are torture, they're endless.  Can I bring my sister?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Of course.  [_Niles walks in, talking on his cell phone._] ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh look.  It's Niles.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "You gonna tell him you broke the SeaBeas record?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "If it comes up.",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "You know, Doc, we should take advantage of this thing.  I got a friend at the Seattle Times who owes me one.  I could ask him to write a big profile on you.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Thank you, no, Kenny.  Let others engage in that sort of shameless self-promotion.  I'm not interested in playing that sort of game.  Oh, Niles.",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Hi.  Listen, Frasier, I'm so sorry, I have to cancel tonight. I'm going to hear Tony Bennett.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, really.  Where's he playing?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "At Frank Geary's birthday party.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, speaking of glamorous parties, Niles, wait until...",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, is that Seattle Magazine?  I was hoping you hadn't seen it.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Seen what?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, nothing, nothing.  It's a silly thing.  Page thirty.  [_Roz flips to the page as Frasier glowers._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Oh, it's one of those \"What's Hot/What's Not\" lists.  I love these.  \"Heirloom Tomatoes - Hot, Sun Dried Tomatoes - Not\".",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Give me that.  [_He grabs the magazine._] ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Uh huh.  \"Dr. Niles Crane - Hot, Dr. Frasier Crane...\" well, you can see where they're going with this.  Well, we'll just see who's not hot when the winter/spring issue of Seattle Broadcaster comes out.  For your information, Niles, I have recently...  [_Niles cell phone rings._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Excuse me, I am so sorry.  [_He answers it as Kenny gets up._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "I'm gonna get some coffee.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Hello?  Hello, Daphne.  A delivery from Bill and Mindy! Aren't they sweet?  [_Frasier quietly fumes._] ",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "No, don't uncrate it until I get home!  [_He hurries out.  Frasier gets up and goes over to Kenny, who has his cell phone out._] ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Kenny, about that article...",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "Way ahead of you, Doc. [_into phone_]  No, he'll make for a great profile: SeaBeas record holder, doctor, big ladies man, the whole ball of wax.  Well, you can ask him yourself.  [_He hands the phone to Frasier._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Hello?  Yes, well, when would be a good time for you?  Oh, I've just had the greatest idea: Why don't you interview me while we're at the SeaBee Awards?  Yes, it will be a freewheeling chat against a glittering backdrop. Splendid!  I will see you anon.  [_He hands the phone back to Kenny and goes back to his table with a smile._] ",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "[_into phone_] Hey.  No, he always talks like that.  [_Frasier sits back down next to Roz._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Why are you taking him to the SeaBeas?",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Because I want to see him at my best, Roz.  Do you realize, I'm giving the opening remarks this year?  And if I do say so myself, they will change you.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Yeah, from an awake person to a sleeping one.  [_Caroline walks in and Frasier gets a cunning look._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Perfect!  All I was lacking was the appropriate piece of arm candy to accompany me and there she is.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Who's she?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_rising_]  A neighbor of mine in the building, whose acquaintance I have recently made.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Oh, right, Daphne told me you pulled that old mail trick out of mothballs.  [_Frasier glares, then walks over to Caroline._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Caroline?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Caroline"
+    },
+    {
+        "speaker": "Caroline",
+        "text": "Frasier, hello.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Hello, good to see you.",
+        "prevSpeaker": "Caroline",
+        "nextSpeaker": "Caroline"
+    },
+    {
+        "speaker": "Caroline",
+        "text": "Cappuccino, to go.  Thank you so much for those flowers.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, gosh, it was the least I could do after that stumblebum of a mailman made you do his job for him.",
+        "prevSpeaker": "Caroline",
+        "nextSpeaker": "Caroline"
+    },
+    {
+        "speaker": "Caroline",
+        "text": "Oh, I'd send him a complaint letter if I think he'd get it.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, delightful.  Listen, I hope this isn't too bold, but you see, I've been nominated for a broadcast award, twice actually, and, well, there's a black tie gala on Saturday night and I was hoping you could accompany me.",
+        "prevSpeaker": "Caroline",
+        "nextSpeaker": "Caroline"
+    },
+    {
+        "speaker": "Caroline",
+        "text": "Thank you, I'd love to.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Fantastic.  I'll pick you up around seven-thirty.  [_Caroline turns back to the counter and Frasier goes back to the table._] ",
+        "prevSpeaker": "Caroline",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, I've worked my magic!  That magnificent creature will be accompanying me on Saturday night!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Frasier, the awards are Saturday morning.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well... of course they're not.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Yes, they are.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Roz, who would ever plan an awards ceremony on a Saturday morning?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Kenny was in charge this year, he booked the room too late.  [_Caroline gets her coffee and passes by on her way out._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Caroline"
+    },
+    {
+        "speaker": "Caroline",
+        "text": "See you this weekend.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yeah, bye-bye.  [_She starts to leave._] ",
+        "prevSpeaker": "Caroline",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, don't forget I'll pick you up seven-thirty, Saturday morning.  Bye-bye.  [_He holds still, wondering if he got away with it.  Caroline stops at the door and comes back._]   **MISSING**  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_rising_]  I did mention that, didn't I?  Oh, gosh, it seems the SeaBeas is going to be a cheery breakfast event this year.  But the good news is, actually I'll be able to get you home by noon.  Bye-bye.  [_He tries to sit down but Caroline stops him._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Caroline"
+    },
+    {
+        "speaker": "Caroline",
+        "text": "I don't think that's going to work for me.  I have Pilates on Saturdays.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, gosh, I wish you'd said something sooner.",
+        "prevSpeaker": "Caroline",
+        "nextSpeaker": "Caroline"
+    },
+    {
+        "speaker": "Caroline",
+        "text": "Sorry.  Bye-bye.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yeah.  [_She heads out and he dejectedly sits._] ",
+        "prevSpeaker": "Caroline",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Oh, you can't blame her, Frasier.  Who wants to get in hair and makeup at eight in the morning?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, somebody better.  I'm being profiled, it's going to look like I can't even scare up a date.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "You scared that one pretty good.  [_Frasier sits, glowering.  Fade out._]  _Act 2**WANDERING EYE**  Scene 1 - The SeaBea Awards_  [_Fade in.  Frasier is seated at his table in the banquet room, talking on his cell phone._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Cindy, where are you?  Listen, this thing's about to start. Well, I'm sorry you broke your heel, but can't you just put on a different pair of shoes?  Oh, your actual heel. Ouch.  Well, uh, feel better.  [_He hangs up as Roz and Denise come in.  Denise is wearing the dress she gave to Roz._] ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Denise"
+    },
+    {
+        "speaker": "Denise",
+        "text": "Roz, are you sure this dress didn't fit you?  Because I'm just swimming in it.  [_Roz grabs a passing waiter._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Okay, two Bloody Marys, please.  And there's a twenty in it for you if one of 'em's poisoned.  I don't even care which one.  [_Frasier gets up to greet them._] ",
+        "prevSpeaker": "Denise",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "There's a face I'm happy to see.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Frasier.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Not you, Roz.  Listen, Denise, uh, could you do me a small favor?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Denise"
+    },
+    {
+        "speaker": "Denise",
+        "text": "Mm-hmm?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You see, my date didn't show up and there's a reporter here today doing a story on me and could you pretend to be my date?",
+        "prevSpeaker": "Denise",
+        "nextSpeaker": "Denise"
+    },
+    {
+        "speaker": "Denise",
+        "text": "Well, sure.  [_They al sit._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Denise"
+    },
+    {
+        "speaker": "Denise",
+        "text": "[_to Roz_]  First the valet hits on me and now this.  [_Roz fumes as Kenny and Martin come over with plates._] ",
+        "prevSpeaker": "Denise",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "Hi guys.",
+        "prevSpeaker": "Denise",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, hi.",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Some spread.  I got pigs-in-a-blanket lying on an omelet pillow.  And check it out: it snowed cheese.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "Roz, Larry Gamba couldn't make it, so if he wins can you accept for him?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Sure, Kenny.  Nothing takes the sting out of not being nominated like accepting an award for my former intern.",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Denise"
+    },
+    {
+        "speaker": "Denise",
+        "text": "Now, Roz, don't frown.  Those lines don't go away.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "Oh, hey there, Randy, over here.  This is the reporter.  [_He and Frasier get up._] ",
+        "prevSpeaker": "Denise",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "Here he is, the Doc himself.",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Lovely to see you, thanks for coming.",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "And this is Roz Doyle, his ace producer.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, yes and this is my dad, Martin Crane.  Dad, could you move over one for Randall?",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh, sure.  [_He and Kenny shift over to make room for Randy._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "And I'd like you to meet my date, the lovely and talented Denise Dawson.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Denise"
+    },
+    {
+        "speaker": "Denise",
+        "text": "Oh, honey, stop it.  It's a pleasure to meet you.  [_They shake and Frasier and Randy sit down._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "So, I'm so glad you can join us on our gala morning.",
+        "prevSpeaker": "Denise",
+        "nextSpeaker": "Randy"
+    },
+    {
+        "speaker": "Randy",
+        "text": "Is this thing always so early?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No, but then the SeaBeas have always been the wayward maverick of awards shows.  In fact I kind of touch on that in my opening remarks, while hewing to my original theme: Communication as the Engine of Social Progress.",
+        "prevSpeaker": "Randy",
+        "nextSpeaker": "Randy"
+    },
+    {
+        "speaker": "Randy",
+        "text": "Sounds great.  [_grabbing a waiter_]  Could I get a big cup of coffee, please?  [_He jots down some notes while Frasier notices his brother at the door._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "What's Niles doing here?",
+        "prevSpeaker": "Randy",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh, I gave him Ronee's ticket.  She said she hated to miss 'em but she didn't want to come.  [_Niles comes over._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I'm sorry I'm late, I had to distribute some sound bites.  [_He sits down, Randall leans across he table to shake his hand._] ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Randy"
+    },
+    {
+        "speaker": "Randy",
+        "text": "That's quite all right, Dr. Crane, I'm very excited to meet you.  Randall Schoonover, the Seattle Times.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Hello.",
+        "prevSpeaker": "Randy",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "He's doing a profile of me.  A Day in the Life of Frasier Crane.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Randy"
+    },
+    {
+        "speaker": "Randy",
+        "text": "But if there's anything you'd like to tell my readers...",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, thank you, I'm just here to support my brother.  [_Randy jots this down._] ",
+        "prevSpeaker": "Randy",
+        "nextSpeaker": "Randy"
+    },
+    {
+        "speaker": "Randy",
+        "text": "Supports his brother.  [_Frasier glares at Niles, then hears some light music._] ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, I guess it's time for me to give my opening remarks.  [_He gets up._] ",
+        "prevSpeaker": "Randy",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You just sit tight and I'll be back in twenty minutes.  [_He walks over to the podium but is stopped by the band leader._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Bandleader"
+    },
+    {
+        "speaker": "Bandleader",
+        "text": "You want to give me a cue so I know when to play you off stage?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Ah, you will feel the pace quicken as I build to my climax, which is a grim verbal picture of the world without broadcasting.",
+        "prevSpeaker": "Bandleader",
+        "nextSpeaker": "Bandleader"
+    },
+    {
+        "speaker": "Bandleader",
+        "text": "Just tell me the last words.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I'll say \"Thank you.\"  [_N.B. The bandleader is the same one from Season 3's[[3.13]](/frasier/transcripts/season_3/episode_13/moon_dance.html \"Moon Dance\")_]  [_He takes to the stage as the crowd politely claps._] ",
+        "prevSpeaker": "Bandleader",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Good morning.  I'm Dr. Frasier Crane and it is my great honor to stand before you, my fellow luminaries and welcome you to the Seattle Broadcasting Awards.  I hope to do justice to the dignity of this most august occasion.  [_A chef steps up and whispers in his ear._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I've been asked to inform everyone that we are running low on sausage.  So if you would please limit yourselves to one link or patty.  Thank you.  [_The band strikes up._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I'm not finished.  [_A young woman, Plum, comes up to lead him off._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Plum"
+    },
+    {
+        "speaker": "Plum",
+        "text": "Thanks, Frasier.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, thank you.  [_He steps down._] ",
+        "prevSpeaker": "Plum",
+        "nextSpeaker": "Plum"
+    },
+    {
+        "speaker": "Plum",
+        "text": "Now, who wants to hand out some hardware?  [_Dissolve to - later.  A slide show of people with \"IN MEMORIAM\" and the dates of their births/deaths below the pictures is shown on a screen._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Plum"
+    },
+    {
+        "speaker": "Plum",
+        "text": "Angela DiStefano, Keith Meebly and Chet Harding, the legendary host of \"It's Your Dime\".",
+        "prevSpeaker": "Plum",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "So many greats this year.  [_Frasier brings some orange juice to Denise._] ",
+        "prevSpeaker": "Plum",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "This is for you, my dear.  [_Denise's cell phone rings and she answers it as Frasier sits._] ",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Denise"
+    },
+    {
+        "speaker": "Denise",
+        "text": "Hello?  Oh, hi Craig.  [_to Frasier_]  Honey?  I've got to take this.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Okay.  Hurry back, love.  [_She gets up and steps away._] ",
+        "prevSpeaker": "Denise",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "So, Randy, where were we?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Randy"
+    },
+    {
+        "speaker": "Randy",
+        "text": "Your brother was just telling me how Maris is coping with jail.  So, is it true that Maris tried to break out?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, no, no, no.  Her eyebrow pencil simply rolled out of her cell and she went to get it.  It's really the jail's fault for making those bars so far apart.  [_Frasier gives Niles a look._] ",
+        "prevSpeaker": "Randy",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "This is really my brother's day.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Plum"
+    },
+    {
+        "speaker": "Plum",
+        "text": "And now the nominees for best informational special.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "Doc, this is you!",
+        "prevSpeaker": "Plum",
+        "nextSpeaker": "Plum"
+    },
+    {
+        "speaker": "Plum",
+        "text": "Riley Austin for \"Underground Skateboarder,\" Harper Norton for \"Inside the Statehouse,\" and Dr. Frasier Crane for \"The Young Person's Guide to Depression.\"  And the winner is:  Riley Austin!  [_Everyone applauds and a very young man goes up to the stage.  Frasier has a very poor fake smile on his face as he claps.  Randy gets up._] ",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Randy"
+    },
+    {
+        "speaker": "Randy",
+        "text": "I'm just gonna track down some Sweet 'n' Low.  [_He walks away._] ",
+        "prevSpeaker": "Plum",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, Niles, you should have powdered your nose if you planned to spend so much time in my spotlight.",
+        "prevSpeaker": "Randy",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I was just making conversation!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, stop it!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Knock it off, you two!  If you can't share this reporter, I'm gonna ask him to leave.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "Roz, get ready, this is Larry's category.  [_Denise comes back, in tears._] ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Denise"
+    },
+    {
+        "speaker": "Denise",
+        "text": "I can't believe that this happened.",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, it's all right.  I'm still up for best host.",
+        "prevSpeaker": "Denise",
+        "nextSpeaker": "Denise"
+    },
+    {
+        "speaker": "Denise",
+        "text": "Craig is leaving me.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "What?",
+        "prevSpeaker": "Denise",
+        "nextSpeaker": "Denise"
+    },
+    {
+        "speaker": "Denise",
+        "text": "He met someone else.  I can't believe this is happening to me.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Plum"
+    },
+    {
+        "speaker": "Plum",
+        "text": "And the winner is: Larry Gamba for KACL",
+        "prevSpeaker": "Denise",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "Roz, get up there.",
+        "prevSpeaker": "Plum",
+        "nextSpeaker": "Denise"
+    },
+    {
+        "speaker": "Denise",
+        "text": "This is so terrible.",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "[_rising_] I know, I know.",
+        "prevSpeaker": "Denise",
+        "nextSpeaker": "Denise"
+    },
+    {
+        "speaker": "Denise",
+        "text": "How would you know what it's like to lose a husband, Roz? You never even had one!  [_Roz heads to the stage and takes the award._] ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Plum"
+    },
+    {
+        "speaker": "Plum",
+        "text": "Accepting the award is Roz Doyle.",
+        "prevSpeaker": "Denise",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Um, thanks, Plum.  Larry couldn't be here today, but if he were here, he would say, um...  [_She glances at her sobbing sister._] ",
+        "prevSpeaker": "Plum",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "\"YES!  Thank you, God!  Yes!  This is the best day of my entire life!\" [_hugging Plum_] \"I've just been waiting for this since I was a little girl.  Yes!  You have no idea how much this means to me!  YES!\"  [_The band plays her off as she jumps for joy, shaking everyone's hands._] ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Denise"
+    },
+    {
+        "speaker": "Denise",
+        "text": "I hate men!",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Now, now, Denise....  [_Randall comes back and sits down._] ",
+        "prevSpeaker": "Denise",
+        "nextSpeaker": "Denise"
+    },
+    {
+        "speaker": "Denise",
+        "text": "Shut up!  You're all the same.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No, listen, Denise...  [_He tries to take her hand._] ",
+        "prevSpeaker": "Denise",
+        "nextSpeaker": "Denise"
+    },
+    {
+        "speaker": "Denise",
+        "text": "Get your hands off me!  Stop it!  [_She breaks into huge sobs.  Frasier notices Randall taking more notes._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "There's no need for you to write that down.",
+        "prevSpeaker": "Denise",
+        "nextSpeaker": "Plum"
+    },
+    {
+        "speaker": "Plum",
+        "text": "And now the nominees for best radio call-in host...",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "Better get ready, Doc, this one has your name on it.",
+        "prevSpeaker": "Plum",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well it better, because this whole show has been a nightmare. Except it can't be a nightmare because it's MID-MORNING!",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Plum"
+    },
+    {
+        "speaker": "Plum",
+        "text": "And the SeaBea goes to:  the late Chet Harding for \"It's Your Dime\".",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Sorry, Son, you can't beat a dead guy.",
+        "prevSpeaker": "Plum",
+        "nextSpeaker": "Denise"
+    },
+    {
+        "speaker": "Denise",
+        "text": "Dead!  That's the best kind of guy!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Randy"
+    },
+    {
+        "speaker": "Randy",
+        "text": "Well, I think maybe I have enough.  [_He gets up, Frasier hurries to head him off._] ",
+        "prevSpeaker": "Denise",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No, please, don't go.  Listen, the show will be over very soon.  They actually have a bat mitzvah booked for noon so maybe we could finish up in the lobby.",
+        "prevSpeaker": "Randy",
+        "nextSpeaker": "Randy"
+    },
+    {
+        "speaker": "Randy",
+        "text": "Okay, I'll get my coat.  I hope you can join us, Niles.  [_He walks off.  Frasier smiles after him, then grabs a chair and sits next to Niles, furious._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Don't you dare!  You have been monopolizing that man's time all morning.",
+        "prevSpeaker": "Randy",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "You should thanking me for distracting him from this circus!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You should talk!  You've been the ringmaster of your own media circus for the last week!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "And it's killing you, isn't it?!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "If you think I am jealous of your tawdry notoriety, then you don't know who I am.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Just like most of the people in this city!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You go too far!  [_He jumps to his feet, knocking his chair backwards, which sends a man stumbling into a waiter, causing a chain reaction into another waiter who flies across a table and knocks over a diner as people scream and gasp.  As Frasier stands there, stunned, Kenny pushes through the crowd to him._] ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "Doc, that's Jerry Edwards.  He's supposed to close the show.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Is he all right?  [_The man rises, clutching his face._] ",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "Oh, no.  You knocked his glass eye out.  Well, you're gonna have to close the show for him.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "What?",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "Well, you took him out!  And you'll be the only guy in history to open and close the SeaBeas.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Really?  Nobody's ever done it before?  But...I don't have anything prepared.",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "Don't worry, it's all on the teleprompter.  [_He rushes Frasier to the stage._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "Now, get up there and sing.  It's to the tune of \"Moon River\".  [_As he takes the stage and the band begins playing, Martin turns from the buffet.  There is the clinking sound of glass and he looks down._] ",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh, think I just kicked somethin'.",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "The SeaBeas, now are at an end We hope you've made a friend Or two...  [_Denise slaps at Roz, who is trying to comfort her._] ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "And the SeaBeas Have great freebies, Just pick up your bag At the door to your right.  [_Most of the guests are searching for the glass eye and ignoring him._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "Found it!  [_He triumphantly hold up his hand._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "That's an olive.",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "The SeaBeas, we hope your day was great, And, yes, we validate, Right there.  [_A valet takes Randy's parking slip.  He tries to catch it back, then just follows him out._] ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "See Rico, Eduardo or Jen, They'll bring it round the bend, A Hyundai or a Benz The SeaBeas are through.  [_Frasier gazes out on the chaos, then just purses his lips and walks off stage.  Fade out._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Credits"
+    }
+]

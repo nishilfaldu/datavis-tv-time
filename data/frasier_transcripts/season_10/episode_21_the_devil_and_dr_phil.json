@@ -1,0 +1,1311 @@
+[
+    {},
+    {
+        "speaker": "Frasier",
+        "text": "Dad, why aren't you dressed?  It's four in the afternoon.",
+        "prevSpeaker": "No Previous Speaker",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh, I've been workin' nights.  My body clock's off.  I'm eating bacon and eggs at night and drinking beer in the morning.  [_He pours himself a cup of coffee._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "That's what you always do.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Yeah, but now I'm tired all the time.  [_He takes his coffee and sits in his chair._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "There must be some way to end this fight with your boss.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "What's the problem?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh, he wants me to date his sister and I won't do it so he's put me on graveyard 'til I cave.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, he can't do that.  Why don't you file a complaint?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "I'd just as soon keep it just between the two of us.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I see.  Is this woman really so repulsive that you're willing to sacrifice all your nights just to avoid a date with her?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well, let me put it this way: years of chewing tobacco have discolored her tooth.  [_He breaks out laughing._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Someone left a book of one-liners in the lost and found. [_pointing to the television_]  Hey, Fraizh, there's your friend again.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Dr. Phil?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Announcer"
+    },
+    {
+        "speaker": "Announcer",
+        "text": ":  [_from the TV_] ...Dr. Phil McGraw, in person.  [_The scene shifts to show the television.  Dr. Phil is on._] ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Phil"
+    },
+    {
+        "speaker": "Phil",
+        "text": "I'll be talking about life strategies at the State Theater Friday through Sunday.  Come join us, it might just change your life.  [_Cut to - the living room._] ",
+        "prevSpeaker": "Announcer",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Now there's a doctor.  [_Frasier looks put out by this._] ",
+        "prevSpeaker": "Phil",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "I never knew you were friends with Dr. Phil.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Some years back we found ourselves running into each other at seminars and conferences.  He's an excellent therapist. We had a bit of a clash over ethics.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Oh, really.  What did you do, sleep with a patient?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Not MY ethics, his.  The man bilked me out of two hundred dollars in a card game.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "He did not bilk you, it's called a one-eyed jack.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, yes, there is one eye, but the other eye is there by implication!  Therefore, the hand should have been a do-over. And you can ask Niles about this too!  As far as I'm concerned, the man owes me two hundred dollars.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "This guy is so cheap, he could squeeze a nickel 'til the buffalo chokes.  [_He laughs again.  Frasier and Daphne roll their eyes._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Dad, exactly how old is this book of one-liners?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "How old?  You're asking me how old?  Well, I'll tell you how old.  [_He picks up the joke book and opens it._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "1956.  [_Frasier looks to Daphne, who's just shaking her head.  Fade out._]   [_Fade in.  Frasier and Roz are at a table together._] ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Oh, Frasier.  Daphne told me all about Dr. Phil.  I can't believe you know him.  Do you think you can get me in backstage?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Roz, I really hadn't planned on seeing him.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Oh, jealous, huh?  That's okay, I understand.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I most certainly am not jealous. The man happens to owe me two hundred dollars.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Right.  But you know who could help you with your jealousy? Dr. Phil.  He'd be like \"So your jealousy of me has taken over your life.  How's that workin' for ya?\"",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, and I'd be like \"Fine.  My money, sir.\"",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Please?  Please do it for me, please?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, all right, all right.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Oh, thank you.  [_She grabs her things and gets up._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "All right, I'll see you at work.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yeah, okay.  [_She heads for the door and Gertrude brings Frasier's coffee over._] ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Gertrude"
+    },
+    {
+        "speaker": "Gertrude",
+        "text": "Here ya go.  I couldn't remember if you wanted it black or not, so I brought it both ways.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, that's very thoughtful of you.  Thank you.  [_He hands back the unwanted cup._] ",
+        "prevSpeaker": "Gertrude",
+        "nextSpeaker": "Gertrude"
+    },
+    {
+        "speaker": "Gertrude",
+        "text": "No, you might as well keep it, you're payin' for both.  [_She walks off.  Daphne and Niles walk in and join Frasier._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Hello.",
+        "prevSpeaker": "Gertrude",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, hi, Daph.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Niles, look who's here.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, isn't that adorable?  You see this couple, we've seen them in the park a few times.  They're so sweet together. We like to think of them as us when we're older.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Look how old Niles still puts his jacket around old Daphne's shoulders.  [_The old woman kisses her companion._] ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, she's still a saucy little kitten.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "And I'll be he still rolls over in the middle of the night.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, the picture is gotten, thank you.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, I think I've found old Frasier.  [_Daphne looks around._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Oh, yeah.  [_Frasier turns around to see an old man sitting on the window bench, knitting._] ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I see.  Well I hope the two of you will understand if, in future, I choose to knit scarves only for myself.  [_He gets up._] ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, come on, we were only joking.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, I know, it's all in good fun.  Oh, Niles, I just remembered, I...",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Man"
+    },
+    {
+        "speaker": "Man",
+        "text": "Shut up!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Excuse me?",
+        "prevSpeaker": "Man",
+        "nextSpeaker": "Man"
+    },
+    {
+        "speaker": "Man",
+        "text": "Shut up!  We're trying to knit!  [_Frasier glares at the old man and walk out.  Fade out._]   [_Fade in.  Dr. Phil comes backstage, wiping his brow.  There is loud applause from the auditorium.  Roz and Frasier are standing behind a security rope._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Dr. Phil!  Dr. Phil, over here!",
+        "prevSpeaker": "Man",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Roz, please!  At least attempt to be cool.  Phil, Phil!",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Phil"
+    },
+    {
+        "speaker": "Phil",
+        "text": "Well Frasier Crane, is that you?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Most assuredly.",
+        "prevSpeaker": "Phil",
+        "nextSpeaker": "Phil"
+    },
+    {
+        "speaker": "Phil",
+        "text": "Oh, it's you all right.  [_He comes over and they pat each other on the back._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Phil"
+    },
+    {
+        "speaker": "Phil",
+        "text": "So, how are you?",
+        "prevSpeaker": "Phil",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I'm fine, I'm fine.  How's Robin?",
+        "prevSpeaker": "Phil",
+        "nextSpeaker": "Phil"
+    },
+    {
+        "speaker": "Phil",
+        "text": "She's great.  Can you believe it?  We're goin' on twenty- seven years.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Congratulations.",
+        "prevSpeaker": "Phil",
+        "nextSpeaker": "Phil"
+    },
+    {
+        "speaker": "Phil",
+        "text": "And how's Lilith?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, we've been divorced now for ten years.",
+        "prevSpeaker": "Phil",
+        "nextSpeaker": "Phil"
+    },
+    {
+        "speaker": "Phil",
+        "text": "Congratulations.  [_The slap each other on the back again, laughing.  Roz reaches out and shakes his hand._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Hi, I'm Roz Doyle, I'm Frasier's producer.  I just think you're wonderful, I think your show is great and you're truly a wise man, do you know Tom Hanks?",
+        "prevSpeaker": "Phil",
+        "nextSpeaker": "Phil"
+    },
+    {
+        "speaker": "Phil",
+        "text": "Uh, no.  But thanks for the compliment.  [_He motions to a security man._] ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Phil"
+    },
+    {
+        "speaker": "Phil",
+        "text": "They'll come on through.",
+        "prevSpeaker": "Phil",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, thank you, thanks.  [_He and Roz follow Phil across the backstage area._] ",
+        "prevSpeaker": "Phil",
+        "nextSpeaker": "Phil"
+    },
+    {
+        "speaker": "Phil",
+        "text": "Come on.  So, Frasier, how's your show?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, huge.  Thank you.",
+        "prevSpeaker": "Phil",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "We just added Spokane last year.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "And a station in St. Paul... has agreed to let me send them a tape.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Phil"
+    },
+    {
+        "speaker": "Phil",
+        "text": "Can you believe after all that time we spent in the seminars that we both turned out to be broadcasters?  Boy, those were some good times, weren't they?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, indeed they were.  Although... sometimes the fun and games were lacking in fun.",
+        "prevSpeaker": "Phil",
+        "nextSpeaker": "Phil"
+    },
+    {
+        "speaker": "Phil",
+        "text": "Are you still whinin' about that two hundred bucks?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, it's the principle of the thing!  I'll tell you what, I'll tell you what, why don't we just discuss it over dinner?",
+        "prevSpeaker": "Phil",
+        "nextSpeaker": "Phil"
+    },
+    {
+        "speaker": "Phil",
+        "text": "Love to, can't.  I am so busy: personal appearances and book signings and interviews.  I've got this agent that's got me goin' twenty five/eight.  In fact, speak of the devil, here she comes.  [_Bebe Glaser, Frasier's former agent, comes over and hugs Phil._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Bebe"
+    },
+    {
+        "speaker": "Bebe",
+        "text": "Phil, darling!  That was sensational.",
+        "prevSpeaker": "Phil",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Bebe?",
+        "prevSpeaker": "Bebe",
+        "nextSpeaker": "Bebe"
+    },
+    {
+        "speaker": "Bebe",
+        "text": "Frasier!  And Roz too.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Phil"
+    },
+    {
+        "speaker": "Phil",
+        "text": "You guys know each other?",
+        "prevSpeaker": "Bebe",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "She's my agent.",
+        "prevSpeaker": "Phil",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "And she used to be mine.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Bebe"
+    },
+    {
+        "speaker": "Bebe",
+        "text": "Phil, there's a swarm of reporters in your dressing room just waiting to talk to you.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Phil"
+    },
+    {
+        "speaker": "Phil",
+        "text": "I probably should be going, actually, but Roz, it was really nice to meet you.  And Frasier, tell you what, let's do e-mail.",
+        "prevSpeaker": "Bebe",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Okay.  [_Phil walks off._] ",
+        "prevSpeaker": "Phil",
+        "nextSpeaker": "Bebe"
+    },
+    {
+        "speaker": "Bebe",
+        "text": "Isn't he marvelous?  He's a cowboy wrapped in a genius wrapped in a dream... wrapped in another cowboy.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "I cannot believe that I have the same agent as Dr. Phil!",
+        "prevSpeaker": "Bebe",
+        "nextSpeaker": "Bebe"
+    },
+    {
+        "speaker": "Bebe",
+        "text": "Actually, you don't.  Somebody as big as Dr. Phil needs all of my attention.  But rest assured you are being handled ably by an agent in whom I have the utmost confidence.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Who is it?",
+        "prevSpeaker": "Bebe",
+        "nextSpeaker": "Bebe"
+    },
+    {
+        "speaker": "Bebe",
+        "text": "I want to say Tim...",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "I think I need to make a phone call.",
+        "prevSpeaker": "Bebe",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yeah.  [_She rushes off._] ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "So, Bebe.  However did you land Dr. Phil?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Bebe"
+    },
+    {
+        "speaker": "Bebe",
+        "text": "We met about a year ago a a charity donkey basketball game.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Donkey basketball?",
+        "prevSpeaker": "Bebe",
+        "nextSpeaker": "Bebe"
+    },
+    {
+        "speaker": "Bebe",
+        "text": "Texas, darling.  It's like the symphony to them.  Long story short, I gave him some advice and finally he hired me full time.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, congratulations.",
+        "prevSpeaker": "Bebe",
+        "nextSpeaker": "Bebe"
+    },
+    {
+        "speaker": "Bebe",
+        "text": "You can't imagine the connections I have these days.  If only you and I had... well, that's water under the bridge, I guess. It's fun catching up, but Phil's interviewing stylists for the Emmys.  Bye, Frasier.  [_She heads off as Roz comes back._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "What a phony, huh?",
+        "prevSpeaker": "Bebe",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_crestfallen_]  She used to be my phony.  [_He stands there in misery.  Fade out._]   [_Fade in.  Frasier is on the couch, Martin comes in from the kitchen._] ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Dad, do you think I did the right thing, changing agents? I mean, the one I have now is fine, but after I've seen what Bebe's done for Phil, I can't help wondering if maybe I've denied myself access to a wider world.  [_Martin stares at him, unfocused._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Dad, are you all right?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh, I'm sorry.  I haven't talked to anybody for a few days, it feels kinda strange.  Even this is makin' me a little uncomfortable.  [_He heads for his room._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Dad, you have got to stop with the graveyard shifts or you're going to start seeing apparitions.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "No, don't worry about me, I'm pretty tough.  Listen, I'd love to stay here talkin' to you, but all this sunlight is makin' me dizzy.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "What, you don't like the sun?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Us night-shift guys call it \"the scare ball.\"  [_He goes off to his room as the doorbell rings.  Frasier gets up and answers it to reveal Bebe holding a box._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, Bebe.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Bebe"
+    },
+    {
+        "speaker": "Bebe",
+        "text": "Hello, darling, I came across this old box of Frasier strategy memos and I thought I'd bring them by to you.  [_He takes the box and puts it down as she comes in._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, I didn't realize there was so much.",
+        "prevSpeaker": "Bebe",
+        "nextSpeaker": "Bebe"
+    },
+    {
+        "speaker": "Bebe",
+        "text": "And you thought I didn't work hard.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Now, now there's no need to take that tone, things have certainly worked out okay for you, wouldn't you say?",
+        "prevSpeaker": "Bebe",
+        "nextSpeaker": "Bebe"
+    },
+    {
+        "speaker": "Bebe",
+        "text": "Too true.  But I can't be blamed for being a bit of a bitter Bebe.  No one likes being tossed aside for a younger woman.  [_She sits on the couch._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, Bebe, you know very well I only changed agents because you were ignoring me in favor of another client.  [_He sits down next to her._] ",
+        "prevSpeaker": "Bebe",
+        "nextSpeaker": "Bebe"
+    },
+    {
+        "speaker": "Bebe",
+        "text": "I wasn't ignoring you!  I was only getting some much needed critical distance for a final glorious Frasierian push.  But let's not rehash the past.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Agreed.  We accomplished too much together to stop being friends now.",
+        "prevSpeaker": "Bebe",
+        "nextSpeaker": "Bebe"
+    },
+    {
+        "speaker": "Bebe",
+        "text": "True.  Frasier, have you ever wondered what it would be like if I could apply what I've learned to you?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes I have.  But it cannot be.  Can it?",
+        "prevSpeaker": "Bebe",
+        "nextSpeaker": "Bebe"
+    },
+    {
+        "speaker": "Bebe",
+        "text": "Dangerous thoughts.  You're a siren, luring me to the rocks. But I must resist or you'll hurt me again.  [_She rises and Frasier follows suit._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No, I'm no siren, I'm a man.  A man with ambitions.",
+        "prevSpeaker": "Bebe",
+        "nextSpeaker": "Bebe"
+    },
+    {
+        "speaker": "Bebe",
+        "text": "\"Ambition.\"  The word is candy to me.  Damn you, devil-man, I must go.  I'm all confused and woozy...  [_She head for the door._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I understand.  But what about me?",
+        "prevSpeaker": "Bebe",
+        "nextSpeaker": "Bebe"
+    },
+    {
+        "speaker": "Bebe",
+        "text": "Very well.  Be at my hotel tonight for dinner.  Perhaps you'll show me just how serious you are.  [_She winks and exits to the elevator.  Frasier closes the door, a worried look crossing his face.  Fade out._]  _Act 2  Scene 1 - Cafe Nervosa_  [_Fade in.  Frasier and Niles are at a table._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I think I figured it out: Bebe wants to have sex with a human male to bring about the Apocalypse.",
+        "prevSpeaker": "Bebe",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Perhaps.  But here's my theory: Bebe's had a thing for me for years.  This, coupled with the fact that control is an aphrodisiac for her, it's not surprising to find that she hopes to parlay her advantage into a sexual conquest.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "But surely you don't intend to let the promise of wealth and exposure lure you into her bed.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "It's not gonna come to that.  It's all about the dance. It's all about the possibility of sex, the promise that's never delivered that keeps them tantalized.  One only needs to know how not to cross the line.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Excuse me, but didn't you sleep with her once?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, that's how I know where the line is.  I almost feel sorry for her.  Just another helpless woman suffering from an unslakable thirst for... Together:  Crane!  [_The clink their coffee cups._] ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Still, I can't help thinking there's something Faustian about this whole thing.  [_Frasier laughs as he gets up._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Faust was a moron.  I'm gonna be a star!  [_He leaves, passing Daphne as she comes in._] ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Hi, Daph.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Hello. [_to counterman_] A latte please.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Hello, Darling.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Hello.  [_They kiss._] ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Did you see who's here?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Yes.  [_As they sit, they look over at the \"Old Niles and Daphne\" at the window seat._] ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "I wonder if you'll still be stirring my coffee like that when we're in our golden years.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Yes.  And I know that a touch from you then will be just as sweet as it is today.  [_Another elderly woman (Mildred) comes in the door._] ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Mildred"
+    },
+    {
+        "speaker": "Mildred",
+        "text": "So this is where you've been going!  And with this tramp from water aerobics!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Old Daphne"
+    },
+    {
+        "speaker": "Old Daphne",
+        "text": "Who are you?",
+        "prevSpeaker": "Mildred",
+        "nextSpeaker": "Mildred"
+    },
+    {
+        "speaker": "Mildred",
+        "text": "I'm his wife!",
+        "prevSpeaker": "Old Daphne",
+        "nextSpeaker": "Old Daphne"
+    },
+    {
+        "speaker": "Old Daphne",
+        "text": "You're married?!",
+        "prevSpeaker": "Mildred",
+        "nextSpeaker": "Old Niles"
+    },
+    {
+        "speaker": "Old Niles",
+        "text": "I can explain!",
+        "prevSpeaker": "Old Daphne",
+        "nextSpeaker": "Mildred"
+    },
+    {
+        "speaker": "Mildred",
+        "text": "Don't bother, you worm!  [_She grabs him by the ear and drags him up._] ",
+        "prevSpeaker": "Old Niles",
+        "nextSpeaker": "Mildred"
+    },
+    {
+        "speaker": "Mildred",
+        "text": "You promised that was it the last time!  [_She slaps him on the back, pushing him out the door.  Niles and Daphne look very put off at this aspect of their \"future selves.\"  Fade out._]   **IF AT FAUST YOU DON'T SUCCEED...** [_Soft singing can be heard.  There is a knock at the door and Bebe answers it._] ",
+        "prevSpeaker": "Mildred",
+        "nextSpeaker": "Bebe"
+    },
+    {
+        "speaker": "Bebe",
+        "text": "Frasier, come in.  [_He enters._] ",
+        "prevSpeaker": "Mildred",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "How did you know it was me?",
+        "prevSpeaker": "Bebe",
+        "nextSpeaker": "Bebe"
+    },
+    {
+        "speaker": "Bebe",
+        "text": "I felt a certain tingle in the knob.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Indeed.  Well, I see Phil has landed you in the lap of luxury.",
+        "prevSpeaker": "Bebe",
+        "nextSpeaker": "Bebe"
+    },
+    {
+        "speaker": "Bebe",
+        "text": "Yes, it's a lovely suite.  Unfortunately, there's some sort of choir championship this weekend and they practice at all hours.  [_She closes the drapes._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Is it Madrigal Madness already?  I had no idea it was this close to Whitsun.",
+        "prevSpeaker": "Bebe",
+        "nextSpeaker": "Bebe"
+    },
+    {
+        "speaker": "Bebe",
+        "text": "Please, darling, sit.  I'll pour the champagne.  [_Frasier sits down._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I suppose a drop wouldn't hurt.  So, you give any thought to taking me on again?",
+        "prevSpeaker": "Bebe",
+        "nextSpeaker": "Bebe"
+    },
+    {
+        "speaker": "Bebe",
+        "text": "Yes I have.  And I have to say there's almost nothing I'd enjoy more.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Wonderful.  [_She hands him his champagne._] ",
+        "prevSpeaker": "Bebe",
+        "nextSpeaker": "Bebe"
+    },
+    {
+        "speaker": "Bebe",
+        "text": "But first, let's talk about what I'd enjoy more.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You want more than ten percent?",
+        "prevSpeaker": "Bebe",
+        "nextSpeaker": "Bebe"
+    },
+    {
+        "speaker": "Bebe",
+        "text": "I want you.  And \"yes\" to the other thing.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Gosh, Bebe.  I'm terribly flattered, it's just that, uh...",
+        "prevSpeaker": "Bebe",
+        "nextSpeaker": "Bebe"
+    },
+    {
+        "speaker": "Bebe",
+        "text": "Frasier, a few years ago I let down my guard and succumbed to your advances.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You seduced ME!",
+        "prevSpeaker": "Bebe",
+        "nextSpeaker": "Bebe"
+    },
+    {
+        "speaker": "Bebe",
+        "text": "It changed me, Frasier.  If I crave your touch again, you've only yourself to blame.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I'm not going to say that you're not a beautiful woman, but is it wise for us to jump into a relationship?  [_She starts running her hands over him._] ",
+        "prevSpeaker": "Bebe",
+        "nextSpeaker": "Bebe"
+    },
+    {
+        "speaker": "Bebe",
+        "text": "I'm only talking about having a little fun.  After all, when I'm having fun, I'm happy.  When I'm happy, I work harder. When I work harder, you become famous and rich and powerful. That's what you want, isn't it?  Fame and power?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I, I like to think of it more as influence, really, but...",
+        "prevSpeaker": "Bebe",
+        "nextSpeaker": "Bebe"
+    },
+    {
+        "speaker": "Bebe",
+        "text": "I'll bet I can make you bigger than Dr. Phil!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Is that running water I hear?  [_She walks across the room and poses in a doorway._] ",
+        "prevSpeaker": "Bebe",
+        "nextSpeaker": "Bebe"
+    },
+    {
+        "speaker": "Bebe",
+        "text": "Yes, I'm steaming the wrinkles out of a dress.  Does it put you in mind of a tropic night?  A moonlit stroll, the rhythmic lapping of waves against the shore...",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You know, if it's silk the steam could damage it.",
+        "prevSpeaker": "Bebe",
+        "nextSpeaker": "Bebe"
+    },
+    {
+        "speaker": "Bebe",
+        "text": "Wait right here.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Gosh, I better open a window.  [_She heads into the bedroom._] ",
+        "prevSpeaker": "Bebe",
+        "nextSpeaker": "Bebe"
+    },
+    {
+        "speaker": "Bebe",
+        "text": "Yes, darling, let the night in while I slip into something a little more comfortable.  [_Frasier opens the drapes, letting in a flashing red light._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, if you want comfortable, how about that sweater ensemble I saw you in this morning.  [_He opens the window and the choir music grows louder, a low, somewhat ominous Gregorian chant.  Bebe comes in from the other room, dressed in a black nightgown, the steam billowing up behind her._] ",
+        "prevSpeaker": "Bebe",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Bebe...",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Bebe"
+    },
+    {
+        "speaker": "Bebe",
+        "text": "Join me, Frasier.  I'll make your dreams come true.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "But... at what cost?",
+        "prevSpeaker": "Bebe",
+        "nextSpeaker": "Bebe"
+    },
+    {
+        "speaker": "Bebe",
+        "text": "What I'm offering you is priceless.  Come, Frasier.  [_She beckons him with her finger and he steps into the bedroom, entranced._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I CAN'T!  [_He runs for the door, making panicked noises.  He pulls the door open, reels upon seeing that he's in Suite 666, then rushes out.  Fade out._]   [_Fade in.  Martin is at the security desk, the time of 3:15 A.M. is down in the corner for a moment.  He lets out a sigh, then drums his hands on the countertop.  He gets into the drumming, finishing off by ringing the call bell on the counter.  Then he goes over and feeds a sheet of paper into the shredder.  He then pulls off his clip-on tie and feeds it into the shredder.  Fade out.  Fade in.  It is now 4:20 A.M.  Martin has made a lasso of an extension cord and throws it over a rolling chair, reeling it in, throwing it down, and \"branding\" it with his cane.  Fade out.  Fade in.  5:25 A.M.  Martin is sitting in the chair, holding a CO2 fire extinguisher.  He lifts the nozzle and points it away from himself._] ",
+        "prevSpeaker": "Bebe",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Roger, you are go for lift-off.  God speed, Martin Six.  [_He presses the handle and jets backwards across the floor.  Fade out.  Fade in.  5:29 A.M.  The timer bell goes off on the microwave oven. Martin pulls out a bag of popcorn that is slightly burned.  He makes a noise of pain and sets it down on top of the shredder bin, where it ignites the loose coils of paper.  Worried, he grabs the fire extinguisher and tries to put the flames out, but it's empty and he has to try to pound the fire out with the base of the extinguisher. Another security guard comes in._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Supervisor"
+    },
+    {
+        "speaker": "Supervisor",
+        "text": "What the hell's goin' on?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh, geez.  [_He grabs his tie and puts it back on._] ",
+        "prevSpeaker": "Supervisor",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Just sort of a minor accident here.  But don't worry about it, everything's under control.  [_He turns back around and the other guard notices his ties is shredded. Martin has time for one quick guilty look just before the sprinklers go off._] ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "So, what time do you want me to pick up your sister?  [_His supervisor just shakes his head.  Fade out._]   [_Fade in.  Roz and Frasier are sitting at a table.  Bebe comes in._] ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Bebe"
+    },
+    {
+        "speaker": "Bebe",
+        "text": "Well, if it isn't the first couple of radio.  I knew I'd find you here.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_rising_]  Bebe, shouldn't you be in Los Angeles with Dr Phil?",
+        "prevSpeaker": "Bebe",
+        "nextSpeaker": "Bebe"
+    },
+    {
+        "speaker": "Bebe",
+        "text": "That's up to you, Frasier.  [_They sit._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I don't understand.",
+        "prevSpeaker": "Bebe",
+        "nextSpeaker": "Bebe"
+    },
+    {
+        "speaker": "Bebe",
+        "text": "Well, after our... meeting last night, I had to ask myself a very difficult question: Am I really that happy with Dr. Phil if I'm entertaining thoughts of returning to you?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Are you saying you'll have me back?",
+        "prevSpeaker": "Bebe",
+        "nextSpeaker": "Bebe"
+    },
+    {
+        "speaker": "Bebe",
+        "text": "How could I refuse you?  Dr. Phil has been amusing, but I need a project.  I need a Frasier Crane!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, that's wonderful.",
+        "prevSpeaker": "Bebe",
+        "nextSpeaker": "Bebe"
+    },
+    {
+        "speaker": "Bebe",
+        "text": "Incidentally, Dr. Phil paid me fifteen percent.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, as will Dr. Frasier.  I've just got one very difficult call to make to my agent.",
+        "prevSpeaker": "Bebe",
+        "nextSpeaker": "Bebe"
+    },
+    {
+        "speaker": "Bebe",
+        "text": "Already handled.  I also took the liberty of calling Spokane, the terms of your deal there were worse than abysmal.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Great, great!  You got me more money?",
+        "prevSpeaker": "Bebe",
+        "nextSpeaker": "Bebe"
+    },
+    {
+        "speaker": "Bebe",
+        "text": "No, they wouldn't budge, so you quit!  You're no longer on in Spokane, isn't it exciting?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Wait a minute, that is a step backwards!",
+        "prevSpeaker": "Bebe",
+        "nextSpeaker": "Bebe"
+    },
+    {
+        "speaker": "Bebe",
+        "text": "All the better to get a running start.  In my opinion, the future is firmly in front of us.  Congratulations, Frasier.  [_She rises, and Frasier gives her a hug goodbye._] ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, thank you, Bebe, thank you so much.  I'll call you tomorrow.  [_She leaves._] ",
+        "prevSpeaker": "Bebe",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Gosh, Roz, isn't that great news?  I feel as if a weight has been lifted from me.  Oh, it's marvelous!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "She's charging you more money and we just lost Spokane.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Big picture!  The future is firmly in front of me!",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "[_rising_] Isn't the future always in front of you?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, but not firmly!  [_He exits, leaving behind a worried Roz.  Fade out._] [_Fade in.  Bebe is playing poker with Dr. Phil.  She has a huge stack of chips compared to his._] ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Bebe"
+    },
+    {
+        "speaker": "Bebe",
+        "text": "Well, my little lamb has bleated back to me.  Frasier has rejoined the flock.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Phil"
+    },
+    {
+        "speaker": "Phil",
+        "text": "So my debt is cleared?  We don't have to keep pretending you're my agent?",
+        "prevSpeaker": "Bebe",
+        "nextSpeaker": "Bebe"
+    },
+    {
+        "speaker": "Bebe",
+        "text": "We're square, darling.  And maybe the next time you gamble with Bebe, you'll pay your debts with cash.",
+        "prevSpeaker": "Phil",
+        "nextSpeaker": "Phil"
+    },
+    {
+        "speaker": "Phil",
+        "text": "See, the problem is my wife looks at the bank statements and if she knew I was losing money playing cards, she would kill me.",
+        "prevSpeaker": "Bebe",
+        "nextSpeaker": "Bebe"
+    },
+    {
+        "speaker": "Bebe",
+        "text": "So, your wife doesn't know you play poker.",
+        "prevSpeaker": "Phil",
+        "nextSpeaker": "Phil"
+    },
+    {
+        "speaker": "Phil",
+        "text": "I don't tell her everything.",
+        "prevSpeaker": "Bebe",
+        "nextSpeaker": "Bebe"
+    },
+    {
+        "speaker": "Bebe",
+        "text": "I see.  And how's that workin' for you?",
+        "prevSpeaker": "Phil",
+        "nextSpeaker": "Phil"
+    },
+    {
+        "speaker": "Phil",
+        "text": "Just deal the cards.  [_He throws in his ante and she starts shuffling.  Fade out._] ",
+        "prevSpeaker": "Bebe",
+        "nextSpeaker": "Credits"
+    }
+]

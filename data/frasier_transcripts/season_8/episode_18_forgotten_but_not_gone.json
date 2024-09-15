@@ -1,0 +1,1305 @@
+[
+    {},
+    {
+        "speaker": "Niles",
+        "text": "Thank you, thank you, Brother Reynolds, for your inaugural ode, and may I congratulate you on your ingenuity in rhyming \"Sauvignon\" with \"tie one on.\"",
+        "prevSpeaker": "No Previous Speaker",
+        "nextSpeaker": "Reynolds"
+    },
+    {
+        "speaker": "Reynolds",
+        "text": "[_with a sycophantic salute_] Sir.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "And now, as outgoing Corkmaster it is my privilege [_takes ribbon off_] to bestow the sash of office upon the newly- elected Corkmaster... which would be me! [_puts ribbon back on, to applause_] Thank you, thank you, thank you for your support.  It humbles me, and I only hope to live up to the shining example of my predecessor. [_laughter_] And of course the example of my opponent, the other brother Crane, who so graciously conceded after that fourth recount.  Is he - is he here?  I guess he's not.  Well, I'm sure he's with us in spirit.  Uh, if you'll indulge me, I've cobbled together a few remarks to express what this moment means to me- _Frasier clambers down the stairs, acting embarrassed but obviously making as much noise as he can._ ",
+        "prevSpeaker": "Reynolds",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I'm sorry, I'm sorry!  Oh God, I'm terribly sorry I'm late! Oh, it's just coming down in buckets out there!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Hello, Frasier. [_resumes_] Just as the cork protects the wine, as Corkmaster I hope to protect the wine club from the forces of metaphorical oxidation-",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh lord, Niles, are you in the middle of your inauguration speech?  I'm so sorry.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "That's all right, that's all right.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "It's just that I have an announcement of my own to make.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Yes well, uh, new business is concluded, Brother Crane.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I move that we re-open new business.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Reynolds"
+    },
+    {
+        "speaker": "Reynolds",
+        "text": "Second.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Denied. [_bangs gavel_]",
+        "prevSpeaker": "Reynolds",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Point of order: once a motion has been seconded, there must be a vote.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, all right, just tell us your new business.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "To override procedure, there must be a quorum.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Very well.  Move for a vote?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Reynolds"
+    },
+    {
+        "speaker": "Reynolds",
+        "text": "Second.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "All in favor?",
+        "prevSpeaker": "Reynolds",
+        "nextSpeaker": "Members"
+    },
+    {
+        "speaker": "Members",
+        "text": "Aye!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Motion carried. [_bangs gavel_] Secretary, make a note.",
+        "prevSpeaker": "Members",
+        "nextSpeaker": "Reynolds"
+    },
+    {
+        "speaker": "Reynolds",
+        "text": "Noted, Corkmaster.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Thank you so much. [_to Frasier_] Proceed.",
+        "prevSpeaker": "Reynolds",
+        "nextSpeaker": "Endicott"
+    },
+    {
+        "speaker": "Endicott",
+        "text": "[_a member, to himself_] I remember when we used to come here to drink.  ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Corkmaster, members of the wine cabinet, esteemed brothers and sisters, I come here tonight with a heavy heart.  You see, I am resigning from the wine club.  ",
+        "prevSpeaker": "Endicott",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Frasier, this wouldn't have anything to do with my winning the election, would it?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No, no, of course not, Niles, I couldn't be happier for you. You see, I've been afforded a marvelous opportunity to pass on what I've learned here to a much larger audience. Starting next week I will be hosting a new feature on KACL, called \"the Wine Corner,\" just at the end of Gil Chesterton's \"Restaurant Beat.\" [_applause_] Thank you, thank you.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Reynolds"
+    },
+    {
+        "speaker": "Reynolds",
+        "text": "Can't you do both?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh well, no, regrettably no.  You see, like this Camembert, I am at my most delicious when I'm not spread too thin. But this isn't goodbye by any stretch of the imagination. Please, I invite each and every one of you to call into my show, so that you can help me get Seattle hooked on our sometimes whimsical, always enlightened brand of discussion. But, I've taken enough time away from Niles.  After all, this is his night.  He has been elected Corkmaster of this fine club.",
+        "prevSpeaker": "Reynolds",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Thank you, Frasier.  For a moment I thought you were settling in for a long farewell speech.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Reynolds"
+    },
+    {
+        "speaker": "Reynolds",
+        "text": "Second.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "All in favor?",
+        "prevSpeaker": "Reynolds",
+        "nextSpeaker": "Members"
+    },
+    {
+        "speaker": "Members",
+        "text": "Aye!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, if you insist! [_takes podium_] It was a short seven years ago, on a night very much like this one, a man had a dream... _Niles, swept to the side, morosely caresses his Corkmaster medal.  FADE OUT_  **OENOLOGY FOR DUMMIES**  _Scene Two -- KACL Frasier heads down the hall with Roz._ ",
+        "prevSpeaker": "Members",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "All right, Roz, now this is a very different kind of show we're going to be doing, so are you clear on the procedure?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "What's so hard?  You talk for a while, I screen calls, you answer them, I look interested -- oh, I see the hard part.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, ha-ha, very funny.  All right, now listen, this is a list of the members of the wine club. [_hands it to her_] If any of these names should happen to call, put them through immediately, and then fasten your seat belt for an all-out, free-wheeling symposium!  ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "Hey, there's my Renaissance man!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Ah, Kenny!",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "If he can't solve their problems with therapy, solve 'em with drinking!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes well, let's just keep that out of the ads, shall we?",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "Heh-heh, too late!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Kenny!  _In the booth, Gil is doing his show with his new producer, an effeminate slip of a lad called Lance._ ",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Gil"
+    },
+    {
+        "speaker": "Gil",
+        "text": "And finally, no review of Le Petite Oiseau would be complete without a word about their decor: hideous!  I'll be back after these messages.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Lance"
+    },
+    {
+        "speaker": "Lance",
+        "text": "[_singsong_] And we're out!  ",
+        "prevSpeaker": "Gil",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "Hi, Lance.  This is Frasier, and this is Roz.  She'll be producing the rest of the show.",
+        "prevSpeaker": "Lance",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Hi. [_extends her hand_]",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Lance"
+    },
+    {
+        "speaker": "Lance",
+        "text": "Oh, my! [_ignores it_] Isn't that interesting?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Yes well, Frasier wants me to produce his segment of the show. We have to get the levels just right to accommodate the timbre of his voice.",
+        "prevSpeaker": "Lance",
+        "nextSpeaker": "Lance"
+    },
+    {
+        "speaker": "Lance",
+        "text": "Oh, my, my, my, isn't she the fusspot!",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Actually, it was my idea.",
+        "prevSpeaker": "Lance",
+        "nextSpeaker": "Lance"
+    },
+    {
+        "speaker": "Lance",
+        "text": "That's who I was talking about!  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Listen, Gil, I-I hope you don't mind my doing this segment.",
+        "prevSpeaker": "Lance",
+        "nextSpeaker": "Gil"
+    },
+    {
+        "speaker": "Gil",
+        "text": "Oh, perish the thought!  I'm ecstatic - as ecstatic as you would be if someone hijacked the last fifteen minutes of your show.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Hey Gil, what is the deal with Lance?",
+        "prevSpeaker": "Gil",
+        "nextSpeaker": "Gil"
+    },
+    {
+        "speaker": "Gil",
+        "text": "Oh, smitten already, are we, Roz?  Well, he's certainly catnip to the ladies.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "No, that would- [_confused_] Really?",
+        "prevSpeaker": "Gil",
+        "nextSpeaker": "Gil"
+    },
+    {
+        "speaker": "Gil",
+        "text": "Well, that's what he claims.  Of course, I've never actually seen him with a woman.  Well, just between us I've always thought he went the other way.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "[_more confused_] Which way would that be?",
+        "prevSpeaker": "Gil",
+        "nextSpeaker": "Lance"
+    },
+    {
+        "speaker": "Lance",
+        "text": "And we're back!",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Gil"
+    },
+    {
+        "speaker": "Gil",
+        "text": "[_into mike_] Normally at this time I'd be doing my segment on food for the calorie-conscious, \"All Things Light and Edible.\" But apparently health is going to take a backseat to the random musings of a radio psychiatrist on wine.  So without further ado, I give you \"The Wine Corner,\" with your host, Dr. Frasier Crane.  _Gil slaps his headphones down on the console and leaves the booth with Lance.  Frasier and Roz assume their positions._ ",
+        "prevSpeaker": "Lance",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Thank you, Gil, for that gracious introduction.  And hello, Seattle!  Welcome to \"The Wine Corner.\"  I hope you're as excited about this new program as I am.  I offer myself as sherpa -- a guide, if you will, to lead you through the labyrinth of vintages and wine lists, chateaus and bodegas, and take you hopefully to a whole new level of sophistication... _DISSOLVE TO:  Scene Three -- Fifteen minutes later. Frasier is wrapping up his segment.  The wind has all but gone out of his sails._ ",
+        "prevSpeaker": "Gil",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "In summary, Linda, the year listed on the bottle is not an expiration date.  So that wine from 1997 should be perfectly safe to drink. [_disconnects_] Who else, Roz?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "We have ten seconds, Frasier.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "In that case, this is Frasier Crane, reminding you that a great wine is like a great woman: always intoxicating, ever-surprising, and only getting better with age.  ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Aww, do you really believe that?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, who cares, Roz?  I stopped listening to myself ten minutes ago.  You're sure no one from the wine club called?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "I'm positive.  Don't feel bad, you got a lot of other callers.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "It's just that I was hoping to provoke the same kind of spirited debates we have at the wine club!  No holds barred free-for-alls!  Sometimes go into the wee hours of the night and even spill out into the streets. [_mournful_] Oh, Roz, we loved wine then.  ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Gil"
+    },
+    {
+        "speaker": "Gil",
+        "text": "Huzzah, Frasier!  I'm sure everyone who was listening is hitting the bottle as we speak.  Well, Lance and I are going for a boys' night out.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Lance"
+    },
+    {
+        "speaker": "Lance",
+        "text": "[_with a twirly hand motion_] Lock up your daughters!  _They leave.  FADE TO:  Scene Four -- Apartment Martin is in his Chair, reading the paper.  Frasier is at the dinner table with a laptop and a bottle of white wine.  He carefully takes a mouthful, swishes it around, then swallows and sucks in his breath sharply.  Then he types._ ",
+        "prevSpeaker": "Gil",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Dad, tell me if you think this is too subtle for my listening audience. [_Martin puts his paper down_] \"This delightful offering is infused with the brooding, almost dangerous, presence of vanilla.\"",
+        "prevSpeaker": "Lance",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "No, it's not too subtle.  Unless you want them to know what the hell you're talking about.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, you don't think it's clear that I enjoyed the wine?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "I don't it's clear you're talking about wine.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh lord, that'll be the new therapist.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh, lucky me.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh now, behave yourself, Dad.  It's only until Daphne comes back.  And besides, you have no idea how difficult it is to find a therapist who can also cook.  Her name is Frederika.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh, sounds German.  You know what that means -- she was probably kicked off the shotput team for using steroids.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Now Dad, the Germans never threw anybody off the team for that.  _Frasier opens the door to Frederika -- a strapping German woman with blonde hair and a singsong accent._ ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Ah, hello.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frederika"
+    },
+    {
+        "speaker": "Frederika",
+        "text": "Hi, I'm Frederika.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Won't you come in? [_she does_] Here, let me take your bag. I'm Dr. Frasier Crane, and this is my father, Martin. Here, let me take your coat. [_he does_]",
+        "prevSpeaker": "Frederika",
+        "nextSpeaker": "Frederika"
+    },
+    {
+        "speaker": "Frederika",
+        "text": "Pleasure to meet you.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Listen, my father's been, well, letting his exercises slide a bit.",
+        "prevSpeaker": "Frederika",
+        "nextSpeaker": "Frederika"
+    },
+    {
+        "speaker": "Frederika",
+        "text": "Oh well, that's human nature, Dr. Crane.  People neglect their exercising for many reasons -- holidays, travel, illness, lack  of time, death... and there's only one of those excuses that I accept: it's holidays! [_laughs_] Oh, it's just your leg I'm pulling!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_laughs_] Oh, well, good one.  You know, I was worried that you were going to be one of those drill-sergeant types.",
+        "prevSpeaker": "Frederika",
+        "nextSpeaker": "Frederika"
+    },
+    {
+        "speaker": "Frederika",
+        "text": "You'll show me your exercise mat.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "That's my other leg you're pulling, huh?",
+        "prevSpeaker": "Frederika",
+        "nextSpeaker": "Frederika"
+    },
+    {
+        "speaker": "Frederika",
+        "text": "Now!  _Martin obeys, leading her to his room.  She follows with a strange, undulating walk.  Frasier returns to the table._ ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Ah, yes... [_sips, swishes, and sucks again; typing_] \"But discernible only to the educated palate is the hint of violets that lingers like a haunting refrain...\" _From Martin's room comes a howl of agony, as if from a heretic on the Rack.  Frasier runs toward the hall when Frederika comes out._ ",
+        "prevSpeaker": "Frederika",
+        "nextSpeaker": "Frederika"
+    },
+    {
+        "speaker": "Frederika",
+        "text": "Shame on you, Dr. Crane!  You really should have kept him at his exercises.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Is he all right?",
+        "prevSpeaker": "Frederika",
+        "nextSpeaker": "Frederika"
+    },
+    {
+        "speaker": "Frederika",
+        "text": "No, indeed!  He is shamefully out of shape!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "But I meant-",
+        "prevSpeaker": "Frederika",
+        "nextSpeaker": "Frederika"
+    },
+    {
+        "speaker": "Frederika",
+        "text": "But don't worry.  I got here just in time.  I'll shape him up, or know the reason why! _She goes back into the hall.  Frasier, worried, is about to follow her, but then the phone rings._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Hello?  Oh yes, thank you for returning my call, Brother Peabody.  Yes well, I'm just wondering, how come none of the members have been calling my wine show? [_shocked_] No! Well, just because Niles is Corkmaster, it doesn't mean he has the right to dictate whom you may and may not call! Good lord, the man is my own brother!  How can someone turn his back on his own flesh and blood- [_Martin screams even louder_] Someone on the phone here! **WHINE CLUB**  _Scene Five -- Wine Club Niles is holding court._ ",
+        "prevSpeaker": "Frederika",
+        "nextSpeaker": "Members"
+    },
+    {
+        "speaker": "Members",
+        "text": "Aye!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "It is so resolved, [_bangs gavel_] any other business?  ",
+        "prevSpeaker": "Members",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Ah, former Brother Crane, what are you doing here?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You know very well.  How dare you instruct the members not to call in to my radio show?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_indignant_] I simply directed their attention to Law 10-C, which states that the club \"shall not, through contract or deed, endorse-\"",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_with him_] \"Any commercial endeavor,\" yes, yes, Niles, you can hide behind some flimsy bylaw if you wish to for as long as you like, but we both know the subtext behind this pretext: vindictiveness!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "In light of this abuse of power, I move that the Corkmaster be stripped of his title! [_gasps from the members_] And that some more well-deserving member be named in his stead!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, the motion fails for lack of a second.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Reynolds"
+    },
+    {
+        "speaker": "Reynolds",
+        "text": "Second.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Stop that!  Motion denied. [_bangs gavel_]",
+        "prevSpeaker": "Reynolds",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Point of order: a motion cannot be denied that has been seconded!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Yes well, the chair doesn't recognize motions from former members, ergo there can be no second to a motion that doesn't exist!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Endicott"
+    },
+    {
+        "speaker": "Endicott",
+        "text": "I move whatever it takes to get us to the bar!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Reynolds"
+    },
+    {
+        "speaker": "Reynolds",
+        "text": "Second that.",
+        "prevSpeaker": "Endicott",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "All right, the chair declares a state of emergency and a five-second recess. [_bangs gavel_] Frasier, I want you out of here.  It's bad enough you upstaged me the other night.",
+        "prevSpeaker": "Reynolds",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I did no such thing.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, _no_ , you could have picked any time to announce your resignation, but you chose my inauguration to do it!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "For God's sakes, Niles, will you listen to yourself! This is just a wine club!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "\"Just a wine club?\"  That's not the platform you campaigned on two years in a row!  Look, you can say anything you want now, you know how important this place is to me.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, and you know how important my radio show is to me.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh well, I guess then we're even.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "So you admit it.  You have dishonored this club with your selfishness!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Yes well, at least I'm still _in_ the club!  You are a trespasser!  Sergeant-at-Arms! _Virgil Hepplewhite, the club's elderly founder, rises slowly to his feet and hobbles over to Frasier._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Hepplewhite"
+    },
+    {
+        "speaker": "Hepplewhite",
+        "text": "We can do this the easy way or the hard way.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_sarcastic_] All right, call off your henchmen.",
+        "prevSpeaker": "Hepplewhite",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Thank you, stand down, Brother Hepplewhite.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I'm just trying to save you from yourself, Niles.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I see, well, goodbye, _former_ Brother.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You took the words right out of my mouth!  _Frasier leaves.  END OF ACT ONE  ACT TWO  Scene Six -- Apartment Martin is tucking into a plate of German roast, with a glass stein of beer next to his plate.  Frasier shuffles in, seemingly at a loss._ ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Hi, Dad.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Hey.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Anything good on TV tonight?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "I don't know, why?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, got the night free.  Thought we might hang out together.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh... that's nice.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yeah, I usually have wine club on Wednesday nights.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "What do you usually do Wednesday nights?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh, just sit back, enjoy the silence.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Sounds good.  ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_checks his watch_] Seven-thirty... wonder what they're doing at the wine club right now.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh, jeez.  Are you gonna do this all night?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No, no, Dad, you're right, I-I'm sorry.  It's just that I hate to see a once-proud institution making so many foolish mistakes.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well, if it makes you feel any better, the club'll probably fail without you.  It'll be no fun.  All the members'll resign.  This time next month, they'll probably have torn the building down.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I never know when you're being facetious.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Yeah, you do.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "All right, all right, let's talk about something else. How's your physical therapy?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh, it was the most painful afternoon of my life.  She did things to me.  Bad things.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well Dad, I suppose we could look for another therapist-",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Whup, hold on a second!  Here, [_takes a forkful of food from his plate_] try this.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "My God, that sauerbrauten is ambrosial!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh, and wait 'til you wash it down with her papa's homemade lager! [_takes a drink of beer_]  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frederika"
+    },
+    {
+        "speaker": "Frederika",
+        "text": "How is everything?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh gosh, Frederika, I've never tasted anything so divine!",
+        "prevSpeaker": "Frederika",
+        "nextSpeaker": "Frederika"
+    },
+    {
+        "speaker": "Frederika",
+        "text": "Oh, _ja_ , you see, Dr. Crane, I don't believe that fitness depends on starving yourself.  The secret is exercise, hard work, then good food and lots of it when you've earned it.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh well, this is fabulous food-  ",
+        "prevSpeaker": "Frederika",
+        "nextSpeaker": "Frederika"
+    },
+    {
+        "speaker": "Frederika",
+        "text": "You haven't earned it!  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frederika"
+    },
+    {
+        "speaker": "Frederika",
+        "text": "That's just my way of having fun!  Of course you're welcome, I'll get another plate.",
+        "prevSpeaker": "Frederika",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Thank you.  _She goes back to the kitchen.  Frasier is still rubbing his cheek, trying to get some feeling back in it._ ",
+        "prevSpeaker": "Frederika",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "We ought to get Niles over here, you know?  He'd love this stuff!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Niles -- Dad, I told you Niles is no longer welcome in this house. [_Frederika brings him a plate_] Thank you, Frederika.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh son, why don't you just ask your brother to take you back?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I did.  I called him and I apologized.  He would hear none of it.  All he did was keep quoting rules and bylaws.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "It's just like when you were kids with that fort!  You were always making up these big fancy rules and titles for yourself that always ended up in a fight!  I didn't like it then, and I don't like it now.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "All right, Dad, then we just won't talk about it.  Besides, I'm through with wine club.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Good!  Why don't we just enjoy our Wednesday?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Second! [_to himself_] All in favor... aye... motion carried. [_off Martin's look_] I'm done now. _FADE TO:  Scene Seven -- Wine Club Niles and other members are standing around, tasting wine._ ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Mmm, mmm-hmm, mmm-hmm.  I'm getting oak with plummy overtones.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Endicott"
+    },
+    {
+        "speaker": "Endicott",
+        "text": "I'm getting screwed on alimony.  ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Niles, I want to talk to you.",
+        "prevSpeaker": "Endicott",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Dad!  What happened, is there something wrong?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "You're damn right there is, it's about you and Frasier! [_notices_] Good God, you wear a sash?!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Frasier sent you down here, didn't he?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_o.s. from above_] No!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Frasier, get in here now! _Frasier shuffles in beside Niles.  The following scene is weirdly similar to a father dressing down two toddlers -- a spectacle that both Frasier and Niles are desperate to avoid._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Dad, this isn't necessary.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Yeah, we-we can talk about this some other time.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Zip it up, both of you!  I just gave up the best meal of my life to come down here, so listen up.  Niles, let your brother play.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Dad, this is not a game, this is a club, and Frasier broke the rules!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Technically, I-",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_silences him_] Well, then you write a new rule so that Frasier can come back.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "First, I want an apology-",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "I said zip it!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "He did, I heard him!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Don't get smart!  Now, are you gonna let your brother play?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Dad-",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Are you gonna let your brother play?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Why-",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Are you gonna let your brother play?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I-",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Are you gonna let your brother play?  ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Fine.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Am I gonna have any more trouble between you two?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier/Niles"
+    },
+    {
+        "speaker": "Frasier/Niles",
+        "text": "[_humble_] No.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "No, what?",
+        "prevSpeaker": "Frasier/Niles",
+        "nextSpeaker": "Frasier/Niles"
+    },
+    {
+        "speaker": "Frasier/Niles",
+        "text": "No, sir.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Good.  Now shake hands. [_they do_] That's more like it.  Now if you don't mind, I've got a big plate of _Gew\ufffdrzpl\ufffdtzchen_ waiting for me at home with my name on it.  ",
+        "prevSpeaker": "Frasier/Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Uh, well, [_chuckles_] let's get back to the wine, shall we?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Reynolds"
+    },
+    {
+        "speaker": "Reynolds",
+        "text": "You got yelled at by your dad.  ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well, be that as it may-",
+        "prevSpeaker": "Reynolds",
+        "nextSpeaker": "Endicott"
+    },
+    {
+        "speaker": "Endicott",
+        "text": "Zip it!  _Everyone laughs louder.  FADE TO:  Scene Eight -- Apartment Frasier opens the door to Niles._ ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Niles.",
+        "prevSpeaker": "Endicott",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Hello, Frasier.  I thought we could drive over to wine club together.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Actually, I'm thinking about not going.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Why not?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Niles, truth be told, my enthusiasm for the wine club has started to turn.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I know what you mean!  It used to be the wine club.  Now it's just the teasing people club.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Then let's not go.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well, they'll put our names in the Absent bottle, we'll have to bring the crackers next time.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "What if there's no next time?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "What do you mean?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Niles, those people don't care about wine.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Not the way you and I do, no!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "So what's preventing us from starting a whole new club from scratch?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "We could really get back to basics!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Something that's just about wine!  And a clear constitutional procedure for enjoying it!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Yes, only maybe this time the governing body could be bicameral!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, I don't know, Niles, there is something to be said for the parliamentary system!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well, either way we have to have a strong judiciary to keep it in check.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "God, I love wine.  ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Credits"
+    }
+]

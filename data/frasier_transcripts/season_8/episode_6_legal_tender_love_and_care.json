@@ -1,0 +1,1779 @@
+[
+    {},
+    {
+        "speaker": "Frasier",
+        "text": "Oh, Dad, you're going to have to clear out.  Daphne and I are meeting with my lawyer.  ",
+        "prevSpeaker": "No Previous Speaker",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "I don't know why you have to go with that high-priced lady instead of the guy I recommended.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Please.  Donny is suing me for emotional distress.  Your guy wanted me to limp into court wearing a neck brace and claiming not to speak English.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Hey, you don't keep an office in the mall for twelve years without knowin' a few tricks.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, hi, Niles.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Frasier, I'm sorry I'm late.  Is Abby here yet?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No, she's on her way.  ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "These lawsuits have me so rattled.  You know me, Frasier, normally I'm unflappable.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Niles, if you flapped any more, we'd have to lower you to half mast on Veteran's Day.  ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Sherry, anyone?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Yes, please.  I know how Niles feels.  I'm a nervous wreck about that deposition tomorrow.  First time I'm seeing Donny since our wedding day, and he's going to be grilling me under oath.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, don't worry.  Once Abby preps you, you'll have nothing to worry about.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "I don't understand you guys.  Instead of you each hiring expensive lawyers, why don't you just settle?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Because we didn't do anything wrong, Dad!  Daphne merely changed her mind about getting married and although Donny is entitled to his pain, he is not entitled to sue everyone under the sun.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_rising_] You guys are nuts.  Donny's a pit bull.  Why don't you come up with some cash, put it on a stick and shove it into his cage?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, yes, thank you, Dad.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "And don't even try to get the stick back.  Just run.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You know, Dad's fear notwithstanding, I have every confidence in Abby and her litigious prowess.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Yes, we've all seen you admiring her prowess.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I'm sure I have no idea what you're talking about.  ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, hi Abby.  Come on in. You know Niles and Daphne, of course.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Abby"
+    },
+    {
+        "speaker": "Abby",
+        "text": "Oh, yes, hello, Daphne, Niles.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Here, let me take your coat.",
+        "prevSpeaker": "Abby",
+        "nextSpeaker": "Abby"
+    },
+    {
+        "speaker": "Abby",
+        "text": "Thank you.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, my.  That suit is very becoming on you.  Is it new?",
+        "prevSpeaker": "Abby",
+        "nextSpeaker": "Abby"
+    },
+    {
+        "speaker": "Abby",
+        "text": "Yes it is.  And thank you for noticing, Frasier.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No, thank you for being so, ah... noticeable.",
+        "prevSpeaker": "Abby",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_aside to Daphne_] Do I sound like that?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Yeah, but it's cute when you do it.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Please, make yourself comfortable.  Well, we're anxious to hear your, your battle plan.  We realize it's going to be tough, but we're ready for a fight.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Abby"
+    },
+    {
+        "speaker": "Abby",
+        "text": "Donny's dropped the lawsuits.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "What?",
+        "prevSpeaker": "Abby",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "When did this happen?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Abby"
+    },
+    {
+        "speaker": "Abby",
+        "text": "He just called me on my cell phone now.  I took the liberty of calling your lawyer, Daphne, to let him know the good news, too.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Thank you.",
+        "prevSpeaker": "Abby",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "So, what happens now?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Abby"
+    },
+    {
+        "speaker": "Abby",
+        "text": "Nothing.  You've won.  Congratulations.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I can't believe it.",
+        "prevSpeaker": "Abby",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Did Donny say why he's dropping the case?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Abby"
+    },
+    {
+        "speaker": "Abby",
+        "text": "No, he did not.  But we can call and ask him if you'd like.  ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You know, I think I know why he dropped the case: because I have the finest lawyer in all of Seattle.",
+        "prevSpeaker": "Abby",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Hear, hear.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_rising_] Thank you for a job well done.  ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Abby"
+    },
+    {
+        "speaker": "Abby",
+        "text": "Oh, my pleasure.  Congratulations.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Thank you, Abby.",
+        "prevSpeaker": "Abby",
+        "nextSpeaker": "Abby"
+    },
+    {
+        "speaker": "Abby",
+        "text": "Congratulations.  You're welcome, Daphne.  ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Congratulations.",
+        "prevSpeaker": "Abby",
+        "nextSpeaker": "Abby"
+    },
+    {
+        "speaker": "Abby",
+        "text": "Thank you, Niles.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Thanks.",
+        "prevSpeaker": "Abby",
+        "nextSpeaker": "Abby"
+    },
+    {
+        "speaker": "Abby",
+        "text": "Absolutely. _Frasier has followed them around and is standing in front of her once more._ ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Abby"
+    },
+    {
+        "speaker": "Abby",
+        "text": "Oh, you again!  ",
+        "prevSpeaker": "Abby",
+        "nextSpeaker": "Abby"
+    },
+    {
+        "speaker": "Abby",
+        "text": "Well, I must say, I was actually looking forward to getting a shot at Donny in court, but for your sake, I'm glad things ended this way.",
+        "prevSpeaker": "Abby",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, well, you know, there's no reason this has to be goodbye. I think a celebratory dinner is in order.",
+        "prevSpeaker": "Abby",
+        "nextSpeaker": "Abby"
+    },
+    {
+        "speaker": "Abby",
+        "text": "Well, great.  Give me a call and we'll see when all of us can get together.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, yes, all of us.  Yes, well, you know, our schedules are really rather complicated.  We're rarely available together.",
+        "prevSpeaker": "Abby",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I'm open.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Any time's good for me.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, then, dinner it is.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Abby"
+    },
+    {
+        "speaker": "Abby",
+        "text": "Great.  I hate to rush, but I've got a mountain of paperwork.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, then, let me walk you to the elevator.  ",
+        "prevSpeaker": "Abby",
+        "nextSpeaker": "Abby"
+    },
+    {
+        "speaker": "Abby",
+        "text": "All right. That's very sweet, Frasier.  Thank you for escorting me.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, thank you, for being so... escortable.",
+        "prevSpeaker": "Abby",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Bye, Abby.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Abby"
+    },
+    {
+        "speaker": "Abby",
+        "text": "Goodbye.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Congratulations again. _Frasier and Abby go out the front.  Resett to - the hall.  Frasier helps Abby on with her coat._ ",
+        "prevSpeaker": "Abby",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Abby, I just wanted to say how pleasurable it's been getting to know you.  ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Abby"
+    },
+    {
+        "speaker": "Abby",
+        "text": "The pleasure's been all mine.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, you know, I'd hate to see my relationship with you end, uh, right now.  I just...  ",
+        "prevSpeaker": "Abby",
+        "nextSpeaker": "Abby"
+    },
+    {
+        "speaker": "Abby",
+        "text": "Frasier, if you're going to ask me out, you better hurry.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Will you go out with me?",
+        "prevSpeaker": "Abby",
+        "nextSpeaker": "Abby"
+    },
+    {
+        "speaker": "Abby",
+        "text": "Yes! _The doors close on her word.  Frasier grins happily and turns back to his door.  FADE OUT.  Scene 2 - Frasier's Apartment Fade in.  Martin is reading, Frasier opens the door to Roz._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, hi, Roz.",
+        "prevSpeaker": "Abby",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Hey, guys!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Hey, Roz.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Come on in, I'll get you situated.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Thanks for letting me tape your CDs.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Since when do you two have the same taste in music?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Actually, it's for Alice.  I read an article that said listening to classical music makes toddlers smarter. Something about making their brain bigger, or wider... I don't know.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I believe the word you're looking for is \"smartified.\"",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Oh, yeah?  Well guess which word I'm looking for now.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Very funny.  Actually, I have the perfect piece to start Alice off with: it's Beethoven's Sonata  in C-Sharp Minor. I've laid out a selection of CDs that I think will be appropriate.  I'm sorry, I don't have time to put together a comprehensive program for you.  But actually, Dad and I have our celebratory dinner tonight with Abby.  You know, Dad, actually, you should get ready to go.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "I thought I was ready.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Think tie!  ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "I'm way ahead of ya.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Hey, you've been spending a lot of time \"celebrating\" with this lawyer.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, yes, yes.  Well, actually, we've been out a couple of times.  I'm really rather taken with her.  She has a very playful side.  She took me miniature golfing last night.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh sure.  When she takes you it's playful, when I take you it ends up as a story in the high school literary magazine.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Dad, please, \"Through the Clown's Mouth Darkly\" took second in the all-city fiction contest that year.  ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Hello.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Hello, Niles.  ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Frasier, these are for you.  Your doorman gave them to me. Apparently some of your mail went to the wrong box.  And these are for you, my love.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Oh, Niles, you spoil me.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I picked them myself.  ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Ooh, Niles, cookies.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Sweets for my sweet.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Let's go put these in some milk.  ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Hey, I was just going to say that!",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "No you weren't.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I was, I swear.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "OK, this is gettin' spooky.  ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "What is it?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I just opened Abby's bill.  It seems... awfully high.  I guess this must be the going rate.  ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Whoa!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I think Abby is worth every penny.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well, she better be, because Daphne's lawyer only charged half this much.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, that doesn't seem right, does it?  I mean, they did the same amount of work...",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Come on, Fras, Abby isn't the first lawyer to pad a bill.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well maybe not, but you know, Abby is not that kind of lawyer.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh, what world are you livin' in?  They're all \"that kind of lawyer.\"",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I admit four thousand dollars does seem rather high for phone consultations.  Who the hell's she talking to?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "All her friends, braggin' about the new sucker she's got on the line.  _Roz bursts out laughing.  FADE OUT.  Scene 3 - The Restaurant Fade in.  They are all seated around a table._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "This restaurant has a wonderful Roquefort ravioli.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "I kind of had my heart set on lobster.  Come and help me pick one out.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I was just getting up to do that!",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "No you weren't.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I was too.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Both"
+    },
+    {
+        "speaker": "Both",
+        "text": "Spooky!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "So, Abby, you happen to get any interesting e-mails today?",
+        "prevSpeaker": "Both",
+        "nextSpeaker": "Abby"
+    },
+    {
+        "speaker": "Abby",
+        "text": "Yes I did.  But none that I feel comfortable discussing in front of your father.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Hey, Abby, you'll like this one, we used to tell it in the precinct: How many lawyers does it take to screw in a light bulb?",
+        "prevSpeaker": "Abby",
+        "nextSpeaker": "Abby"
+    },
+    {
+        "speaker": "Abby",
+        "text": "I don't know.  It depends on how many cops planted it there?  ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Thrust and parry, Dad!  ",
+        "prevSpeaker": "Abby",
+        "nextSpeaker": "Abby"
+    },
+    {
+        "speaker": "Abby",
+        "text": "Excuse me. [_into phone_] Abby Michaels.  Hold on. [_to Frasier_] It's a client.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_sotto voice to Frasier_] Startin' the meter, huh?",
+        "prevSpeaker": "Abby",
+        "nextSpeaker": "Abby"
+    },
+    {
+        "speaker": "Abby",
+        "text": "I've already filed that motion, it's up to them, now. ... No, no, no.  I don't think that they would try that.  But if you like, I can call them, or better yet, I can send them a letter just so we're on the record.  OK, bye now.  ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Abby"
+    },
+    {
+        "speaker": "Abby",
+        "text": "Sorry.  Where were we?",
+        "prevSpeaker": "Abby",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_tapping his watch_] Aren't you forgettin' somethin'?",
+        "prevSpeaker": "Abby",
+        "nextSpeaker": "Abby"
+    },
+    {
+        "speaker": "Abby",
+        "text": "Oh, my goodness, you're right.  It's getting very late and I haven't even looked at the menu yet.  My, so many choices. What are you guys having?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well, I'm pretty sure someone's gettin' scrod...  _Daphne and Niles come back and take their seats as the waiter pours the champagne._ ",
+        "prevSpeaker": "Abby",
+        "nextSpeaker": "Abby"
+    },
+    {
+        "speaker": "Abby",
+        "text": "So how were the lobsters?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "They were too cute to eat.  I'm having the veal.",
+        "prevSpeaker": "Abby",
+        "nextSpeaker": "Abby"
+    },
+    {
+        "speaker": "Abby",
+        "text": "Well, I propose a toast: to frivolous lawsuits and the wonderful, charming clients they bring together.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well, hear, hear.",
+        "prevSpeaker": "Abby",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Abby, I'm sorry to spoil the mood, it's just... your client.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Abby"
+    },
+    {
+        "speaker": "Abby",
+        "text": "Oh, right.  Thanks for reminding me.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, I don't believe it.  Donny just walked in.  ",
+        "prevSpeaker": "Abby",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I said don't look!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No, you did not!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Can you imagine anything more embarrassing than seeing us here tonight?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Abby"
+    },
+    {
+        "speaker": "Abby",
+        "text": "Your menu's on fire.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well, yes, that would be embarrassing... OH!  ",
+        "prevSpeaker": "Abby",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No, not in the Dom Perignon.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Careful. _Abby finally grabs it and pushes it into the ice and water in the wine bucket._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, thank God.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Donny"
+    },
+    {
+        "speaker": "Donny",
+        "text": "Hi, Guys.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Donny"
+    },
+    {
+        "speaker": "Donny",
+        "text": "Daphne.",
+        "prevSpeaker": "Donny",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Hello, Donny.",
+        "prevSpeaker": "Donny",
+        "nextSpeaker": "Donny"
+    },
+    {
+        "speaker": "Donny",
+        "text": "Niles.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Hello Donny.",
+        "prevSpeaker": "Donny",
+        "nextSpeaker": "Donny"
+    },
+    {
+        "speaker": "Donny",
+        "text": "Look, I realize you guys must be celebrating, but do you have to start a bonfire?  ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, celebrating?",
+        "prevSpeaker": "Donny",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "He thinks we're celebrating.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Donny"
+    },
+    {
+        "speaker": "Donny",
+        "text": "Look, I know this is a little awkward, but I understand, don't worry.  In fact, I'm celebrating something myself.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Abby"
+    },
+    {
+        "speaker": "Abby",
+        "text": "Oh, you won a big case, Donny?",
+        "prevSpeaker": "Donny",
+        "nextSpeaker": "Donny"
+    },
+    {
+        "speaker": "Donny",
+        "text": "No.  I, uh, I got engaged.  ",
+        "prevSpeaker": "Abby",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Really?  Boy, that's good news.",
+        "prevSpeaker": "Donny",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Yes, yes it certainly is.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Donny"
+    },
+    {
+        "speaker": "Donny",
+        "text": "Thank you.  In fact, she's sitting right over there.  ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Donny"
+    },
+    {
+        "speaker": "Donny",
+        "text": "Wave, Nancy.  Show 'em the rock.  ",
+        "prevSpeaker": "Donny",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Lovely.",
+        "prevSpeaker": "Donny",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well, that's a big one.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Congratulations, Donny.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Donny"
+    },
+    {
+        "speaker": "Donny",
+        "text": "Thank you.  I was representing her in her divorce and we realized that we were... perfect... for each other.  And, I know it's very sudden, but that's fate for you, huh?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, good luck.",
+        "prevSpeaker": "Donny",
+        "nextSpeaker": "Donny"
+    },
+    {
+        "speaker": "Donny",
+        "text": "Thanks.  I should get back to Nancy, and you guys enjoy your dinner.  And, incidentally, the fire exits are located there and there.  _He makes the flight attendant motion with his arms.  Everyone laughs nervously and he goes over to the other table._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Boy, that was weird.",
+        "prevSpeaker": "Donny",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Now we know why he dropped the lawsuit.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Abby"
+    },
+    {
+        "speaker": "Abby",
+        "text": "Yes, he's in love.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Or on the rebound.",
+        "prevSpeaker": "Abby",
+        "nextSpeaker": "Abby"
+    },
+    {
+        "speaker": "Abby",
+        "text": "Well, either way, it's good news for all of you.  In fact let's order another bottle of champagne.  And by the way, dinner is on me, or rather, the firm.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, no, no.  I couldn't let you do that, Abby.  I wanted to pay for dinner.",
+        "prevSpeaker": "Abby",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Don't worry, you are.  _Frasier gives him a sour look.  FADE OUT.  End of Act 1  Act 2_ **GOING UP**  _Scene 1 - Frasier's Building Fade in.  Frasier is waiting for the elevator in the lobby.  Niles comes up behind him._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, Frasier, I was just coming up to see you.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, hi, Niles.  Say, you're looking a little green around the gills.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Please, don't even mention gills.  The Yale Club had its annual luncheon at Vashon Island, all seafood.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Ah, didn't agree with you?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, no, the food was fine.  It was the four-foot swells coming back on the ferry that didn't agree with me.  I'm afraid I was forced to return my sea bass to the sea.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Actually, I had sort of a rough day myself.  I can't stop thinking about the bill Abby sent me.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, well, after witnessing her rather slipshod record keeping last night, I, I can't help feeling I'm getting ripped off.  So, I fired off a strongly worded e-mail today, insisting on a point-by-point accounting of my bill.  _The elevator arrives and they get on. Reset to: Inside the Elevator._ ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, good idea.  Nothing cements a relationship like calling the girl a crook.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Speaking of relationships, how about Donny's decision to get engaged?  My God, talk about classic rebound behavior.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Classic.  Is it just me, or is this elevator swaying?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Certainly not the wisest decision Donny could have made at this point. You know, maybe somebody should have a talk with him.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Stop!  Don't even think about it.  Right now the only thing Donny needs is to be left alone.  _The elevator comes to a stop, Niles reaches for the wall.  When the doors open, Daphne is standing there._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, hi, Daph.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Hello.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Hello.  ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Where are you off to?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "I've got to see Donny.  _Niles gives a little nod, then grabs for the door and gets on the elevator with her._ ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Why in the world do you have to see Donny?  ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "I'm worried about him.  He's making such a rash decision. I just want to make sure he's OK.  ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "It's not just about that.  We never really had a proper goodbye, and I feel bad leaving things the way we did.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_putting his hand on hers_] What you're looking for is... [_he makes a dry heave_] ...closure.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Yeah, I knew you'd understand. [_She looks closer at him._] Niles, are you feeling OK?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, yes.  I feel fine.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Well, in that case, when I get back this will all be behind us. We can celebrate!  I'll make us a nice big English country dinner: steak and kidney pudding. _He looks less than thrilled at this.  When the elevator stops, Daphne gets off and Roz rushes up._ ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Hold the elevator!  Hey, Daphne.  Niles!  I need your opinion.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, really, I was just about to...  ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "I need some more classical music to tape for Alice.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "What?  _The elevator starts and he throws his hands out, off balance. She pulls a piece of paper from her purse._ ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Yeah.  Frasier gave me this list, but it has over three hundred names on it.  Who do you think is best? [_She holds the paper out._]",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I would really rather not read right now.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Oh, oh, off the top of your head.  Alice really loves those up-tempo numbers.  Last night we were listening to \"Peer Gynt,\" and she started doing all these little ballerina moves. You should have seen her, she was so cute!  She would sway back and forth to the music and do these little spins and jumps.  I was doing them with her but I started getting so dizzy.  The room went around and around and around...  _Niles has watched her, looking less and less stable.  The elevator stops and the doors open._ ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Oh, never mind, I'll ask Frasier.  ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Frasier, where are you going?  What about the CD?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I'm sorry.  Take what you like and mark it down on the sign- out sheet.  ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Niles, thank God you're here.  Come with me.  Listen, there was a message from Abby on the machine.  She says she needs to see me right away.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "She must have gotten my e-mail.  God, the message was so short that I can't really tell what sort of mood she's in.  I guess if she had been really angry, she would have left some indication on the machine.  Well, then again, being a savvy lawyer, you know, she might not want to tip her hand.  Well, whatever happens, I feel confident that I made the right decision.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, thanks, Niles.  You've been a support.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Hi, Dad.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Hey.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Niles, great news: Tony the chili guy got his license back. Check it out!  _He puts the bag under Niles' nose.  Niles very carefully and slowly walks away.  FADE OUT._  _Scene 2 - The Courthouse Fade in.  Donny is standing in front of one of the rooms.  A man comes up to him._ ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Donny"
+    },
+    {
+        "speaker": "Donny",
+        "text": "Oh, you have the rings?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Best Man"
+    },
+    {
+        "speaker": "Best Man",
+        "text": "[_patting his pocket_] Right here.  You nervous?",
+        "prevSpeaker": "Donny",
+        "nextSpeaker": "Donny"
+    },
+    {
+        "speaker": "Donny",
+        "text": "Well, gee, yeah.  I'm excited.  I can't believe Nancy's gonna be my wife after all these... weeks.  ",
+        "prevSpeaker": "Best Man",
+        "nextSpeaker": "Donny"
+    },
+    {
+        "speaker": "Donny",
+        "text": "OK.  ",
+        "prevSpeaker": "Donny",
+        "nextSpeaker": "Donny"
+    },
+    {
+        "speaker": "Donny",
+        "text": "Daphne, what are you doing here?",
+        "prevSpeaker": "Donny",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Your receptionist told me you'd left for court.",
+        "prevSpeaker": "Donny",
+        "nextSpeaker": "Donny"
+    },
+    {
+        "speaker": "Donny",
+        "text": "Actually, this is not a good time.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "I know.  You're probably in the middle of a big trial so I'll be brief.  Donny, after seeing you at the restaurant last night, I want you to know I'm worried about you.",
+        "prevSpeaker": "Donny",
+        "nextSpeaker": "Donny"
+    },
+    {
+        "speaker": "Donny",
+        "text": "OK, this is about Nancy?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "I'm sure she's a lovely person.  And I probably have no right saying this, but I hope you're not rushing into anything.",
+        "prevSpeaker": "Donny",
+        "nextSpeaker": "Donny"
+    },
+    {
+        "speaker": "Donny",
+        "text": "Uh, look, Daphne...",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "I know, I know.  I'm way out of line here.  But, I still care what happens to you.  Take the time to get to know each other. Believe me, you'll be glad you did when the day comes you finally do get married.  ",
+        "prevSpeaker": "Donny",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Well, what do you know, it's here.  ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Donny"
+    },
+    {
+        "speaker": "Donny",
+        "text": "I'll meet you inside.  I'll be one second, all right?  ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "I'm so sorry.  My timing's so terrible.",
+        "prevSpeaker": "Donny",
+        "nextSpeaker": "Donny"
+    },
+    {
+        "speaker": "Donny",
+        "text": "Not really.  If you hang around a few minutes, I'm sure we can get you on the wedding video.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "I really had no idea you were getting married so soon.",
+        "prevSpeaker": "Donny",
+        "nextSpeaker": "Donny"
+    },
+    {
+        "speaker": "Donny",
+        "text": "Well, call me crazy, but I've got a prejudice against long engagements.  ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Donny"
+    },
+    {
+        "speaker": "Donny",
+        "text": "Mom.",
+        "prevSpeaker": "Donny",
+        "nextSpeaker": "Mrs. Douglas"
+    },
+    {
+        "speaker": "Mrs. Douglas",
+        "text": "Oh, Sweety, you look so handsome. [_She notices Daphne and gasps._] It's you!",
+        "prevSpeaker": "Donny",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Hello, Mother Douglas.",
+        "prevSpeaker": "Mrs. Douglas",
+        "nextSpeaker": "Mrs. Douglas"
+    },
+    {
+        "speaker": "Mrs. Douglas",
+        "text": "MRS. Douglas.  You have some nerve showing up here.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Donny"
+    },
+    {
+        "speaker": "Donny",
+        "text": "Mom.",
+        "prevSpeaker": "Mrs. Douglas",
+        "nextSpeaker": "Mrs. Douglas"
+    },
+    {
+        "speaker": "Mrs. Douglas",
+        "text": "You can beg all you want, but he's not coming back.",
+        "prevSpeaker": "Donny",
+        "nextSpeaker": "Donny"
+    },
+    {
+        "speaker": "Donny",
+        "text": "Mom, Mom.",
+        "prevSpeaker": "Mrs. Douglas",
+        "nextSpeaker": "Mrs. Douglas"
+    },
+    {
+        "speaker": "Mrs. Douglas",
+        "text": "He's done crying his eyes out over you.",
+        "prevSpeaker": "Donny",
+        "nextSpeaker": "Donny"
+    },
+    {
+        "speaker": "Donny",
+        "text": "Mom, Mom, she knows, she knows.",
+        "prevSpeaker": "Mrs. Douglas",
+        "nextSpeaker": "Mrs. Douglas"
+    },
+    {
+        "speaker": "Mrs. Douglas",
+        "text": "Why don't you go back...?  ",
+        "prevSpeaker": "Donny",
+        "nextSpeaker": "Donny"
+    },
+    {
+        "speaker": "Donny",
+        "text": "Look, Daphne, I don't mean to rush you, but is there anything else?",
+        "prevSpeaker": "Mrs. Douglas",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Just this: I never really said how sorry I was about what happened.  I really am.",
+        "prevSpeaker": "Donny",
+        "nextSpeaker": "Donny"
+    },
+    {
+        "speaker": "Donny",
+        "text": "Well, Daphne, if it puts your mind at ease, I know what I'm doing.  I'm happy, I'm ready to go on with my life.  So...  ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Donny"
+    },
+    {
+        "speaker": "Donny",
+        "text": "Yeah, I know.  I'm... [_to Daphne_] Goodbye.",
+        "prevSpeaker": "Donny",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Donny.  ",
+        "prevSpeaker": "Donny",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Congratulations.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Donny"
+    },
+    {
+        "speaker": "Donny",
+        "text": "Thank you, Daphne.  _He goes inside.  Daphne looks a bit melancholy and walks off. FADE OUT.  Scene 3 - Abby's Office Fade in.  Abby is at her computer with a technician. Frasier comes in._",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Abby"
+    },
+    {
+        "speaker": "Abby",
+        "text": "Oh, there you are.",
+        "prevSpeaker": "Donny",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I got your message.  You sounded kind of urgent so I came right down.  I suppose you read my e-mail.",
+        "prevSpeaker": "Abby",
+        "nextSpeaker": "Abby"
+    },
+    {
+        "speaker": "Abby",
+        "text": "No.  Actually my computer's been down all day.  But if it's anything like the last one we'll know what overheated my hard drive.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Technician"
+    },
+    {
+        "speaker": "Technician",
+        "text": "Give it a few minutes to reconnect to the server and then it will be up and running.",
+        "prevSpeaker": "Abby",
+        "nextSpeaker": "Abby"
+    },
+    {
+        "speaker": "Abby",
+        "text": "Thank you.  ",
+        "prevSpeaker": "Technician",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "So, ah, why did you call me?  ",
+        "prevSpeaker": "Abby",
+        "nextSpeaker": "Abby"
+    },
+    {
+        "speaker": "Abby",
+        "text": "Well, Frasier, I thought we could celebrate.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Really.  Celebrate what?",
+        "prevSpeaker": "Abby",
+        "nextSpeaker": "Abby"
+    },
+    {
+        "speaker": "Abby",
+        "text": "Well, this morning I was called down to the conference room and all the partners were there.  I thought they were going to yell at me because they found out I'd given you a discount, but instead, they told me I made partner.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You gave me a discount?  I mean, I mean congratulations.  ",
+        "prevSpeaker": "Abby",
+        "nextSpeaker": "Abby"
+    },
+    {
+        "speaker": "Abby",
+        "text": "Thank you.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, my God, you certainly deserve it. [_He pulls back._] What kind of discount?",
+        "prevSpeaker": "Abby",
+        "nextSpeaker": "Abby"
+    },
+    {
+        "speaker": "Abby",
+        "text": "You didn't even notice, did you?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No, no I did notice.  I did.  I swear to God I noticed. I even pointed it out to Dad.",
+        "prevSpeaker": "Abby",
+        "nextSpeaker": "Abby"
+    },
+    {
+        "speaker": "Abby",
+        "text": "That's very sweet.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You're the sweet one.  ",
+        "prevSpeaker": "Abby",
+        "nextSpeaker": "Abby"
+    },
+    {
+        "speaker": "Abby",
+        "text": "I'm not always... [_she pulls her top open and off_] ...sweet.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, Abby.  ",
+        "prevSpeaker": "Abby",
+        "nextSpeaker": "Computer"
+    },
+    {
+        "speaker": "Computer",
+        "text": "You have e-mail!  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Abby"
+    },
+    {
+        "speaker": "Abby",
+        "text": "I'm not reading them!  The office is closed.",
+        "prevSpeaker": "Computer",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "That's a very good decision.  That is partner-level thinking.",
+        "prevSpeaker": "Abby",
+        "nextSpeaker": "Abby"
+    },
+    {
+        "speaker": "Abby",
+        "text": "Wait!  What am I thinking?  You sent me another one of those naughty e-mails, haven't you?  Maybe we should act this one out.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No, no!  Actually, I just forwarded you an ad for reduced mortgage rates.",
+        "prevSpeaker": "Abby",
+        "nextSpeaker": "Abby"
+    },
+    {
+        "speaker": "Abby",
+        "text": "Why are you blushing, Frasier?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Because they're embarrassingly low.",
+        "prevSpeaker": "Abby",
+        "nextSpeaker": "Abby"
+    },
+    {
+        "speaker": "Abby",
+        "text": "This says \"Re: Our Relationship\".",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "All right, you're on to me.  Just come here and sit down and relax.  And I will read it to you.  Prepare to be... scandalized.  ",
+        "prevSpeaker": "Abby",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "\"Dear Abby, I read your column every week.\"   Kidding.  Now, here's the real stuff, now.  Um, \"I'm, ah, lying here in bed and I can't stop thinking about you.\"",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Abby"
+    },
+    {
+        "speaker": "Abby",
+        "text": "Oh, this is getting good.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, you like that, do you?  Uh, \"Your golden hair cascades down your bare shoulders and I kiss the curve at the back of your neck.\"",
+        "prevSpeaker": "Abby",
+        "nextSpeaker": "Abby"
+    },
+    {
+        "speaker": "Abby",
+        "text": "I'm very lonely over here. _She gets up and walks towards him.  He hits a key and there is a beep from the computer._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, gosh, I deleted it by accident.",
+        "prevSpeaker": "Abby",
+        "nextSpeaker": "Abby"
+    },
+    {
+        "speaker": "Abby",
+        "text": "Oh, no, that's too bad.  I really wanted to hear the rest of that.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, you know what?  We can write a new ending together. But there's no need to rush.  We'll just start very slowly, at the beginning.  And then, we'll move, gently, into the middle.  And then I'm sure you'll want to add a few plot twists of your own. _He takes off his jacket, tosses it on the floor and sits on the couch. There is a beep from the printer and Abby takes a sheet from it._ ",
+        "prevSpeaker": "Abby",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "And finally, we'll just...what are you reading?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Abby"
+    },
+    {
+        "speaker": "Abby",
+        "text": "Your e-mail.  You printed it by mistake.  You think I'm ripping you off?!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No!  No, no!  I did not use those words!  Actually, I, I just took issue with a couple of figures.",
+        "prevSpeaker": "Abby",
+        "nextSpeaker": "Abby"
+    },
+    {
+        "speaker": "Abby",
+        "text": "And you come in here and lie to me?!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, \"lie\" is a very strong word.",
+        "prevSpeaker": "Abby",
+        "nextSpeaker": "Abby"
+    },
+    {
+        "speaker": "Abby",
+        "text": "Well, so is \"chiseler\".",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Abby, I realize I've made a terrible mistake, and I wrote some very harsh things.  But, to my credit, I did attempt to delete it before you got a chance to read it.  ",
+        "prevSpeaker": "Abby",
+        "nextSpeaker": "Abby"
+    },
+    {
+        "speaker": "Abby",
+        "text": "Get out.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, come on!  Look at the two of us.  We can't stay mad at each other.",
+        "prevSpeaker": "Abby",
+        "nextSpeaker": "Abby"
+    },
+    {
+        "speaker": "Abby",
+        "text": "I said get out!  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Abby"
+    },
+    {
+        "speaker": "Abby",
+        "text": "And to think that I almost slept with you. _She throws the jacket at him and slams the door.  CUT TO: the hallway, where Frasier has the jacket on his head._ ",
+        "prevSpeaker": "Abby",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You still can!  ",
+        "prevSpeaker": "Abby",
+        "nextSpeaker": "Credits"
+    }
+]

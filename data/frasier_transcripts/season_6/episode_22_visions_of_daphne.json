@@ -1,0 +1,1437 @@
+[
+    {},
+    {
+        "speaker": "Frasier",
+        "text": "Good show today, Roz.",
+        "prevSpeaker": "No Previous Speaker",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Yeah.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_notices catalogues_] Say, why all the catalogues?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "I need to buy a present.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_happily reading books_] Tiffany, Cartier, Neiman Marcus...",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "So does anything look good to you here?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, let's see.  Who could we be shopping for?  Hmm, perhaps a honey-voiced radio therapist who's birthday's just around the corner?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "No, this present is not for you - it's for your brother.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh all right, Roz, don't be coy.  I think it's very smart you fishing for hints like this - you wanted to avoid a misstep like you made last year.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "What misstep?  You said you loved Pagliacci.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, I said the opera, not the porcelain crying crown figurine!",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Look, Niles pulled some strings and got Alice on a list for a really good preschool, so I thought I'd just get him a little thank you gift, which was why I was asking for your stupid opinion in the first place.  Forget it.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "All right, fine.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "I'll figure it out for myself.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Have it your own way, that's fine.  But I tell you what, don't get him a porcelain Pagliacci.  He already has one!  _Roz throws a catalogue at him as he exits the studio.  FADE OUT_  **SOMETHING OLD SOMETHING NEW SOMETHING BORROWED SOMETHING DEAD**  _Scene Two - Frasier's Apartment. Later that day, Frasier is on the couch reading a book when Martin enters through the front door._ ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Hi, Dad.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Hey, Fras.  You'll never guess who I just saw.  I went over for a cup of coffee with Hank.  You remember Hank?  He's the security guard who works at Weston's jewelry store.  Anyway, we were in his booth - just shooting the breeze, looking at the surveillance monitors, when who do I see buying an engagement ring, but Donny - as in \"Daphne & Donny.\"",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_shocked_] Donny?  Are you sure?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Yeah.  Engagement rings is Tina's counter.  We use the zoom lens on her.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Dad, I'm shocked!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh no, it's just innocent fun.  She only dresses that way 'cause she knows we're looking at her!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "About Daphne and Donny.  I didn't realize they were this serious.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well, they spend all their time together.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "This is going to crush Niles.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Yeah, I know.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Do you think we should tell him?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "No, it's none of our business!  We do not tell Niles and we definitely do not tell Daphne! _Daphne appears at the front door.  She has heard Martin's last sentence._",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Tell Daphne what?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Nothing.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "It's bad news, isn't it?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "No, it's not bad news.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Is it about my mum, did they find something during her physical - they did, didn't they?  I'll have to call her.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No Daphne, there is absolutely no news.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "And even if there were, it's not up to us to tell you about it.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Who should tell me then?  The head surgeon, our family minister?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "No!",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "The mortician? [_worried_] I've got to pack, I hope I'm not too late!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_quickly_] I just saw Donny buying you an engagement ring.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "That is the news!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "[_confused_] Really?  I don't believe it, I'm going to get married! [_excited_] I'm so excited!  I'm going to be a \"Mrs.\" Mrs. Donny Douglas!  Oh, [_writing it out in the air_] Mrs. Donald Ronald Douglas!  Oh my God!  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I guess we're going to have to prepare Niles now, he's on his way over here.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Yeah, well don't tell him here.  I don't want him going to pieces in front of Daphne.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I guess I could tell him at the restaurant.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Don't take him to one of those fancy wine bistros that you guys love.  News like this calls for hard liquor, big glasses!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Wherever it is, I just think it's best that Niles hears it from me and not from Daphne.  _Just as Daphne did, Niles is now at the front door and has heard Frasier's last sentence._ ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Hear what from Daphne?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I'll tell you at the restaurant.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_excited_] No, I don't want to wait till we get to the bistro.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You're just going to have to wait.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "And you're not going to any bistro!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_confused_] Well fine, then if you won't tell me, I'll just ask Daphne myself.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_stopping him_] Niles, wait.  The truth is: Daphne's...",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_completing the sentence_] ...mother is dying.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, dear God.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes.  Tragic, isn't it?  You know, she's going to need all the support that we can give her.  ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Evening, Dr. Crane.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, come on, Niles, we don't want to lose our table.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "[_to Niles_] Have you heard the news?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_hugs her_] I just did, what can I say?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Oh, I've thought about this day, ever since I was a little girl.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I'm sure you have.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "It's even better than I thought it would be!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "I can already picture the big day: beautiful flowers everywhere, a sea of smiling faces, and I suppose everyone will want to have their picture taken with the lady of the hour.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_worried_] You know, maybe Daphne could use a little quiet time.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Oh, who could be quiet?!  I'm so happy. [_hugs Frasier_] Donny's going to ask me to marry him!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_aside to Martin_] What?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Now, come the big day you'll all sit right up front with my family.  Because that's what you are to me: family. [_hugs Martin_]",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well, that's what you are to us too, Daph.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_Daphne has now started hugging him again, he says, acting_] I am so thrilled for you.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Oh thank you, thank you all! _Daphne runs out in a hyper mood as Niles tries to overcome his emotions._",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "I'm sorry, son.  ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Do you want to talk?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Er, no.  Frasier, if you wouldn't mind I'm gonna cancel dinner.  I need to be alone.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Of course, Niles, but if you need me - call.  ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh, poor kid!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, he'll be all right, Dad.  You know, Niles is a lot stronger than we give him credit for.  ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_into phone_] Hello?  Hold the elevator, I'll be right there. _Frasier walks to the front door but before he can get there, the phone sounds again.  Martin answers._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_into phone_] Hang in there son, he's on his way. _Frasier opens the front door to a sad Niles with the phone to his ear and head pressed against the open lift door.  FADE TO:  Scene Three - Niles's Office. Niles is writing in his journal as there is a knock at the door._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Yes?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Woodson"
+    },
+    {
+        "speaker": "Woodson",
+        "text": "This came while you were in session.  It's from a Roz Doyle, she wanted to thank you for a favor that you did. [_hands the bag over_]",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Ah.",
+        "prevSpeaker": "Woodson",
+        "nextSpeaker": "Woodson"
+    },
+    {
+        "speaker": "Woodson",
+        "text": "I'll be off now.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "All right.  Goodnight, Mrs. Woodson. _She exits.  Niles carries on writing in his journal.  There is another knock._",
+        "prevSpeaker": "Woodson",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Come in, Mrs. Woodson. _However when the door opens it is Daphne.  Niles puts his journal away and stands up to greet her._ ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "I'm afraid it's me, Dr. Crane.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_surprised_] Daphne, what are you doing here?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "I know I should have called first but I need to talk to you. It's sort of a private matter and I hoped we could talk here.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well, it's not really appropriate for me to act as your therapist, but if it's just advice from a friend you need I'd be happy to lend an ear.  What's on your mind?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Well, I don't think I can marry Donny.  I think there's somebody else I'm meant to be with.  _There is a knock at the door but Niles ignores it as he carries on chatting with Daphne._ ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_to Daphne_] Who is it?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Woodson"
+    },
+    {
+        "speaker": "Woodson",
+        "text": "[_entering, thinking he was talking to her_] It's Mrs...",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_getting mad_] Oh for God's sake, go home! [_she does, then to Daphne_] Sorry for that interruption.  Anyway, this man you're meant to be with - who is he?",
+        "prevSpeaker": "Woodson",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "I'm afraid I can't say.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Yes you can, we're the only ones here.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Are you sure you won't laugh at me?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "How could you possibly think I would laugh at you?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Well, most people would if I told them I'd seen the love of my life in a psychic vision.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well, most people are... [_realizing_] What?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "You know how I have these psychic flashes from time to time? Well, I had one last night.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh you had a vision about... the love of your life.  Okay, well tell me about it. [_they sit_] And Daphne, omit nothing!",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "All right, I was straightening up the living room when I had a sudden flash of a wedding ceremony for Donny and me.  Oh, it was lovely; the church was packed to the rafters.  My mum was there in a peach silk looking very smart, my brothers in their suits....",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "You know, I may have led you in the wrong direction with the \"omit\" business, feel free to skip ahead.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "My father had just walked me up to the altar and I was standing there facing Donny.  He looked quite natty, black tuxedo, tails, very slimming...",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "We're skipping.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Well, then the vicar began the ceremony.  He asked if anyone had a reason why we shouldn't wed and that's when this... well, this person stood up and said that he did.  He said that he was the true love of my life, though he'd never had the courage to say so.  Ah, I feel so awkward telling you all this.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Don't. [_excited_] I think I know who this person is.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "You do?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Yes.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Well, I don't see how you could.  I couldn't tell myself.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "He was standing in the shadows and I couldn't see his face. All I could make out was that he was wearing a red bow tie.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I don't have a... [_realizes_] clue why anyone would wear such a thing to a wedding.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Heavens, I can't believe I'm talking about my visions to a psychiatrist.  Your brother would think I was daft.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well, [_covering_] Frasier's never really shared my mystical spiritual bent.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "This does mean I'm going to have to turn down Donny's proposal.  You don't think that would be crazy?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Not at all.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Then you really believe in psychic visions too?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I do.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Oh, thank you, Dr. Crane.  That means a lot to me.  Of course if I can't marry Donny, I can't very well go on dating him. That would just be leading him on.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "That's very true.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "I don't know how I'm going to break it off with him.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "If you want to write a letter... I have stationary and a fax machine.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "No.  I have to tell him to his face.  I do hate to let him go, though.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I know it's hard, but it's the only ethical thing to do.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "[_emotionally_] You're right. [_hugs him_] Now I see why people come to you.  You always point them in the right direction.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well, I'd be a poor excuse for a psychiatrist if I didn't.  _Over her shoulder Niles notices his bust of Carl Jung gazing at him accusingly.  Half scared, he turns the head away from himself.  End Of Act One. (Time: 9:50)  Act Two.  Scene Four - Frasier's Apartment. That evening, Martin is watching the TV in his chair as Eddie watches the TV laid upside down.  Frasier enters, says hello to Martin, and looks weirdly at Eddie._ ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "What's Eddie doing?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Every time this cooking show comes on, he rolls over and watches it upside down.  He likes all the pouring they do. He thinks it's funny the way the food goes up instead of down.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "[_enters from front door_] Evening.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Hey, Daph.  Donny called, he said he'd be here by eight. Do you think he'll pop the question tonight?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "I hope not.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "What's the matter?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "I've decided to break up with him tonight.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "What?!  You wanted to marry him yesterday.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Well, you know how I have these visions from time to time, and don't tell Dr. Crane, well...",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_enters from kitchen_] Don't tell me what?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Nothing.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "It's my car again, isn't it!",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "It's not your bloody car!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "She's breaking up with Donny because of some vision.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "I asked you not to mention that!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_concerned_] What vision?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "I know you'll make fun of me.  But I had a vision that I'm meant to be with another man.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Who?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "I couldn't see his face.  I don't know anything about him. He was just wearing a red bow tie.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Are you seriously going to dump Donny because of some psychic vision, don't you think that's a little unwise?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Well, your brother didn't think so.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Niles knows about this?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Yes, he helped me to see that ending things with Donny was my only choice.  Unlike you, he believes in my visions; he knows I have a gift.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, he's been trying to unwrap it for six years!  ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "That'll be Donny.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "What do you think about all this vision stuff?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Obviously there's some psychological reason that she's having second thoughts.  It's got nothing to do with an apparition in a red bow tie.  _Frasier answers the door to a grinning Niles who has donned a bright red bow tie._ ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_appalled_] Niles, you jackass, will you take that thing off!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_enters_] I admit it's a bit of a departure for me, but I'm feeling a bit kitschy today.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, I know.  Daphne told us how you encouraged her to follow her vision and dump Donny.  I am astonished at your lack of integrity!  Now will you take that damn thing off!  What the hell did you hope to accomplish with that anyway?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I was simply trying to nudge Daphne into the realization that I am the man in her vision.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Niles!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_reluctant_] All right. [_he takes it off_] But why else would she come to me?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Surely, you of all people realizes that there is some psychological basis for these visions of hers.  It represents a fear of some kind.  A fear of intimacy, a fear of commitment, a fear of the Windsor Knot, who knows?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "[_enters_] Was that Donny at the door?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh no, just Niles, Daphne.  You know, we were just discussing these visions of yours.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Look, I'm in no mood to be mocked.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I'm not mocking you, Daphne, and I'm not trying to influence you in anyway, either.  It's just that I was wondering... um, have these psychic warnings ever come to you before - say, at a critical juncture in a relationship?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "No! [_remembers_] Well, actually yes.  Once when my first boyfriend proposed I had a vision telling me that there was somebody better waiting - which there was: Clive.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "But you dumped Clive.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Look, er, I don't have time for this right now.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_sarcastic_] Oh yes, no fear of commitment there.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "It's just as possible that she knew those men were wrong for her.  Isn't that right, Dad?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_searching the room_] Leave me out of this.  I'm just looking for my TV Guide.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well, I could use a little support here.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_straightens up_] Well, maybe that's why I said to leave me out of it.  I'm sorry, Niles.  I want you to be happy but I'm with your brother on this.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Niles, the fact is you don't know what causes these visions, and yet you still advised her to walk away from a wonderful relationship.  It doesn't make you much of a psychiatrist.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "That's your opinion.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes well, here's a second opinion: it doesn't make you much of a friend.  _Niles is touched by this deeply and stares saddened into mid-air as he knows what he must do.  He leaves to the kitchen whilst Martin looks around._ ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Are you sure you didn't throw it away in the recycling?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Are you actually looking for the TV Guide?!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well I have to plan my weekend!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_sarcastic_] You really do have the world on a string, don't you, Dad?  _The following scene sees Niles going into the kitchen to talk to Daphne.  Niles tries to settle the matter._ ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Look Daphne, I've been thinking about our talk this afternoon. I'm not sure I gave you the best advice I could have.  Perhaps what you call a vision is really a fear - a fear of commitment, say.  That would explain why these visions come to you when your relationships turn serious.  Mind you, I can't tell you that Donny is the right person for you, but I wouldn't want you to end things with him for the wrong reasons.  Do you understand?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "[_hiding her tears_] Yeah, you're just like your brother after all.  This afternoon you were just humoring me, weren't you?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "No, Daphne.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "[_walking into the room as Niles follows, she shouts_] Look at the idiot from Manchester, she thinks she has visions!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "No, no, all I'm saying is that I think there are psychological issues here that you just don't entirely appreciate.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Well, how could I?  I'm just some nut who believes in fate. Well, I've always followed my visions and [_swelling up in the eyes_] your pity's not going to change that.  ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "That'll be Donny.  Could one of you get the door?  ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "[_angry_] Well, you've seen me do it enough times.  You just turn the handle and pull!  ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Donny"
+    },
+    {
+        "speaker": "Donny",
+        "text": "Hey, Frasier.  Is Daphne ready?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "She'll be out in a minute.",
+        "prevSpeaker": "Donny",
+        "nextSpeaker": "Donny"
+    },
+    {
+        "speaker": "Donny",
+        "text": "Oh, good, good.  Oh, what's that you're drinking there?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Sherry.",
+        "prevSpeaker": "Donny",
+        "nextSpeaker": "Donny"
+    },
+    {
+        "speaker": "Donny",
+        "text": "Oh.  Yeah, I'll have one.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "So, how's business?",
+        "prevSpeaker": "Donny",
+        "nextSpeaker": "Donny"
+    },
+    {
+        "speaker": "Donny",
+        "text": "Well, actually I've cut down on my caseload.  I want to spend more time with Daphne.  Don't tell her this but I've booked us on an Alaskan vacation next month.  I guess it's one of the few places left where you can feel completely alone.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_uncomfortable_] Ah, you like that feeling, huh?  _Martin and Niles exchange glances as Daphne enters from her room. Donny goes to hug Daphne but Niles and Frasier get in the way.  They move out and Donny and Daphne hug._ ",
+        "prevSpeaker": "Donny",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Donny.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Donny"
+    },
+    {
+        "speaker": "Donny",
+        "text": "Hi, honey. [_kisses her_]",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "So are we on our way then?",
+        "prevSpeaker": "Donny",
+        "nextSpeaker": "Donny"
+    },
+    {
+        "speaker": "Donny",
+        "text": "Well actually, I've got something on my mind that I'd kinda like to talk about first...  ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Donny"
+    },
+    {
+        "speaker": "Donny",
+        "text": "No, no, I'd like you to stay here for this.  If it wasn't for you then I never would have met Daphne...",
+        "prevSpeaker": "Donny",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Donny, I think it would be best...",
+        "prevSpeaker": "Donny",
+        "nextSpeaker": "Donny"
+    },
+    {
+        "speaker": "Donny",
+        "text": "It's okay.  Sit!  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Maybe I'll have a little bit of this sherry. [_He gulps down a glass at once_]  ",
+        "prevSpeaker": "Donny",
+        "nextSpeaker": "Donny"
+    },
+    {
+        "speaker": "Donny",
+        "text": "You know, I thought that being a divorce attorney would have just soured me on relationships... and then I met you.  And I found myself telling my clients to reconcile, because I think that if they could find even just a tiny little bit of the happiness that I've found with you they could make it. I've been thinking about that time we went to the little bed- and-breakfast in the country and we sat in that porch swing all night. [_laughs_] When I looked at the sky, you told me your dad and you used to sit on your step and do the same thing when you were a kid.  He said that the only man good enough for you would \"scoop the stars out of the sky with his hat and lay them at your feet.\"  Well... [_taking ring out_] I've only caught this one so far.  But if you'll accept it, I'll spend my life chasing down the rest of them for you.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Donny"
+    },
+    {
+        "speaker": "Donny",
+        "text": "I know it's very soon, so just think about it.",
+        "prevSpeaker": "Donny",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "[_slowly_] I don't have to think about it... _Yes!_  _She begins crying and stands up to hug Donny.  They kiss as Martin and Frasier look at Niles in shock.  Niles is heartbroken._ ",
+        "prevSpeaker": "Donny",
+        "nextSpeaker": "Donny"
+    },
+    {
+        "speaker": "Donny",
+        "text": "Boys, give me a break: you look more surprised than I do.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, we're just so happy for you.",
+        "prevSpeaker": "Donny",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, that's wonderful. [_getting up_] Excuse me, I need to...",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, champagne, let me help you.  ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh Niles, I'm so sorry...",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Frasier, why don't you just take this champagne in there and stay out there for a second? ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "I'd do anything to fix this for you.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I know. [_half smiling_] It's my own fault.  I had chance after chance to tell her how I feel, but I always kept my mouth shut.  'Til tonight, when I probably should have.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well, you can't regret what you said.  It was the right thing to do, and that's something I can always count on from you.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Thanks, Dad.  ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well, I'm going to get me some of that champagne. [_exits_]",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Me, too.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "[_stops Niles_] Just a second, Dr. Crane.  I'm sorry I got cross with you.  Once I thought about what you said it really made sense, and then when Donny did ask me it _was_ fear that I felt -- just like you told me.  I figured the best way to overcome it was to just jump in with both feet.  Thank you for your help.  ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I wish you the very best, Daphne.  ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Donny"
+    },
+    {
+        "speaker": "Donny",
+        "text": "Hey, don't squeeze so hard!  That's a precious commodity right there: my number one client!  _Donny pats Niles on the back as Daphne laughs at his joke.  FADE TO:  Scene Five - Frasier's Apartment. Later that evening Martin is still searching for his TV guide as Daphne enters from her bedroom donned in her dressing gown._ ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Still looking for that TV guide?",
+        "prevSpeaker": "Donny",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Yeah, it's the damnedest thing. [_looks around_] What are you still doing up?  Where's Donny?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "[_begins searching with him_] He's on the phone with my folks. He really is wonderful, Mr. Crane.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "I've very happy for you, Daph.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Oh my God. [_straightens up_] I just had that vision again. Only this time... oh, that's a bit scary.  My mystery man is standing with some sort of dragon.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_surprised_] A dragon?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Yes, that makes no sense.  It must be just what Dr. Crane said, these visions are about my fears.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_thinking she's nuts_] God, yes.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Imagine spending the rest of my life looking for some poor bloke with a dragon. [_laughs_]",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_straightening up_] Wow, that's weird.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "What?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "I just had a vision myself.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "What is it?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "It's a mystery woman, she's standing in the kitchen - [_excited_] she's making me a Monte Cristo sandwich.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "[_begins to leave_] Oh, brother!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh no, it's just a grilled cheese!",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Make it yourself, you lazy old sod!  _Daphne exits as Martin hobbles out miserably.  FADE TO:  Scene Three - Niles's Apartment. Meanwhile at the Montana, Niles is switching off the lights for the night.  He walks across the room until he realizes that the present Roz sent for him is still unopened.  He decides to have a look what she bought him._ ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_in disgust_] Oh, Roz!  _Niles takes a small ornament out of the bag. It is a tacky statue of a dragon.  Niles then replaces this in the bag looking at it with a look of displeasure.  End Of Act Two. (Time: 21:40)_ ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Credits"
+    },
+    {
+        "speaker": "Credits",
+        "text": "  Frasier's Apartment. That next day Frasier enters the main room from the kitchen and sees both Martin and Eddie lying upside down on chairs watching TV.  At first he shakes his head at them, but he then decides to try it himself.   * * *  ## Guest Appearances    **Special Guest Star** SAUL RUBINEK as Donny  **Guest Starring** SHARON MADDEN as Mrs. Woodson   * * *  ## Quick Synopsis {kathy churay}    _ACT ONE  Scene One - Radio Station - Afternoon_  Frasier enters Roz's booth congratulating her on a good show, only to find her with a pile of mail order catalogues.  She asks his opinion and at first he thinks she's choosing a gift for his birthday, and he warns her against a gift like last year's.  \"You said you loved Pagliacci!\" Roz protests.  \"Yes,\" Frasier replies, \"the opera, not the little porcelain crying clown figurine.\"  But the gift isn't for him, it's for Niles, who pulled strings to get Alice on the waiting list for a very good preschool.  Frasier jokingly tells her not to get Niles a porcelain Pagliacci -- he already has one.  Roz throws a catalog at him as he leaves, smirking.  ****Something Old, Something New, Something Borrowed, Something Dead****   Frasier is reading on the couch as Martin comes in from a visit with his friend Hank, a security guard at a jewelry store.  He tells Frasier he and Hank were watching the security monitor and saw Donny buying an engagement ring.  Frasier is shocked and wonders whether they should tell Niles, who will be crushed.  But Martin says that it's none of their business.  They shouldn't tell Niles, and they definitely shouldn't tell Daphne.  \"Tell Daphne what?\" she inquires, coming in from the laundry room with her basket.  She quickly leaps to the conclusion that her mother's health checkup is bad news, and works herself nearly into a frenzy until Martin blurts out the truth.  Daphne is shocked at first, then ecstatic at the thought of getting married at last.  \"I'm going to be a missus!\"  And she runs off to her room jubilantly.  Frasier tells his father that they are going to have to prepare Niles, who is on his way over to the apartment at that moment.  They adjourn to the kitchen, still talking, and Martin advizes Frasier not to tell Niles in the apartment so he won't go to pieces in front of Daphne.   Frasier agrees that he'll tell Niles at the restaurant they're going to for dinner.  Martin warns him not to take Niles to \"one of those fancy wine bistros that you guys love.  News like this calls for hard liquor and big glasses.\"   As he heads back to the living room Frasier remarks that it's best Niles hear the news from him and not from Daphne.  \"Hear what from Daphne?\" asks Niles, coming in the front door. Frasier won't tell him and says Niles has to wait till they get to the restaurant.  Niles laughs and refuses to be teased, and heads for Daphne's room to ask her himself.  They head him off, and Frasier is about to tell him when Martin jumps in with a story that Daphne's mother is dying.  Daphne comes in and Niles gives her a hug to comfort her, only to be confused by Daphne going on and on about the impending \"big day.\"   Frasier suggests that Daphne might want to be alone and tries to rush Niles out of the apartment, but Daphne can't help but rhapsodize over the wonderful news that Donny is going to ask her to marry him.   Niles reacts stoically and Frasier looks sympathetic as Daphne insists that all three of them must sit up front with her family on the big day, since they are family to her. Niles pulls himself together to hug Daphne and tell her how thrilled he is for her, and she rushes off to her room again.  None of the three Cranes has much to say.  Finally Martin tells Niles how sorry he is, but Niles brushes him off.  Maintaining a brave front he begs off dinner with Frasier, saying he needs to be alone, and leaves.  Frasier asks him to call if he needs him.  Martin pities Niles, but Frasier tells him Niles is stronger than they give him credit for. Just then the phone rings, and Frasier answers it and says, \"Hold the elevator, I'll be right there.\"  He hangs up and heads to the front door as the phone rings again.  Martin answers it with, \"Hang in there, son, he's on his way.\"  As Frasier opens the front door we can see Niles standing with his head against the elevator door, clutching his cell phone numbly.    Niles is writing in a journal as his secretary Mrs. Woodson knocks at the door on her way out for the evening.  She hands him a bag that someone named Roz Doyle had dropped off earlier while he was in session.   Niles thanks her and sets it aside, taking up his journal again as she leaves. A moment later there is another knock at the door, but this time it's Daphne.   She apologizes for dropping by without calling.  She wanted to talk to Niles privately.  Niles cautions her that it's not appropriate for him to act as her therapist, but he'd be happy to give advice as a friend.  Daphne tells him she's not sure she can marry Donny, that there's someone else she's meant to be with.   Niles asks her who it is and she can't say.  Niles thinks she's just being shy, but she cautions him not to laugh at her -- she's seen the man in a psychic vision. He insists she must tell him about it, omitting nothing.  She starts telling him in detail about her vision of the ceremony -- her mother's dress, her brothers' suits, the guests.  Niles gently hurries her along until she finally says that at the part of the ceremony where the vicar asks if anyone objects to the marriage, a man stands up and says he is the true love of her life.  Niles smiles and says he thinks he knows who the man is, but Daphne doesn't see how that could be. She herself couldn't see the face of the man standing in the shadows, only the red bow tie he was wearing.  Daphne says how awkward she feels, telling her psychic visions to a psychiatrist, since she's sure Frasier would laugh at her.  But this means, of course, that she's going to have to turn down Donny's proposal, and stop dating him since it would be unethical to lead him on.  Does Niles think that's crazy?  Of course Niles doesn't at all. Though he knows he's taking advantage of her, he can't help but be happy she's going to break up with Donny, and enjoy the hug she gives him as the scene ends.   _ACT TWO  Scene One - Frasier's Living Room - Early That Evening_  Martin is watching TV as Frasier enters from the bedroom.  Eddie is lying on his back on an end table, watching the television upside down as Frasier heads into the kitchen.  Daphne comes in and Martin tells her that Donny called and will come by about 8:00.  Does she think he'll ask her to marry him tonight?  Daphne tells him she hopes not; she's planning to break up with Donny tonight.  She tells him about her vision and cautions him not to tell Frasier.  \"Don't tell me what?\" Frasier asks as he comes in from the kitchen. Martin blurts out her news and Daphne is forced to reveal that she's had a vision.  Frasier wonders whether it's not unwize to break up with Donny on the basis of a vision.  Daphne insists that his brother had a different opinion, that breaking up with Donny was her only choice. Niles knows she has a gift, she insists, and storms out to the kitchen.  The doorbell rings and Fraizer expects it will be Donny, but it's Niles, wearing the inevitable red bow tie.  He tries to be casual, but Frasier caustically informs him that he and Martin have already heard about Daphne's vision and his advice, and Frasier is astonished at Niles's lack of integrity.  Niles takes the tie off protesting that all Daphne needs is a nudge to realize he is the man for her -- why else would she come to him for advice?  But Frasier is genuinely angry at Niles for not seeing that the visions must represent a fear of commitment, not psychic ability.  Daphne comes in and Frasier tries to get her to talk about her vision, but Daphne is defensive and afraid of being mocked.  Frasier gently tries to raize the question of when she's had the visions in the past -- was it usual at a crucial juncture of relationships?  No, Daphne insists, though it did happen when her first boyfriend proposed.  She felt there was someone better waiting, and there was - - Clive.  Frasier points out that she dumped Clive, too, but she refuses to discuss it and retreats to the kitchen.  No fear of commitment there, Frasier observes sarcastically to Niles. Niles insists that it's possible that Daphne's previous boyfriends were just wrong for her, but Frasier points out that not only is Niles not being a good psychiatrist -- he's not being much of a friend, either.  Niles appeals to Martin, who sides with Frasier. Niles is forced to reconsider and goes into the kitchen to talk with Daphne.  Daphne is making tea as Niles tells her he's reconsidered his advice of that afternoon.  Perhaps her visions are really produced by fear of commitment and she would be breaking up with Donny for the wrong reasons. Daphne gets angry at him and tells him he's just like his brother, thinking she's pitiable because she believes in visions. But his pity isn't going to change her belief in her visions.  She is clearly hurt and goes off to her room to collect herself as the doorbell rings.  Frasier lets Donny in.  Daphne comes in and tries to get him to go out for their date.  Donny says he has something to talk to her about.  The Crane men try to get out of the room, but Donny insists they stay to hear what he has to say.  The three of them sink resignedly to the couch and are forced to listen as Donny makes a touching, heartfelt proposal to Daphne.   Daphne is very moved and for a moment it's not clear what she wants to do, but then she happily accepts his proposal.   Niles, Frasier and Martin sit looking stunned till Donny chides them for their long faces and they get up to congratulate Donny and Daphne.  Niles acts genuinely happy for them, but quickly beats a retreat to the kitchen, followed by Frasier.  In the kitchen there is mostly silence as Frasier collects glasses for a champagne toast and Niles stands grief-stricken at the counter. Martin comes in and pushes Frasier out with the champagne so he can have a moment alone with Niles.  He tells Niles that he would give anything to fix this for him.  Niles admits it's his own fault, not saying anything to Daphne about his feelings, then saying the wrong thing and causing her to accept Donny's proposal.  Martin comforts him that he has done the right thing and that he can count on that from Niles.  Daphne comes in to give Niles a big hug and thank him for talking some sense into her.  Niles wishes her the best in a choked voice, and Donny comes in to hug him, too.  Niles even manages to return Donny's hug for his number one client.   Martin is searching for his TV Guide as Daphne comes in in her bathrobe. Donny is in the other room, on the phone with Daphne's parents.  Daphne starts to help Martin with the search, and is looking under a chair when she straightens up in shock.  She's just had another vision.  The same man is in this one, only this time he has a dragon.  She admits the visions must be about her fears after all.  \"Imagine spending the rest of my life looking for some poor bloke with a dragon!\"   Niles shuffles tiredly through the living room in his pajamas, turning off lights for the night.   He spots the bag Roz gave him and roots through it looking for the gift.  \"Oh, Roz!\" he exclaims, and lifts out the figure of a carved dragon for a moment before he puts it back in the bag in disgust.   ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "CREDITS"
+    }
+]

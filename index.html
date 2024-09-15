@@ -1,0 +1,413 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Exploring Frasier</title>
+    <link rel="icon" href="data:;base64,iVBORwOKGO=" />
+    <style>
+      .character.selected {
+        border: 5px solid black; 
+      }
+
+      body {
+        font-family: Arial, sans-serif;
+      }
+
+      .logo {
+        position: absolute;
+        top: 10px;
+        left: 50%;
+        transform: translateX(-50%);
+        width: 250px;
+        height: auto;
+      }
+
+      .characters {
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+      }
+
+      .character {
+        flex: 0 0 auto;
+        width: 150px;
+        margin: 10px;
+        text-align: center;
+        background-color: #f9f9f9;
+        padding: 10px;
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        transition: transform 0.3s ease;
+      }
+
+      .character:hover {
+        transform: translateY(-5px);
+      }
+
+      .character img {
+        width: 100%;
+        height: 150px;
+        object-fit: cover;
+        border-radius: 10px;
+      }
+
+      .character p {
+        margin-top: 10px;
+        font-weight: bold;
+        font-size: 14px;
+        color: #333;
+      }
+
+      .character p.actor {
+        font-size: 12px;
+        color: #666;
+      }
+
+      .container {
+        max-width: 800px;
+        margin: 0 auto;
+        padding: 20px;
+        text-align: center;
+      }
+
+      .character_appearances {
+        display: none;
+        justify-content: left;
+        align-items: start;
+        flex-wrap: wrap;
+        max-width: 800px;
+        margin: 0 auto;
+        padding: 20px;
+        text-align: center;
+        padding-top: 100px;
+        overflow: auto;
+      }
+
+      .textbox {
+        background-color: #f9f9f9;
+        border-radius: 10px;
+        padding: 20px;
+        margin-bottom: 20px;
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+      }
+
+      .textbox h2 {
+        margin-bottom: 10px;
+        font-size: 20px;
+        color: #333;
+      }
+
+      .textbox p {
+        margin-top: 10px;
+        font-size: 16px;
+        color: #666;
+      }
+
+      .container1 {
+        display: flex;
+        justify-content: space-between;
+        align-items: start;
+        flex-wrap: nowrap;
+        max-width: 800px;
+        margin: 0 auto;
+        padding: 20px;
+        text-align: center;
+        padding-top: 100px;
+      }
+
+      .textbox1 {
+        flex: 1 1 50%;
+        background-color: #f9f9f9;
+        border-radius: 10px;
+        padding: 20px;
+        margin: 10px;
+        height: 300px;
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        text-align: left;
+      }
+      .textbox1 h2 {
+        margin-bottom: 10px;
+        font-size: 20px;
+        color: #333;
+      }
+
+      .textbox1 p {
+        margin-top: 10px;
+        font-size: 16px;
+        color: #666;
+      }
+      .barchart-container {
+        flex-direction: column;
+      }
+      .links path {
+        fill: none;
+        stroke: #999;
+        stroke-opacity: 0.6;
+      }
+      .nodes circle {
+        fill: #d62333;
+        stroke: #fff;
+        stroke-width: 1px;
+      }
+    </style>
+    <script>
+      function resetCharacters() {
+        document.querySelectorAll('.character').forEach(character => {
+            character.classList.remove('selected');
+        });
+        document.querySelectorAll('.character-link').forEach(link => {
+          link.style.fontWeight = 'normal'; 
+          link.style.color = 'black'; 
+          link.textContent = link.textContent.replace(" (SELECTED)", "");
+        })
+        const wordCloudWord = document.getElementById('word-cloud-word');
+        const wordCloudPhrase = document.getElementById('word-cloud-phrase');
+        const characterAppearances = document.getElementById('character_appearances');
+        wordCloudWord.innerHTML = '<p style="text-align:center; margin-top:50px;">Select a character to view the word cloud.</p>';
+        wordCloudPhrase.innerHTML = '';
+        characterAppearances.style.display = 'none';
+    }
+      function selectCharacter(selectedLink) {
+        document.querySelectorAll('.character-link').forEach(link => {
+          link.style.fontWeight = 'normal'; 
+          link.style.color = 'black'; 
+          link.textContent = link.textContent.replace(" (SELECTED)", "");
+        });
+        selectedLink.style.fontWeight = 'bold'; 
+        selectedLink.style.color = 'red';      
+        selectedLink.textContent += " (SELECTED)"; 
+      }
+      document.addEventListener('DOMContentLoaded', function() {
+        const characterImages = document.querySelectorAll('.character img');
+        characterImages.forEach(image => {
+          image.addEventListener('click', function(event) {
+            resetLinkSelections();
+            selectImageCharacter(event.target.alt); 
+          });
+        });
+      });
+    
+      function selectCharacter(selectedLink) {
+        resetLinkSelections();
+        selectedLink.style.fontWeight = 'bold';
+        selectedLink.style.color = 'red';
+        selectedLink.textContent += " (SELECTED)";
+      }
+    
+      function resetLinkSelections() {
+        document.querySelectorAll('.character-link').forEach(link => {
+          link.style.fontWeight = 'normal';
+          link.style.color = 'black';
+          link.textContent = link.textContent.replace(" (SELECTED)", "");
+        });
+      }
+    
+      function selectImageCharacter(characterName) {
+      }
+      </script>
+      
+  </head>
+  <body>
+    <img class="logo" src="public/images/logo.png" alt="Logo" />
+
+    <div class="container1">
+      <div class="textbox1">
+        <h2>Overview</h2>
+        <p>
+          "Frasier," the acclaimed American sitcom, graced television screens
+          from 1993 to 2004 on NBC. Originally spun off from the beloved series
+          "Cheers," the show chronicles the life of Dr. Frasier Crane, a
+          sophisticated psychiatrist and radio show host. Set against the
+          vibrant backdrop of Seattle, Washington, it humorously explores
+          Frasier's intricate personal and professional relationships, weaving
+          together wit, charm, and intelligence in its narrative.
+        </p>
+      </div>
+
+      <div class="textbox1">
+        <h2>Seasons and Episodes</h2>
+        <p>
+          "Frasier" enjoyed a remarkable run of 11 seasons, becoming a mainstay
+          in American television from 1993 to 2004. Throughout its tenure, the
+          show delivered a total of 264 episodes, a testament to its popularity
+          and enduring appeal. This prolific output not only cemented "Frasier"
+          as one of the longest-running sitcoms in TV history but also allowed
+          it to develop a rich, complex narrative filled with memorable
+          characters and intelligent humor. The series’ longevity and prolific
+          episode count are reflective of its widespread acclaim and the deep
+          connection it fostered with a diverse audience.
+        </p>
+      </div>
+    </div>
+
+  <div class = "textbox">
+    <div style="display: flex;">
+      <div class="barchart-container" style="flex: 1;">
+        <h3>Characters and Dialogue Counts for All Seasons Combined</h3>
+        <svg id="barchart"></svg>
+      </div>
+      <div class="barchart-container" style="flex: 1;">
+        <h3>Characters and Dialogue Counts per Season</h3>
+        <svg id="stacked-barchart"></svg>
+      </div>
+    </div>
+    </div>
+    
+  <div class ="textbox">
+    <h2>Main Characters</h2>
+    <div class="characters">
+
+      <div class="character">
+        <img src="public/images/frasiercane.png" alt="Frasier">
+        <p>Frasier Cane</p>
+      </div>
+
+      <div class="character">
+        <img src="public/images/daphnemoon.png" alt="Daphne">
+        <p>Daphne Moon</p>
+      </div>
+
+      <div class="character">
+        <img src="public/images/nilescrane.png" alt="Niles">
+        <p>Niles Crane</p>
+      </div>
+
+      <div class="character">
+        <img src="public/images/rozdoyle.png" alt="Roz">
+        <p>Roz Doyle</p>
+      </div>
+
+      <div class="character">
+        <img src="public/images/martincrane.png" alt="Martin">
+        <p>Martin Crane</p>
+      </div>
+
+      <div class="character">
+        <img src="public/images/eddie.png" alt="Eddie">
+        <p>Eddie</p>
+      </div>
+
+      <div class="character">
+        <img src="public/images/bobbriscoe.png" alt="Bulldog">
+        <p>Bob "Bulldog" Briscoe</p>
+      </div>
+    </div>
+    <div class="character_appearances" id="character_appearances" style = "width: 100%">
+      <div class="textbox1">
+        <h2 id="dropdown_title"></h2>
+        <p id="Frasier_appearances"></p>
+        <p id="Daphne_appearances"></p>
+        <p id="Niles_appearances"></p>
+        <p id="Roz_appearances"></p>
+        <p id="Martin_appearances"></p>
+        <p id="Eddie_appearances"></p>
+        <p id="Bulldog_appearances"></p>
+      </div>
+    </div> 
+    <h2>Other Characters</h2>
+    <ul>
+      <li><p><b><a href="#" class="character-link" onclick="selectCharacter(this); return false;">Bebe Glazer</a></b></p></li>
+      <li><p><b><a href="#" class="character-link" onclick="selectCharacter(this); return false;">Lilith Sternin</a></b></p></li>
+      <li><p><b><a href="#" class="character-link" onclick="selectCharacter(this); return false;">Donny Douglas</a></b></p></li>
+      <li><p><b><a href="#" class="character-link" onclick="selectCharacter(this); return false;">Kenny Daly</a></b></p></li>
+    </ul>
+    <br><button id="reset-characters-button" onclick="resetCharacters()">Reset Characters</button>
+  </div> 
+  </div>
+
+
+    <div class="textbox">
+      <div style="text-align: center; width: 100%; padding: 20px;">
+        <h3>Select Seasons</h3>
+        <select id="season-select" multiple style=" width: 10%; padding: 8px; height: auto; margin-bottom: 10px;">
+          <option value="1">Season 1</option>
+          <option value="2">Season 2</option>
+          <option value="3">Season 3</option>
+          <option value="4">Season 4</option>
+          <option value="5">Season 5</option>
+          <option value="6">Season 6</option>
+          <option value="7">Season 7</option>
+          <option value="8">Season 8</option>
+          <option value="9">Season 9</option>
+          <option value="10">Season 10</option>
+          <option value="11">Season 11</option>
+        </select><br>
+        <button id = "reset-button" style = "margin-top: 10px;">Reset Seasons</button>
+        </div>
+
+
+        <div style="display: flex;">
+          <div style="flex: 1;">
+            <h3>Most Frequently Said Words</h3>
+            <div id="word-cloud-word" style="width: 500px; height: 500px; margin: 10px;">
+              <p style="width: 100%; margin-top: 50px; margin-left: 300px">Select a character to view the visualizations.</p>
+            </div>
+          </div>
+          <div style="flex: 1;">
+            <h3>Most Frequently Said Phrases</h3>
+            <div id="word-cloud-phrase" style="width: 500px; height: 500px; margin: 10px;"></div>
+          </div>
+        </div>
+    </div> 
+
+<div class = "textbox">
+<div class="histogram-container">
+    <h3>Word Length by Character and Conversation Partner</h3>
+    <label>When:</label>
+    <select class="histo-character-dropdown" id="histoCharacterA">
+        <option value="Frasier" selected>Frasier</option>
+        <option value="Niles">Niles</option>
+        <option value="Martin">Martin</option>
+        <option value="Daphne">Daphne</option>
+        <option value="Roz">Roz</option>
+        <option value="Bulldog">Bulldog</option>
+        <option value="Lilith">Lilith</option>
+        <option value="Kenny">Kenny</option>
+        <option value="Bebe">Bebe</option>
+        <option value="Donny">Donny</option>
+    </select>
+    <label>Is Speaking To:</label>
+    <select class="histo-character-dropdown" id="histoCharacterB">
+        <option value="Frasier">Frasier</option>
+        <option value="Niles" selected>Niles</option>
+        <option value="Martin">Martin</option>
+        <option value="Daphne">Daphne</option>
+        <option value="Roz">Roz</option>
+        <option value="Bulldog">Bulldog</option>
+        <option value="Lilith">Lilith</option>
+        <option value="Kenny">Kenny</option>
+        <option value="Bebe">Bebe</option>
+        <option value="Donny">Donny</option>
+    </select>
+    <br>
+    <svg id="word-length-histo"></svg>
+</div>
+<div class="arc-container">
+  <h3>Conversation Partners - Who Speaks to Who</h3>
+  <label>Filter By: </label>
+  <select class="arc-dropdown" id="arc-dropdown">
+      <option value="season_1" selected>Season 1</option>
+      <option value="season_2">Season 2</option>
+      <option value="season_3">Season 3</option>
+      <option value="season_4">Season 4</option>
+      <option value="season_5">Season 5</option>
+      <option value="season_6">Season 6</option>
+      <option value="season_7">Season 7</option>
+      <option value="season_8">Season 8</option>
+      <option value="season_9">Season 9</option>
+      <option value="season_10">Season 10</option>
+      <option value="season_11">Season 11</option>
+  </select>
+  <br>
+  <div id="conversation-arc" style="padding-left: 150px;"></div>
+</div>
+    <script src="js/d3.v6.min.js"></script>
+    <script src="https://d3js.org/d3.v6.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/d3-cloud/build/d3.layout.cloud.js"></script>
+    <script type="module" src="js/main.js"></script>
+    <script type="module" src="js/main.js"></script>
+    <script src="js/barchart.js"></script>
+    <script src="js/stacked-barchart.js"></script>
+
+    <script src="js/word-length-histo.js"></script>
+    <script src="js/conversation-arc.js"></script>
+  </body>
+</html>

@@ -1,0 +1,1491 @@
+[
+    {},
+    {
+        "speaker": "Albert",
+        "text": "Sorry.  I'm a nervous flyer.",
+        "prevSpeaker": "No Previous Speaker",
+        "nextSpeaker": "Lilith"
+    },
+    {
+        "speaker": "Lilith",
+        "text": "Yes, I see.  Oh, you're white as a sheet.",
+        "prevSpeaker": "Albert",
+        "nextSpeaker": "Albert"
+    },
+    {
+        "speaker": "Albert",
+        "text": "No, actually, I'm always this pale.  My ex-wife used to say she could tell when I was embarrassed because I'd turn off-white.",
+        "prevSpeaker": "Lilith",
+        "nextSpeaker": "Lilith"
+    },
+    {
+        "speaker": "Lilith",
+        "text": "I can empathize.  Sometimes after a late night, I covered my under-eye circles with Liquid Paper.  So are you traveling to Seattle for business or pleasure?",
+        "prevSpeaker": "Albert",
+        "nextSpeaker": "Albert"
+    },
+    {
+        "speaker": "Albert",
+        "text": "Both, hopefully.  I'm relocating for work.  How about you?",
+        "prevSpeaker": "Lilith",
+        "nextSpeaker": "Lilith"
+    },
+    {
+        "speaker": "Lilith",
+        "text": "I need to ask an old friend for a favor.",
+        "prevSpeaker": "Albert",
+        "nextSpeaker": "Albert"
+    },
+    {
+        "speaker": "Albert",
+        "text": "It's a long trip just to ask for a favor.",
+        "prevSpeaker": "Lilith",
+        "nextSpeaker": "Lilith"
+    },
+    {
+        "speaker": "Lilith",
+        "text": "It's a big favor.",
+        "prevSpeaker": "Albert",
+        "nextSpeaker": "Albert"
+    },
+    {
+        "speaker": "Albert",
+        "text": "Well I hope your friend complies.",
+        "prevSpeaker": "Lilith",
+        "nextSpeaker": "Lilith"
+    },
+    {
+        "speaker": "Lilith",
+        "text": "It'll take some work, but I'll get what I want.  [_A flight attendant comes up._] ",
+        "prevSpeaker": "Albert",
+        "nextSpeaker": "Attendant"
+    },
+    {
+        "speaker": "Attendant",
+        "text": "Oh, dear, you two look awfully pale.  Can I bring you something?",
+        "prevSpeaker": "Lilith",
+        "nextSpeaker": "Lilith"
+    },
+    {
+        "speaker": "Lilith",
+        "text": "Not unless you have any extra melanin lying around.  [_She leaves as Albert laughs._] ",
+        "prevSpeaker": "Attendant",
+        "nextSpeaker": "Albert"
+    },
+    {
+        "speaker": "Albert",
+        "text": "You should be a comedian.",
+        "prevSpeaker": "Lilith",
+        "nextSpeaker": "Lilith"
+    },
+    {
+        "speaker": "Lilith",
+        "text": "I've thought about it.  [_She goes back to her reading.  Fade out._]   [_Fade in.  Martin is walking from the kitchen to his chair.  When he hears keys in the door, he sets his beer down and hurries towards the bedroom.  The door opens and Frasier comes in._] ",
+        "prevSpeaker": "Albert",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Dad?  Dad, Dad!  What?  Are you hiding?",
+        "prevSpeaker": "Lilith",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "I heard the key in the door, I thought Lilith might be with you.  What's she coming for anyway?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, I don't really know.  She said she was flying across the country to ask me about something that was important. She's being very mysterious about it.  [_He hangs up his coat as the doorbell rings._] ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Is that her?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, no.  No, Dad, I'm not seeing her until tomorrow.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well, let me know when she's coming, will you, so I can come up with an excuse to clear out.  Because I'm not good at winging it.  [_Frasier opens the door.  It is Lilith._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, Lilith.  Hi.  Look who's here, Dad.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Lilith"
+    },
+    {
+        "speaker": "Lilith",
+        "text": "Hello, Martin.  [_Martin smiles nervously, then glances at his watch._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh, time to go... practice my signature.  [_He heads for the bedrooms._] ",
+        "prevSpeaker": "Lilith",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Please, come on in, Lilith.  So, I didn't think I was going to be seeing you 'til tomorrow.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Lilith"
+    },
+    {
+        "speaker": "Lilith",
+        "text": "Yes, I know that was the plan, but I just had to stop by on my way to the hotel.  What I'm here to talk to you about is not something one just drops on another person. [_gesturing for him to sit_] Please.  [_He sits down._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Lilith"
+    },
+    {
+        "speaker": "Lilith",
+        "text": "[_sitting beside him_] Frasier, recently a subconscious yearning has tunneled its way to the surface and I now know what it is I need in order to make my life complete.",
+        "prevSpeaker": "Lilith",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, that's wonderful news.  How can I help?",
+        "prevSpeaker": "Lilith",
+        "nextSpeaker": "Lilith"
+    },
+    {
+        "speaker": "Lilith",
+        "text": "You can give me your sperm.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I beg your pardon?",
+        "prevSpeaker": "Lilith",
+        "nextSpeaker": "Lilith"
+    },
+    {
+        "speaker": "Lilith",
+        "text": "I want to have another baby.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, you certainly don't need me for that.  Surely... someone in Boston must have sperm.",
+        "prevSpeaker": "Lilith",
+        "nextSpeaker": "Lilith"
+    },
+    {
+        "speaker": "Lilith",
+        "text": "I came to you first so that Frederick could have a full sibling.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "So, just like that we're going to have another baby together.",
+        "prevSpeaker": "Lilith",
+        "nextSpeaker": "Lilith"
+    },
+    {
+        "speaker": "Lilith",
+        "text": "No, not just like that.  I mapped out our dominant and recessive traits on a genome square, applied Mendel's laws, allowed for anomalies and concluded that you are the best biological choice.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I see.  Well, as enticed as I am by your honeyed words, I'm gonna need some kissin'.",
+        "prevSpeaker": "Lilith",
+        "nextSpeaker": "Lilith"
+    },
+    {
+        "speaker": "Lilith",
+        "text": "Frasier, don't misunderstand, I'm not proposing any change in our relationship.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Would we... sleep together?",
+        "prevSpeaker": "Lilith",
+        "nextSpeaker": "Lilith"
+    },
+    {
+        "speaker": "Lilith",
+        "text": "I thought we'd freeze your sperm.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Is that a \"yes\" or a \"no\"?",
+        "prevSpeaker": "Lilith",
+        "nextSpeaker": "Lilith"
+    },
+    {
+        "speaker": "Lilith",
+        "text": "Natural fertilization is impractical.  I'd have to fly to Seattle every time I ovulate.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_getting up_]  Right, okay.  So, then your plan is for me to visit some local doctor, freeze my essence and then bring it home with you.",
+        "prevSpeaker": "Lilith",
+        "nextSpeaker": "Lilith"
+    },
+    {
+        "speaker": "Lilith",
+        "text": "Correct.  I'll take mine to go.  [_Frasier sits on the arm of Martin's chair._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I don't know.  I'm going to have to think about it.",
+        "prevSpeaker": "Lilith",
+        "nextSpeaker": "Lilith"
+    },
+    {
+        "speaker": "Lilith",
+        "text": "[_rising_]  Yes, of course, absolutely.  Think about it, and you can give me your answer tomorrow.  [_She heads for the door, Frasier follows._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Okay.",
+        "prevSpeaker": "Lilith",
+        "nextSpeaker": "Lilith"
+    },
+    {
+        "speaker": "Lilith",
+        "text": "You can come back from around the corner now, Martin.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_from around the corner_]  Good night, Lilith.",
+        "prevSpeaker": "Lilith",
+        "nextSpeaker": "Lilith"
+    },
+    {
+        "speaker": "Lilith",
+        "text": "Good night.  [_She leaves._] ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You were eavesdropping?  [_Martin comes into the living room._] ",
+        "prevSpeaker": "Lilith",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "It was an accident and I only heard the part about her wanting to have another baby with you.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "She completely threw me.  [_Martin settles into his chair._] ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well, I don't know why you're so surprised.  She's seen what the Crane genes can do and she's coming back to the well.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "How does one respond to something like that?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well, I bet if you say \"No\" she'll go to Niles.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Really, it's just so self-centered.  I mean, she's got this all figured out for herself without the slightest consideration for my life.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "And Niles'll say \"No\" for sure.  Which means only one thing. [_He gets a worried look._] She'll come to the source.  Me. The fountainhead.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "What?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Can you imagine?  Lilith's and my kid would be brother to you and Niles AND Freddie.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "What are you talking about?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "And if you and Lilith got back together, you'd be his step-father and his brother and Niles would be your son and his own uncle.  It's almost worth doing just so that I can tell the story.  [_Frasier just waves this off as he heads to his room.  Fade out._]   [_Fade in.  Frasier is sitting at a table.  Niles walks in._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, hi, Niles.  Did Daphne and her mom get off okay?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_sitting down_] Yes.  They picked up Roz and Alice an hour ago.  Although, how they're going to get all the way to Canada without killing each other, I don't know.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Why did they have to go so far?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well, that was my idea.  I read that Canadian Fun Country is one of the best amusement parks in southeastern British Columbia.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, I'm just saying Daphne's mom should be careful, you know.  If you're here on a temporary visa, you know sometimes people have a hard time getting back into the country.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_deadpan_] That hadn't occurred to me, Frasier.  [_N.B. Niles no doubt recalls the family trip in[[1.21] \"Travels With Martin\"](/frasier/transcripts/season_1/episode_21/travels_with_martin.html), in which the Cranes strayed over the border before Daphne's green card had come through, and they had to smuggle her back posing as an American._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, seeing as how you're single, I'd invite you to join me for dinner, but I'm meeting with Lilith tonight on a matter of some delicacy.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Dad told me.  Now listen, don't feel obligated because she's buying you dinner.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Truth be told, Niles, I hadn't ruled it out entirely.  It would be nice to have another child.  And Lilith is a wonderful mother.  It's just that, well, is it right to create a human being with a woman to whom you couldn't stand being married?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well, I'm behind you whatever decision you make, the right one or the crazy one.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Thank you.  [_Niles calls out to the passing Barista._] ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Excuse me, may I have an espresso?  [_The waiter nods and heads off.  Frasier notices an envelope Niles brought in._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "What have you got here?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, some snapshots from last summer at the beach.  Daphne finally got them developed.  [_He shows them to Frasier who starts chuckling._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, there's Dad eating that hot dog he dropped in the sand. And you, in your linen beach ensemble.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Very nice, yes.  Well that's strange.  Daphne said I'd particularly like the last picture on the roll but what is it?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "It's hard to tell, it's too dark and blurry.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Looks like the eye of Jupiter.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Or a slice of pepperoni",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Is it a flying saucer?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, Niles, it's a flying saucer.  Mystery solved, well done.  [_The Barista brings Niles's coffee over and sees the photo._] ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Barista"
+    },
+    {
+        "speaker": "Barista",
+        "text": "Hey, where'd you get the nipple shot?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Good lord!  [_Frasier and Niles look again in shock, then Niles clutches the photo to his chest._] ",
+        "prevSpeaker": "Barista",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "You are to erase that from your mind.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Is it Daphne?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Barista"
+    },
+    {
+        "speaker": "Barista",
+        "text": "Nice.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "You're not erasing!  Erase!  [_The Barista heads off as Niles points a warning finger at Frasier. Fade out._]   [_Fade in.  Daphne is driving, with Roz next to her and Alice and Gertrude in the back._] ",
+        "prevSpeaker": "Barista",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "I need to stop again.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "We just stopped.  I told you not to get that Big Gulp.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "But it was only ten cents more.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Alice"
+    },
+    {
+        "speaker": "Alice",
+        "text": "Punch buggy blue!  [_She hits Gertrude on the arm._] ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Gertrude"
+    },
+    {
+        "speaker": "Gertrude",
+        "text": "Ow!  Dammit!",
+        "prevSpeaker": "Alice",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Language!",
+        "prevSpeaker": "Gertrude",
+        "nextSpeaker": "Gertrude"
+    },
+    {
+        "speaker": "Gertrude",
+        "text": "Why does she keep doing that?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "It's a game.",
+        "prevSpeaker": "Gertrude",
+        "nextSpeaker": "Gertrude"
+    },
+    {
+        "speaker": "Gertrude",
+        "text": "It hurts.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "All right, mum.",
+        "prevSpeaker": "Gertrude",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "There's a gas station right there, I really need to stop.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "I can't get over, you'll have to wait.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "But according to this, my bladder is holding \"Thirsty-Two\" ounces of soda.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "It's only forty miles.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Alice"
+    },
+    {
+        "speaker": "Alice",
+        "text": "Punch buggy red.  [_She hits Gertrude on the arm._] ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Gertrude"
+    },
+    {
+        "speaker": "Gertrude",
+        "text": "Oh!  Son of a...!",
+        "prevSpeaker": "Alice",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Language!",
+        "prevSpeaker": "Gertrude",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Alice, honey.  Stop hitting Mrs. Moon.  She can't take the punch buggy game.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Gertrude"
+    },
+    {
+        "speaker": "Gertrude",
+        "text": "Oh, really?  Punch buggy white!  [_She knuckles Roz on the shoulder._] ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Ow!  It was a Jeep!",
+        "prevSpeaker": "Gertrude",
+        "nextSpeaker": "Gertrude"
+    },
+    {
+        "speaker": "Gertrude",
+        "text": "I play the Jeeps.  And Ford.  Punch buggy Ford.  [_She whacks Roz on the head._] ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Ow!  [_Roz turns around to get her back._] ",
+        "prevSpeaker": "Gertrude",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "All right, that's enough.  You stop it or no one's going to Canadian Fun Country.  And this time I mean it!  [_They go for a minute in silence, then Gertrude screams and points, startling screams from everyone else._] ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Gertrude"
+    },
+    {
+        "speaker": "Gertrude",
+        "text": "I'm sorry.  I thought you were on the wrong side of the road.  I will never get used to the crazy way you drive over here.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Mum, you have to stop doing that.",
+        "prevSpeaker": "Gertrude",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Daphne, you seem stressed.  Do you want me to drive for a while?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Maybe once we get out of Seattle.  [_Fade out._]   [_Fade in.  Frasier and Lilith are sitting at a table looking over menus._] ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Lilith"
+    },
+    {
+        "speaker": "Lilith",
+        "text": "Frasier, I don't want to rush you, but the suspense is too much to bear.  Have you decided?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I'm thinking about the linguini.",
+        "prevSpeaker": "Lilith",
+        "nextSpeaker": "Lilith"
+    },
+    {
+        "speaker": "Lilith",
+        "text": "I see.  It's \"No,\" then, isn't it?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I'm sorry, Lilith.  This was a very difficult decision for me and I am touched and flattered that you came to me, but I'm not sure I'd be doing it for the right reason.  You understand, don't you?",
+        "prevSpeaker": "Lilith",
+        "nextSpeaker": "Lilith"
+    },
+    {
+        "speaker": "Lilith",
+        "text": "Yes, I do.  And I appreciate your taking the time to think about it.  It's that kind of consideration I was hoping to pass on to our second born.  Oh, well.  So, the pasta is good here?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, the best.  [_She glances at the menu some more, then begins to quietly sing to the tune of the \"Ode to Joy\" chorus of Beethoven's 9th._] ",
+        "prevSpeaker": "Lilith",
+        "nextSpeaker": "Lilith"
+    },
+    {
+        "speaker": "Lilith",
+        "text": "My dad is the gweatest dad because he cooks me Cweam of Wheat...",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_glaring at her_]  Lilith, what are you singing?",
+        "prevSpeaker": "Lilith",
+        "nextSpeaker": "Lilith"
+    },
+    {
+        "speaker": "Lilith",
+        "text": "Was I singing?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You were singing \"My Dad Is the Gweatest Dad.\"",
+        "prevSpeaker": "Lilith",
+        "nextSpeaker": "Lilith"
+    },
+    {
+        "speaker": "Lilith",
+        "text": "Oh, you mean that song Frederick wrote for you when he was four.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "That video is one of my prized possessions.  Of course I haven't looked at it in some time.",
+        "prevSpeaker": "Lilith",
+        "nextSpeaker": "Lilith"
+    },
+    {
+        "speaker": "Lilith",
+        "text": "I remember the night we surprised you with it.  He crawled up in your lap and said \"Why is Daddy cwying?\"",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I see what you're doing, you know.",
+        "prevSpeaker": "Lilith",
+        "nextSpeaker": "Lilith"
+    },
+    {
+        "speaker": "Lilith",
+        "text": "What?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You are attempting to manipulate me by invoking powerful emotional memories.",
+        "prevSpeaker": "Lilith",
+        "nextSpeaker": "Lilith"
+    },
+    {
+        "speaker": "Lilith",
+        "text": "I assure you, nothing could be further from the truth.  [_A waiter comes up._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Waiter"
+    },
+    {
+        "speaker": "Waiter",
+        "text": "Are you ready to order?",
+        "prevSpeaker": "Lilith",
+        "nextSpeaker": "Lilith"
+    },
+    {
+        "speaker": "Lilith",
+        "text": "Yes.  I'll have the basgetti and beatmalls.",
+        "prevSpeaker": "Waiter",
+        "nextSpeaker": "Waiter"
+    },
+    {
+        "speaker": "Waiter",
+        "text": "Mmm.  Very good Miss.",
+        "prevSpeaker": "Lilith",
+        "nextSpeaker": "Lilith"
+    },
+    {
+        "speaker": "Lilith",
+        "text": "That's what our son used to say when he was three.",
+        "prevSpeaker": "Waiter",
+        "nextSpeaker": "Waiter"
+    },
+    {
+        "speaker": "Waiter",
+        "text": "Excellent.",
+        "prevSpeaker": "Lilith",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "And I'll have the veal.",
+        "prevSpeaker": "Waiter",
+        "nextSpeaker": "Waiter"
+    },
+    {
+        "speaker": "Waiter",
+        "text": "Bravo, sir.  [_He takes the menus and heads away._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Lilith, I'm afraid you're idealizing parenthood.  Do you remember colic, teething, changing mountains of diapers?",
+        "prevSpeaker": "Waiter",
+        "nextSpeaker": "Lilith"
+    },
+    {
+        "speaker": "Lilith",
+        "text": "Do you remember that time in the bath when he tried to eat the bubbles?  We told him to stop, but we kept laughing so he thought it was funny and kept doing it.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You know, I'd forgotten that.  Oh, I wish we had that on video.  [_She grabs his hand._] ",
+        "prevSpeaker": "Lilith",
+        "nextSpeaker": "Lilith"
+    },
+    {
+        "speaker": "Lilith",
+        "text": "You can, Frasier.  We can have those days back again. Please, I just need is a couple of teaspoons.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Lilith!",
+        "prevSpeaker": "Lilith",
+        "nextSpeaker": "Lilith"
+    },
+    {
+        "speaker": "Lilith",
+        "text": "Just think about what Frederick has meant in our lives.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I think about it every day.",
+        "prevSpeaker": "Lilith",
+        "nextSpeaker": "Lilith"
+    },
+    {
+        "speaker": "Lilith",
+        "text": "Frasier, we're always seeking ways we can leave a legacy. Well, forget my research and your work, this is it!  What better gift can we bestow on the world but another person as wonderful as Frederick?  [_Frasier signals the waiter passing by._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Excuse me, I've changed my mind.  I've decided that I too will have the basgetti and beatmalls.  [_Lilith looks up at him, grateful.  Fade out._]  _End of Act 1  Act 2  Scene 1 - Cafe Nervosa_  [_Fade in.  Niles is sitting at a table, Frasier is getting juice at the counter._] ",
+        "prevSpeaker": "Lilith",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Thank you.  [_He comes over to join Niles_] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Gosh, that coffee smells so good.  Lilith won't let me have any caffeine until I've made my little donation.  [_He sits down._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Of course.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "So, have you heard from Daphne?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "No, we keep missing each other.  I'm just glad I have our little... pictorial memento to keep me company.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I can't believe you're so taken with that blurry, over-exposed photo of a...",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Shh!!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Of what you first mistook to be a flying saucer!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I just think it's sexy that she even did it.  Just imagine it: she saw that there was one picture left on the roll, and in a spontaneous moment of brazen exhibitionism, she threw open her blouse and didn't even bother to adjust the f-stop.  Yes indeed, I am married to one spicy meatball.  [_He opens his jacket and checks the picture._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Good lord!  Don't tell me you carry it around with you.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well, I didn't want the housekeeper to find it and think we were pornographers.  [_Frasier just takes this in stride.  Fade out._]  **SOME MAGAZINES, A SPECIMEN CUP, AND A RECORDING OF \"TRISTAN UND ISOLDE\"**   [_Fade in.  Frasier and Lilith are checking in._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Nurse"
+    },
+    {
+        "speaker": "Nurse",
+        "text": "Just fill out these forms and I can show you to one of our donation suites.  [_Fraser takes a clipboard and he and Lilith sit.  As he fills out the form, the man across from him glances up._] ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Man"
+    },
+    {
+        "speaker": "Man",
+        "text": "Will this be your first?",
+        "prevSpeaker": "Nurse",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No, I've been doing this since I was twelve.  [_Lilith kicks him gently._] ",
+        "prevSpeaker": "Man",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You mean baby.  No, no, this is our second.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Man"
+    },
+    {
+        "speaker": "Man",
+        "text": "We've got number four on the way.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Lilith"
+    },
+    {
+        "speaker": "Lilith",
+        "text": "And we're thrilled for you, but perhaps we could chat some other time when we're not trying to create life.  [_to Frasier_] Sign and date.",
+        "prevSpeaker": "Man",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Right.  [_He finishes up the form and Lilith takes it back to the window._] ",
+        "prevSpeaker": "Lilith",
+        "nextSpeaker": "Man"
+    },
+    {
+        "speaker": "Man",
+        "text": "This process can be hard on a relationship, but she'll relax and things'll get better.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "We're already divorced.",
+        "prevSpeaker": "Man",
+        "nextSpeaker": "Man"
+    },
+    {
+        "speaker": "Man",
+        "text": "Good, 'cause she'll never change.  [_The man's wife slaps him on the shoulder at this.  Lilith comes back._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Lilith"
+    },
+    {
+        "speaker": "Lilith",
+        "text": "Up and at 'em.  [_He gets up._] ",
+        "prevSpeaker": "Man",
+        "nextSpeaker": "Nurse"
+    },
+    {
+        "speaker": "Nurse",
+        "text": "Follow me, sir.  [_She leads him to a room._] ",
+        "prevSpeaker": "Lilith",
+        "nextSpeaker": "Nurse"
+    },
+    {
+        "speaker": "Nurse",
+        "text": "Just go in and make yourself comfortable.  You'll find everything you need in the cabinet.",
+        "prevSpeaker": "Nurse",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Thank you.  [_He starts in, but Lilith stops him._] ",
+        "prevSpeaker": "Nurse",
+        "nextSpeaker": "Lilith"
+    },
+    {
+        "speaker": "Lilith",
+        "text": "Oh, wait Frasier.  It probably doesn't matter, but try to think positive thoughts.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Thanks for that.  I was going to think about the plight of the American Indian.",
+        "prevSpeaker": "Lilith",
+        "nextSpeaker": "Lilith"
+    },
+    {
+        "speaker": "Lilith",
+        "text": "I'm just saying we should put the welfare of the sample first.  [_He goes into the room and closes the door.  Lilith turns away, then turns back and taps on the door._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_from inside_]  Yes?",
+        "prevSpeaker": "Lilith",
+        "nextSpeaker": "Lilith"
+    },
+    {
+        "speaker": "Lilith",
+        "text": "And don't fall asleep afterwards, I want to get these puppies on ice ASAP.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Goodbye now.  [_She starts away, but turns back again, tapping on the door._] ",
+        "prevSpeaker": "Lilith",
+        "nextSpeaker": "Lilith"
+    },
+    {
+        "speaker": "Lilith",
+        "text": "Just a hint...",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Lilith!  If there is ONE thing I can do BY MYSELF, this is it!  Now go away.  [_She heads back to the seats._] ",
+        "prevSpeaker": "Lilith",
+        "nextSpeaker": "Nurse"
+    },
+    {
+        "speaker": "Nurse",
+        "text": "Right this way.  [_She leads the other couple off as Lilith sits down and dials her cell phone.  A cell phone rings in Frasier's donation suite.  He yanks the door open, furious._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "What?!",
+        "prevSpeaker": "Nurse",
+        "nextSpeaker": "Lilith"
+    },
+    {
+        "speaker": "Lilith",
+        "text": "I just remembered a special method which supposedly increases the likelihood of having a boy.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I see.  Is there something I can do to increase the likelihood that we won't have a meddling control freak?",
+        "prevSpeaker": "Lilith",
+        "nextSpeaker": "Lilith"
+    },
+    {
+        "speaker": "Lilith",
+        "text": "No, but perhaps you can use a method that will give us a baby that can take other people's advice.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I would settle for a method where it won't turn out to be a sarcastic prig!",
+        "prevSpeaker": "Lilith",
+        "nextSpeaker": "Lilith"
+    },
+    {
+        "speaker": "Lilith",
+        "text": "Oh, just do it!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Fine!",
+        "prevSpeaker": "Lilith",
+        "nextSpeaker": "Lilith"
+    },
+    {
+        "speaker": "Lilith",
+        "text": "Wait, I don't want you to do it when you're mad.  Why don't we just take a minute to sit down and breathe?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "It's your dime.  [_He comes out and sits down beside her._] ",
+        "prevSpeaker": "Lilith",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, dear God.  What if this child inherits all of our flaws instead of our strengths?  We could create a real nightmare.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Lilith"
+    },
+    {
+        "speaker": "Lilith",
+        "text": "That's not going to happen.  It's going to be exactly the way it was the first time.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Is that what's going on here?  Are we trying to create a baby or just trying to recreate the past?  I mean, Frederick's almost grown now, it's only natural to feel a sense of loss.",
+        "prevSpeaker": "Lilith",
+        "nextSpeaker": "Lilith"
+    },
+    {
+        "speaker": "Lilith",
+        "text": "Frasier, don't be simplistic.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No, Lilith, I know what you're going through.  You want to feel needed and loved as you were when you were a new mother. The past can be very seductive.  I mean, I've fallen into it too: I'm trying to relive Freddie's childhood.  You can't use the past to fill what's missing in the present.  It's gone.",
+        "prevSpeaker": "Lilith",
+        "nextSpeaker": "Lilith"
+    },
+    {
+        "speaker": "Lilith",
+        "text": "Frasier, I've done a lot of thinking and this feels right to me.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "But it's not right for me.  I'm sorry.",
+        "prevSpeaker": "Lilith",
+        "nextSpeaker": "Lilith"
+    },
+    {
+        "speaker": "Lilith",
+        "text": "I'm sorry too.  [_They get up and hug._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You all right?",
+        "prevSpeaker": "Lilith",
+        "nextSpeaker": "Lilith"
+    },
+    {
+        "speaker": "Lilith",
+        "text": "I'm fine.  If I can't make anther little Frederick with you, there's always cloning.  [_Frasier's jaw drops._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Lilith"
+    },
+    {
+        "speaker": "Lilith",
+        "text": "And you still don't know when I'm joking.",
+        "prevSpeaker": "Lilith",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I, well, I...  [_He grabs his coat._] ",
+        "prevSpeaker": "Lilith",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Lilith, what are you going to do now?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Lilith"
+    },
+    {
+        "speaker": "Lilith",
+        "text": "Well, I'm going to go home and give Frederick a very big hug.  [_She opens the door._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Lilith"
+    },
+    {
+        "speaker": "Lilith",
+        "text": "And maybe swab the inside of his cheek.",
+        "prevSpeaker": "Lilith",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, stop that!  [_They head out.  Fade out._]   [_Fade in.  Martin is in his chair, eating a snack.  Niles comes in the front._] ",
+        "prevSpeaker": "Lilith",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, you already ate.  I was gonna take you to Bogart's.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Bogart's? [_putting the dish down_] Oh, don't worry about that, I was just eatin' it because it was here.  I wasn't eatin' it to get full.  Just give me two minutes.  [_He gets up and heads for his room.  As Niles sits on the couch his cell phone rings and he answers._] ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Hello?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "[_voice over_]  Oh, Niles, darling.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Daphne!  [_Cut to - Daphne and the others in her car._] ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "I thought I'd never reach you.  We were booted from the park and are coming home.  It seems someone put out a cigarette on a stuffed moose.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Gertrude"
+    },
+    {
+        "speaker": "Gertrude",
+        "text": "I didn't know it was stuffed, I was defending myself.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_v.o._] I loved those pictures you left for me.  [_Cut to - Niles on the couch._] ",
+        "prevSpeaker": "Gertrude",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "More specifically, the last one.  [_He pulls it out of his pocket._] ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "[_v.o._] Something a little different, eh?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Indeed it is.  I can't even believe you took it.  [_Cut to - Daphne._] ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "I didn't take it, your father did.  [_Cut to - Niles._] ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "No, I don't think so.  I'm talking about the last picture on the roll, the close-up.  [_Cut to - Daphne._] ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Yeah.  You're father was trying to get a picture of Eddy, but instead he got a picture of his own chest.  [_Cut to - Niles looking troubled._] ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "This is Dad's...?  [_Cut to - Daphne._] ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "That's his nipple.  [_Cut to - Niles looking horrified.  Martin comes in as Niles slowly rises._] ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh, I can't wait to get to Bogart's.  I know just what I'm going to get:  the barbecue chicken breast.  They have the juiciest one in town.  Or, or the lamb.  They serve an enormous rack.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_flustered_] Great.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "You might want to get an overcoat of Frasier's out of there. It's supposed to be pretty nippy tonight.  [_Niles, troubled, grabs the coat.  Frasier comes in._] ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, hi Dad.  Where are you going?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh, Niles is here.  We're just going out for a bite.  You want to join us?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Sure.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "So, how's Lilith?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I just dropped her off at the airport.  She's disappointed, but she knows that we're doing the right thing.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well, for what it's worth, I think you are too, son.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Thanks, Dad.  I just hope she finds what's missing in her life.  [_Dissolve to - Lilith on the airplane, looking out the window.  Someone approaches._] ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Albert"
+    },
+    {
+        "speaker": "Albert",
+        "text": "Hey, pasty.  [_She looks up and sees the man who was sitting next to her when she flew in to Seattle._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Lilith"
+    },
+    {
+        "speaker": "Lilith",
+        "text": "Oh, hello.",
+        "prevSpeaker": "Albert",
+        "nextSpeaker": "Albert"
+    },
+    {
+        "speaker": "Albert",
+        "text": "May I?",
+        "prevSpeaker": "Lilith",
+        "nextSpeaker": "Lilith"
+    },
+    {
+        "speaker": "Lilith",
+        "text": "Yes, certainly.  [_He sits down._] ",
+        "prevSpeaker": "Albert",
+        "nextSpeaker": "Lilith"
+    },
+    {
+        "speaker": "Lilith",
+        "text": "What happened?  I thought you were relocating to Seattle.",
+        "prevSpeaker": "Lilith",
+        "nextSpeaker": "Albert"
+    },
+    {
+        "speaker": "Albert",
+        "text": "Oh, it wasn't a fit.  I'm going back to Boston.  I don't know, call me neurotic, I just can't work in a lab that's not immaculate.",
+        "prevSpeaker": "Lilith",
+        "nextSpeaker": "Lilith"
+    },
+    {
+        "speaker": "Lilith",
+        "text": "You work in a lab?",
+        "prevSpeaker": "Albert",
+        "nextSpeaker": "Albert"
+    },
+    {
+        "speaker": "Albert",
+        "text": "Mm-hmm.  I'm a physicist.",
+        "prevSpeaker": "Lilith",
+        "nextSpeaker": "Lilith"
+    },
+    {
+        "speaker": "Lilith",
+        "text": "Really?  [_She looks at him speculatively._] ",
+        "prevSpeaker": "Albert",
+        "nextSpeaker": "Lilith"
+    },
+    {
+        "speaker": "Lilith",
+        "text": "My name's Lilith.  [_They shake hands._] ",
+        "prevSpeaker": "Lilith",
+        "nextSpeaker": "Albert"
+    },
+    {
+        "speaker": "Albert",
+        "text": "Ah, the demon-goddess.  Are you like the independent fireball that was your predecessor?",
+        "prevSpeaker": "Lilith",
+        "nextSpeaker": "Lilith"
+    },
+    {
+        "speaker": "Lilith",
+        "text": "I make her look like a vacillating cream puff.",
+        "prevSpeaker": "Albert",
+        "nextSpeaker": "Albert"
+    },
+    {
+        "speaker": "Albert",
+        "text": "Albert.  [_They shake hands again._] ",
+        "prevSpeaker": "Lilith",
+        "nextSpeaker": "Albert"
+    },
+    {
+        "speaker": "Albert",
+        "text": "What happened with your friend?  Did you get your favor?",
+        "prevSpeaker": "Albert",
+        "nextSpeaker": "Lilith"
+    },
+    {
+        "speaker": "Lilith",
+        "text": "It's a long story.",
+        "prevSpeaker": "Albert",
+        "nextSpeaker": "Albert"
+    },
+    {
+        "speaker": "Albert",
+        "text": "Well, it's, it's a long flight.  [_She smiles at him and settles in to talk.  Fade out._] ",
+        "prevSpeaker": "Lilith",
+        "nextSpeaker": "Credits"
+    }
+]

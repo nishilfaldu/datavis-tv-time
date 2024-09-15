@@ -1,0 +1,1323 @@
+[
+    {},
+    {
+        "speaker": "Frasier",
+        "text": "Roz?  None of these lights seem to be flashing.",
+        "prevSpeaker": "No Previous Speaker",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Hey, what do you know, I got the same thing over here.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, who's our first caller?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "No-one.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, how much time do we have?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "None. [_points_]",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_on air:_] Hello Seattle, this is Dr. Frasier Crane.  Well, I have some good news for you.  As today is the first sunny day we've had in a few weeks, it seems that all our lines are open.  So please call in, no waiting. [_nothing_] Absolutely no waiting!  Oh come on, somebody's marriage must be on the skids.  Somebody's career must be going badly, [_laughs_] other than mine!  Hey, how about all you agoraphobics, I know you're not outside! [_notices light:_] Oh, there's a call! I'll take it, I'll take it. [_presses button:_] Hello, I'm listening.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Alice"
+    },
+    {
+        "speaker": "Alice",
+        "text": "[_v.o:_] Hi Dr. Crane, my name is Alice and I'm usually a happy person but today, well, I just started thinking about all kinds of sad things.  My job isn't that exciting, my kids don't call me... pretty soon I was in a full-blown funk.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, Alice, as today seems to be a bit slow I think I have a story I can tell you that might be of some help.  Do you have some time?",
+        "prevSpeaker": "Alice",
+        "nextSpeaker": "Alice"
+    },
+    {
+        "speaker": "Alice",
+        "text": "Well, it's three 'o clock and I'm still in my bathrobe.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Perfect!  Well, it started three days ago.  You see, my father was very concerned about his little dog, Eddie.  So, he had to take him to the vet... _FLASHBACK TO:  Scene Two - Caf e Nervosa. The story starts off as we see Eddie laying unhappily on the floor next to a cup of milk.  Daphne, Frasier, Roz and Martin are sat around the table next to him._ ",
+        "prevSpeaker": "Alice",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "So what's the doctor say?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "He's stumped.  I told him, he's not sleeping, he's not eating, he's not even sniffing stuff.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Welcome news to Mrs. Frobisher in 13-B.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "He said he can't find anything wrong with him physically, he thinks it might be an emotional problem.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "You know, I've heard they have therapists for dogs.  Do you suppose a dog psychiatrist could be the answer?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Only if the question is, \"What is the most asinine thing we could possibly do?\"",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Maybe Eddie's just lonely, you know, I was thinking maybe we could get another, er...",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Stop right there, Dad!  We're not getting another dog.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh, come on, what could be more fun than having a little brother or sister around the house to play with?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I fell for that trick once, Dad!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well, I'm going to get this little guy home.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "All right, I'll see you at home.  I'll pick up some beans before I go. _Martin leaves with Eddie as Daphne goes to the counter to pick up her beans.  Roz notices a man._ ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Wow.  There's a guy over there checking me out.  He's coming over here, get out.  No, it's too late, just pretend you're not with me.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Kagen"
+    },
+    {
+        "speaker": "Kagen",
+        "text": "Hello, Dr. Crane.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Dr. Kagen.",
+        "prevSpeaker": "Kagen",
+        "nextSpeaker": "Kagen"
+    },
+    {
+        "speaker": "Kagen",
+        "text": "I hope I'm not interrupting you?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, not at all.  I don't even know who she is.",
+        "prevSpeaker": "Kagen",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Frasier! [_to Kagen_] Hi, I'm Roz Doyle.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Kagen"
+    },
+    {
+        "speaker": "Kagen",
+        "text": "Dr. Stephen Kagen.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, Dr. Kagen moved into my building about three months ago - from Chicago, I believe?",
+        "prevSpeaker": "Kagen",
+        "nextSpeaker": "Kagen"
+    },
+    {
+        "speaker": "Kagen",
+        "text": "Yes, that's right.  I love what I've seen in Seattle but I'm still finding my way around.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, Roz is an excellent tour guide.",
+        "prevSpeaker": "Kagen",
+        "nextSpeaker": "Kagen"
+    },
+    {
+        "speaker": "Kagen",
+        "text": "Really?  Well, if you have an afternoon sometime, maybe you could show me all the hotspots.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_laughs_] Oh, I think that can be arranged.",
+        "prevSpeaker": "Kagen",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "I'd be happy to.  I'm free tomorrow afternoon.  Here's my card. [_hands it over_]",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Kagen"
+    },
+    {
+        "speaker": "Kagen",
+        "text": "Great.  I'll give you a call.  Nice meeting you, Roz.  Dr. Crane.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Dr. Kagen.  ",
+        "prevSpeaker": "Kagen",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "[_laughs_] Thank you, Frasier!  A gorgeous doctor, and I didn't get you anything! [_stares at him through window_] So, what kind of doctor is he?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "A gynecologist.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "[_snaps around_] That's not funny!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "What's the matter?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "He really is?  Oh God, I can't go out with a gynecologist! Do you know what they do all day?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I have a general idea!",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "[_passes with beans_] All right, I'll see you at home.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Hey, would you date a gynecologist?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Oh God, no.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "[_to Frasier_] See?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "I wouldn't even date a dentist.  Hands in people's mouths all day!  And after watching Eddie's complete physical, I'm not anxious to date a vet anytime soon!  _As Daphne exits, we hear the sound of tapping on glass.  CUT TO:  Radio Station. Frasier's story is interrupted by Roz banging on the control room partition, holding up a card reading \"WHY ARE YOU TELLING HER THIS?!\"_",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, [_chuckles_] anyway, that's really more of a side trip. Getting back to our story - by the time I got home that day, alas, for Eddie was no better. _FLASHBACK TO:  Scene Three - Frasier's Apartment. Eddie is laid flat out on Martin's chair.  Martin is on the floor waving a cuddly carrot in Eddie's face._ ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Hey look, Eddie, Mr. Carrot!  Oh, he'll give you good eyesight, you'll have a lot of fun with this too!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_enters and sees the scene:_] Dad.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Yeah?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "What are you doing?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh, I ran out and bought a bunch of new toys for Eddie. I thought it just might cheer him up, you know?  Hey Eddie, look at this. [_shows him a cuddly hamburger:_] Hamburger! Juicy, meaty.  I bet you'd like a bite of this, wouldn't ya'? No?  Well, then there's more for me. [_pretending to be hamburger:_] I sure hope you don't take a bite out of me at the side.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Did you ever see anything sadder than this?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No, I can't say that I have.  ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Oh, that'll be Dr. Crane.  He said he was going to bring his dog over.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh, not that four-legged Maris!",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Dad, please.  Don't call it that in front of him.  He has no idea.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "How could he not?  It acts like Maris, it barks like Maris, aside from the fact that it eats now and then they're dead ringers!  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Hello.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Hello Daphne, hello all.  I heard Eddie was down, and I thought a playmate might cheer him up, so voila!",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "I appreciate the offer, Niles, but I've already tried it in the park with real dogs and it didn't work.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well, you'll change your tune when you see my Girl turn on her charm. [_to Girl_] Go to Eddie.  Go to Eddie. [_nothing_] Okay. _Niles picks her up and keeps pushing her into Eddie's face, chanting \"Do your stuff.\"  Nothing happens, causing Frasier to laugh, Daphne to roll her eyes and Martin to screw up his face._ ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "That's it. [_nothing_] Oh, oh, I can see her magic working already.  Good girl.  ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Come back, Girl.  Come back here this instant! [_nothing_] Okay. [_prances after her_]",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh, Eddie, it's breaking my heart seeing you like this.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "How would a nice old batch of Grammy Moon's sugar biscuits sound?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Do you honestly believe he can understand a word you're saying?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Hey, I read somewhere that dogs can understand up to four hundred words.  Now, a super-smart dog like Eddie probably knows a thousand.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh really, Dad!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Eddie understands a helluva lot more than you give him credit for.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Yes.  Why, just yesterday I said, \"Eddie, I've lost my keys\" [_Eddie looks up_] and he looked up at me...  _EDDIE'S P.O.V. We then see the world through Eddie's eyes.  The picture is in black and white.  He hears Daphne sounding a high pitched \"mini-mini\", Frasier sounding a low \"yadda, yadda, yadda\" and Martin a \"Yaka, Yaka\". However, every time one of them says \"Eddie\" it comes through clearly. Then back in normal vision:_ ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "...anything other than the simple fact of his name or a grunt!",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_enters without the dog:_] Well, crisis has passed.  She just needed a little rest.  Fortunately I remembered to bring her sleep mask.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Worse, I'm afraid we're going to have bring in one of those dog psychiatrists.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Dad, you can't be serious?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well, I'm desperate, we've tried everything else.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "A dog psychiatrist?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Honestly, Dad, they are the very definition of charlatanism!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "You simply cannot apply the principals of human psychology to animal behaviour.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Precisely.  Animals operate out of instinct, whereas human beings can reason.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Yes.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "They can cogitate.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Yes.  Therefore human beings, through analytical psychotherapy, can...  _MARTIN'S P.O.V. Now we see the world through Martin's eyes.  Similar to Eddie but in colour: Niles and Frasier take nonsensical gibberish and all Martin can process is the word \"dad.\"  FADE TO:  Scene Four - Radio Station. Frasier presses a button as we return to his radio show._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Thank you for staying with us through the first commercial break.  We're talking to Alice, who has a case of the blues today.  In order to help her through it I am relating a story from my own life.  Any questions so far, Alice?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Alice"
+    },
+    {
+        "speaker": "Alice",
+        "text": "[_v.o:_] Well, I was wondering, what happened to Roz and the gynecologist?  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Well, since Frasier did tell the most embarrassing part of the story, something kinda funny did happen...  _CUT TO: Caf e Nervosa. Stephen Kagen and Roz are on their coffee date at the front table._ ",
+        "prevSpeaker": "Alice",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "[_to Kagen:_] Oh my God, you're kidding!  You were at Camp Lakebridge too.  What years were you there?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_v.o:_] Roz!  _CUT TO: Radio Station. Frasier is interrupting the story._ ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Roz, we are trying to help this woman.  We don't have time for your pointless tangents. [_then:_] Anyway, my father finally got his way and made his appointment for the dog psychiatrist, who insisted that the entire household be present for the first session. _FLASHBACK TO:  Scene Five - Frasier's Apartment. Frasier, Daphne, Niles and Martin are on the set._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "What's keeping this guy?  He should have been here be now!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Perhaps he's being detained by his fear of fetching group.  ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_waves cane:_] All right now, you two cut it out! _The doorbell sounds and Martin answers it.  Dr. Shaw is standing there who is old, bald and thus the stereotypical \"straight and strict\" man._",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Shaw"
+    },
+    {
+        "speaker": "Shaw",
+        "text": "Hello, I'm Dr. Arnold Shaw.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Hi Doc, Marty Crane.  Come on in, please.  This is Daphne Moon.",
+        "prevSpeaker": "Shaw",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Hello.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "And my sons, Frasier and Niles. [_they greet him_] And this, of course, is the patient.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I don't suppose whether my father told you, but my brother and I happen to be psychiatrists.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Shaw"
+    },
+    {
+        "speaker": "Shaw",
+        "text": "Oh, how nice, I always enjoy being in the company of colleagues.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I'm sorry, did you say \"colleagues\" or \"Collies?\"  ",
+        "prevSpeaker": "Shaw",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "It's a joke.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Shaw"
+    },
+    {
+        "speaker": "Shaw",
+        "text": "[_simple:_] Very clever, very clever.  So, shall we begin? [_to Eddie:_] Hello Eddie, I'm Dr. Shaw.  And I'm here to get to know you and help you get better.  You're very sad, aren't you?  It's okay to be sad, sometimes I'm sad too.  We're going to spend the next hour trying to figure out why you're sad.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Give a dog an hour, you can bill him for seven!",
+        "prevSpeaker": "Shaw",
+        "nextSpeaker": "Shaw"
+    },
+    {
+        "speaker": "Shaw",
+        "text": "I'm sorry, I get the feeling that some of us aren't taking this seriously.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I apologise, it all just seems a bit silly.",
+        "prevSpeaker": "Shaw",
+        "nextSpeaker": "Shaw"
+    },
+    {
+        "speaker": "Shaw",
+        "text": "Oh, really?  Silly?  I'll have you know I just attended the funeral of one Buttons MacFahrlen whose owners felt the same way.  _Niles and Frasier begin laughing but Martin waves his stick at him again.  They apologise and the doctor carries on._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Shaw"
+    },
+    {
+        "speaker": "Shaw",
+        "text": "First, I'd like to administer a dog personality profile quiz-",
+        "prevSpeaker": "Shaw",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oooh!",
+        "prevSpeaker": "Shaw",
+        "nextSpeaker": "Shaw"
+    },
+    {
+        "speaker": "Shaw",
+        "text": "-I developed.  My first questions are based on how you think Eddie might behave if he were a human being.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, boy!",
+        "prevSpeaker": "Shaw",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "[_whisper to boys:_] Shush, this is not a joke!  This is very serious.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Shaw"
+    },
+    {
+        "speaker": "Shaw",
+        "text": "If human Eddie were planning a dinner party, what might he serve?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "I'd say meatloaf.  But not the plain kind, but the one with the fancy tomato soup glaze on top.",
+        "prevSpeaker": "Shaw",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "It might be a bit under done though, he has trouble reaching the knobs on the stove!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "[_pause_] Poached salmon.  I don't know why!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Shaw"
+    },
+    {
+        "speaker": "Shaw",
+        "text": "Interesting.  Question two: What do you imagine human Eddie's first words to be?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, I hope: Give me a breath mint! [_laughs_] I'm sorry, I'm sorry.  Right, next one.",
+        "prevSpeaker": "Shaw",
+        "nextSpeaker": "Shaw"
+    },
+    {
+        "speaker": "Shaw",
+        "text": "What do you imagine would be human Eddie's favourite cologne?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Aqua Velva, it's a little strong but I think he can pull it off.",
+        "prevSpeaker": "Shaw",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "[_pause_] Grey Flannel.  I don't know why!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Cologne?  Well, actually I think he would prefer toilet water!",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "By the way, same answer for favourite beverage!  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Shaw"
+    },
+    {
+        "speaker": "Shaw",
+        "text": "I'm sensing a lot of hostility here.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, I'm sorry but I don't see the point.  What is any of this telling you about Eddie?",
+        "prevSpeaker": "Shaw",
+        "nextSpeaker": "Shaw"
+    },
+    {
+        "speaker": "Shaw",
+        "text": "The point was not to learn about Eddie but was to learn about all of you and might I say... [_looks at the brothers_] mission accomplished!  Well, perhaps now would be a good time for me to examine Eddie one on one.  Is there a room I can use?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh yeah, my room, second on the right.",
+        "prevSpeaker": "Shaw",
+        "nextSpeaker": "Shaw"
+    },
+    {
+        "speaker": "Shaw",
+        "text": "Eddie, after you.  This may take a while.  ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "If Eddie were one of the Beatles, I think he'd be George. I don't know why! [_exits_]",
+        "prevSpeaker": "Shaw",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "And yet she's never been committed.  I don't know why!  _End Of Act One. (Time: 12:00)  Act Two._  **HAPPY TALK**  _Scene One - Frasier's Apartment. Frasier, Niles, Daphne and Martin are hanging around waiting for Dr. Shaw and Eddie to come out of their session._ ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Okay, I'll say it.  What the hell have they been doing in there for the past hour?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well, he's probably just talking to him.  Eddie happens to be very complex and interesting.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh yes, you must remind me to sit beside him at his next dinner party.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well, be prepared, he'll be up and down checking on that meatloaf!  _Dr. Shaw and Eddie enter the room.  Eddie sits back, depressed, in his same old spot on Martin's chair._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Shaw"
+    },
+    {
+        "speaker": "Shaw",
+        "text": "Well, I have my diagnosis.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Finally: the white smoke!",
+        "prevSpeaker": "Shaw",
+        "nextSpeaker": "Shaw"
+    },
+    {
+        "speaker": "Shaw",
+        "text": "Eddie is indeed depressed.  Now if, as you say, there has been no change in his routine, I can only surmise that he's reacting to someone else's unhappiness.  Is anyone of you suffering from depression?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Not me.",
+        "prevSpeaker": "Shaw",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Well, I'm not depressed.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Me, neither.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_grins_] I'm cheer personified.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Shaw"
+    },
+    {
+        "speaker": "Shaw",
+        "text": "Well, he's picking it up somewhere.  To be on the safe side you should all be conscious of how you behave when you're in front of him.  Try to speak in pleasant, happy, tones. [_to Eddie:_] Goodbye, Eddie.  Call me in a few days, let me know how he's doing.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_happy tone:_] Okay, thanks for everything, doc!",
+        "prevSpeaker": "Shaw",
+        "nextSpeaker": "Shaw"
+    },
+    {
+        "speaker": "Shaw",
+        "text": "Sorry to rush off, but I have a four ? clock appointment at the zoo.  There's a hyena there that won't even crack a smile. [_then_] See, I can joke too!  ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Hold it!",
+        "prevSpeaker": "Shaw",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh my God, Roz, what's happened?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "I want to kill myself!  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_happily:_] Hey Roz, not in front of Eddie!",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "What?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "[_happily:_] That gentleman that just left was a dog psychiatrist.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_happily:_] He said that it would be a good idea if we all had a happy tone around Eddie.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_happily:_] So please tell us, why do you want to kill yourself?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "[_happily:_] Well, I went out with Dr. Kagen and everything was going so great that I almost forgot what he was.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_happily:_] What is he?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_happily:_] A gynecologist.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_happily:_] Oh, geez, I don't think I want to hear any more about this. _Martin takes himself and Eddie out to his bedroom as everyone reverts to their normal tones._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "All right, Roz, what happened?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Well, we went upstairs to his apartment and he poured a glass of wine, and well... do you know what a speculum is?  _CUT TO: Radio Station. Frasier narrates the story._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Apparently he was an avid collector of antique gynecological equipment.  ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I just got the signal from Roz that we're running out of time. So, I'll skip ahead in our story. _FLASHBACK TO:  Scene Two - Frasier's Apartment. Niles is playing the piano as Frasier pours himself a sherry.  Daphne is gazing out on the streets of Seattle.  Roz is sat on the sofa and Martin is fetching a can of beer._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "If you ask me, the man's theory's a whole lot of hooey! Who here has any reason to be unhappy?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Well, mind you I would never say this if it weren't for Eddie's sake, [_to Niles:_] but comparatively speaking: Dr. Crane, you have the most to be depressed about, what with your separation from Mrs. Crane and all.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Wha..?  I'm not unhappy.  Besides, I don't even live here.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Please, you're here more than I am.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You know, I hate to say it, but dad, if anyone's giving off unhappiness, I'm afraid it's you.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Me?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "You're the one who hasn't had a date in a year.  Not to mention two failed marriages.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "And yet you did.  Well, maybe I am not entirely happy.  Why should I be?  My son lives across the country, there's no woman in my life.  Maybe it is I that is making Eddie sad?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Oh, now, now, don't you take all the blame.  If I give my life the once-over I realise it's not all jam.  I just lost the only boyfriend I've had in years and the biggest thing in my life is that I got all my hair cut off months ago and no-one's even mentioned it. _They all start to say how nice it is, but Daphne clears the comments away with her hands._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "No, no.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Daphne, maybe you were right earlier.  I'm not so happy.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Or maybe it's me.  My life hasn't been a picnic since Hester died.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Now that I think about it, what have I got to be happy about? I mean, I know it has nothing to do with Eddie, but maybe Frasier picked up something from contact with me?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "He wouldn't be the first one... [_then:_] Oh, I'm too depressed!",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "How loosely woven is the fabric of our unhappiness... a tug or two and it unravels to reveal how empty our everyday lives really are.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "And then there are the empty nights... accompanied by thoughts of loneliness and death.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "You think about that too?  I thought it was just me.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Everybody thinks about it.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Do you lie real still and hold your breath and pretend you're in the ground?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No, that's just you.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "When I die, I want it to be on my 100th birthday, in my beach house on Maui and I want my husband to be so upset that he has to drop out of college.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "You know, I once had a psychic tell me the strangest thing. That one day I'd go off my rocker, take up a kitchen knife, kill the entire household and then kill myself.  Silly old bag!  She was right about my moving to Seattle, though.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well, I don't know how I wanna go, but all those years around the police morgue taught me a few things.  First off, you don't want to swallow Drano or rat poison.  And if you're going to kill yourself with an axe, get it right the first time!",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, you know, we can talk about it, we can think about it, but nobody really knows how or when.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "One second we're alive as anyone else, and then what?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Darkness, nothingness, afterlife?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I've always liked the notion of meeting the great figures of history.  But then I think, what if it's like high school and all the really cool dead people don't want to hang out with me. [_carried away:_] Mozart'll tell me he's busy but then later I'll see him out with Shakespeare and Lincoln!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well, I don't know about you but this is depressing the hell out of me.  Remember, my bell's coming up sooner than you guys!  ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "No, no, none of us really knows when our time is up.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "And it's never long enough.  My great grandmother was 92 years old when she died and the last words to me from her deathbed were, \"it's so short.\"  Of course, it was the seventies, she could have been talking about my skirt.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "\"I have seen the eternal footman hold my coat and snicker.\"",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "T.S Eliot.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Dead.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "\"Must not all things at the last be swallowed up in death.\"",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Plato.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Even deader.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You know, perhaps Doctor Shaw was right.  Perhaps we are the cause of Eddie's depression. _Frasier reaches behind him and pulls out one of Eddie's chew dolls he was sitting on.  He throws it on the floor._ ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Simple beast!  It is here beneath the masks of happiness we all wear.  _As Frasier continues Eddie picks up the chew doll in his mouth and begins happily playing with it.  They do not notice._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "The sea that lurks below affected by our sorrows.  The once care-free doggy world has been shattered, perhaps forever.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well, look at him, he's happy again.  Could that have been all it was, he was missing his favourite doll?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I guess Dr. Shaw was wrong after all.  He wasn't taking his cue from us, was he?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well, we were certainly taking a cue from Eddie.  I've never been so depressed.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Tell me about it!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Yeah, I wish I was a dog.  All it takes is a little toy to make him happy again.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I'm afraid we're a bit more complex than that, Daphne.  We know for whom the bell tolls!  _They is a pause before suddenly a bell is heard.  Everyone tries to process the sound._ ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_apprehensive_] Anybody else hear that?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Oh, the biscuits!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Daphne, by \"biscuits\" do you mean cookies?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Yeah, that's right!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Smells good.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Fresh from the oven...",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "All nice and warm...",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Yes, and I have a fresh pitcher of milk for dipping!",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, and I believe there's ice cream too!  _Everyone gleams with delight and skips off to the kitchen.  DISSOLVE TO:  Scene Three - Radio Station. Frasier is finishing his story._ ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "So Alice, even the happiest of us can find reasons to be unhappy if only we look for them.  So don't look for them. Take a tip from our dog friends - treat yourself to your favourite toy, whatever that might be.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Alice"
+    },
+    {
+        "speaker": "Alice",
+        "text": "I'll do that right now.  Thank you, Dr. Crane, I really do feel better.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "This is Dr. Frasier Crane, reminding everyone that life is too short to dwell on every bump in the road.  Try to take pleasure in the simple things.  In short, eat a cookie!  _He takes a cookie from a nearby bowl, and then presses a button to sign off before biting into it.  However, he screams and drops it to the floor._ ",
+        "prevSpeaker": "Alice",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, walnut, I broke a tooth!  Now I've got to go to the dentist, he'll tell me I haven't flossed, my lips are going to get all fat - oh, my life sucks!  _He leaves with his briefcase.  End Of Act Two. (Time: 21:00)_ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Credits"
+    }
+]

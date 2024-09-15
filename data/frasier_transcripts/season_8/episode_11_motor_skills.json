@@ -1,0 +1,1461 @@
+[
+    {},
+    {
+        "speaker": "Frasier",
+        "text": "Oh Chelsea, you are in for a rare treat tonight.  Hmm, this is the best opera, and Ben Heppner is singing the role of Tristan.",
+        "prevSpeaker": "No Previous Speaker",
+        "nextSpeaker": "Chelsea"
+    },
+    {
+        "speaker": "Chelsea",
+        "text": "Oh, this is gonna be a whole new experience for me.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Why, you've never been bored before?  ",
+        "prevSpeaker": "Chelsea",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, dear.  The car seems to have stalled. [_turns the keys, no luck_]",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh great, now what?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "All right, let's not panic.  Chelsea, if you would, please, open the glove compartment.  You will find a flashlight and a small toolkit.  Reach behind them, and hand me my cell phone.  I'm going to call the auto club.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "By the time they get here, we'll miss the opera.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Chelsea"
+    },
+    {
+        "speaker": "Chelsea",
+        "text": "You know, my ex-boyfriend used to restore Corvettes. Maybe I can poke around and take a look.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "I suppose I could give you a hand.  You don't grow up with eight brothers and not learn a thing or two about engines. Or the importance of being first in the shower.",
+        "prevSpeaker": "Chelsea",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Now, now, ladies, Niles and I are no strangers to the automobile.  Niles, let's have a look.  I'll pop the hood.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "That won't void the warranty, will it?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_laughs to cover_] That's very funny, Niles.  No cause for alarm, ladies.  Here we go. _He pulls a switch.  Behind them, the trunk (boot) pops open, demolishing his credibility beyond repair.  FADE OUT  Scene Two - Apartment Martin and Roz are sitting in the apartment.  Martin is cradling a Dalmatian puppy, when Eddie runs in._ ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Ha-hey, Eddie! [_to the puppy_] This is my boy, Eddie!  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "This is my other boy, Frasier!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, dear God!  Dad, you know very well we have no room in this house for another dog, let alone a puppy!  They chew the furniture, they-they dig like demons, and they soil the carpet!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "The puppy's mine, Frasier.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh well, congratulations, everybody should have one.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Alice just begged me for one.  Martin, thank you so much for helping me pick him out.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh, are you kidding?  I had a blast!  ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Now, here's Eddie's old puppy collar, and his brush, and his first chew toy. _Roz hands the puppy to Frasier to accept them.  He immediately starts climbing up Frasier's shirt and licking his face._ ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Oh Martin, I can't believe you kept all his things.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well, always thought he'd have a brother or two.  You know, you always think you're gonna have one more.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_nearly smothered_] Dad, I said you could have a fish! Roz, would you help me here, please?!  ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "You know, Martin, I could use someone to help me walk him while I'm at work.  You could be like his grandfather.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "That'd be great!  You know, he looks kind of thirsty, Roz, you might want to get him some water.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Oh, that's a good idea.  ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Oh look, a puppy!  ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Ah hello, Niles.  Come on in.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Hello, Frasier.  Took me half the morning, but I finally found it.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Good.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Found what?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Uh, a night school catalog.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh, what classes you guys looking for?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Auto repair.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_laughs_] No, seriously.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No, no, we are serious, Dad.  Niles and I felt completely helpless last night when my car broke down.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "And I vowed never to be humiliated that way again.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You know, I'm more than a little convinced that's why Chelsea turned me down for a second date.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "I'm sure that had nothing to do with it.  If I had to guess, I'd say it was all that blubbering at the opera that killed your chances.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "But it was Ben Heppner singing Tristan!",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "You'd have to be stone not to weep at his tragic end!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Hey, hey! [_covers his ears_] Haven't seen it yet.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_opens the catalog_] Here we are: Basic Car Repair & Maintenance.  I will call the bursar at once.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "You guys are really gonna do this?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Mmm-hmm.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Monkey around with engines, get calluses and grease under your nails?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes.  Actually, I'm looking forward to it, Dad.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well, good for you, Frasier!  I'm impressed.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "As the enigma we call Shakespeare once wrote, \"I am a true laborer.  I earn that I eat, get that I wear.  O no man hate, envy no man's happiness.\"",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "You just couldn't let me enjoy it, could you? _FADE TO:  Scene Three - Roz's Apartment Roz comes home from work.  Martin is sitting with the puppy._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Hey, Roz.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Hey, Grandpa.  How was the little critter today?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Ah, terrific.  Ate all his chow - least he did after I added some water, giving it a kind of gravy texture.  Then we took a walk in the park.  They're only young once, Roz.  Savor the days. _Roz sits on the couch.  The puppy jumps onto her lap and stands up, licking her face._ ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "You had a good day today, didn't you?  Didn't you?  Yes?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Roz?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "What?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "You shouldn't play with him that way.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Why not?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "If you let him stand on you, it makes him think he's dominant, and you're below him in the pack.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Oh, I didn't know that. [_puts him down, and he sits on the couch_]",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Don't worry, it's a common mistake.  That's why I'm here. So, uh, you're just gonna let him sit on the couch like that?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Yeah.  He looks cute.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well, all right, but you know if you let him sit on the furniture, he's gonna think he's equal to you.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "I've seen Eddie sitting on the furniture.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_laughs_] You don't really want to compare this puppy to Eddie, now do you?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "All I'm saying is Eddie breaks those rules.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "And Hank Aaron held his bat all wrong!  The great ones have always broken the rules.  But first they learn the fundamentals, and that's what I'm trying to teach Frankie.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "\"Frankie?\"  You named my dog?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well, he's got to have a name to respond to, and you were taking a long time coming up with one.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Well, Alice picked one last night: Ariel, from _The Little Mermaid._",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_appalled_] Ariel?  That's a girl's name!",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "I know, but she likes it, so we're going to stick with it.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh, all right. [_under his breath_] Shouldn't screw the dog up too much.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "What?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Nothing, I-I'd better be heading home.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Wait, I'll walk with you.  I'm gonna take Ariel with me to pick up Alice at preschool. [_looks around_] Where'd he go?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "He's in the bedroom.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Ariel!  Ariel!  Oh shoot, I'm gonna be late.  Ariel!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_not raising his voice_] Frankie? _The puppy runs out of the bedroom and stops next to Martin's foot. He smiles._ ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Not one word.  _They leave together.  FADE TO:_  **GENTLEMEN, MEET YOUR ENGINES**  _Scene Four - Classroom Frasier and Niles are sitting in desks in the front row, looking the very picture of model students - backs straight, collars buttoned, eager smiles, and shiny new notebooks._ ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Feels good to be back in class again, doesn't it?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "It's fantastic.  You know, I'm almost jealous of whoever gets to sit here during the day and make learning his full-time occupation.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_looks over_] Well, judging from the carving on your desk, it looks like his name is \"Ozzy.\"",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_looking down_] Yes, and apparently he \"rules.\"  ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Randy"
+    },
+    {
+        "speaker": "Randy",
+        "text": "All right, everybody, my name is Randy, and if you'll take your seats we'll get started.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "We're already seated, Randy!",
+        "prevSpeaker": "Randy",
+        "nextSpeaker": "Randy"
+    },
+    {
+        "speaker": "Randy",
+        "text": "Welcome to Basic Car Repair & Maintenance.  This is gonna be a real simple, low-stress class for people who don't know much about cars.  ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Randy"
+    },
+    {
+        "speaker": "Randy",
+        "text": "Yeah?",
+        "prevSpeaker": "Randy",
+        "nextSpeaker": "Shirley"
+    },
+    {
+        "speaker": "Shirley",
+        "text": "What if you don't know anything about cars - I mean, absolutely nothing?",
+        "prevSpeaker": "Randy",
+        "nextSpeaker": "Randy"
+    },
+    {
+        "speaker": "Randy",
+        "text": "Well, then-",
+        "prevSpeaker": "Shirley",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_getting up_] Randy, if I may? [_turns and addresses the room_] On behalf of the class, I would like to say that I-I feel that we're all a bit anxious.  But with Randy as our driver, and Desire as our gasoline, we will complete this journey together.  To paraphrase a famous little engine, \"I think we can.\"  ",
+        "prevSpeaker": "Randy",
+        "nextSpeaker": "Randy"
+    },
+    {
+        "speaker": "Randy",
+        "text": "Thank you. [_Frasier sits back down_] Anyway, let's, uh, start with the basics.  A car burns gasoline to create small, carefully-timed explosions, whose energy is converted by the engine into forward motion. [_turns to the chalkboard_] I'll show you how that happens.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "So, the engine is just like the timpani, the way it drives the orchestra forward.",
+        "prevSpeaker": "Randy",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_also whispering_] The conductor drives the orchestra, not the timpani.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Niles, the conductor _guides_ the orchestra.  He's more like the steering wheel.  The actual driving forward - the driving forward is actually executed by the percussion section.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Seems like someone needs to take a class in orchestra rather than automobiles.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Randy"
+    },
+    {
+        "speaker": "Randy",
+        "text": "...which links the crankshaft to the camshaft, so that the valves are in sync with the pistons.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Shirley"
+    },
+    {
+        "speaker": "Shirley",
+        "text": "Oh! _Frasier and Niles exchange a glance of mingled incomprehension and panic._",
+        "prevSpeaker": "Randy",
+        "nextSpeaker": "Randy"
+    },
+    {
+        "speaker": "Randy",
+        "text": "Now, as you can imagine, tolerance is very important in every component...",
+        "prevSpeaker": "Shirley",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_as Randy continues; whispering_] What's a camshaft?",
+        "prevSpeaker": "Randy",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_whispering_] I don't know, you were talking!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_looks through his textbook_] Oh, here it is. [_reads_] \"The camshaft is a system that opens and closes the valves.\" Oh right, so it's this thing here.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, right, right!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Whew!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Good God!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "That was close.  We almost got behind.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "We must not let that happen again.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Agreed.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Randy"
+    },
+    {
+        "speaker": "Randy",
+        "text": "...And if you only take one thing away from this course, that should be it! _Frasier and Niles exchange another look and start writing madly in their books._ ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Randy"
+    },
+    {
+        "speaker": "Randy",
+        "text": "OK, moving on! _DISSOLVE TO:  Scene Five - Classroom Later that night, the students are working on sample engines sitting on the table.  Niles is the only one in the room wearing safety goggles._ ",
+        "prevSpeaker": "Randy",
+        "nextSpeaker": "Randy"
+    },
+    {
+        "speaker": "Randy",
+        "text": "So, if you're finished changing spark plugs, you're free to leave, and I'll see you next week.  ",
+        "prevSpeaker": "Randy",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Niles, it's down to us and Shirley!",
+        "prevSpeaker": "Randy",
+        "nextSpeaker": "Shirley"
+    },
+    {
+        "speaker": "Shirley",
+        "text": "[_ecstatic_] I did it!  I did it!  Whoo!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Randy"
+    },
+    {
+        "speaker": "Randy",
+        "text": "Good job, Shirley.  ",
+        "prevSpeaker": "Shirley",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "All right, all right, perseverance, Frasier.  We'll get this.",
+        "prevSpeaker": "Randy",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Right, right.  Oh, would you take off those stupid goggles?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well, I'm sorry, it's for safety.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Nobody else wore them!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "No one else wore them in gym class either, but then Tommy Fritz scratched his cornea, and then they were mandatory!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Give me that wrench.  Give me that wrench!  ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I'm telling you, I'm telling you, they are too tight!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Here, I'll just try to loosen it up.  ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Randy"
+    },
+    {
+        "speaker": "Randy",
+        "text": "Whoa, whoa!  Remember, uh, spark plugs come out with a simple twist-and-pull.  Twist-and-pull.  Give it a try.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Randy"
+    },
+    {
+        "speaker": "Randy",
+        "text": "OK, uh, that's called stripping it.",
+        "prevSpeaker": "Randy",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Good job, Frasier!  Here, let me strip one.",
+        "prevSpeaker": "Randy",
+        "nextSpeaker": "Randy"
+    },
+    {
+        "speaker": "Randy",
+        "text": "No, no, stripping it means breaking it.  Uh, watch me.  ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "So you... twist, and then pull.  You see, I was twisting and pulling simultaneously, as per your instructions: \"twist-_and_ - pull.\"",
+        "prevSpeaker": "Randy",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "In the future, the phrase \"twist, _then_ pull\" might help.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Randy"
+    },
+    {
+        "speaker": "Randy",
+        "text": "Look fellas, maybe that's enough for one night.  But, uh, why don't you come in a little early next week and I'll try to get you caught up to everyone else.  I've got a feeling you guys are gonna be my special project. _He leaves.  Frasier and Niles regard each other with the shocked horror of patients who have just been diagnosed with some strange disease that is not only fatal, but was also thought to have disappeared long ago._",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Frasier... we have to come in for tutoring.  We've become remedial students!",
+        "prevSpeaker": "Randy",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I know!  It's humiliating!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I thought we signed up for this class to avoid humiliation!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, I guess we're just gonna have to roll up our shirtsleeves and see it through for the next eight weeks.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Of course we will.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Although...",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I'm listening.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "What do we actually accomplish by learning to change our own spark plugs?  Oh yes, of course we acquire a new skill, but aren't we taking a job away from a qualified mechanic?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Someone who may have a family to support.  Not to mention all the merchants who dispend on his disposable income for their livelihood!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, yes, the human toll begins to mount!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Society decays!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Not if I have anything to say about it!  Niles, I'm quitting! If you care one jot about civilization, you'll quit too.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Our duty is clear.  Do we have time for gelatos?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I think so, yes.  _They leave.  FADE TO:  Scene Six - Apartment Frasier and Niles arrive home.  Daphne comes out._ ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "There's my burly mechanic.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Hello, Daphne.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Your ears must have been burning tonight.  I've been bragging about you on the phone to my mum. [_kisses him_] I know I said you didn't have to take this auto class, but I rather like the idea of my man being able to rescue me by the roadside.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "You do?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Yeah.  It just shows me how much you care. [_kisses him again_]",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well, um, next week we're flushing radiators.  ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Niles!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Hey, Mr. Goodwrench.  Recognize this?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well, it's your grandpa's old toolbox.  He gave it to me when I was eighteen.  I think you're ready for it now.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh!  Well, thanks Dad, but, uh...",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "I know it sounds kind of corny, but it meant a lot to me when my father gave that to me.  Every time I use it I'd think of him.  Maybe every time you use it in class, you'll think of your old man and how proud he is.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Gosh, Dad, I don't know what to say.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Maybe someday you'll pass it on to your son.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, first maybe I'll remove the topless playing cards. [_does so_]",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Your grandpa loved the nudies.  _END OF ACT ONE  ACT TWO_  **THE COASTERS**  _Scene Seven -- Cafe Nervosa Frasier and Niles are at a table, poring hard over their textbooks. Roz comes in, talking on her cell phone._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Yes Martin, I'll be home in time to feed the puppy.  I said I would be home!  OK, bye-bye. [_hangs up_] Your dad is driving me nuts about this dog!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Roz, do you mind?  We're trying to study.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Wow, reminds me of college.  Staying up all night before a big exam and wishing I'd studied instead.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, as much as we'd love to relive those four months with you, our class begins shortly.  We're trying to learn last week's material.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_closes his book_] Oh Frasier, it's useless, it's pointless, it's boring, and really, who cares?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Wow, it sounds like you guys should just quit.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "If only we could, Roz.  I, it's just that Dad and Daphne are so proud of us, we can't let them down.  They already bought mahogany frames so they could showcase our certificates of completion.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "So complete it!  I mean, it doesn't mean you have to ace it. Just sit there and nod your head a few times, and you're home free.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Are you suggesting we... coast?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "We have never walked the back alleys of underachievement before.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Dare we? _They exchange a cunning look.  Frasier smiles and flips his book shut. Niles does the same._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Ho! [_laughs_] I felt a chill! _FADE TO:  Scene Eight - Apartment Martin is playing with Frankie/Ariel, wrestling with a sock. Eddie sits nearby._ ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Come on, Eddie, get in on this! [_Eddie stares_] Oh, what? You're too grown up for the sock game?  ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Come in!  ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Hey, Martin- [_sees the puppy_] What the hell is going on?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well, you were late, so I brought Frankie here.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "His name is Ariel, and I was fifteen minutes late!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well, that's almost two hours in doggie minutes!  Plus you didn't put the top back on his worm medicine, plus the water in his dish got dusty.  You know, Roz, I don't think the set- up's working out too well.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "I'll say!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "So I was thinking it might be best if he lived here with me for a while.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "What?!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Just until he grows up a little bit.  You know, they need a lot of attention at this age.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "I asked you to help me, Martin, not take over.  You're acting like my mother!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_to the puppy_] See how she talks to me?  After all I've done for her, and this is the thanks I get!",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Give him to me!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Roz, I don't think you're in the right frame of mind.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Give him to me.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "No!",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "[_picks up Eddie_] Well, I'm leaving here with a dog, one way or another.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "You wouldn't.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "[_heading for the door_] Try me.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "No, wait! _She stops.  They stand off, like negotiators in the middle of a hostage swap._",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "You first. _Roz puts Eddie down.  Martin gives her the puppy.  She lifts him to her face and he starts licking it._ ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "You're not holding him right.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Damn it, Martin, just because I'm not raising him your way doesn't mean I'm raising him the wrong way, so butt out.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "All right.  Can I at least come and visit him once in a while?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "You think you can do it without criticizing me?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Yeah, I promise.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "OK.  You can come visit.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Bye, Frankie.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Hmm?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_grudging_] Ariel.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "See you later, Martin.  _Roz leaves.  Martin settles back in his Armchair.  Eddie jumps onto his lap and grabs the sock._ ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Hey, there's my boy!  Yes, yeah, come on, OK...  _They start to sock-wrestle.  FADE TO:  Scene Nine - Classroom Randy is lecturing.  Frasier and Niles are now sitting in the back row, looking the picture of coasters - slouched lazily, doodling with their pencils, and grinning with \"the bored, cocky air of athletes in math class.\" - (The phrase is Joe Keenan's, from his novel \"Putting on the Ritz\")_",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Randy"
+    },
+    {
+        "speaker": "Randy",
+        "text": "Uh, the brake pedal feels a little mushy.  What is the possible cause?  ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Randy"
+    },
+    {
+        "speaker": "Randy",
+        "text": "Uh, let's get someone new this time.  How about Frasier?  ",
+        "prevSpeaker": "Randy",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "What?",
+        "prevSpeaker": "Randy",
+        "nextSpeaker": "Randy"
+    },
+    {
+        "speaker": "Randy",
+        "text": "What would cause a mushy feeling in the brakes?  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I don't know.",
+        "prevSpeaker": "Randy",
+        "nextSpeaker": "Randy"
+    },
+    {
+        "speaker": "Randy",
+        "text": "Niles?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Uh, mush?",
+        "prevSpeaker": "Randy",
+        "nextSpeaker": "Shirley"
+    },
+    {
+        "speaker": "Shirley",
+        "text": "It's caused by a leak in the brake line!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Randy"
+    },
+    {
+        "speaker": "Randy",
+        "text": "Good, Shirley, did everybody hear that?",
+        "prevSpeaker": "Shirley",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_aside to Niles_] Her voice was kind of muffled, what with her lips being pressed up against Randy's butt.",
+        "prevSpeaker": "Randy",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Yeah!  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Randy"
+    },
+    {
+        "speaker": "Randy",
+        "text": "Guys, this is the last time I'm gonna tell you, keep it down, OK?  A leak in the brake line is, uh, certainly a possible cause.  ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Randy"
+    },
+    {
+        "speaker": "Randy",
+        "text": "Ah, another cause for it might be the wheel sill.  If the caps are brittle and cracked, uh, you can develop a leak there or two.  Either case, the hydraulics... [_Frasier and Niles are still giggling_] Is that a funny note there?  I enjoy funny things.  Why don't I share it with the class?  ",
+        "prevSpeaker": "Randy",
+        "nextSpeaker": "Randy"
+    },
+    {
+        "speaker": "Randy",
+        "text": "Does anybody here read French?  ",
+        "prevSpeaker": "Randy",
+        "nextSpeaker": "Randy"
+    },
+    {
+        "speaker": "Randy",
+        "text": "Anyone besides Frasier? ",
+        "prevSpeaker": "Randy",
+        "nextSpeaker": "Randy"
+    },
+    {
+        "speaker": "Randy",
+        "text": "Let me see you guys out in the hall.  ",
+        "prevSpeaker": "Randy",
+        "nextSpeaker": "Randy"
+    },
+    {
+        "speaker": "Randy",
+        "text": "And bring your books and tools.",
+        "prevSpeaker": "Randy",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh-ho, we're in trouble now.",
+        "prevSpeaker": "Randy",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_laughing_] We're not in trouble, we _are_ trouble. _Out in the hall, however, as soon as they close the door behind them, Frasier and Niles are immediately contrite._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Please, please don't throw us out!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "We'll shut up, we promise!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Randy"
+    },
+    {
+        "speaker": "Randy",
+        "text": "You've promised that four times tonight.  Sorry, you're gone.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "But what are we gonna tell our dad?",
+        "prevSpeaker": "Randy",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "And my girlfriend?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Randy"
+    },
+    {
+        "speaker": "Randy",
+        "text": "Maybe you should have thought of that before you started goofing off.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "OK.  So, uh, how's this work, Randy?  You-you mail us our certificates of completion, or what?",
+        "prevSpeaker": "Randy",
+        "nextSpeaker": "Randy"
+    },
+    {
+        "speaker": "Randy",
+        "text": "[_goes along_] Yeah.  Um, let me go get a pen and paper for your addresses.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "All-righty. _Randy goes back in the classroom and shuts the door, even as Frasier pulls a pen out of his briefcase.  They wait for a few seconds, then Niles tries the door.  It's securely locked._ ",
+        "prevSpeaker": "Randy",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "He's not coming back. _FADE TO:  Scene Ten - Counter Frasier and Niles are both resting on a counter, with two cups of coffee._",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Not only did we stink at Auto class, we stunk at coasting through Auto class.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "We became back-row hooligans, Niles.  The very students we hated back in school.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I always thought they were just mean.  Now I realize they were simply acting out of frustration.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "So when Billy Kreizel tried to stuff you into your locker after math class, he wasn't really mad at you.  He was mad at Pythagoras.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Which is ironic, because a simple volume equation would have shown him I couldn't fit.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You know, we never should have lied to Dad and Daphne.  If we wanted to quit, we should have just quit.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Yes, it would have saved us a lot of embarrassment. Well, that's the lesson here: never deny your true nature.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "That's right: honesty. _The camera widens to show them standing below a sign that says \"COOL COPY.\"  A clerk comes back with a phony night-school certificate._ ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Clerk"
+    },
+    {
+        "speaker": "Clerk",
+        "text": "This certificate look official enough?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I think you finally got it.",
+        "prevSpeaker": "Clerk",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Two, please. ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Credits"
+    }
+]

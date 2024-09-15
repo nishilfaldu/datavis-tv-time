@@ -1,0 +1,1335 @@
+[
+    {},
+    {
+        "speaker": "Niles",
+        "text": "That was a very childish prank.  Now you have ruined my coffee!  If you can't behave like adults you shouldn't be coming to a grown-up cafe!",
+        "prevSpeaker": "No Previous Speaker",
+        "nextSpeaker": "Girl"
+    },
+    {
+        "speaker": "Girl",
+        "text": "It wasn't us!  ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Girl"
+    },
+    {
+        "speaker": "Girl",
+        "text": "Aren't you going to yell at them?",
+        "prevSpeaker": "Girl",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "They'll have already heard me yell at you.  ",
+        "prevSpeaker": "Girl",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Niles, thank you for agreeing to meet me on such short notice, I swear I am in a full-blown crisis.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "If you are talking about that garish belt, I have emergency suspenders in my car.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "It's not the belt!  My high-school reunion is tonight and you know my history.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, not this folderol again.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "It's not folderol!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "It's folderol.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "It is not folderol!  Every time my reunion comes around, it coincides with a severe downturn in my life.  Five years ago Lilith divorced me; five years before that I was left at the altar; five years before that I fell face first into the poison ivy!  And here we are right on schedule, I'm freshly fired!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I still don't know why you even went that poison ivy year.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "The point is, in ten minutes I have an extremely important job interview - a job which I am eminently qualified for, but now I have no chance of getting.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "How can you know that?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Because destiny won't allow it!  Destiny plans for me to walk into that reunion this evening the way I always do, the class loser!  Pitied and shunned by everyone until I end up sitting with the most pathetic people there.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "You mean... the chess club?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Worse!  The chess club's barbershop quartet.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, the Checkmates!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I swear to God, I feel like I have a curse on my head!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Frasier, you are a man of science.  You know curses don't exist.  There's a perfectly rational explanation for all of this.  You tripped and fell into the poison ivy; your radio station changed formats; your wife didn't love you.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "If this is a pep talk, would you kindly segue way to the peppy part?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "The only reason why you're giving credence to this curse mumbo-jumbo is because you're nervous about your job interview.  You're an intelligent man, any station would be lucky to have you, wouldn't they?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, I suppose.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "You must stop doubting yourself.  You deserve that job, so go out there and get it.  In an hour's time it'll be yours, and after a short trip to the store to return that belt, you will thoroughly enjoy your reunion.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, you're right, Niles.  I should think positive.  This interview will go just fine and so will this evening.  All I have to do now is get a date - where the hell am I going to find a woman who's so desperate for an evening out she'd agree to go to someone else's reunion?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "[_enters_] Hello, Frasier.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "See, your luck's changing already! **BEST HAIR**  _Scene Two - KJMC Radio Station. Frasier arrives at the reception behind which Mr. Rugley is standing._ ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Hello, excuse me, I'm looking for Stephen Rugley's office.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Rugley"
+    },
+    {
+        "speaker": "Rugley",
+        "text": "Well, you've come to the right place.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, splendid.  Is it possible for you to fetch me a coffee before my interview?",
+        "prevSpeaker": "Rugley",
+        "nextSpeaker": "Rugley"
+    },
+    {
+        "speaker": "Rugley",
+        "text": "Well, er...",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, better yet, make it a cup of Chamomile tea, a squirt of lemon and a full teaspoonfull of honey.",
+        "prevSpeaker": "Rugley",
+        "nextSpeaker": "Rugley"
+    },
+    {
+        "speaker": "Rugley",
+        "text": "We'll try to get that for you as soon as my assistant gets back.  Er, I'm Stephen Rugley. President of KJMC.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_laughs_] Lord, it's nice to meet you.  I'm terribly sorry.",
+        "prevSpeaker": "Rugley",
+        "nextSpeaker": "Rugley"
+    },
+    {
+        "speaker": "Rugley",
+        "text": "All right Dr. Crane - it's a great suit, by the way.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Thank you.",
+        "prevSpeaker": "Rugley",
+        "nextSpeaker": "Rugley"
+    },
+    {
+        "speaker": "Rugley",
+        "text": "You're....  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I know, it's a bit risky.  People have been commenting on it all day.  _Frasier lets his jacket open, showing off his belt and we see that Rugley was in fact commenting on his open fly._ ",
+        "prevSpeaker": "Rugley",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "It makes a bold statement, but frankly I like it!  I came through the park on the way over here and it caught the eye of many a young lady!  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh God, my fly!  I thought you were talking about my belt.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Rugley"
+    },
+    {
+        "speaker": "Rugley",
+        "text": "Well, shall we start the interview?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, good.  We haven't started yet!  Well...  ",
+        "prevSpeaker": "Rugley",
+        "nextSpeaker": "Rugley"
+    },
+    {
+        "speaker": "Rugley",
+        "text": "I'm glad you could make it, Dr. Crane.  I've enjoyed your work.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, that's very gracious of you, Mr. Ugly. [_realises what he said:_] Oh, dear God, I just said...",
+        "prevSpeaker": "Rugley",
+        "nextSpeaker": "Rugley"
+    },
+    {
+        "speaker": "Rugley",
+        "text": "What do you mean?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, I just said your name right now and it sounded like I called you Mr. Ugly.  I assure you it won't happen again. It's just a matter of seperating the r's. [_practicing:_] Mr. Rug, Mr. Rug, Mr. Rug...  _Mr. Rugley looks up from his desk, his hair has been muffled and we can see that he is wearing quite an obvious toup ee._ ",
+        "prevSpeaker": "Rugley",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "...ley.  Mr. Rugley.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Rugley"
+    },
+    {
+        "speaker": "Rugley",
+        "text": "Anyway, I think you might be a good fit here.  We need to find a replacement for Dr. Wendy.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Really?",
+        "prevSpeaker": "Rugley",
+        "nextSpeaker": "Rugley"
+    },
+    {
+        "speaker": "Rugley",
+        "text": "Yes, we didn't feel it was quite right to keep her on any longer.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, let me say I applaud your judgement on that score.  I mean, frankly, Dr. Wendy's saccharine style - it may be very popular, but you know, it's really not up to your standards, is it?!",
+        "prevSpeaker": "Rugley",
+        "nextSpeaker": "Rugley"
+    },
+    {
+        "speaker": "Rugley",
+        "text": "Dr. Wendy's my mother.  She's quite ill.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Assistant"
+    },
+    {
+        "speaker": "Assistant",
+        "text": "Can I interrupt?",
+        "prevSpeaker": "Rugley",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, please!",
+        "prevSpeaker": "Assistant",
+        "nextSpeaker": "Assistant"
+    },
+    {
+        "speaker": "Assistant",
+        "text": "You have some messages.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Rugley"
+    },
+    {
+        "speaker": "Rugley",
+        "text": "Excuse us for a moment?",
+        "prevSpeaker": "Assistant",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Of course.  ",
+        "prevSpeaker": "Rugley",
+        "nextSpeaker": "Assistant"
+    },
+    {
+        "speaker": "Assistant",
+        "text": "Mr. Jaminson has to cancel.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Rugley"
+    },
+    {
+        "speaker": "Rugley",
+        "text": "Oh, very well.  Why don't you call Phyllis Monderat and she if she can reschedule.  ",
+        "prevSpeaker": "Assistant",
+        "nextSpeaker": "Rugley"
+    },
+    {
+        "speaker": "Rugley",
+        "text": "Oh, and see if you can pick up my car from the shop.",
+        "prevSpeaker": "Rugley",
+        "nextSpeaker": "Assistant"
+    },
+    {
+        "speaker": "Assistant",
+        "text": "I already did.  It's across the street.  Somebody parked this BMW in your space.",
+        "prevSpeaker": "Rugley",
+        "nextSpeaker": "Rugley"
+    },
+    {
+        "speaker": "Rugley",
+        "text": "Well, have it towed!",
+        "prevSpeaker": "Assistant",
+        "nextSpeaker": "Assistant"
+    },
+    {
+        "speaker": "Assistant",
+        "text": "I already made the call.  _Frasier, upon hearing this, accidentally snaps the giraffe into two. He tries to put it together and replace it unsuccessfully._ ",
+        "prevSpeaker": "Rugley",
+        "nextSpeaker": "Rugley"
+    },
+    {
+        "speaker": "Rugley",
+        "text": "Dr. Crane?",
+        "prevSpeaker": "Assistant",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_facing away:_] Yes?",
+        "prevSpeaker": "Rugley",
+        "nextSpeaker": "Rugley"
+    },
+    {
+        "speaker": "Rugley",
+        "text": "We don't have any tea, but would you like some coffee?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "That'll be splendid, yes, thank you.  _As Rugley pours the coffee, Frasier tries to hide the broken giraffe parts under his arms, which means he has to walk weird to get the coffee.  Upon picking up the cup he drops the head._ ",
+        "prevSpeaker": "Rugley",
+        "nextSpeaker": "Rugley"
+    },
+    {
+        "speaker": "Rugley",
+        "text": "What was that?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Nothing.",
+        "prevSpeaker": "Rugley",
+        "nextSpeaker": "Rugley"
+    },
+    {
+        "speaker": "Rugley",
+        "text": "[_sees second bit drop:_] Is this my giraffe from my cabinet?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, it is.  I'm sorry, I was admiring it and it broke apart in my hands.  But you know, if your child is anything like mine, he'd be delighted to make you a new one!",
+        "prevSpeaker": "Rugley",
+        "nextSpeaker": "Rugley"
+    },
+    {
+        "speaker": "Rugley",
+        "text": "Actually, my father made it after his stroke.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, I think you've got enough to go on.  It was lovely meeting you.  _He goes to shake Rugley's hand but inadvertantly knocks the freshly brewed coffee into Rugley's lap.  He screams with the heat._ ",
+        "prevSpeaker": "Rugley",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, well I'm going to have to rush if I'm gonna beat that tow-truck.  _Frasier runs out leaving Rugley to clean up the mess.  FADE TO:_  **CUTEST COUPLE**  _Scene Three - Frasier's Apartment. Niles is in the lift and just about to go up to Frasier's floor when Martin comes rushing in with Eddie in a shopping trolley._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Hold the elevator, Niles.  Thanks.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Hi, Dad. [_the doors close_]",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "I'm never going to that grocery store across the street again. They gave me such a hard time just because I brought Eddie in.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well, it's not exactly sanitary, dad.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh yeah?  Well, when they get rid of the guy with pinkeye who's handing out cheese samples, then they can talk to me about sanitary.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_notices trolley is full of dog food:_] Didn't you bring home a case of dog food yesterday?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Yeah!  It was the economy stuff, he wouldn't touch it, so I've got to take all of it back.  This is his favorite kind.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_looks at it:_] Well, I guess what they say is true: Once you've tasted animal by-products you can't go back to the cheap stuff!  Hey, will you pick the restaurant for tonight?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Hey, I've got a better idea than that!  My old precinct's having one of their seized property auctions down at the fairgrounds.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, what's the better idea?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Come on, Niles, these drug dealers have some pretty nice stuff!  ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I guess I've been searching for a wide-brimmed purple velvet hat... It's not quite, er, me.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "I tell you what, we'll just go for a little while and then we'll come back here for dinner.  ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Am I glad you're home.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "What's wrong?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Dr. Crane!  Ever since he came back from his job interview he seemed awfully depressed.  In fact, he's as bad as I've ever seen him!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, I guess it didn't go well.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "I gather not.  He mumbled something about it being worse than the Dresden premiere of Schumann's Second Symphony.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_alarmed:_] And you left him alone?! _Niles begins madly prancing around the living room and rushes to the corridor to Frasier's room._ ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "He's in the kitchen!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Frasier! _Startled, Frasier bangs his head on the oven before coming out with the cleaning utensils he has been using.  He is wearing a scruffy T-shirt and is covered in dirt and grime._ ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh my God!  Frasier, are you all right?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I was fine before you screamed, what the hell's wrong with you?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well, Daphne said you were depressed and here you are with your head in the oven.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I was cleaning it, Niles.  It's electric.  ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "If I wanted to end my life I'd choose something faster than broiling.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Sorry your interview didn't go well, Fras.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, it's alright, Dad.  You know, things don't work out the way we'd like them to sometimes. [_watches Daphne push the trolley by with Eddie in_] Much like my strict, \"No shopping trolleys in the apartment policy.\"",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Don't worry about it.  I'll take it back, but I need to return all that cheap dog food.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You know, Dad, I'm going down to pick up some cleaning supplies, I'll do it.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well, I thought you needed to get ready for the reunion?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh God, no, I'm not going!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Why?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Because I'm cursed.  If I wasn't convinced before today's interview, I certainly am now.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "But you haven't even heard anything.  For all you know you might have gotten it. [_doorbell sounds_]",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Believe me, dad.  I have a better chance of being crowned \"Miss Teen USA.\"  _Frasier opens the door to Roz, who is dressed elegantly in a long black dress, has her hair done up and beautiful makeup across her face._ ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, dear God!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "[_about Frasier's dress:_] Well, just how casual is this thing tonight?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Roz, I'm so sorry, I completely forgot to call and tell you that, well, we're not going!",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Wait a second!  I found a babysitter at the last minute.  I got a new dress, I got Michelle to do my hair and just spent the last hour listening to the Estee Lauder lady describing her bladder operation just so I could get a free makeover. And now you're saying we're not going?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Roz, I can't go.  You see, I have a curse on my head.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "What curse?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "He thinks the Fates are conspiring to humiliate him at every reunion.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh come on, you don't really believe that, do you?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "All right, let's examine the evidence.  Daphne, would you assist me, please? [_hands her a paper:_] This is my school newsletter.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "[_reads_] The Bryce Academy Crier!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Which, coincidentally, was Frasier's nickname the first year he was there.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Go to page eight!  Scott Alexander, what's he been up to?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Wife, kids, has his own computer software business.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Patsy Curds.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Mother of three, successful physician, has invented a drug that may aid in the treatment of cancer.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Won't they go green with envy when I top them all with this story of my life: Frasier Crane, unattached, unemployed and living with his father.  He spends his days scrubbing his oven and is anxiously awaiting his upcoming tooth cleaning.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Now, now, Frasier.  Everyone has their ups and downs.  You know, for all we know that cure for cancer didn't pan out either.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_gives Martin a look, then deadpan:_] One can only hope, Dad.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "I bet if you just went in there with a sunny attitude, you'd have a good time.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No, I tried sunny last time, you know where it got me? Table 97, singing \"Goodbye my Coney Island Baby\" with the Checkmates.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Well, maybe this time will be different.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "That's the mistake I always make.  Thinking that this year it will be different, that I can beat the curse.  Well, that's because it makes you think you can beat it but you can't! So, Roz, I apologize, I'll make this up to you some day. But right now, I'm going to go down to the store and run a little errand for my friend Eddie!  And then I'm coming back home and spending the evening with Daphne, doing some light housework and listening to my new psychoanalysis tape: \"Depression, Anxiety and Death\" as read by the author himself, Stanislav Monk.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "[_half in tears:_] Now who's cursed?!  _Daphne throws down the newsletter and retreats to her room.  END OF ACT ONE (Time: 12:00)  ACT TWO_  **MOST LIKELY TO SUCCEED**  _Scene One - Exterior Of Supermarket. Frasier wheels his trolley of cans up and sees a man throwing cans into the bin._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Excuse me, sir, there's a place to recycle those cans right over there. Man: Oh, I know. [_puts them in and walks off_]",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_angry:_] On behalf of Mother Earth, I thank you!  _Frasier begins to pick out the cans from the bin and put them in his trolley._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "That's the sort of person who drinks chocolate soda.  _Frasier carries on fumbling about in his scrappy T-shirt and covered in muck, as a man dressed in a tuxedo looks on and realises who he is._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Percy"
+    },
+    {
+        "speaker": "Percy",
+        "text": "Frasier Crane.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes. [_realises:_] Percy Williams, ho-ho, good to see you. I suppose you're on your way to the reunion.",
+        "prevSpeaker": "Percy",
+        "nextSpeaker": "Percy"
+    },
+    {
+        "speaker": "Percy",
+        "text": "Yes, yes I am.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I couldn't make it this year myself.  A little too much on my Plate, things have gotten crazy.",
+        "prevSpeaker": "Percy",
+        "nextSpeaker": "Percy"
+    },
+    {
+        "speaker": "Percy",
+        "text": "I see there, I heard you went off the radio.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You did?",
+        "prevSpeaker": "Percy",
+        "nextSpeaker": "Percy"
+    },
+    {
+        "speaker": "Percy",
+        "text": "You know, my wife heads up a charity that helps get homeless people back on their feet.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, I know.  The Scrap Foundation, it's very popular in my circle.",
+        "prevSpeaker": "Percy",
+        "nextSpeaker": "Percy"
+    },
+    {
+        "speaker": "Percy",
+        "text": "You should call, they could help you.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Me? [_realises and laughs_] Oh, that's very funny.  The shopping cart with all the dog food.  I'm afraid you're suffering from the wrong impression.",
+        "prevSpeaker": "Percy",
+        "nextSpeaker": "Percy"
+    },
+    {
+        "speaker": "Percy",
+        "text": "Dog food?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, it's not mine.  It's my father's.",
+        "prevSpeaker": "Percy",
+        "nextSpeaker": "Percy"
+    },
+    {
+        "speaker": "Percy",
+        "text": "Oh, Frasier...",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No, really, you're mistaken: I'm not homeless.  I live in that luxury building right there. [_Percy obviously doesn't believe him_] Number 1901.",
+        "prevSpeaker": "Percy",
+        "nextSpeaker": "Percy"
+    },
+    {
+        "speaker": "Percy",
+        "text": "Frasier, take this. [_hands him money_]",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I don't need it.  I drive a BMW, I collect African art.",
+        "prevSpeaker": "Percy",
+        "nextSpeaker": "Percy"
+    },
+    {
+        "speaker": "Percy",
+        "text": "You always were a proud one.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I'm not proud.",
+        "prevSpeaker": "Percy",
+        "nextSpeaker": "Percy"
+    },
+    {
+        "speaker": "Percy",
+        "text": "Then take it!  For God sakes, spend it on food.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I just threw out a $200 belt! **CLASS CLOWN**  _Scene Two - Frasier's Apartment. It is raining outside and Daphne is sat reading a book.  The doors open and Martin enters._ ",
+        "prevSpeaker": "Percy",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Hey, how was the police auction?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh, you didn't miss anything.  Especially when it started raining. _Niles, however, comes in with a gleeful smile on his face and carrying brown paper bags._ ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I made out like a bandit! [_laughs at the pun_] Those drug lords have the most incredible taste: Christophle, silver, Limoges. Oh, Morivors chrystal.  If I ever get married again, I'm going to register there.  ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Hello, all.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I thought you were staying home?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, well, not any more.  I ran into Percy Williams down at the grocery store.  He mistook me for a street person.  If I don't get down there and defend myself he'll be passing around that rumor along with the Swedish meatballs.  ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Well, I'm glad you're going, Dr. Crane.  You'll have a nice time, and you look great.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Thank you.  _Frasier opens door to a rather angry Roz who is dressed in the same stuff, but this time it seems more rushed and her hair is out of place._ ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "You have no idea how big you owe me!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes I do, Roz, and I will never ask you for another favor again - except could you possibly do something with your hair?  It seems to be leaning.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Frasier, when you called I was in the tub with a pint of Ha\ufffdgen-Daaz - considering that was fifteen minutes ago I think I look pretty good.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I appreciate it, Roz, I really do.  Daphne, could you please help Roz getting finished?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "I am finished.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No, no, no, finish more.  And... remember what I told you.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Oh yeah, right: I'm a model-slash-doctor-slash-daughter of the Duke of Luxembourg.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Yes, come along, Your Grace.  ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Frasier, are you actually so desperate that you're trying to impress those people by having Roz pretend to be some sort of trophy girlfriend?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_correcting:_] Trophy duchess!  Niles, it's the only way to beat the curse.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "You can beat the curse by not going.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I tried that, Niles, you see where that got me.  The curse found a way to humiliate me _in absentia_.  I've got to get down there.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Why?  To win the approval of some virtual strangers.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I know it sounds foolish, Niles...",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "No, it's not foolish.  It's human.  I think it's all about the feelings of inferiority you've been carrying with you since high school.  That's the real curse.  Only, you're not the Bryce Crier anymore, you're a successful man.  You have an opportunity for real growth here.  Not by trying to impress these people, but by realizing that they don't matter anymore.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, Roz, you look beautiful!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Thank you.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "But we're not going!",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "What?!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "It's got something to do with my personal growth.  You see, I don't care about these people anymore and you know, I want them to know it.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Frasier, I hired a babysitter twice, I did my makeup twice, I performed a miracle of engineering by taping myself into this dress twice - only to be stood up twice!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Roz, technically you only did your hair once.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "[_shouts_] Shut up! [_hits him with her handbag_] You know, some day you're gonna need another favour from me, buddy, and when that day comes, I hope you know what you can do with it.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I have a pretty good idea.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Well, do it twice!  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, that was something.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Please, you call that a tantrum?  Maris used to do that once a week.  The poor thing needed help slamming the door!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_enters:_] Frasier, I was just talking to Duke on the phone and your agent flicked in.  She was calling from a pay phone and she couldn't really talk, but she said that KPOV wants you to host your own show for them.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "My own television show!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "On KPOV! [_they all congratulate him_]",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Thank you, all.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I just realised.  This is an even bigger opportunity for personal growth.  Having a prestigious new job like this and not even going to the reunion to boast about it!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "It's a great opportunity, isn't it!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Have a good time.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I will.  _Frasier exits via the front door as Martin and Niles sit. Daphne exits to the kitchen._ ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I must say, Frasier did have a run of bad luck this week. I'm certainly glad it worked out better for him.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "No, he didn't really get a call, I just made it all up.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "His agent didn't call?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "No, I just wanted to give the guy something to brag about.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Dad, I know you were trying to help, but don't you think that's a little risky?  What if somebody at the reunion knows it's not true?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh, no, you worry too much.  Who's gonna know?  I mean most of these people are from out of town, they've probably never heard of KPOV!  ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "I knew it!  When you said KPOV, I thought it sounded familiar and it's right here in Dr. Crane's newsletter.  His classmate, Calvin Gurdstone, was just made station manager.  Won't that be nice for them; they'll be working together now. [_exits to kitchen again_]",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, my God!",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh, come on, it'll be all right, don't worry about it.  This Gurdstone probably won't even show - he's just got a new job, he's probably real busy.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well, you're right.  I musn't assume the worst.  I'm acting like Frasier, as if there really is a curse.  ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Look here, he's also serving as this year's reunion coordinator. _Niles and Martin look at each other in horror as a flash of lightning finishes off the scene.  FADE TO:  Scene Three - Reunion Hall. Everybody is laughing and joking.  However, when Frasier arrives they walk away.  He goes to several tables but they all look away from him. So, he sits with the Checkmates:_ ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Hi, fellas.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Checkmate"
+    },
+    {
+        "speaker": "Checkmate",
+        "text": "Hi.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Hit it. _A harmonica is played then they begin singing.  Frasier takes the bass part._ ",
+        "prevSpeaker": "Checkmate",
+        "nextSpeaker": "Checkmate 1"
+    },
+    {
+        "speaker": "Checkmate 1",
+        "text": "Hello...",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Checkmate 2"
+    },
+    {
+        "speaker": "Checkmate 2",
+        "text": "Hello...",
+        "prevSpeaker": "Checkmate 1",
+        "nextSpeaker": "Checkmate 3"
+    },
+    {
+        "speaker": "Checkmate 3",
+        "text": "Hello...",
+        "prevSpeaker": "Checkmate 2",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Hello... ",
+        "prevSpeaker": "Checkmate 3",
+        "nextSpeaker": "Checkmates"
+    },
+    {
+        "speaker": "Checkmates",
+        "text": "Goodbye, my Coney Island baby, Farewell, my own true love, true love-",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, honey!",
+        "prevSpeaker": "Checkmates",
+        "nextSpeaker": "Checkmates"
+    },
+    {
+        "speaker": "Checkmates",
+        "text": "I'm gonna go away and leave you, Never to see you any-",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Never gonna see you any-",
+        "prevSpeaker": "Checkmates",
+        "nextSpeaker": "Checkmates"
+    },
+    {
+        "speaker": "Checkmates",
+        "text": "I'm gonna sail upon that ferry boat...  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Credits"
+    }
+]

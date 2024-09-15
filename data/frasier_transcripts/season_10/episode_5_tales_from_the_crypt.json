@@ -1,0 +1,1503 @@
+[
+    {},
+    {
+        "speaker": "Skyline",
+        "text": "An orange moon rises above the cityscape, taking on the face of a grinning Jack-O-Lantern. _ACT ONE  Scene One - KACL Roz is in Frasier's booth, setting up for the show.  The room is decorated for Halloween.  Bulldog comes into the booth, laughing._",
+        "prevSpeaker": "No Previous Speaker",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "Hey, Roz... _Several employees pass by the open door laughing and congratulating Bulldog._",
+        "prevSpeaker": "Skyline",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "Hi, hi, hi.  Roz, you just missed the classic prank of all time.  I'll admit it, this was my masterpiece.",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "[_excited_] Oh, who, who?  Who'd you get?!",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "OK...",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Employee"
+    },
+    {
+        "speaker": "Employee",
+        "text": "Way to go, Bulldog!",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "There he is! [_slams chests and slaps hands with Bulldog_]",
+        "prevSpeaker": "Employee",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "I got this friend down at the impound lot, who came across a smashed-up BMW, same make and model as Frasier's.",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "You didn't!  You got Frasier!",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "I had his car towed from the garage, the wreck went in its place.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "The doc totally freaked when he saw it.  First he started swearing, and then he implored the heavens, and just when his lip started trembling, Bulldog comes out, tells him it's all a prank.",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "Hey - Bulldog observes the mercy rule.  Besides, I got the whole thing on tape. _He proudly holds up the tape.  Then Frasier comes in, stone-faced. Kenny runs out while Roz hastily turns back to her work._",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "Admit it, Doc, I got you good. _Frasier says nothing.  He stares through Bulldog and starts setting up for the show.  Roz ducks into her booth._",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "Come on, [_slaps Frasier's backside_] say it: Bulldog's the best. [_no response_] OK, OK, how \ufffdbout the bitch dance I taught you? [_giggles, still nothing_] Well, at least give me one up high! _He raises his hand up for a high-five.  Frasier grabs his wrist, twists his arm behind his back, and pushes him out of the booth._",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "Come on - oh, come on, don't leave me hanging, Doc!  Where's your Halloween spirit? _Frasier shuts the door in his face and sits at his console.  Bulldog re-enters, hand still raised._",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "Don't worry, it'll be here waiting for you. _He leaves.  Frasier gets up and stalks into Roz's booth, stamping each word out of cold steel._",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "For the record, I knew immediately it was not my car.  Mine has a bumper sticker on it that says, \"I AM PRO OPERA AND I VOTE!\"",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Frasier, you've got to admit, it was clever.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I admit nothing.  That is the last we shall discuss of it, we have a show to do.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "OK. _Frasier goes on the air.  As he speaks, he removes some books from his briefcase and starts flipping through them._",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Good afternoon, Seattle, and welcome to the Halloween edition of the Dr. Frasier Crane Show.  Today we will be discussing the topic... of fears.  Are they irrational hindrances, or evolutionary tools?  Hmmm...  the surprising answer, after these words. _He goes to commercial.  But someone has loaded the wrong cart into the player..._",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_on tape; wailing_] My car!  Ohhhh, no - my caaar!  What did they do to you?!  Oh, my bay-beee...! _Frasier glares at Roz, who holds up her hands to show she had nothing to do with it.  Frasier stabs the stop button on the player.  Bulldog re-enters, hand still raised._",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "Whenever you're ready. _He leaves, waving goodbye with his raised hand.  Frasier glares after him as Roz tries to control her laughter.  FADE OUT_ **IS IT OCTOBER 31ST AGAIN?** _Scene Two - The Montana Niles's apartment at the Montana, Halloween night.  Someone is ringing the doorbell insistently and knocking as well. Niles does not answer, instead he just peers through the spy hole. Daphne tiptoes in carrying a bowl.  They both whisper to each other._",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Did you find something?",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Do you think they'll take soy sauce packets? _Niles thinks, then shakes his head.  Gertrude strides in, not knowing why she should keep her voice down._",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Gertrude"
+    },
+    {
+        "speaker": "Gertrude",
+        "text": "Who keeps ringing the doorbell?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Shh!  It's trick or treaters.",
+        "prevSpeaker": "Gertrude",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "OK, they're gone.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Gertrude"
+    },
+    {
+        "speaker": "Gertrude",
+        "text": "Well, why didn't you let them in?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Because someone forgot to get Halloween candy.",
+        "prevSpeaker": "Gertrude",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Although, someone else could have picked it up since she was already in the store.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "But, that would override the duty list that someone insisted on implementing. [_smiles_]",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Gertrude"
+    },
+    {
+        "speaker": "Gertrude",
+        "text": "If this is what you two call a fight, you're not fit to be married.  I once held your father's head underwater, and-",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Shh!",
+        "prevSpeaker": "Gertrude",
+        "nextSpeaker": "Gertrude"
+    },
+    {
+        "speaker": "Gertrude",
+        "text": "Oh, for heaven's sake! [_through the door_] We haven't got any candy, shove off!",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Great, now they know we're here.",
+        "prevSpeaker": "Gertrude",
+        "nextSpeaker": "Gertrude"
+    },
+    {
+        "speaker": "Gertrude",
+        "text": "That is precisely what's wrong with this country, everyone's afraid to stand up to the children.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Jason"
+    },
+    {
+        "speaker": "Jason",
+        "text": "Trick-or-treat!",
+        "prevSpeaker": "Gertrude",
+        "nextSpeaker": "Gertrude"
+    },
+    {
+        "speaker": "Gertrude",
+        "text": "Didn't you hear?  We've got no candy!",
+        "prevSpeaker": "Jason",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_clearly scared_] We can offer you hotel soaps.",
+        "prevSpeaker": "Gertrude",
+        "nextSpeaker": "Jason"
+    },
+    {
+        "speaker": "Jason",
+        "text": "But it's Halloween.  I dress up, you give me candy.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Gertrude"
+    },
+    {
+        "speaker": "Gertrude",
+        "text": "That costume's supposed to be scary?",
+        "prevSpeaker": "Jason",
+        "nextSpeaker": "Jason"
+    },
+    {
+        "speaker": "Jason",
+        "text": "No, is yours? _Niles bites his fingers, afraid of what the boy is stirring in his mother-in-law._",
+        "prevSpeaker": "Gertrude",
+        "nextSpeaker": "Gertrude"
+    },
+    {
+        "speaker": "Gertrude",
+        "text": "Oh, a nice bite into an onion is what that mouth of yours deserves.",
+        "prevSpeaker": "Jason",
+        "nextSpeaker": "Jason"
+    },
+    {
+        "speaker": "Jason",
+        "text": "If you don't have treats, you're going to get a trick.",
+        "prevSpeaker": "Gertrude",
+        "nextSpeaker": "Gertrude"
+    },
+    {
+        "speaker": "Gertrude",
+        "text": "Do your worst!  I'm not afraid of you. [_shuts the door in his face_] Honestly!",
+        "prevSpeaker": "Jason",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "OK, well, maybe I'll go get some candy after all. _He heads toward the door, but freezes when he hears the unmistakable sound of EGGS whapping against the door.  He hears three whaps, then nothing.  He cracks the door and slowly opens it... and jerks backward as a fourth egg hits the door.  He shuts it and walks up the stairs._",
+        "prevSpeaker": "Gertrude",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "OK, I'm going to need my slicker and my squash goggles! **OKAY, WHAT IF THE BALLOON WERE BLUE?** _Scene Three - Caf e Nervosa Roz is sat at a center table.  Frasier comes in with his briefcase. _",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Good morning, Roz.  May I join you?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Sure, Frasier.  Well, I'm glad to see you're not sulking today.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, well, I had a little time to think about it, and I've decided to put Bulldog's prank behind me...",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "That's very mature.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I'm not finished! - by visiting upon him a prank that is ten times more dastardly.  Look at this. _He opens his briefcase and shows her a legal pad, on which he has carefully drawn a picture of a car with a red balloon tied to the antenna.  Roz stares, wondering if she's missing something._",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Looks like a car with a balloon tied to it.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Precisely.  I will tie a red balloon to the antenna of Bulldog's car every time his precious Seahawks- _He flips to the next page of the pad, showing what looks like a football strategy chart, the kind that a coach would draw on a locker room blackboard._",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "-lose a game.  Over time, the conditioned response will become ingrained in his psyche.  Eventually, the mere sight of a red balloon-",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "-will bring about in him an inexplicable sense... _Flip to the last page, showing a picture of Bulldog's face with tears streaming down it, attached to a thought bubble with a red balloon inside it._",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "...of loss. [_drops the pad into his briefcase_] Check-and-mate!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "[_stares for a second, then:_] Isn't that... kind of out there?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "That's the point.  Well, of course, I could go with any one of your basic pranks - hand in warm water, and whatnot - believe me, I have an intimate knowledge of all of them.  But what I'm looking for is something unmistakably ME.  A signature prank, if you will.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Why don't you just forget about revenge and give him his two minutes in the sun?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "What, at my expense?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Look at his life!  You guys used to be equals, now he's stuck downstairs in that dark, musty archives room.  You must have some sympathy for him, don't you?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "\"Dark, musty archives\"...  I think I could use that! _He grabs his legal pad and starts drawing on a fresh page.  Niles, Daphne, and Gertrude come in._",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Hello, all.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Hello, Niles.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Gertrude"
+    },
+    {
+        "speaker": "Gertrude",
+        "text": "Why do we have to stop here?  I could make coffee at home.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Now, now, it's good to get out of the house, get some fresh air, exercise those lungs.",
+        "prevSpeaker": "Gertrude",
+        "nextSpeaker": "Gertrude"
+    },
+    {
+        "speaker": "Gertrude",
+        "text": "My lungs are as strong as ever.  Just yesterday, I finished a whole cigarette in two drags. [_off their shocked looks_] One off me record!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "[_sees Frasier's pad_] What's this?",
+        "prevSpeaker": "Gertrude",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I'm devising the ultimate prank, to get my revenge on Bulldog.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Ah, well just beware the dangers of juvenile one-upsmanship. Only last night, Mrs. Moon challenged a trick-or-treater, and he responded by pelting our door with eggs.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Gertrude"
+    },
+    {
+        "speaker": "Gertrude",
+        "text": "Yeah, but I got the little monster back, by putting a big, greasy glob of Vaseline on his doorknob! _Frasier chuckles with her, but Niles and Daphne are appalled. Clearly, they didn't know about this._",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "You said you'd put an end to it!",
+        "prevSpeaker": "Gertrude",
+        "nextSpeaker": "Gertrude"
+    },
+    {
+        "speaker": "Gertrude",
+        "text": "Hence the Vaseline.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Mum, he's a child!",
+        "prevSpeaker": "Gertrude",
+        "nextSpeaker": "Gertrude"
+    },
+    {
+        "speaker": "Gertrude",
+        "text": "Well, it's time he learned you don't mess with Gertrude Moon without incurring my wrath.  Now, excuse me, I require cocoa.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You know, I think she has the right attitude.  If I expect Bulldog to leave me alone, I've got to show him that he's dealing with a superior intellect.",
+        "prevSpeaker": "Gertrude",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Show them the balloon car. _Frasier glares at her, then drops the pad into his briefcase and primly snaps it shut._",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I'm sure Da Vinci's early notes were full of laughs too! [_gets up_] Excuse me, I have devising to do! _At the counter, Gertrude receives her cocoa from the Barista (the same unflappable one from[[9.19]](/frasier/transcripts/season_9/episode_19/deathtrap.html) \"Deathtrap\"), who then refers to a bill. _",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Barista"
+    },
+    {
+        "speaker": "Barista",
+        "text": "That'll be... $32.03.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Gertrude"
+    },
+    {
+        "speaker": "Gertrude",
+        "text": "For one drink?!",
+        "prevSpeaker": "Barista",
+        "nextSpeaker": "Barista"
+    },
+    {
+        "speaker": "Barista",
+        "text": "Your grandson ordered a bunch of cakes, and he said it was all on you. _He points over her shoulder.  She turns and sees Jason, laden with BAGS and grinning._",
+        "prevSpeaker": "Gertrude",
+        "nextSpeaker": "Jason"
+    },
+    {
+        "speaker": "Jason",
+        "text": "Thanks for the treats, Grandma! _He runs out, with a livid Gertrude in hot pursuit.  Daphne and Niles moan and droop in their seats.  FADE TO:  Scene Four - The Montana Back to Niles's apartment.  Gertrude comes in, cackling to herself.  She's wearing heavy gloves and an oil-stained mechanic's smock, carrying a BICYCLE'S FOOT PEDAL ASSEMBLY, with the chain still dangling from it._",
+        "prevSpeaker": "Barista",
+        "nextSpeaker": "Gertrude"
+    },
+    {
+        "speaker": "Gertrude",
+        "text": "Oh, let's see the little sod get to school without these. Oh, this should settle it! _She goes to her room, laughing evilly... not noticing the HUGE GOB OF SHAVING CREAM dripping out of the air vent above the hallway.  FADE TO:_ **STORAGE ROOM OF TERROR**  [_Over the black screen we hear the boom of thunder, and the screen flashes white two times._] _Scene Five - KACL Storage Room The storage room in the basement of KACL where Bulldog now works. It is pitch dark.  Martin slowly opens the door from the stairwell and comes in hesitantly._",
+        "prevSpeaker": "Jason",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Is anybody there? _FOUR ZOMBIES rise from behind the stacked boxes and stagger towards him._",
+        "prevSpeaker": "Gertrude",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_acting_] Oh, zombies... the living dead.  Help, help!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Everyone, hold please. _The lights come up.  The four zombies - three men and one woman - are actors, wearing tattered costumes and cadaver makeup.  Frasier is standing in the corner of the room, behind a viewing screen on a tripod.  The screen is connected to a camera mounted in a corner of the ceiling.  Wires crisscross the floor, connected to the screen and other film set devices.  Roz comes down the stairs and stands next to Martin._",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Zombie Number Two, what are you doing?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Zombie 2"
+    },
+    {
+        "speaker": "Zombie 2",
+        "text": "I'm scaring Bulldog?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I see.  Is that what zombies do, they scare people?",
+        "prevSpeaker": "Zombie 2",
+        "nextSpeaker": "Zombie 2"
+    },
+    {
+        "speaker": "Zombie 2",
+        "text": "Um...",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Wrong.  They eat brains, and THAT'S what scares people.  Now, look, this is our dress rehearsal, let's please try to get this right.  Bulldog comes in, he hears noises, zombies go after his brain, and his terror is caught on videotape for us all to enjoy at a later date.  Now, let's try this again. First marks, please.",
+        "prevSpeaker": "Zombie 2",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh, jeez, Fras, this is the fourth time through.  Can somebody else play Bulldog now?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Dad, you said you would help me with this.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well, that's because you said we were gonna do a practical joke.  I thought it would be fun.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Whatever gave you that idea? [_to one of the actors_] Todd, I am getting \"dead\" from you.  But I am not getting \"undead.\"",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Todd"
+    },
+    {
+        "speaker": "Todd",
+        "text": "[_bored_] Still?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Let's try this then.  After rehearsal, I want each of you to write a paragraph detailing who your character was when he or she was alive, how they died, and why they're now after Bulldog's brain.",
+        "prevSpeaker": "Todd",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Honestly, Roz, you know, you haven't given me much to work with here.  These are the worst actors I've ever seen.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "[_annoyed_] Well, I'm sorry, but the Royal Zombie Company just left town with its all-zombie production of \"Hamlet\"!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "How many more times are we going to do this?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Why is it that whenever Bulldog pulls off a practical joke, you all applaud him, as if he'd won some sort of bowl or cup or other sports dish?  But when I ask you to give up a single Sunday, all I get is complaints?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well, because you keep turning it into work!  This is supposed to be fun!  Like a day at the beach!  Oh, you do this kind of thing all the time.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Like when?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well, the last time we went to the beach!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "A lot of people bring rakes!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Look, Frasier, it's not too late to back out of this.  Face it, jokes just aren't your specialty.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "What is that supposed to mean?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well, what she means, son, is that we all have our different blessings.  And Bulldog's good at jokes and fun, and you're good at... reading, and, uh... telling people about the things you read.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Are you saying that you think I can't pull this off?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Oh, I wouldn't put it that way.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "I would.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "But I've worked this out to the last detail, nothing can go wrong!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Everything's gonna go wrong!  For one thing, Bulldog's gonna know something's up, \ufffdcause Kenny hardly ever makes him work at night!  And then look at all these cameras and all these wires, I mean, what if he spots these?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "And the zombies, as soon as he sees them he's gonna know it's a prank, because he just pranked you! [_composure cracks_] _And there are no such things as zombies!!!_",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You, sir... are released!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_to Roz_] And you as well! _She leaves, following Martin up the stairs.  Frasier sticks his head through the door and yells up the stairs._",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I'll pull this thing off by myself, proving you don't know what you're talking about!  I don't need any of you!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Wait, zombies, I do need you! [_up the stairs_] But no one else! I'll show all of you!  You mark my words, tomorrow night I get my revenge! _As if to mark his point, a crack of thunder comes from one of the machines sitting on a box, which then starts to blow misty smoke._",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Ah, good, the effects machine's working again. [_claps hands_] All right, everyone, back to your first marks. _The zombies wearily resume their places as Frasier returns to the camera._ [_N.B. Kelsey Grammer is no doubt perfectly familiar with all this equipment by now, having directed many episodes himself._] _END OF ACT ONE  ACT TWO  Scene Six - The Montana At Niles's apartment, Gertrude is pacing in the living room when someone knocks on the door.  She opens it to a Courier._",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Gertrude"
+    },
+    {
+        "speaker": "Gertrude",
+        "text": "Where have you been?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Courier"
+    },
+    {
+        "speaker": "Courier",
+        "text": "I'm sorry, I had a hard time finding this place.  I checked the directory for \"Crane,\" but it had \"Old Bat\" next to this apartment number.",
+        "prevSpeaker": "Gertrude",
+        "nextSpeaker": "Gertrude"
+    },
+    {
+        "speaker": "Gertrude",
+        "text": "[_to herself_] A little obvious, but not bad.",
+        "prevSpeaker": "Courier",
+        "nextSpeaker": "Gertrude"
+    },
+    {
+        "speaker": "Gertrude",
+        "text": "I want you to deliver this \"Baby-I-Have-To-Tinkle\" doll to Jason White, Floyd Middle School. [_gives him a paper_] This is the address.  I mean, he should be in gym class about now.",
+        "prevSpeaker": "Gertrude",
+        "nextSpeaker": "Courier"
+    },
+    {
+        "speaker": "Courier",
+        "text": "I don't think I'm allowed to just walk into his school, ma'am.",
+        "prevSpeaker": "Gertrude",
+        "nextSpeaker": "Gertrude"
+    },
+    {
+        "speaker": "Gertrude",
+        "text": "No, it's OK.  I'm his grandmother. [_points to the paper_] And you have to say this.",
+        "prevSpeaker": "Courier",
+        "nextSpeaker": "Courier"
+    },
+    {
+        "speaker": "Courier",
+        "text": "[_reading_] \"Your mommy said, bring this to you at school to lift your spirits.  See?  A dolly has accidents too.\"  You really want me to say that?",
+        "prevSpeaker": "Gertrude",
+        "nextSpeaker": "Gertrude"
+    },
+    {
+        "speaker": "Gertrude",
+        "text": "Yes, and very loudly.  The poor thing's hard-of-hearing.",
+        "prevSpeaker": "Courier",
+        "nextSpeaker": "Gertrude"
+    },
+    {
+        "speaker": "Gertrude",
+        "text": "[_raises both fists_] Yes! **TALES FROM THE CRYPT** _Scene Seven - KACL Frasier is sitting in his booth, which has been modified to a director's booth.  On a small television is a black-and-white image from the ceiling-mounted camera in the basement.  Frasier is wearing a headset radio, and also has a control panel in front of him._",
+        "prevSpeaker": "Gertrude",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Todd, take off that baseball cap.  You're undead, not uncouth. _On the screen, Todd removes his baseball cap and signals acknowledgement at the camera.  Behind Frasier, Martin and Roz enter the booth._",
+        "prevSpeaker": "Gertrude",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "All right, everyone, step lively, look sharp.  It's almost showtime.  Give me a final room tone check, please, and... take your marks.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Hey, Fras.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well... hello.  You've come to watch me fail, I suppose.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "No, we just want to come join you.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Yeah, we're sorry about that stuff we said yesterday.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Yeah, we came to see you have your day.  It's long overdue.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Maybe I don't want you here.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "What do you mean?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You abandon me in my hour of need, now you're here to revel in my success, just like in Boswell's \"Life of Johnson.\"",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "What?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "It was something-I-read.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "I guess we deserved that - whatever the hell it means.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Come on, Frasier, we're sorry.  Just let us watch.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "All right, apology accepted.  You may observe - in silence. Make yourselves comfortable. _They stand behind him, eyes on the screen - and struggling to hide their smiles.  Frasier focuses evilly on the screen, looking for all the world like Dr. Frankenstein as he manipulates his control panel._",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "And prepare to witness a man brought to the very edge of",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_in Roz's ear_] I think he's already there. _FADE TO:  Scene Eight - The Montana Gertrude is reading on the couch.  Niles and Daphne come down, dressed for an evening out._",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Mum, we're off to the symphony.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Gertrude"
+    },
+    {
+        "speaker": "Gertrude",
+        "text": "Haven't the Germans punished us enough? _Niles opens the door - and a GARBAGE CAN that was leaning against the door tips inside, spilling trash all over the floor._",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Niles/Daphne"
+    },
+    {
+        "speaker": "Niles/Daphne",
+        "text": "Oh!/Bloody hell!",
+        "prevSpeaker": "Gertrude",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Where did this come from?",
+        "prevSpeaker": "Niles/Daphne",
+        "nextSpeaker": "Gertrude"
+    },
+    {
+        "speaker": "Gertrude",
+        "text": "[_innocently_] Oh, you must have crossed someone.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "[_not fooled_] Mother...",
+        "prevSpeaker": "Gertrude",
+        "nextSpeaker": "Donald"
+    },
+    {
+        "speaker": "Donald",
+        "text": "Oh my God!  I'm so sorry!  We were just coming down the hall, and we saw you open your door.  This is our trash can!",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "What was it doing there?",
+        "prevSpeaker": "Donald",
+        "nextSpeaker": "Beverly"
+    },
+    {
+        "speaker": "Beverly",
+        "text": "[_out into the hall_] Jason, get back here! [_to Niles_] It seems our children have been feuding.  We're very embarrassed.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "You're embarrassed?  Meet our daughter. _He motions into the room.  The Whites are somewhat taken aback to see a sixtyish woman sitting there._",
+        "prevSpeaker": "Beverly",
+        "nextSpeaker": "Gertrude"
+    },
+    {
+        "speaker": "Gertrude",
+        "text": "[_waves cheerfully_] Hello!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Jason"
+    },
+    {
+        "speaker": "Jason",
+        "text": "I have a lot of homework...",
+        "prevSpeaker": "Gertrude",
+        "nextSpeaker": "Beverly"
+    },
+    {
+        "speaker": "Beverly",
+        "text": "Stay!",
+        "prevSpeaker": "Jason",
+        "nextSpeaker": "Donald"
+    },
+    {
+        "speaker": "Donald",
+        "text": "Jason, have you been fighting with this woman?",
+        "prevSpeaker": "Beverly",
+        "nextSpeaker": "Jason"
+    },
+    {
+        "speaker": "Jason",
+        "text": "Well, she broke my bike and made me have to see a counselor at school! _Now Donald and Beverly look appalled, and Gertrude is the one on the spot._",
+        "prevSpeaker": "Donald",
+        "nextSpeaker": "Gertrude"
+    },
+    {
+        "speaker": "Gertrude",
+        "text": "[_gets up_] I think I left something in the kitchen...",
+        "prevSpeaker": "Jason",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Stay!",
+        "prevSpeaker": "Gertrude",
+        "nextSpeaker": "Gertrude"
+    },
+    {
+        "speaker": "Gertrude",
+        "text": "I am an adult!  I can do anything I want! [_stamps her foot_]",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "No.  While you're living under our roof, you'll follow our rules.",
+        "prevSpeaker": "Gertrude",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "You two should be ashamed of yourselves.  What if someone got hurt?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Jason"
+    },
+    {
+        "speaker": "Jason",
+        "text": "Good.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Beverly"
+    },
+    {
+        "speaker": "Beverly",
+        "text": "Jason!  You are one step away from losing your broadband connection.  Now apologize and shake hands.",
+        "prevSpeaker": "Jason",
+        "nextSpeaker": "Gertrude"
+    },
+    {
+        "speaker": "Gertrude",
+        "text": "[_putting her arms on her hips_] Pish.",
+        "prevSpeaker": "Beverly",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "What if I told you you couldn't smoke your pipes in your room anymore?",
+        "prevSpeaker": "Gertrude",
+        "nextSpeaker": "Gertrude/Jason"
+    },
+    {
+        "speaker": "Gertrude/Jason",
+        "text": "[_mumbling_] I'm sorry.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Now, you two are going to clean up this mess.",
+        "prevSpeaker": "Gertrude/Jason",
+        "nextSpeaker": "Beverly"
+    },
+    {
+        "speaker": "Beverly",
+        "text": "And Jason, come straight home when you're finished.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "And this place better be spotless by the time we get back. _She steps out the door.  Niles stops and points a warning finger at both of them, before following her._",
+        "prevSpeaker": "Beverly",
+        "nextSpeaker": "Jason"
+    },
+    {
+        "speaker": "Jason",
+        "text": "I wish I was all grown-up, and I wouldn't have to follow their stupid rules!",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Gertrude"
+    },
+    {
+        "speaker": "Gertrude",
+        "text": "Oh, nothing changes, trust me.",
+        "prevSpeaker": "Jason",
+        "nextSpeaker": "Jason"
+    },
+    {
+        "speaker": "Jason",
+        "text": "You know... my mom hates bugs.  She screams like a girl.",
+        "prevSpeaker": "Gertrude",
+        "nextSpeaker": "Gertrude"
+    },
+    {
+        "speaker": "Gertrude",
+        "text": "[_elbows him_] So does my son-in-law!",
+        "prevSpeaker": "Jason",
+        "nextSpeaker": "Jason"
+    },
+    {
+        "speaker": "Jason",
+        "text": "I know where we can find some crickets.",
+        "prevSpeaker": "Gertrude",
+        "nextSpeaker": "Gertrude"
+    },
+    {
+        "speaker": "Gertrude",
+        "text": "No!  Now, we should do as we're told, and start cleaning up.",
+        "prevSpeaker": "Jason",
+        "nextSpeaker": "Jason"
+    },
+    {
+        "speaker": "Jason",
+        "text": "OK.",
+        "prevSpeaker": "Gertrude",
+        "nextSpeaker": "Gertrude"
+    },
+    {
+        "speaker": "Gertrude",
+        "text": "That way, they won't be expecting it! _She and Jason laugh as they start to pick up the garbage.  FADE TO:_ **NO ZOMBIES WERE HARMED IN THE FILMING OF THIS EPISODE** _Scene Nine - KACL Frasier is still at his console.  By now, Kenny has joined Martin and Roz behind him, and all three of them are twitching with excitement._",
+        "prevSpeaker": "Jason",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "This is so great!  I can't wait!  I'm getting goose bumps! [_holds out his arm and rolls up his sleeve_] Feel me, feel me!",
+        "prevSpeaker": "Gertrude",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Kenny, what was the condition of my letting you watch? _Kenny puts a finger to his lips and retreats to the back.  On the screen, Bulldog comes into the storage room._",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "There he is.  Cue creaking noise one... [_presses a button on the panel_] _CUT TO: the Storage Room As before, the room is dimly lit.  But unlike the rehearsal scene, here the effect is genuinely eerie - even more so when Bulldog hears a soft creaking noise._",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "Hello?  Who's there?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Cue creaking noise two. [_presses another button_] _CUT TO: Storage Room  Bulldog hears another creaking noise, louder and yet more distant. He looks around nervously.  CUT TO: Booth_",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Now, let the horror begin... [_presses another button_] _CUT TO: Storage Room:  The zombies rise from behind the boxes and stagger towards Bulldog.  He gives a yelp of terror and backpedals.  CUT TO: Booth  Roz, Martin, and Kenny laugh, as Frasier glows with evil triumph._",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes!  How do you like that, ya big baby! [_laughs_] _CUT TO: Storage Room  Bulldog screams as the zombies corner him against a wall.  He reaches down, rips through a cabinet, and holds up a REVOLVER._",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "Get back! _CUT TO: Booth  Frasier and the others look at the screen, suddenly shocked, hearing Bulldog's yelling - and then a GUNSHOT!  On the screen, they see Todd collapse onto his back._",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "OH MY GOD!  OH MY GOD! [_tears off his headphones and rushes out_] CALL 9-1-1, CALL 9-1-1! _Kenny grabs the phone and dials frantically - but as soon as Frasier is gone, Roz starts laughing._",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Don't worry about it, Kenny!  It's just a joke!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "What are you talking about?!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "It's a fake gun!",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "What?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "It's-a-fake-gun!",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "[_still unsure_] What about the bullets?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "It's a joke!  Bulldog found out about Frasier's prank, so we set him up!",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "[_laughing_] That is awesome!  I can't believe he fell for it!",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Come on, we got to go tell Frasier what's going on!",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "You guys go ahead... [_Roz and Martin run out_] I think I'm gonna stay here and puke. _CUT TO: Storage Room As the other three zombies flee the room, screaming, Todd lies on his back on the floor.  Bulldog still has the gun when Frasier comes tearing in.  Roz and Martin are right behind him, followed shortly by Kenny._",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Stop!  Stop!  It was all a joke!  Oh my God, what have I done?!",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "What's the big deal, he was already a zombie! [_laughs_]",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Are you insane?!  Call an ambulance! _Todd bolts up and grabs Frasier, making him yell and jump.  Bulldog, Martin, Roz, and Kenny laugh uproariously._",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "What is going on here?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "[_points_] Wave to the camera, Frasier!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "What?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "Got you again, all on tape.  Who's the king? _There's laughter all around, except from Todd, who gets up and leans back against the wall, staggering slightly._",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "That isn't funny, I could have had a heart attack!",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh, sorry, Fras, we just couldn't resist.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, at least nobody was hurt.  You bested me, Bulldog, again! _Todd steps forward, reaching behind his back with his hands as if trying to scratch._",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Todd"
+    },
+    {
+        "speaker": "Todd",
+        "text": "Dr. Crane, I think I hurt my back...",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "What? _Todd suddenly collapses forward, showing a SCISSORS HANDLE sticking out of his back.  Everyone GASPS.  ALL SCREAMING:_",
+        "prevSpeaker": "Todd",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "OH MY GOD!!!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "WHAT HAVE WE DONE?!",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "SOMEONE CALL AN AMBULANCE!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "WHERE'S THE PHONE?!  WHERE'S THE PHONE?!",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Roz, get the first aid kit out of the closet!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "OK!  OK! [_runs over_]",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "No, no, not the-! _Roz opens the closet and SHRIEKS as she sees Noel hanging inside the door by a MEAT HOOK impaled through his bloody chest._",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "_WHAT THE HELL'S GOING ON DOWN HERE?!?!_ ",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Quiet, quiet, everybody! [_into phone_] Hello?  Yes, I'd like to report... THE GREATEST PRACTICAL JOKE EVER!  You'd better send a fire truck, because you guys just got BURNED!  AH-HA-HA-HA- HA-HA-HAAAAAA! _Frasier and Bulldog laugh while everyone else stares at them, open- mouthed._",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Wait, what?!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Noel"
+    },
+    {
+        "speaker": "Noel",
+        "text": "[_looking up_] Hi, Roz!",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "You should see the look on your faces!  This is truly a classic!",
+        "prevSpeaker": "Noel",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "This was all just a joke?",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "Awesome!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "Nice work, Doc.",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Likewise, Bulldog. [_they shake hands_]",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Todd"
+    },
+    {
+        "speaker": "Todd",
+        "text": "You think I can get a copy of this for my demo reel?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_pats him on the shoulder_] Sure thing, Todd.  You've come a long way in a short time, young man. _As Todd walks out, Martin plucks the scissors out of the foam pad underneath his jacket.  The blades were splayed out so as to flatten against his back instead of pointing in._",
+        "prevSpeaker": "Todd",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well, Frasier, I'm speechless!  You totally had us going!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "I can't believe it!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Admit it, Roz, can I pull off a practical joke, or what?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "I just don't understand it, you guys worked together?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "Yeah, Frasier set the whole thing up.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "The other day, after you two left, I got to thinking maybe my joke was aimed at the wrong target.  That's when Bulldog and I joined forces!",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "But we joined forces with him to get you!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "That's exactly what you were supposed to think!",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Wow, Fras, I got to give it to you - this was brilliant!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Thank you, Dad.  What do you say we all go upstairs and watch the tape, huh? _Everyone agrees enthusiastically and runs upstairs.  Bulldog stays behind to get his jacket from the closet._",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "All right, you guys go ahead.  Bulldog?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "Yeah?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Technically, I still owe you one",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "Face it, Doc, you will never win. [_to Noel, who is still hanging on the door_] Good work, Noel. _Bulldog closes the closet door (replacing Noel inside) and puts on his jacket._",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "That's why you had to join forces with me.",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "Huh?",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You're right.",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "All right. _Bulldog heads up the stairs, totally unaware of the \"I'M PRO OPERA AND I VOTE\" sticker affixed to the back of his jacket.  Frasier chuckles deviously to himself and follows him up._",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Credits"
+    }
+]

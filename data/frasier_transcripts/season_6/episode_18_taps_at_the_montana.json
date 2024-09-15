@@ -1,0 +1,1689 @@
+[
+    {},
+    {
+        "speaker": "Martin",
+        "text": "Hey boys, how was dinner?",
+        "prevSpeaker": "No Previous Speaker",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, let's just say when I picked my lobster out of the tank I had no idea that he was in for a better evening than I was.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "What happened?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, it started off well enough.  First they seated us at a superb table, much better than the one next to us - where, unfortunately, they sat Daphne and Donny.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh, jeez.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "They were being very affectionate, of course: whispering, laughing, holding hands...",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "This in a place where people were trying to eat.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, in an attempt to make things better I suggested that Niles and I switch seats so that he could face the other table.  Of course, only moments later they seated Maris there with _her_ new boyfriend.  Also being affectionate.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Grooming each other like spider monkeys!  She was deliberately taunting me, playing the same coquettish games we used to play in restaurants: batting her eyes and coyly hiding behind her breadstick.  And then to top it all, the Pouille Fousse we ordered was a grave disappointment.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, well I urged him to send it back, but no, he didn't want to create a scene in front of Daphne.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Not that she would have even noticed, the way Donny was feeding her forkfuls of risotto, as if she had lost her arms instead of her mind, what is she doing with him?!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well, some days it doesn't pay to get out of bed.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well, at the Shangri-La, the highlight of my day is getting out of bed, so I can slam it back up into the wall!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "How long are you gonna stay there?  You can afford to go back to the Montana now, can't you?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Yes, but thanks to Frasier there's a tenant living there!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "May I remind you that you begged me to find you a sublet - Someone austere and dignified enough not to offend your starchy neighbors?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Frasier, I'm not trying to blame you, it's just that my whole world has crashed down around me and I want to go home.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, I'm sorry Niles, he's still got two months left on his sublet.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Can't you give him a call, lean on him a little bit?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Dad, the man has a lease, I can't very well call him up and ask him to move out. ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "How was dinner?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Wonderful. [_to the brothers_] You should have come over and joined us.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh well, it looked like that you had enough to contend with, what with your [_sotto voce_] table's fork shortage.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Oh, Donny takes such good care of me.  You know, after you left, I made the tiniest comment about not liking the Pouille Fousse and he sent it back.  That snooty wine steward argued with him but Donny made a bit of a scene with the owner and the next thing you knew, our entire meal was on the house. [_laughs_] I've never been prouder of him. _She exits.  Niles falls against the arm of the couch with a pathetic whine._ ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Frasier, I wanna go home.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_picks up phone_] I'll call Dr. MacLowery. **TAPS AT THE MONTANA**  _Scene Two - Niles's Apartment. In the hallways of the Montana, Niles and Frasier are standing outside his apartment.  Mrs. Latimer comes to greet him._ ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Latimer"
+    },
+    {
+        "speaker": "Latimer",
+        "text": "Dr. Crane, you're back.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Yes, Mrs. Latimer.  Fortunately my sublet was able to move out early.",
+        "prevSpeaker": "Latimer",
+        "nextSpeaker": "Latimer"
+    },
+    {
+        "speaker": "Latimer",
+        "text": "I trust your tour was a success?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "A triumph.",
+        "prevSpeaker": "Latimer",
+        "nextSpeaker": "Latimer"
+    },
+    {
+        "speaker": "Latimer",
+        "text": "Good, take care. _Mrs. Latimer leaves as Frasier processes the conversation between her and Niles._ ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Tour?",
+        "prevSpeaker": "Latimer",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I could hardly let these people know where I was living. [_presses doorbell_] I told them I was on a lecture tour of Africa so they wouldn't try to contact me.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Ah! [_then_] You know, Niles, maybe he isn't here.  Maybe we should just let ourselves in.  _Frasier opens the door and he steps in with Niles.  Niles is taken aback by seeing his home again._ ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh... I'm home.  Oh, I can already feel the last four months dropping away.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, soon Africa will be just a memory.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I just want to close my eyes, [_does_] and savor the serenity...  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "What the hell is that?! _Dr. MacLowery comes onto the scene tap-dancing, with headphones on, and sails down the banister._ ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "It's Dr. MacLowery!  ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Dr. MacLowery!  What are you doing?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "MacLowery"
+    },
+    {
+        "speaker": "MacLowery",
+        "text": "[_takes off his headphones_] Oh, that was a ball change, leading to a riff drop.  You've got to \"Lick it & Stick it.\"  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "When did you take up tap dancing?",
+        "prevSpeaker": "MacLowery",
+        "nextSpeaker": "MacLowery"
+    },
+    {
+        "speaker": "MacLowery",
+        "text": "Oh, years ago.  I figured if I didn't dance, I'd go crazy. _Then he begins tap-dancing again, fluttering his arms wildly, and then dancing all over the room like a mental patient._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I'm not sure he caught it in time. _MacLowery then takes a run-up and does that little trick where you jump on the chair and tip it over.  Niles screams at this.  Then MacLowery does a step routine that involves kicking the toes of his tap shoes against the little step below the dining table._ ",
+        "prevSpeaker": "MacLowery",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Ooh, baseboard, baseboard!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Dr. MacLowery, please - the neighbors!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "MacLowery"
+    },
+    {
+        "speaker": "MacLowery",
+        "text": "Tell me about it!  Why, those bunch of sourpusses.  All they do is complain! [_then_] Sunshine-rain!  _MacLowery taps into the kitchen.  The doorbell sounds.  Niles opens the door to Alfred & Carol Larkin [_last seen in \"To Kill A Talking Bird\"_] and Mr. Probst._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh well, look who it is, it's the tenants' board come to welcome me home.  Carol and Alfred Larkin, you remember my brother, Frasier.  Oh, and Mr. Probst.",
+        "prevSpeaker": "MacLowery",
+        "nextSpeaker": "Probst"
+    },
+    {
+        "speaker": "Probst",
+        "text": "See here, Crane.  We abhor noise in this building.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, I couldn't agree more.  ",
+        "prevSpeaker": "Probst",
+        "nextSpeaker": "Alfred"
+    },
+    {
+        "speaker": "Alfred",
+        "text": "What do you call that?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I believe that was \"Lick it & Stick it\"!",
+        "prevSpeaker": "Alfred",
+        "nextSpeaker": "Carol"
+    },
+    {
+        "speaker": "Carol",
+        "text": "This has been going on for months.  We would have contacted you if we had known how to.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well, I am sorry but Dr. MacLowery....",
+        "prevSpeaker": "Carol",
+        "nextSpeaker": "Alfred"
+    },
+    {
+        "speaker": "Alfred",
+        "text": "Dr. Crane, I'm afraid the board is leaning toward rescinding your lease.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "What?  Why?",
+        "prevSpeaker": "Alfred",
+        "nextSpeaker": "Probst"
+    },
+    {
+        "speaker": "Probst",
+        "text": "Because you're a menace, Crane.  You always have been.  You have something of a reputation in this building, what with all the raucous parties you've hosted.  I'm not a well man. I have a serious heart problem and I demand quiet, we all do.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well, Mr. Probst, I assure you...",
+        "prevSpeaker": "Probst",
+        "nextSpeaker": "Probst"
+    },
+    {
+        "speaker": "Probst",
+        "text": "Uh-uh.  We're having a board meeting tomorrow evening in which we intend to discuss your situation, and if I were you I wouldn't plan on unpacking.  ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Carol"
+    },
+    {
+        "speaker": "Carol",
+        "text": "Nice seeing you again.  _Niles closes the door.  FADE TO:  Scene Three - Niles's Apartment. It is the evening of the meeting and everyone is milling about. Frasier, Daphne and Niles are at the front.  Daphne is tending to the punch._ ",
+        "prevSpeaker": "Probst",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "It was good of you to go to all this trouble for your brother, Dr. Crane.",
+        "prevSpeaker": "Carol",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh well, in a way I felt responsible.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, really?  I don't why.  Just because you sublet my apartment to Bo Jangles the Loon?  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Ooh!  I'll get it. [_she does_]",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Niles, will you relax?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "How can I?  In an hour these people will throw me right out of my home.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Which they won't do if you show them a good time at this little reception.  A couple of drinks, some food, some witty conversation, they'll realize what an asset you are to this building.  _Daphne brings over Roz and Martin.  Daphne takes some drinks to the guests as Roz goes forward to the brothers._ ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Hey, guys.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Hey, Roz.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Hi, Roz.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "[_sarcastic, looking at old people_] Great party, Niles!  I was a little surprised to get your last-minute invitation.  You're not trying to set me up with anybody, are you?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_laughs_] Don't be ridiculous.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Good.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "You're here because the caterer cancelled. [_takes her coat_] Now listen, I need you to open the wine, cut up some limes and hang up this coat.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "[_peeved_] You actually think that I'm so hard-up for a night out that I'd spend an evening pushing drinks in \"God's Waiting Room\"?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Shush!",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Roz, please!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "You're paying for the babysitter.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "All right, done.  ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "What am I, the dishwasher?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No, Dad, you were invited because... well, it just wouldn't be a party without you.  Although there may be a few women here who are unattached, who might just take a shine to an old debonair dog like yourself.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "I'm just a piece of meat to you guys, aren't I?  _Martin wanders off as Daphne comes back.  Her earring falls off and down her front._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Oh, there goes that damn loose earring again!  Thank goodness it didn't fall in the punch bowl.  We don't want someone choking on it, do we?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, although nothing says \"party\" like a tracheotomy.  ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Carol"
+    },
+    {
+        "speaker": "Carol",
+        "text": "You must tell us all about your African tour, Dr. Crane.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Alfred"
+    },
+    {
+        "speaker": "Alfred",
+        "text": "[_sarcastic_] Yes, did the local people actually enjoy your lectures?",
+        "prevSpeaker": "Carol",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well yes, quite a bit.  Except of course for the pygmies. Most of it went right over their heads. _Niles laughs but the joke falls silent on the rest.  The doorbell sounds._",
+        "prevSpeaker": "Alfred",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I'll get it.  ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, the rest of the board, pleased to see you.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Latimer"
+    },
+    {
+        "speaker": "Latimer",
+        "text": "Dr. Crane, while you were on the subcontinent did you happen to spot any rare African water fowl?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Just one, but it was already spotted!  ",
+        "prevSpeaker": "Latimer",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_responding to nothing_] I'll get it.  _Niles exits to the kitchen where he finds his pet bird, Baby, nibbling the food.  Frasier is shooing it._ ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "For God's sake, Niles, will you do something with this damn bird?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Onto your perch. [_picks her up and puts her on her perch_] Here you go.  Over here.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Baby"
+    },
+    {
+        "speaker": "Baby",
+        "text": "Niles sucks.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "The boys at the Shangri-La used to love teaching you things like that.  So tiring.",
+        "prevSpeaker": "Baby",
+        "nextSpeaker": "Baby"
+    },
+    {
+        "speaker": "Baby",
+        "text": "Bite me, Niles.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Right back at you.  Frasier, please hurry with the hors d'oeuvres, the guests are already hostile towards me. I'm not going to win any points by starving them.",
+        "prevSpeaker": "Baby",
+        "nextSpeaker": "Baby"
+    },
+    {
+        "speaker": "Baby",
+        "text": "Stuff it, Niles.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, don't tempt me!  ",
+        "prevSpeaker": "Baby",
+        "nextSpeaker": "Latimer"
+    },
+    {
+        "speaker": "Latimer",
+        "text": "Dr. Crane.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Yes.",
+        "prevSpeaker": "Latimer",
+        "nextSpeaker": "Latimer"
+    },
+    {
+        "speaker": "Latimer",
+        "text": "Who is that distinguished-looking man over there?  _We see that it's Martin covering him face with a gardening book. He looks nervous._ ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Latimer"
+    },
+    {
+        "speaker": "Latimer",
+        "text": "I've been trying to catch his eye but he's far too engrossed in that gardening book.",
+        "prevSpeaker": "Latimer",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well, that's actually my father, Martin.  Dad? [_no response_] Don't mind him, he's painfully shy.",
+        "prevSpeaker": "Latimer",
+        "nextSpeaker": "Latimer"
+    },
+    {
+        "speaker": "Latimer",
+        "text": "Oh, I know just how he feels.  I'm a bit of a shrinking violet myself. [_calls loudly_] Martin!  _She walks off to him as Roz comes to meet Niles at the same time Frasier does._ ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Do you see that obnoxious old lecher?",
+        "prevSpeaker": "Latimer",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well, you're going to have to be a lot more specific.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "The one in the blue jacket, I'm this close to slapping him.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Wait, wait, wait, that is Mr. Hawkins.  He is the vice- president of the tenants' board.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Well, I don't care who he is, he just pinched me.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Roz, please, the man is eighty and arthritic.  How hard can he pinch?  ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Ow!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "It's not working.  People aren't talking, they're not mixing....",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Niles!  Stop it, stop it.  The party's just starting, everything's going to be just fine.  ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Don't you touch me!  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Daphne, how are those other...",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Baby?  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, dear God! [_feels it_] This bird is dead.  How did this happen?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "She must have eaten some of the hors d'oeuvres.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You mean the ones I've just served to Niles's guests?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_entering talking to someone outside_] You are very welcome!  _Frasier quickly covers the bird with a cloth before Niles turns around.  Niles is smiling.  Daphne and Frasier, however, are horrified._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Frasier, I'm so sorry, I completely overreacted.  People really perked up once they saw those appetizers of yours. You know, I think the Niles Crane party curse has finally been laid to rest. [_noticing their faces_] What? _End Of Act One.  Act Two._  **POLLY WANT A STOMACH PUMP?**  _Scene Four - Niles's Apartment. The act starts from where the first act left off.  Niles is in the kitchen and reacts from Frasier and Daphne's horrified faces._ ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Will somebody please tell me what happened?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I'm going to let Daphne tell you.  ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "What is it?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "I don't mean to alarm you but there's something wrong with the hors d'oeuvres.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "What?  How do you know?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "A little bird told me.  _Daphne reveals the dead bird under the cloth and on Niles's scream she covers it again.  Meanwhile, in the room Frasier is quickly taking back the hors d'oeuvres._ ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Sorry, I forgot the garnish.  Just dreadfully embarrassed about this... give me that!  Thank you very much.  It's just chef's prerogative. [_quickly takes one out of Roz's hands which is just about to enter her mouth_] Roz!  For God's sake.  ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Did you see how it happened?  Anything?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Well, I did hear her last words but... I don't think they'd be of much comfort to you.  ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh Niles, I'm so sorry.  My God, the mayonnaise must have gone bad, or the cranberry, or the pate. [_begins binning them_]",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Which one did she eat?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I don't know.  Daphne, smell her beak! [_Daphne reacts._] ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Alright, Niles, are you all right?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Yes, I just need a moment.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Carol"
+    },
+    {
+        "speaker": "Carol",
+        "text": "[_o.s_] Oh, Dr. Crane?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "That's long enough. _Niles covers Baby just before Carol Larkin enters with a stain on her jumper._ ",
+        "prevSpeaker": "Carol",
+        "nextSpeaker": "Carol"
+    },
+    {
+        "speaker": "Carol",
+        "text": "Excuse me, I'm afraid I spilt punch on my dress, I need a towel. ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "No.  You're much better off using...  _She looks at Niles, who hands her a piece of bread.  She reacts, but pretends it's what she meant._ ",
+        "prevSpeaker": "Carol",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "...yeah, this bread.  It's much more absorbent!",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Carol"
+    },
+    {
+        "speaker": "Carol",
+        "text": "Really?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Yes.  That's why they call it nature's sponge.",
+        "prevSpeaker": "Carol",
+        "nextSpeaker": "Carol"
+    },
+    {
+        "speaker": "Carol",
+        "text": "Alright. [_uses it and laughs_] It's working.  ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Alright, what do we do now?",
+        "prevSpeaker": "Carol",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Daphne, you get rid of Baby, I'll get rid of this tainted food.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "But we still have a room full of hungry guests with nothing to serve them.  _Daphne begins clearing up.  She picks up Baby and Daphne's earring drops out of her mouth._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Oh God, look at that!  She must have swallowed my earring, that's what killed her.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, that means we don't have to destroy the hors d'oeuvres. Frasier, Frasier, stop!  Are there any left?  ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, we're in luck.  This intrepid little crab puff has survived.  Now all I need is a very sharp knife and sixteen toothpicks.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "[_o.s._] Niles! _Daphne quickly stuffs Baby into the fridge as Roz enters with a piece of wet bread._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "I'm really getting tired of these people.  Some lady just handed me a piece of wet bread. [_hands it over_]",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, this party is doomed.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No, Niles, listen.  Don't panic, we've got everything we need to make more hors d'oeuvres.  All we need is time, you get out there and stall. ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Mrs. Latimer, can I get you some punch?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Latimer"
+    },
+    {
+        "speaker": "Latimer",
+        "text": "Yes, your father went to get me some... but that was quite a while ago.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Allow me.",
+        "prevSpeaker": "Latimer",
+        "nextSpeaker": "Latimer"
+    },
+    {
+        "speaker": "Latimer",
+        "text": "By the way, where is that adorable bird of yours?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Um, she's resting.  Travel really takes it out of her.",
+        "prevSpeaker": "Latimer",
+        "nextSpeaker": "Latimer"
+    },
+    {
+        "speaker": "Latimer",
+        "text": "You didn't take her with you to Africa, surely?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well, she has family there.  ",
+        "prevSpeaker": "Latimer",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Mr. Probst, having a good time?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Probst"
+    },
+    {
+        "speaker": "Probst",
+        "text": "Look here, Crane, if you're not going to feed us we might as well take the vote right now.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "No, no, no, please.",
+        "prevSpeaker": "Probst",
+        "nextSpeaker": "Probst"
+    },
+    {
+        "speaker": "Probst",
+        "text": "I mean, you bring the hors d'oeuvres, you take the hors d'oeuvres away... what kind of a game is this you're playing with us?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well I'm not, I'm not... [_loudly_] Oh, what a good idea! Why don't we all play a game?  Anyone have any suggestions?",
+        "prevSpeaker": "Probst",
+        "nextSpeaker": "Carol"
+    },
+    {
+        "speaker": "Carol",
+        "text": "What about Murder?  We played it at Irene Warner's party. It was a hoot.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Woman"
+    },
+    {
+        "speaker": "Woman",
+        "text": "How do we play?",
+        "prevSpeaker": "Carol",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well here, [_gets out pens and paper_] someone tear off slips of paper and on one of them write the word \"Murderer.\"  And then we'll pass them out, and then everyone hide.  We'll turn out the lights, then the murderer kills someone and they lay down on the floor, then we turn on the lights and the detective solves the crime.",
+        "prevSpeaker": "Woman",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_who entered during the instructions_] I tell you what, I'll volunteer to play the detective for the first round. Let the mayhem begin!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Latimer"
+    },
+    {
+        "speaker": "Latimer",
+        "text": "Oh, Martin, there you are!  Come, hide with me, I know a little nook where no one will find us. [_goes upstairs_]",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "This game's a lot scarier than I thought! [_exits in other direction_]",
+        "prevSpeaker": "Latimer",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Alright?  Turn out the lights, everyone hide. _The lights are turned off, however we can still see.  Everyone hides, except for Mr. Probst, who is looking at his paper.  Roz is standing by.  Niles and Frasier exit to the kitchen._ ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Probst"
+    },
+    {
+        "speaker": "Probst",
+        "text": "Ah, can't see.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Oh, can I help you, sir?",
+        "prevSpeaker": "Probst",
+        "nextSpeaker": "Probst"
+    },
+    {
+        "speaker": "Probst",
+        "text": "I don't have my glasses, can you tell me what it says on this thing?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "It says \"Murderer.\"",
+        "prevSpeaker": "Probst",
+        "nextSpeaker": "Probst"
+    },
+    {
+        "speaker": "Probst",
+        "text": "Good. [_holds a pretend gun to her head_] Then you're dead.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "[_lays down; sarcastically_] This party just gets better and better. ",
+        "prevSpeaker": "Probst",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "How soon?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "I'm going as fast as I can.  The first batch should be ready in five minutes.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Alright, five minutes it is.  Ready or not, here I come! _Frasier enters the room.  Roz and Mr. Probst are laying on the floor. Everyone comes from their hiding place._ ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "My goodness, the foul fiend has struck already.  Turn the lights on. [_they come up_] Good heavens, he's struck twice!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Frasier...",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Uh-uh, once dead you cannot move or speak, take your cue from Mr. Probst.  Alright, everyone. [_in a detective-like voice_] Did any of you see anything suspicious?  Any odd behavior?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Alfred"
+    },
+    {
+        "speaker": "Alfred",
+        "text": "Why don't you just guess, so we can get this thing over with.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Not yet, this is very intriguing.  I think I'm going to have to think about it for... five minutes or so.",
+        "prevSpeaker": "Alfred",
+        "nextSpeaker": "Carol"
+    },
+    {
+        "speaker": "Carol",
+        "text": "Maybe this game was a bad idea.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No, the fun's just started.  I tell you what, let's turn off the lights again and we'll let our craven villain ply his dark trade once more.",
+        "prevSpeaker": "Carol",
+        "nextSpeaker": "Alfred"
+    },
+    {
+        "speaker": "Alfred",
+        "text": "Are you quite sure those two didn't die of starvation?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Very funny!  Would you just turn out the lights, please?  ",
+        "prevSpeaker": "Alfred",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Alright everyone, hide!  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Frasier, I have a question.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No, Roz, no talking.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Just tell me, can the murderer commit suicide?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well no, Roz, that wouldn't make much sense, would it?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "That's what I thought, but Mr. Probst is the one who murdered me.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, was he?  Well then, Mr. Probst, I don't think someone's playing by the rules, is he?  You see, this way no-one else can get murdered, can they? [_silence_] Mr. Probst?  ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "What is it?  What are you doing?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Nothing, Roz, nothing.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Are you taking his pulse?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I'm trying to, I just can't find one.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Oh my God!  When he fell down, I thought it was part of the game.  It didn't even look real.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Okay, it's time to wind the game up.  The appetizers are ready, and may I say they are delicious.  I think this party is finally back on track!",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Niles!  I'm afraid Mr. Probst has passed on.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "What?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, you see, I think that heart condition of his finally caught up with him.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Dead?  No, no, no, he's sleeping.  Old people love to nap. [_begins prodding him_] Mr. Probst, time to wake up.  Mr. Probst...",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Niles, Niles, he's gone.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh my God, how could this happen?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Shouldn't we notify someone?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "No, he was a widower, he had no children, he lived alone in this building for twenty-five years.  This is so awful.  Mr. Probst is right, I am a menace.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No, Niles, this is not your fault.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "But it happened at my party, it's all they will remember. I might as well pack my bags.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No, I tell you what.  There's no need for that.  I think we can still get him out of here without anybody noticing.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "How?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You go find Dad.  Tell him to call one of his friends at the police department.  One of his good friends, right?  I'll handle the rest.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "All right.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "What's the rest?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I'm going to use the game to distract everybody.  I will take everyone into the kitchen for questioning, thus drawing their attention from the bodies.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "What do you mean, \"bodies\"?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Roz!",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "No.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Get down.  ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "No, please no.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "All right, how about this?  I will pay the airfare for that vacation of yours next month.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "[_thinks, then_] No way, it's just too creepy.  First class?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Business.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Done.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "All right, get down there. ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Frasier, Frasier, Frasier, I found Dad hiding from Mrs. Latimer.  He's called his friend.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Great.  Niles, start getting everyone in the kitchen.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Wait, wait, won't they wonder why there hasn't been another murder?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Good point.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "[_from under Mr. Probst_] Could we move this along?!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Quiet!",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "The wagon's on its way.  When it gets here let me deal with it.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "All right, thank you, Dad.  I really appreciate this...",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Dad!  Can you do one more favor?  You are now the killer. Listen, come on, you've got to murder somebody - preferably in the kitchen!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh, come on!  You're not going to make someone lie down on this dirty floor again, are you?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Latimer"
+    },
+    {
+        "speaker": "Latimer",
+        "text": "Oh, there you are, Martin.  Have you been hiding from me?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_with an idea, evil_] Hiding?  No, you're just the person I've been looking for. ",
+        "prevSpeaker": "Latimer",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "All right, turn on the lights, everyone. [_whisper_] Roz, you okay?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "[_sarcastic_] Yeah, it's a carnival down here.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Everyone.  There has been another murder... in the kitchen. I'm ready to solve the crime, if you'll all join me... in the kitchen.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Carol"
+    },
+    {
+        "speaker": "Carol",
+        "text": "Why can't you solve it right here?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well I could, you see, but that wouldn't be proper.  You see... [_thinks, then_] the hors d'oeuvres are in there.  Come along, people.  We've got food.  Don't touch the crime scene please, thank you very much.",
+        "prevSpeaker": "Carol",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Hurry, his fingers are getting stiff! _Frasier enters the kitchen where everyone is standing.  Mrs. Latimer is laying \"dead\" on the table._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Before I determine the identity of the killer, there are a few questions I'd like to ask each of you.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Carol"
+    },
+    {
+        "speaker": "Carol",
+        "text": "I'll get it.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No.  No-one leaves until I've solved the crime.  Except you, Dad.",
+        "prevSpeaker": "Carol",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "All right, then.  I think I shall begin by drawing a diagram of where each of you was standing when the first murder occurred. _DISSOLVE TO:  Scene Five - Niles's Apartment. Time has lapsed as Frasier is just about finishing the diagram of everyone.  The guests are now really bored standing around in the kitchen.  Mrs. Latimer is still laying \"dead\" on the table._",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "So we have established Miss Finn was talking with Mr. Larkin in the upstairs hall at 8:14.  And he muttered something. _Frasier quickly takes a look out of the door into the living room. We see that the body bag is just being sealed up._",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Carol"
+    },
+    {
+        "speaker": "Carol",
+        "text": "Why do you keep looking out there?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I'll ask the questions around here, Mrs. Larkin.",
+        "prevSpeaker": "Carol",
+        "nextSpeaker": "Alfred"
+    },
+    {
+        "speaker": "Alfred",
+        "text": "They already told you.  Your father killed Mrs. Latimer. Mrs. Hawkins saw him.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Mrs. Hawkins thought she saw him!",
+        "prevSpeaker": "Alfred",
+        "nextSpeaker": "Latimer"
+    },
+    {
+        "speaker": "Latimer",
+        "text": "[_lifts her head_] No, Martin did kill me.  He's got a lot to learn about playing gently.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Mrs. Latimer, we have already broken the \"no-eating while dead\" rule but we'll stand fast on the \"quiet\" one. [_stuffs a crab puff in her mouth_] Now...",
+        "prevSpeaker": "Latimer",
+        "nextSpeaker": "Carol"
+    },
+    {
+        "speaker": "Carol",
+        "text": "I'm bored and I'm going home.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No, wait.",
+        "prevSpeaker": "Carol",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You can't blame Niles for this because... _Frasier exits and sees the dead body has gone.  Martin, Niles, Roz and Daphne are standing with a \"fake\" smile on their faces._",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_covering_] My father is the killer!  Yes, the case is closed. Shall we have another round? ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Alfred"
+    },
+    {
+        "speaker": "Alfred",
+        "text": "Where's Probst?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "He just left.  He wasn't feeling well.",
+        "prevSpeaker": "Alfred",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Yes, I hope he's alright, poor man.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Alfred"
+    },
+    {
+        "speaker": "Alfred",
+        "text": "Well, who cares?  I never liked the old coot anyway.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "You didn't?",
+        "prevSpeaker": "Alfred",
+        "nextSpeaker": "Alfred"
+    },
+    {
+        "speaker": "Alfred",
+        "text": "I was planning on voting for you tonight just to annoy him.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Carol"
+    },
+    {
+        "speaker": "Carol",
+        "text": "Me, too!",
+        "prevSpeaker": "Alfred",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well, why don't we vote right now?",
+        "prevSpeaker": "Carol",
+        "nextSpeaker": "Alfred"
+    },
+    {
+        "speaker": "Alfred",
+        "text": "Consider it done. [_shakes Niles's hand_] You're in, Crane. Welcome back.  Carol, let's get out of here. _Everybody leaves and Niles wishes them goodbye.  Meanwhile, Roz and Frasier are round the punch bowl._",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Doesn't he have anything stiffer than punch to drink? I don't like looking at dead bodies, much less touching them.",
+        "prevSpeaker": "Alfred",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I think he's got a bottle of vodka in the freezer, Roz.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Oh, great. _RESET TO: Kitchen  Roz enters the kitchen.  She opens the fridge door and gets out the bottle of vodka.  But at first she doesn't notice Baby stuffed onto a shelf in the door compartment, stiff and upside down...  RESET TO: Living Room  Outside, Niles says goodbye to the last guests._",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Thank you so much for this second chance.  I can assure you, from now on this will be the quietest apartment in the Montana.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "[_o.s._] OH, MY _GOD!_",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Goodnight. _Niles shuts the door and then looks around at Frasier and Daphne, who have obviously had enough.  End of Act Two._",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Credits"
+    },
+    {
+        "speaker": "Credits",
+        "text": " Niles's Apartment - Niles is reading on his fainting couch.  He looks around the room, stands up and eyes the antique couch that Dr. MacLowery tipped over in his dance routine.  Niles goes to the other side of the room, takes a run-up and does the trick, admiring his work afterwards.   * * *  ## Guest Appearances    **Guest Starring** ROSEMARY MURPHY as Carol Larkin JACK SYDOW as Alfred Larkin RANDY DONEY as Dr. MacLowery MIMI HINES as Mrs. Latimer BILL MOREY as Mr. Probst NINA MANN as Miss Finn FIONA HALE as Mrs. Hawkins JACK DONNER as Mr. Hawkins   * * *  ## Synopsis {kathy churay}     _ACT ONE  SCENE ONE - FRASIER'S APARTMENT - EVENING_  Niles is irritated and disgruntled as he and Frasier return from dinner. As they recount their evening to Martin we learn that at the restaurant they were first served an inferior Pouilly Fuisse, then seated next to Donny and Daphne who were being very affectionate. Frasier switched chairs with Niles so he wouldn't have to watch, only be confronted a few minutes later with the spectacle of Maris coyly flirting with her new boyfriend over dinner to taunt Niles.  Niles is depressed about the whole evening and just wants to go home to the Montana.  Martin asks whether he can't afford to go back now, and Niles answers that he can except that Frasier persuaded him to sublet the apartment to a starchy dignified tenant who still has two months remaining on his lease.  His dejection is complete when Daphne comes in, beaming.   Apparently while Niles had hesitated to send back the inferior wine at dinner, Donny had not only sent back the same wine but also made a scene and got the restaurant to waive the bill for their entire meal.  Daphne goes off to her room saying how proud she is of Donny, and Niles moans that he just wants to go home.  Frasier agrees to call the tenant at the Montana and try to break the lease.  ****TAPS AT THE MONTANA****  Niles and Frasier are about to ring the doorbell when they meet Mrs. Latimer, a neighbor who observes that Niles is back from his tour. Niles replies that his sublet was able to move out early, and after she leaves Frasier inquires about the tour.  Niles tells him that he had informed his neighbors that he was going on an African lecture tour -- wouldn't have done to let them know the real reason he was moving out, and he hadn't wanted them to be able to contact him. They ring the doorbell and when there is no response they let themselves in with Niles's key.  Niles is thrilled to be home after four months.  \"I just want to close my eyes and savor the serenity!\"  But the serenity is short- lived as the sound of loud tap dancing echoes from upstairs. A figure dances into view on the parquet floor of the stair landing, then slides down the bannister to the living room to continue his dance routine.  It's Dr. McLowrey, a gray-haired man wearing a Walkman and doing an enthusiastic tap routine all over Niles's parquet-covered living room floor.  Frasier asks when McLowrey had taken up tap dancing, and the doctor replies that he adopted it years ago to keep from going crazy.  Too late, Niles observes.  The last straw for Niles is when McLowrey leaps onto one of Niles's antique chairs and tips it over in a dance routine reminiscent of both Fred Astaire and Niles's fencing scene in \"An Affair To Forget\" when he tips over the couch.   Niles is panicked at the potential damage to his apartment, and Frasier tries to remind the doctor about the neighbors. McLowrey replies that the neighbors are sourpusses, always complaining, and taps merrily off to the kitchen.  Just then the doorbell rings and Niles greets three members of the building's tenants' board:  an older couple, the Larkins, and a sour-looking grayhaired man named Mr. Probst.  Probst informs Niles that they abhor noise in the building and the board is leaning toward rescinding his lease.  Niles tries to protest but Probst tells him that he has a heart problem and the other tenants need quiet.  He cautions Niles that there will be a board meeting the following evening, and if he were Niles, he wouldn't plan on unpacking.  Niles is in shock as they leave.   There is a very subdued party in progress as Niles hosts the 10 or so members of the tenants' board, all of whom are wealthy-looking senior citizens.  Daphne and Frasier are helping Niles at the punchbowl as Daphne tells Frasier he was nice to help his brother by organizing the party.  Niles replies that it was the least Frasier could do after subletting the apartment to \"Bojangles the Loon\".  The doorbell rings and Daphne admits Roz and Martin.  They go over to the punch bowl and Roz tells Niles how surprised she was to get his last-minute invitation.  He tells her the caterer cancelled and orders her to open the wine, cut up some limes and hang up the coats. Roz is miffed but Frasier enlists her help and she agrees if Frasier will pay for the babysitter.  Frasier agrees and Roz goes off to hang up her coat.  Martin cynically inquires what his role will be -- dishwasher? Frasier tells him that there are several unattached women his age who \"might just take a shine to an old debonair dog like yourself.\"",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "** \"I'm just a piece of meat to you guys!\"  Just then Daphne returns to the punchbowl from her rounds of serving drinks.  She starts to help Frasier but is distracted when her earring slips off and slides down her blouse.  She retrieves it and remarks that she was grateful it didn't end up in the punchbowl.  Meanwhile Niles is making lame jokes with the party guests and failing miserably.  He heads for the kitchen in desperation.  As he enters Frasier is shooing Baby away from the kitchen table where she is sampling the canapes.   Niles returns her to her perch as she pelts him with slang taught to her by Niles's neighbors from the Shangri La.  To her \"Stuff it, Niles!\" he replies, \"Oh, don't tempt me.\"  And back to the living room he goes with Frasier to deliver the food.  One of the female guests collars Niles to inquire who Martin might be.  Niles tells her and she goes off in hot pursuit.  Roz complains that one of the elderly men pinched her.  When Frasier doubts how hard an arthritic old man can pinch, she demonstrates on his chest. Niles goes into a panic because the guests are not mingling or having a good time, and Frasier reassures him, fleeing into the kitchen for more food.  Frasier enters the kitchen to find Daphne with her back turned and Baby lying dead on the kitchen table in the middle of a tray of canapes.  Frasier gasps and asks how it happened.  A stunned Daphne replies that Baby must have eaten some of the hors d'ouvres [_I can never spell that and I'm not looking it up now._]  Niles comes in for more appetizers and Frasier throws a towel over Baby to keep Niles from seeing her.    ****POLLY WANT A STOMACH PUMP?****   Niles wants to know what has happened, and Frasier flees to the living room to collect the appetizers and leaves Daphne to deliver the bad news.  Frasier races around the living room collecting food trays and grabbing appetizers out of the guests' hands.  He returns to the kitchen.  Niles is giving Baby CPR, but it's too late.  He's shocked and sad but not really heartbroken as Frasier returns with the food and they begin trying to guess which appetizer has gone bad.  Was it the pate? The mayonnaise?  Meanwhile Frasier begins dumping canapes into the garbage.  A guest enters the kitchen and complains that she needs something to blot the wine she's spilled on her dress.  She tries to take the towel that covers Baby, but Daphne hands her a piece of bread instead and she leaves, blotting her dress.  As Daphne picks up Baby there is a small clattering sound, and Daphne discovers her loose earring which has fallen out of Baby's mouth. Apparently that's what has killed her.  They are relieved to know the food hasn't gone bad and they try to stop Frasier from dumping all the food into the garbage, but it's too late.  Now Daphne will have to re-make all the food.  Roz bursts into the kitchen and Daphne hastily stuffs Baby into the freezer and closes the door.  Roz complains about the guests and Niles moans that his party is doomed, but Frasier won't let him give up.  He shoves Niles back into the living room to stall the guests while he and Daphne make more food.  As Niles returns to the living room Mr. Probst comes up to Niles complaining about the lack of food.  \"What kind of game are you playing here?\"  As he begins to deny playing games Niles gets inspired and declares that they should all play a game.  One guest suggests a game of \"Murder\".  All the guests will get slips of paper, one of which reads \"Murderer\".   While the other guests hide he will pick one victim to kill.  Frasier comes in and volunteers to be the detective who solves the crime.  Frasier turns out the lights and the guests dutifully hide.  Mr. Probst can't read his slip of paper, and Roz helps him to read the word \"Murderer\" on his piece of paper.  Probst grumpily informs Roz that she's dead, and she lies down on the floor complaining about the game.  When Frasier turns the lights on he finds Roz lying next to Mr. Probst, who is face down on the floor with his arm over Roz.  Roz protests but Frasier informs her the murder victim can't talk, and so she subsides.  The guests come out of hiding and Frasier tries to stall them as they complain about the boring game and the lack of food.  He suggests turning off the lights again so the murderer can strike again, and off go the lights as the guests return to their hiding places.  Roz flags down Frasier from her place on the floor, asking if the murderer can commit suicide. It turns out that Mr. Probst is not feigning unconsciousness but has actually died while playing the game. Roz is appalled to think that she had been lying next to a dead man. Niles comes in from the kitchen to receive the news and can't believe it. He is in despair over his chances at staying at the Montana now, but as usual Frasier has a plan.   Roz and Frasier nearly panic, but Frasier suggests they simply bring the other guests out to the kitchen and have Martin call his friends at the police station to remove the body quickly. Meanwhile, Roz must lie down next to Probst and continue to play the part of murder victim till the police come.  Roz at first refuses till Frasier bribes her with airfare to her vacation destination the followng month.  Martin comes in after having made his phone call and agrees to play the murderer.  He goes off to the kitchen with one of the guests who has been annoying him.  Frasier turns on the lights and brings out the other guests, dragging them off to the kitchen to expound on the identity of the murderer.  He keeps it up in spite of the guests' complaints until he sees that the police have taken away the body.  Finally the guests are bored and rebel, exiting back to the living room where they remark on Mr. Probst's absence.  Niles tells them Probst didn't feel well and went home.  One of the other guests remarks that he had been planning to vote in favor of Niles just to annoy Probst, and the others agree.  They take a quick vote, welcome Niles back to the Montana, and  beat a hasty retreat out the front door to escape the ghastly party.  Roz complains about the lack of hard liquor, and Frasier tells her Niles keeps a bottle of vodka in the freezer.  Niles is assuring his departing guests that there will be no further noise from his apartment when Roz's bloodcurdling scream from the kitchen announces that she has located Baby's final resting place in the freezer door.  ",
+        "prevSpeaker": "Credits",
+        "nextSpeaker": "CREDITS"
+    }
+]

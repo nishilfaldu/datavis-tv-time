@@ -1,0 +1,1281 @@
+[
+    {},
+    {
+        "speaker": "Frasier",
+        "text": "Are your eyes closed?",
+        "prevSpeaker": "No Previous Speaker",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "What is it?  _Frasier places a huge, gorgeously elaborate antique chess set on the table._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "It's something my antiques scout found for me.  Voila! [_Niles opens his eyes and gapes_] Paris, 1882!  Designed by Jean- Francois Blon, while attending _L'Ecole des Beaux Arts!_",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "_Mon Dieu!_  It's absolutely breathtaking!  I'm breathless! [_gasps_] I need to take a breath.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Evening, Dr. Crane.  ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Would you like to try a game, Niles?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, I think not.  It'll make me too melancholy.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, all right.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Maris and I used to play chess every Thursday night.  Oh, how she loved the game.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No wonder -- the king is stationary while the queen has all the power.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "How are you getting along, Dr. Crane?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, all right, I guess.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Feeling a bit lonely, are we?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Only some times when I'm by myself, or other times when I'm with other people.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "It may not be my place to suggest this, but perhaps all you need is a little company at the apartment -- something warm and friendly to come home?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well, I'm sure Dad would miss you.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "[_laughs and bats his arm_] Oh, Dr. Crane!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_laughs and bats himself_] Oh, me!  ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "I'm talking about a dog.  They're wonderful companions.  Just look at how much Eddie's brought to your father's life.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Oh, there's nothing like a dog's unconditional love.  Seeing that smiling face greet you at the door.  It's one of the most rewarding relationships a person can have.  ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Again?  If you're going to drink out of the toilet, you can at least learn to use it. [_she fits the leash on Eddie_] Would you like to come with me?  Maybe get the feel of the leash?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_when she puts it that way_] Perhaps I will.  ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "You know, Daphne, maybe you're on to something with this dog business.  I'm starting to feel less lonely already.  _He shuts the door on the leash, trapping Eddie inside.  He opens the door again._ ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Chop, chop!  Come with us.  ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, hi, Dad.  Did you see my new chess set?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh yeah, it's nice.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "\"Nice?\"  Well, the inlay was made from the same Travertine marble they used at the Emperor Hadrian's palace outside Tivoli!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Really?  Well, I'm gonna celebrate with a beverage brewed from the crystal-clear waters of the majestic Colorado Rockies!  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Good one, Dad.  Say, how about a game?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Nah, I don't think so.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, come on, Dad.  You know how to play, don't you?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well, Daphne showed me once.  But really, checkers is more my speed.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, come on, checkers is a kid's game.  Come on, Dad!  I just got it!  Please?  Nobody will play with me!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "All right, I'll give it another shot. [_sits opposite Frasier and pulls his chair up to the table_] Those guys at the park make it look great--eating baloney sandwiches, smoking cigars, sometimes a fist-fight even breaks out!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, let's just start with name-calling and see where it goes, all right?  _Frasier moves.  DISSOLVE TO: a While Later. The game is almost finished.  Frasier moves._ ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Your turn.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Now, Dad, please, you don't have to rush.  As a novice, you have the right to sit back, survey the board, take your time.  I will not pressure you or hover like a vulture. Please, feel free to ask any questions you might have.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Is this a checkmate?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_looking_] Yes, it is.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "You mean I won?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, yes.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Hey, hey!  I won!  How do you like that?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, in all fairness, my mind was a bit distracted by having to monitor your side of the board, but, uh... Touche!  How about another game, Dad?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "No, I think one'll do it for me, thanks.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, uh, all right, fair enough.  ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Boy, I really clobbered you though, didn't I?  I got almost all of your prawns.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Pawns, Dad.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "I think the turning point was when I got that tower-thingy.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, it's called a rook.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "But the real knockout blow was when I backed your little horsey-guy into the corner.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Can we call it a night, Dad?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "O.K., when I cornered your knight.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No, I mean can we call it a night?  _Martin shrugs and goes to his room.  Frasier continues to stew.  FADE OUT_  **MAYBE IT'S SHORT FOR NODULE**  _Scene Two -- Cafe Nervosa Frasier is sitting at a corner table, replaying the previous night's chess game with a small pocket set.  Roz sits at his table._ ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Hey, Frasier.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh hi, Roz.  ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Uh, one double-tall latte, a slice of pecan pie with extra whipped cream.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Waitress"
+    },
+    {
+        "speaker": "Waitress",
+        "text": "Anything else?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Perhaps a blood-pressure cuff?",
+        "prevSpeaker": "Waitress",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "I'm just a little nervous today, O.K.?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, really?  Trouble on the dating front?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "I'm not that shallow, all right?  It's about my hair. I've got an appointment this afternoon with Noge.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "\"Noge?\"",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "He's the hottest hairstylist in Seattle?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "\"Noge?\"",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "I think he's getting a little bored with me.  When he cuts my hair, I can't ever think of anything to say!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, how's this for an icebreaker: \"Say, Noge, where'd you get such a stupid name?\"",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "You should see him with all of his other clients.  They're all laughing, having a wonderful time.  I walk in, sit down, it's death. [_picks up newspaper_] Maybe there's something in here that'll hold his attention. [_reads_] Oh, wow, here's something.  A lady in Italy gave birth to a nineteen-pound baby!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh my God.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "No kidding.  She's not going to be hopping on her Vespa anytime soon.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "That's how he did it.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "What are you talking about?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "My father beat me at chess last night, and I've just realized now it was sheer dumb luck.  He stumbled into the Panov-Botvinnik attack!  ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Frasier, I--",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh Roz, I can't tell you what a relief this is.  My God, my whole world makes sense again.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Frasier, you are forgetting about my problem with Noge.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, and it'd be a lot easier if you'd stop bringing it up. **AND SHE'S HYPOGLYCEMIC**  _Scene Three -- Frasier's Apartment It's evening.  The doorbell rings, and Frasier opens the door to Niles. _",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Hello, Niles.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Hello, Frasier.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "To what do I owe this pleasure?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well, I took to heart Daphne's suggestion the other day about a need for companionship since my separation from Maris, so I went out and got a new lady in my life. _Niles leads in Girl -- a pencil-thin Whippet with a narrow, curving spine, tall skinny legs, and blue-white fur._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I can't explain it.  I'm not a dog person, but there's something about this particular breed that I find comforting and familiar.  It's mystifying, isn't it?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Mmm, baffling.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I-I happened into my local pet shop, and I had no intention of buying anything, I was merely browsing, and they showed me some overly demonstrative puppies.  Then I heard a haughty little sniff from a cage in the corner, and there she was! [_to Girl_] Sit, Girl, sit! [_Girl doesn't move_] OK. [_to Frasier_] She's, uh, she's a bit high strung, but, uh, she's terribly well-bred.  When I tried to pet her, she'd have none of it.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, I'm surprised she wasn't snapped up before you got there.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Yes, well, the man at the pet store said it's because people are reluctant to take responsibility for her nerve medicine.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "No, not on the couch.  Off, off! [_Girl doesn't move_] OK.  ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Hey, Niles.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Hey, Dad.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_notices Girl_] What the hell is that?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "It's my dog, my new best friend.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, Niles saw her in the pet store and had this inexplicable attraction.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "You can see her ribs!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Hit Number One.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Daphne, I owe it all to you.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "[_laughing nervously_] Oh really, Dr. Crane, I wouldn't want you going around telling people I was responsible for that.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well, I guess we'll be toddling along. [_gets up_] Come Girl, come! [_Girl doesn't move_] OK. [_picks her up and carries her to the door_] The city streets play havoc with her delicate little feet, so I have to go home and pumice her paw-pads! ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Am I the only one?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier/Martin"
+    },
+    {
+        "speaker": "Frasier/Martin",
+        "text": "No.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Does Dr. Crane have any idea...",
+        "prevSpeaker": "Frasier/Martin",
+        "nextSpeaker": "Frasier/Martin"
+    },
+    {
+        "speaker": "Frasier/Martin",
+        "text": "No.  ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "So, Dad, can I, uh, interest you in an ice-cold Ballantine?",
+        "prevSpeaker": "Frasier/Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Yeah, sounds good.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You know, I may even join you myself.  I've got some pork rinds here and some of that creamy Lipton onion soup dip!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh, with the seven herbs and spices?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, just count 'em! _Frasier sets down two cold beers and a snack tray filled with pork rinds, potato chips, and dip on the table, then goes back into the kitchen.  Martin sits in a chair._ ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Hey, that's great!  All my favorite stuff... you're putting me in a home, aren't you?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_laughing_] Oh, don't be silly!  But you know, if I ever had to, don't you think it'd be nice if you knew how to play chess? _Frasier emerges from the kitchen with his chess set.  Martin realizes he's been duped.  DISSOLVE TO: a While Later. It's Frasier's turn.  Very slowly, he picks up his piece and sets it down, then even more slowly starts to remove his hand, leaving his fingertip for last.  Martin reaches for a piece._ ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Dad, it's not considered a move until my fingers have completely cleared the piece.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well, what's taking so long?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I am analyzing my options.  Unlike your \"wing-it\" approach, I like to plan a strategy, like a general leading his troops into battle.  ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Checkmate, Schwartzkopf.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Gosh, that's very well done.  You're really getting a feel for the game, Dad.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Yeah, and all this time I thought chess was hard. [_gets up_] Well, see ya.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Sit down, old man, you're not going anywhere!  _Martin sighs and sits down again.  DISSOLVE TO: A While Later While Frasier stares intently at the board, Martin is sitting in an armchair, goofing around with Eddie._ ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "[_o.s._] Mr. Crane, would you give me a hand with these dishes?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "I can't, I'm playing chess with Frasier.  ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Finally, my patience will be rewarded.  The trap is set. I knew this moment would come!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "It comes every game.  _Martin comes back to the table, takes a quick look without sitting down, and moves._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Checkmate.  Well, that's it.  Show's over, folks.  Move along. Nothing more to see here.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You know, Dad--",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "No, no, I'm not playing anymore.  I'm tired and I'm going to bed.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "O.K. [_chuckling_] Yes, I guess I've had my fill as well. Well, this has really turned out to be quite a good idea, hasn't it, this chess thing?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "'Night.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Awfully relaxing... oh, yes, yes, you just -- you just go on ahead, I-I've got -- hah! -- something I've got to do... _Frasier, still chuckling, picks up a cushion from the couch and goes out onto the balcony.  Closing the door behind him, he mashes the cushion into his face and howls into it.  END OF ACT ONE  ACT TWO  Scene Four -- Cafe Nervosa Roz is standing at the bar with a cup of coffee.  Frasier comes in._ ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Hey, Frasier!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Hi, Roz.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "I have great news!  My appointment with Noge could not have gone better.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "What is the reason behind this miraculous transformation?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Well, it occurred to me that hairstylists love celebrity gossip.  And I thought, \"hey, I know a celebrity: you!\"",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_wary_] And what did you tell him about me?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Well, he may have gotten the impression that you-- [_laughs fraudulently_] -- well, you're gonna love this -- that, you know... you may have been... in the past... a woman, you're not mad at me, are you?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Mad?  Why should I be mad, knowing the sacred code of silence all hairdressers have sworn to?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "All right, I'll set Noge straight.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, if you manage that, then you really would have a story.  ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well, hello. [_to waitress_] Double cappuccino, please.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yeah, same for me, please. [_to Niles_] Listen, Niles, I need to talk to you about Dad.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh yes, how is the Bobby Fischer of the geriatric circuit?  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, he's still beating me.  I tell you, Niles, I just can't figure it out -- I am the superior player.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "There's a saying: \"In every boy's life, the moment of greatest joy and greatest sorrow is when he defeats his father for the first time.\"",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "If you're suggesting that I'm afraid to beat Dad, you can just stop right there.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "O.K.  The other option is, he's better than you.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You were saying?  ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Sooner or later, the son eclipses the father.  It's the natural order.  Yet it's frequently a stumbling block because the son's competitive stirrings are accompanied by tremendous feelings of guilt.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I see.  Yes, it's the classic Oedipal conflict.  It seems so obvious now.  I've been letting him win!  Niles, thank you, thank you very much.  I can't tell you what a relief this is. I feel like a weight has been lifted.  Nothing can hold me back now.  Tonight, I topple the king!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Hear, hear.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Of course, you realize by dethroning Dad, you're next in line to be dethroned by Frederick, and then the only thing left after that is death, but that's another day and another cup of coffee.  _Frasier gives him a look.  FADE TO:  Scene Five -- Frasier's Apartment It's late evening.  Frasier and Martin are back at the table. Frasier is tense and alert, while Martin is tired and can barely keep his eyes open.  Frasier moves._ ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Dad?  Dad, wake up, it's your turn.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_waking up; sleepy_] Oh, I'm sorry... [_moves_] Checkmate. Well, I'm going to bed.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, come on, Dad, just one more game!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "No!  I can't keep my eyes open. _Martin goes to his room.  Frasier goes over to the couch, and selects a cushion.  He pats it softly, as if fluffing it.  Then, he slaps it with the back of his hand.  Before long, he's whaling on it with his fist, beating the stuffing out of it like a punching bag.  Daphne comes in with a basket of laundry and sees him.  Noticing her, he stops._",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Playing chess again, were you?  _Frasier sinks onto the couch.  Daphne takes a sock from the basket and slips it over her arm._ ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "You know, Dr. Crane, when one of my brothers would lose a soccer match, he'd be all blue and in the dumps.  But I could get him to laugh.  I'd make a little puppet like so. [_moving the puppet's lips; deep, round voice_] Hello, Daphne, What's shaking? [_her voice_] Oh, hello, Freddy.  My friend Dr. Crane here forgot his happy pants! [_Freddy_] Oh, no!  What should I do? [_Daphne_] Would you sing for him? [_Freddy_] I'd love to. [_sticking the puppet close to Frasier's face; singing_] Who's that grouchy gus I see?  You can't be grouchy, not with me! Sing along, Doc!  Who's that grouchy gus I see--  ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Daphne, I would rather have a tarantula lay eggs in my ear than listen to any more of this puppet show.  Do we understand each other?  _He nods the puppet \"yes,\" up and down.  FADE TO:_  **CHESS PAINS**  _Scene Six -- Frasier's Apartment It's late at night.  Frasier walks up to Martin's door in his dressing gown.  He opens the door and peeks in.  Martin is fast asleep, with Eddie sleeping beside him.  Frasier reaches in and flicks the lights on and off, then closes the door again.  After waiting a few moments, he peeks in.  Martin is still asleep._ ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_whispering_] Eddie!  Speak!  Speak, Eddie!  _Eddie is still asleep.  Frasier closes the door, gets a book of matches out of the hallway bureau, and tears one out.  Chuckling deviously, he strikes the match and sets the rest of them on fire.  Then he quickly blows them out, producing a puff of smoke, which he holds up to the smoke detector. Immediately, the fire alarm goes off, beeping loudly.  Frasier dashes back into his room.  Martin rushes out of his room, carrying Eddie in one arm and pounding on doors with his cane._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Fire!  Fire, everybody!  Frasier!  Daphne!  Fire!  Fire!  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "What's going on?!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "The fire alarm went off, but I don't see anything around here!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "[_rushing in_] It's not in my room, either!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "It's O.K.! [_laughing_] My fault, false alarm.  I was just a little remiss in replacing the batteries, everything's fine. [_turns off alarm_]",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "The batteries?  No, smoke alarms don't go off if--",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Back to bed!",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "See you in the morning.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Dad, you know, seeing as how we're both up, I thought maybe we should, oh I dunno, do something, you know?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Like what?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, uh, right off the top of my head, I... well, play a little chess?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Now?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, sure!  We're both wide awake.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh my God, you set that alarm off!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Dad!  I--I had no--",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "What kind of weird, competitive freak are you?  I mean, you really hate to lose so much that you wake up the whole house and scare us all to death?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No, of course not!  And I wouldn't have to resort to such lengths if this damn dog could learn to speak! [_Eddie barks_] Oh, of course, now you'll get it right!  Look, Dad, would one more game kill you?  I mean, you're all riled up.  My God, you'll never get to sleep now anyway!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Wait a minute.  This isn't about losing, is it?  This is about losing to _me._  That's what's driving you nuts! \"How could I lose to the old man?  I'm much smarter than he is!\"",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I never said that!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "No, you didn't have to say it, you've thought it all your life!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No, I haven't!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Yes, you have, and now you're insulting my intelligence again!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, Dad!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Hey, now listen, what do you think I was doing as a detective all those years?  Analyzing clues, devising strategies, trying to stay one or two steps ahead of the other guys -- now, does that sound like any game that you know?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "All right, that explains why you can play the game, but not why you beat me every time!  Now, come on, just one more game, please?  Dad, look, I'll never bring it up again!  Come on!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "No.  Why should I?  You just want to beat me so that you can go back to thinking you're smarter than your stupid old man. Well, forget it, to hell with you.  I don't see any reason why I should ever play you again.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "If you win, I'll give you five thousand dollars.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Get out of my way.  _Martin gets out of bed, grabs his cane, and limps past Frasier. They come out into the living room._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well, look at that, the board's all set up!  What a surprise.  ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I took the liberty.  Now, Dad, I think we can sit down and play a nice cordial little game.  For centuries, people have set aside their differences to play a game of chess.  So, who should go first?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well, let's see.  It's usually the person who lost the last game.  Now, who could that be?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "OK.  No more Mr. Cordial Guy!  _He moves a pawn.  DISSOLVE TO Later: the game has advanced. Frasier lifts one of his pieces._ ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "By the way, I'm sorry the ratings for your show took a dive last month.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Don't try to pull your cheap psychological tricks on me.  ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, did I mention... the cemetery called?  Apparently they have to dig a sewer next to your plot.  _Martin puts his piece down.  DISSOLVE TO Even Later: The game is now in it's final stages.  Eddie is perched on a chair, staring at Frasier._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Getting your dog to stare at me only proves how desperate you are. [_moves_]",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "I didn't tell him to do that.  He just gets fascinated when he sees people sweat. [_moves_]",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I sweat when I'm happy. [_moves_]",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well, then you must be ecstatic! [_moves, then_] No, wait!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No, no, you took your finger off that piece!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "No, I didn't!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, you did!  That means that you must not trust that move, must have left yourself vulnerable somewhere.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well, even if I did, you'll never find it.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_lifting his piece_] Oh, look at that... what's this? [_puts it down_] Could it be... checkmate? [_laughing_] I won, I won, I really won!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Hey, I didn't gloat when I beat you all those times!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No, but, I bet you wish you did now, huh?  Ha-ha, it feels great!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_getting up_] All right, that's it.  I'm going to bed.  And I never want to hear the word \"chess,\" or \"board,\" or \"chessboard\" again!  That's it, got it?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Fine.  Fine, Dad.  Goodnight.  Geez, lighten up!  It's only a game!  _Martin turns and stares at Frasier.  FADE TO:  Scene Seven -- Still Later that Night: Frasier pokes his head into Martin's room.  The sliver of light from the door shines in Martin's face, waking him up._ ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Dad?  Dad?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh, jeez...",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No, no, please, just one question: did you let me win?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh, for crying out loud, Frasier...",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No, no, please, did you play your best?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "For five thousand bucks?  What do you think?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You wouldn't just be saying that?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_sighs_] On your mother's grave, may lightning strike me down, I, Martin Crane, swear on the holiest of Bibles, you won, I lost, fair and square, cross my heart and hope to go to sleep.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Thank you, Dad.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "You're welcome.  _Frasier closes the door.  Martin starts to nod off again.  Frasier cracks the door again and sticks his head back in._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_guilty_] I'm sorry I beat you, Dad. ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Credits"
+    }
+]

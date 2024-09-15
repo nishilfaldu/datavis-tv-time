@@ -1,0 +1,1329 @@
+[
+    {},
+    {
+        "speaker": "Skyline",
+        "text": "A bolt of lightning flashes._   [_Scene 1 - Squash gym lobby.  Niles is there.  Frasier rushes in._] ",
+        "prevSpeaker": "No Previous Speaker",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Ooh, Niles, sorry I'm late.  Did you sign us up?",
+        "prevSpeaker": "Skyline",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Um, Frasier, I've been thinking.  How many years have we teamed up for the squash tournament, only to be eliminated in the second round?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Nine.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Don't you think it's time we came up with a new strategy?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Niles, if you're talking about taking that powder that's made from sheep's glands, the answer is never again!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Actually, I was thinking of something more fundamental. It occurs to me that after nine years...",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Shh, shh, Niles, Niles, here comes that two-faced braggart Jim Blake.  Jim, looking good!  [_Jim, a dark-haired man, walks to Frasier and shakes his hand._] ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Jim"
+    },
+    {
+        "speaker": "Jim",
+        "text": "Thanks, Frasier, thanks.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "So, you signed up for the tournament?",
+        "prevSpeaker": "Jim",
+        "nextSpeaker": "Jim"
+    },
+    {
+        "speaker": "Jim",
+        "text": "Uh, I don't know. [_to Niles_] Have we, partner?  [_Frasier is stunned.  Niles grins cheesily._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Jim"
+    },
+    {
+        "speaker": "Jim",
+        "text": "Awesome, awesome, let's do it!  I'll see you on the court, bro.  [_Jim offers his fist for a \"fist high-five.\"  Niles, unsure of himself, slaps the fist with his open palm.  Jim, rather bemused, then exits._] ",
+        "prevSpeaker": "Jim",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "It's not what it looks like.",
+        "prevSpeaker": "Jim",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "It's exactly what it looks like.  You've teamed up with someone younger and in better shape.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "No, Frasier, you know I don't care about such superficial things.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You know, that Jim is bad news.  He struts around here in those ridiculous-looking Swedish goggles that everybody thinks are so cool.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_smugly_] Jim.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You know, I just wish you'd told me sooner instead of waiting until the last minute.  Does Jim know you're passive-agressive?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Believe me, neither Jim nor I expected this to happen, but our games just meshed.  We would have teamed up sooner, but the timing was never right.  Either Jim was with a squash partner, or I was playing with you...",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Fine, go, just go, go, go to your new partner.  I don't care, who needs you?  [_Niles grabs his raquet and begins to exit._] ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Niles...don't forget to wear your wrist brace, you know how easily you sprain.  [_They exchange a caring look.  Niles then thinks better of it and quickly exits.  An attractive woman dressed in warm-ups then enters from the opposite door._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Chelsea"
+    },
+    {
+        "speaker": "Chelsea",
+        "text": "Hi...Frasier!  Chelsea Gray.  We met a few months ago.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, yes! [_They shake hands vigorously._]",
+        "prevSpeaker": "Chelsea",
+        "nextSpeaker": "Chelsea"
+    },
+    {
+        "speaker": "Chelsea",
+        "text": "You were kicking the Gatorade machine.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Of course, I remember.  I had inserted my dollar bill with Washington's face up as per the diagram and was vended nothing.",
+        "prevSpeaker": "Chelsea",
+        "nextSpeaker": "Chelsea"
+    },
+    {
+        "speaker": "Chelsea",
+        "text": "[_laughing_] Did you ever write that letter?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Indeed I did.  The matter still pends.",
+        "prevSpeaker": "Chelsea",
+        "nextSpeaker": "Chelsea"
+    },
+    {
+        "speaker": "Chelsea",
+        "text": "[_enjoying an easy chemistry with him_] Aah!  So, did you sign up for the tournament?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Uh, well, I was going to, but, uh, I just found out my, uh, customary partner has made other plans this year.",
+        "prevSpeaker": "Chelsea",
+        "nextSpeaker": "Chelsea"
+    },
+    {
+        "speaker": "Chelsea",
+        "text": "Well, would you be interested in playing mixed doubles?  I'm a girls PE teacher, so it'd be nice to play with a guy for a change.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, thanks for the offer, but after what I've just been through, I'm not sure I'm ready to partner up again.",
+        "prevSpeaker": "Chelsea",
+        "nextSpeaker": "Chelsea"
+    },
+    {
+        "speaker": "Chelsea",
+        "text": "That's too bad.  I've seen you play.  We'd make a good team.  [_Jim walks by and hears this._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Jim"
+    },
+    {
+        "speaker": "Jim",
+        "text": "You already resorting to playing with the girls, Frasier? No offense, sweetie. [_He clicks his tongue and exits._] ",
+        "prevSpeaker": "Chelsea",
+        "nextSpeaker": "Chelsea"
+    },
+    {
+        "speaker": "Chelsea",
+        "text": "Excuse me.  [_She takes her raquet and hits a ball forcefully in the direction Jim just went._] ",
+        "prevSpeaker": "Jim",
+        "nextSpeaker": "Jim"
+    },
+    {
+        "speaker": "Jim",
+        "text": "[_offstage_] OW!",
+        "prevSpeaker": "Chelsea",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_impressed_] Nice shot, partner!  **TROPHY GIRLFRIEND**  [_Scene 2 - Frasier's apartment. Frasier and Chelsea enter.  They are carrying two trophy cups._] ",
+        "prevSpeaker": "Jim",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Here we are.  Hello, all!  You'll never guess who just won their squash tournament!  [_Daphne, Niles, and Martin are all seated at the dining table._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "If only we had a big, shiny clue.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well, hey, that's great news.  Congratulations!",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Chelsea"
+    },
+    {
+        "speaker": "Chelsea",
+        "text": "Well, I owe it all to my partner.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, thank you, partner, but I think it's really due to our partnership. [_They hold hands._]",
+        "prevSpeaker": "Chelsea",
+        "nextSpeaker": "Chelsea"
+    },
+    {
+        "speaker": "Chelsea",
+        "text": "Aha, well, now you know what they say, there's no \"I\" in \"team.\"",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Like there is in \"Niles!\"  So here, Dad.  Check it out!",
+        "prevSpeaker": "Chelsea",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_taking the trophy_] Well, would you look at that!  I didn't think I'd ever see the day one of my boys would win a trophy that didn't have a book on it.  Now all that's left on my list is shake hands with Hank Aaron, kiss Sally Field on the mouth, and then I can go on and be with your mother.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "You know, Jim and I may have our own trophy soon.  We're still alive in the men's doubles bracket.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, please, Niles, your partner couldn't be carrying you any more if he put you in a Snugli and strapped you to his stomach.  [_Frasier and Chelsea laugh.  He puts the trophy on the bookcase._] ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well, I'm proud of both of you.  And Squash might not be the toughest of sports, but it's still technically a sport.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Chelsea"
+    },
+    {
+        "speaker": "Chelsea",
+        "text": "What?  Squash can be pretty tough. [_Martin begins to dismiss this._] Oh, no!  No, no.  I once saw a man break his leg in a mid-court collision.  The bone was poking through his skin, and he still finished the point.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_incredulous_] That's the game you guys play?",
+        "prevSpeaker": "Chelsea",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_uneasily_] Hell, yeah!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Chelsea"
+    },
+    {
+        "speaker": "Chelsea",
+        "text": "Frasier, do you mind if I use your phone?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No, of course not.  I'll tell you what.  Come use the one in the other room.  That'll give you some privacy.  After you, my lady. [_They exit to Frasier's room._]",
+        "prevSpeaker": "Chelsea",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "You know, Dad, when Jim and I win our trophies, I'm going to give mine to you.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Thank you son!  But I don't want you moping around here if your brother wins one and you don't.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, please, Dad, I'm a little more mature than that.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "No, you're not. [_He heads for the chair.  Daphne has exited._] It still bugs you that his name comes first alphabetically.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well, that was your fault.  [_Daphne and Frasier both re-enter from opposite directions._] ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Your girlfriend seems nice.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "She is nice, but she's certainly not my girlfriend.  I do find her attractive, but I'm not sure I'm anything more than a teammate to her.  [_They sit on the couch._] ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Well, from what I've seen, I'd say she likes you a lot.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Really?  She did kiss me once.  But I think that was just in an overflow of emotion after one of our victories.  You know, I suppose that happens all the time on sports teams.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_indignantly_] It doesn't!  Of course I can't speak for the Canadian leagues.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, truth be told, now that there's not the excitement of the tournament to fuel the fires, I don't think we really have much in common in the real world.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_childishly_] You have your ostentations trophies.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Chelsea"
+    },
+    {
+        "speaker": "Chelsea",
+        "text": "[_re-entering_] Well, it was good seeing you all, but I have to get going?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Oh, so soon?",
+        "prevSpeaker": "Chelsea",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "You just got here.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Chelsea"
+    },
+    {
+        "speaker": "Chelsea",
+        "text": "I have an early faculty meeting.  [_She grabs her trophy, where Niles's hand is resting.  He very reluctantly releases it._] ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I'll walk you out.",
+        "prevSpeaker": "Chelsea",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Come back!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Bye!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Bye!",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Chelsea"
+    },
+    {
+        "speaker": "Chelsea",
+        "text": "Bye!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "See ya!",
+        "prevSpeaker": "Chelsea",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Congratulations.  [_Frasier and Chelsea exit to the hallway.  She calls the elevator._] ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, I, uh, I certainly had a great time the last few weeks.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Chelsea"
+    },
+    {
+        "speaker": "Chelsea",
+        "text": "Me too.  Call me again if you want to play sometime.  [_The elevator arrives.  She enters it, then stops the door._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Chelsea"
+    },
+    {
+        "speaker": "Chelsea",
+        "text": "I don't suppose you'd want to take this to the next level?",
+        "prevSpeaker": "Chelsea",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, I gave up my dream of professional Squash years ago.",
+        "prevSpeaker": "Chelsea",
+        "nextSpeaker": "Chelsea"
+    },
+    {
+        "speaker": "Chelsea",
+        "text": "That's not what I meant.  Um, maybe I could think of another way to put it.  [_She leans forward and kisses him on the mouth.  He is surprised and delighted.  As the elevator door closes, she smiles and waves.  Frasier beams.  Fade out._]  [_Scene 3 - Cafe Nervosa. Daphne is at the counter.  Frasier enters._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Hi, Daph!",
+        "prevSpeaker": "Chelsea",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Hey, I didn't expect to see you here.  Niles said you were going out with Chelsea.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, yes, I just thought I'd stop by for a quick pick-me-up before I pick her up.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Does she laugh at that kind of stuff?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You know, she does.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Hold on to this one.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I intend to.  Uh, espresso please.  You know, every day I learn something new about her.  She enjoys reading poetry in the bath. She's an excellent cook.  It's like she's the perfect girl for me.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Well, I think you make a lovely couple.  Even though Niles can't believe you're dating a gym teacher.  He says it's a betrayal of your younger selves.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, it's perfectly understandable.  We didn't have much luck with gym teachers when we were kids.  They were always so derisive and ego-crippling.  There was this one in particular, Coach Fuller.  He was the worst.  The kind of man that would make the whole class wait while you did your pushup.  It was so traumatizing, you know, I would actually lose my lunch before gym period.  Except on those days when my lunch money was stolen.  Then I'd just dry heave.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "[_grabbing her order_] Niles has tons of stories like that.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You know...perhaps getting to know Chelsea will help Niles to exorcise his demons and put them behind him.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "He's running out of room back there.  [_Roz enters._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Hey, Roz! [_She exits._]",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Hey, Daphne.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You all right?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Well, I was fine until I saw Julia in the parking lot.  Why does she have to come here?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "For God's sake, Roz, I'm a little tired of hearing you complain about Julia all the time.  Why don't you just give her a chance?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "How about her?  I've been working with her for over a month and she shows me no respect.  She's mean and arrogant, but not in a funny way like you.  Could I have a latte, please?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Listen, the woman took a portion of my show to do her financial drivel.  You don't hear me complaining about her all the time. Now enough is enough. [_Julia has entered and is at the counter._] Julia...why don't you come and join us?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Julia"
+    },
+    {
+        "speaker": "Julia",
+        "text": "Oh, all right.  Thank you. [_She sits, ignoring Roz._] Hello, Frasier.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, isn't this nice.  [_Julia removes her coat and continues to ignore Roz, looking only at Frasier._] ",
+        "prevSpeaker": "Julia",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "All right, it's come to my attention that there is some tension between the two of you.  Now, as it is entirely possible that we will be spending a great deal of time together, I think it's important that we establish an environment of mutual respect. To that end, as it is impossible for the two of you to communicate at all, it's time for me to roll up my sleeves and facilitate. Finding some common ground would be the first step, perhaps a love of plants, the seed...",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Julia"
+    },
+    {
+        "speaker": "Julia",
+        "text": "You sure love to hear yourself talk.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "And it's impossible to tune him out.",
+        "prevSpeaker": "Julia",
+        "nextSpeaker": "Julia"
+    },
+    {
+        "speaker": "Julia",
+        "text": "How can you stand it?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "The key is to know when to say \"uh-huh.\"",
+        "prevSpeaker": "Julia",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Fine, fine, all right.  If I am you common ground, so be it. Please feel free to tread upon me.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Uh-huh.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "The important thing is that you're talking.  Communication...",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Julia"
+    },
+    {
+        "speaker": "Julia",
+        "text": "Just go!  [_He exits.  Julia drinks her coffee._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Julia"
+    },
+    {
+        "speaker": "Julia",
+        "text": "Okay, he's gone.  [_They quickly separate, take their coffee and move to tables far apart. Fade out._]  [_Scene 4 - High school gym. Chelsea is giving basketball drills to a group of girls.  Her shirt reads \"Patterson Middle School.\"  Frasier enters._] ",
+        "prevSpeaker": "Julia",
+        "nextSpeaker": "Chelsea"
+    },
+    {
+        "speaker": "Chelsea",
+        "text": "Slowly.  Oh.  Be with you in a minute.  You can wait in my office.  [_Frasier runs across the gym to the office.  We hear Chelsea as Frasier explores the office._] ",
+        "prevSpeaker": "Julia",
+        "nextSpeaker": "Chelsea"
+    },
+    {
+        "speaker": "Chelsea",
+        "text": "[_to the class_] Very nice, nice...All right, concentrate!  Very good, alright!",
+        "prevSpeaker": "Chelsea",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_reading a note_] \"Please excuse my daughter Ruby from P.E.  She has a 'delibitating' disease.\"  Nice try, Ruby.",
+        "prevSpeaker": "Chelsea",
+        "nextSpeaker": "Chelsea"
+    },
+    {
+        "speaker": "Chelsea",
+        "text": "[_blowing the whistle_] Okay, who didn't climb rope yet?  Campbell, you're up!  [_Chelsea runs to the office.  A slightly heavy-set girl timidly approaches the rope.  The rest of the class gathers to watch her.  She is like a deer in the headlights.  Cut to the office._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Chelsea"
+    },
+    {
+        "speaker": "Chelsea",
+        "text": "[_kisses Frasier_] Oh, I'd forgotten how it felt to sneak a kiss in school.",
+        "prevSpeaker": "Chelsea",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "It always looked like fun.",
+        "prevSpeaker": "Chelsea",
+        "nextSpeaker": "Chelsea"
+    },
+    {
+        "speaker": "Chelsea",
+        "text": "So I'll be finished here in a second and then we can go.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Great, great, I thought we'd try this new place.  I just...",
+        "prevSpeaker": "Chelsea",
+        "nextSpeaker": "Chelsea"
+    },
+    {
+        "speaker": "Chelsea",
+        "text": "[_blowing the whistle toward the gym_] Campbell, you're not even trying!  [_to Frasier_] Sorry, you were saying?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yeah, I read a great review of this new restaurant.  Apparently the chef is from...  [_The Bell rings, and Chelsea blows the whistle._] ",
+        "prevSpeaker": "Chelsea",
+        "nextSpeaker": "Chelsea"
+    },
+    {
+        "speaker": "Chelsea",
+        "text": "[_yelling_] No one is leaving until Campbell climbs the rope! [_to Frasier_] Excuse me for a moment. [_blows whistle again and goes out to the gym.  The girl is struggling mightily to climb the rope._] Come on!  You can sleep through English! Toughen up, you can do it!  Let's go, Campbell!  Everybody's waiting!  [_During Frasier's observation of the above, Chelsea's voice begins to become like an echo.  Gradually, Frasier no longer hears Chelsea yelling at the girl, but the hated coach Fuller yelling at him._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Fuller"
+    },
+    {
+        "speaker": "Fuller",
+        "text": "Come on, Crane!  Nobody is going home until you haul that fat bucket of lard to the top!  [_Frasier now sees Fuller, and not Chelsea, in the gym.  The lights are off, and he sees himself (not as a child) hanging helplessly on the rope._] ",
+        "prevSpeaker": "Chelsea",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_on the rope, crying, in gym clothes_] I can't!  [_The imaginary Frasier slides off the rope.  Frasier, observing this from the office, is clearly deeply disturbed.  Reality quickly returns as Chelsea goes back to the office._] ",
+        "prevSpeaker": "Fuller",
+        "nextSpeaker": "Chelsea"
+    },
+    {
+        "speaker": "Chelsea",
+        "text": "Just give me a few minutes, and I'll be ready to go.  Oh, I just need you to do one thing.  [_Frasier suddenly sees Coach Fuller, cigar in mouth, in front of him._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Fuller"
+    },
+    {
+        "speaker": "Fuller",
+        "text": "Drop and give me 20, Crane!",
+        "prevSpeaker": "Chelsea",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I beg your pardon?",
+        "prevSpeaker": "Fuller",
+        "nextSpeaker": "Chelsea"
+    },
+    {
+        "speaker": "Chelsea",
+        "text": "Could you just round up the basketballs and put them in the rack over there?  Thanks.  [_She kisses him on the cheek, then again loudly blows the whistle at the class.  Frasier is distressed by what he sees in both reality and fantasy. He rolls his eyes back and forth, obviously shaken.  Fade out._]  _END OF ACT I   ACT II_  [_N.B. From here until nearly the end of the episode, Frasier sees Chelsea as Coach Fuller.  Since Bob Hoskins is in the scenes and speaks the lines, the speech headings read \"Fuller,\" even though we know it is really Chelsea who is speaking._]  [_Scene 5 - Cafe Nervosa. Frasier is seated, drinking coffee, clearly troubled.  Daphne drags an unwilling Niles to the table._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Frasier, Niles has something he needs to tell you.  [_She seats him.  He hesitates._] ",
+        "prevSpeaker": "Chelsea",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Go on, tell him, I'm sick of hearing you complain!",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_in a quick, declarative manner_] I made a mistake partnering with Jim.  Our styles never really meshed, which wasn't my fault, but that didn't stop him from losing his temper during a match, and he yelled at me.  With you, it was different. You brought honor to the game.  Rejoin me, Frasier, and together we can rekindle the magic. [_His voice breaks. Frasier looks on, sympathetically._]",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Please, take him back.  I cannot listen to another draft of this speech.  I'll see you at home, sweetie [_kisses him_].",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Thanks, hon.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Niles, I'll gladly re-team with you.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Just like that? [_Frasier nods._] I expected you to gloat and rub it in, make me suffer.  Don't you care?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, my apologies, Niles, it's just that I'm a little distracted about something that happened yesterday at Chelsea's school.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I'm sorry, but that reminds me.  Chelsea sent me the sweetest gift after Jim and I were eliminated from the tournament.  It's an actual squash with a smiley face drawn on it.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "That's cute.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "You know, when you first started dating her, I couldn't get past the fact that she was a gym teacher.  But she's proven to be nothing like I expected.  Kudos to you.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, not sure I deserve such praise.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "No, no, don't be so modest, Frasier.  You truly have a gift for seeing the inner beauty of a person.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I do try.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Speak of the devil.  Here's Dad and Chelsea now.  [_Martin and Chelsea enter, but we, along with Frasier, see Coach Fuller in his gym clothes and with cigar._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Hey, guys.  Look who I ran into.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Hello, Dad.  Hi, Chelsea!  [_Chelsea (Fuller) gives Niles a hug._] ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Fuller"
+    },
+    {
+        "speaker": "Fuller",
+        "text": "Niles.  Hello sweetie! [_He kisses Frasier._]",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "That's a lovely outfit.",
+        "prevSpeaker": "Fuller",
+        "nextSpeaker": "Fuller"
+    },
+    {
+        "speaker": "Fuller",
+        "text": "Really?  You think so, huh? [_He turns around._] I thought it might be a little racy, but then I thought, what the hell. What do you think, Frasier?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, uh, it's very becoming.",
+        "prevSpeaker": "Fuller",
+        "nextSpeaker": "Fuller"
+    },
+    {
+        "speaker": "Fuller",
+        "text": "Thank you.  Just let me grab a drink and we'll be ready to go.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_sitting_] I usually stay out of your love affairs, son, but you've got a good one here.  Definitely a keeper.",
+        "prevSpeaker": "Fuller",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Yes, and might I add, and excuse my gutter speak, hubba, hubba!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Back to our best behavior, there's a lady present!  [_Chelsea/Fuller returns and kisses Frasier on the head._] ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Fuller"
+    },
+    {
+        "speaker": "Fuller",
+        "text": "I'm ready, sweetie!  [_(S)he hugs him around the neck, transferring the cigar to his mouth. Frasier smiles uncomfortably.  Fade out._]  [_Scene 6 - Frasier's bathroom. There are candles all around.  Frasier is in the bath.  Chelsea/Fuller, still in gym clothes, is scrubbing his back with a loofah and reading from a book of poetry.  Mood music plays in the backgroung._] ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Fuller"
+    },
+    {
+        "speaker": "Fuller",
+        "text": "\"Love is a smoke raised in the fume of sighs, being purged, a fire sparkling in a lover's eyes...\" You all right?",
+        "prevSpeaker": "Fuller",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_distracted_] What?  I'm fine.",
+        "prevSpeaker": "Fuller",
+        "nextSpeaker": "Fuller"
+    },
+    {
+        "speaker": "Fuller",
+        "text": "[_continuing to scrub and read_] \"I am a vessel.  Come tenderly and fill me with the nectar of your love.\"  [_(S)he begins to scrub his chest.  Frasier looks troubled and helpless. Fade out._]  [_Scene 7 - Cafe Nervosa. Kenny and Julia are seated at a table._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "So I figure since you're the financial guru, you could help me out.  Now obviously, I don't want to get involved in some get-rich-quick scheme, but I do need to make a lot of money really fast.  So what have you got?",
+        "prevSpeaker": "Fuller",
+        "nextSpeaker": "Julia"
+    },
+    {
+        "speaker": "Julia",
+        "text": "[_reading a newspaper_] I don't like to talk about work when I'm outside the office.",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "Oh.",
+        "prevSpeaker": "Julia",
+        "nextSpeaker": "Julia"
+    },
+    {
+        "speaker": "Julia",
+        "text": "[_to the waitress handing her coffee_] Thank you.  [_Roz enters._] ",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "Right.  Me neither. [_He becomes uncomfortable._] Hey, there's Roz!  Hey, Roz, come join us.",
+        "prevSpeaker": "Julia",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "I don't think so.",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "No, no, no, I won't take no for an answer.  Now you sit down.  [_He seats her in the chair he was occupying._] ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Hi, Julia.",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Julia"
+    },
+    {
+        "speaker": "Julia",
+        "text": "Roz.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Kenny"
+    },
+    {
+        "speaker": "Kenny",
+        "text": "Well, I know girl talk when I hear it.  Bye.  [_He quickly exits._] ",
+        "prevSpeaker": "Julia",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "I'll go this time.",
+        "prevSpeaker": "Kenny",
+        "nextSpeaker": "Julia"
+    },
+    {
+        "speaker": "Julia",
+        "text": "Thanks.  [_She rises and begins to leave, then stops._] ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "You know, maybe Frasier was right.  Would it kill us to make some effort to be civil?",
+        "prevSpeaker": "Julia",
+        "nextSpeaker": "Julia"
+    },
+    {
+        "speaker": "Julia",
+        "text": "I guess not.  [_Roz sits again.  A waitress brings coffee._] ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Thanks.  [_to Julia_] So, your show was good today.",
+        "prevSpeaker": "Julia",
+        "nextSpeaker": "Julia"
+    },
+    {
+        "speaker": "Julia",
+        "text": "[_grinning_] Yes, it was.  And...and your producing was topnotch.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Thanks.  Sugar?",
+        "prevSpeaker": "Julia",
+        "nextSpeaker": "Julia"
+    },
+    {
+        "speaker": "Julia",
+        "text": "Please.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Well, this isn't so bad.",
+        "prevSpeaker": "Julia",
+        "nextSpeaker": "Julia"
+    },
+    {
+        "speaker": "Julia",
+        "text": "No, it's not.  Maybe we just got off on the wrong foot.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Well, when you first started, you know, I just thought you were kind of a bitch for ordering everybody around.",
+        "prevSpeaker": "Julia",
+        "nextSpeaker": "Julia"
+    },
+    {
+        "speaker": "Julia",
+        "text": "That's totally my fault.  I have a tendency to be patronizing to, um, entry-level employees.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "You know, I was going to say something earlier, but when I heard your first show, I figured you wouldn't be here long.  [_She sips her coffee.  Julia laughs._] ",
+        "prevSpeaker": "Julia",
+        "nextSpeaker": "Julia"
+    },
+    {
+        "speaker": "Julia",
+        "text": "Well, you certainly made an impression on me.  I remember, I kept thinking: \"Who did she sleep with to get this job?\"  And then I found out.  Everybody!",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "That's a good one! [_they laugh_] You know, there's a plunger in the bathroom, what do you say we go look for your career?",
+        "prevSpeaker": "Julia",
+        "nextSpeaker": "Julia"
+    },
+    {
+        "speaker": "Julia",
+        "text": "Great!  While we're in there I can get your phone number.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Don't bother, it's 1-800-BITE ME.",
+        "prevSpeaker": "Julia",
+        "nextSpeaker": "Julia"
+    },
+    {
+        "speaker": "Julia",
+        "text": "\"Bite me,\" that's the best that you've got?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Oh, I could spend half an hour on your hair.",
+        "prevSpeaker": "Julia",
+        "nextSpeaker": "Julia"
+    },
+    {
+        "speaker": "Julia",
+        "text": "Well, you should have spent half an hour on _your_ hair.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Oh, really? [_They laugh warmly._]",
+        "prevSpeaker": "Julia",
+        "nextSpeaker": "Waitress"
+    },
+    {
+        "speaker": "Waitress",
+        "text": "It's closing time, ladies, I'm afraid you'll have to leave. [_She gives them the check._]",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "But we're just warming up.",
+        "prevSpeaker": "Waitress",
+        "nextSpeaker": "Julia"
+    },
+    {
+        "speaker": "Julia",
+        "text": "You know, there's a place down the street that, uh, is open all night.  [_They rise and begin to exit._] ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Just like your mouth?",
+        "prevSpeaker": "Julia",
+        "nextSpeaker": "Julia"
+    },
+    {
+        "speaker": "Julia",
+        "text": "Just like your legs?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Hey, wait up!  [_Roz quickly pursues Julia out of the cafe.  Fade out._]  [_Scene 8 - Frasier's bedroom. He is lying on his side, shirtless.  Chelsea/Fuller is seated in the bed next to him, still in the same gym clothes._] ",
+        "prevSpeaker": "Julia",
+        "nextSpeaker": "Fuller"
+    },
+    {
+        "speaker": "Fuller",
+        "text": "So, we're just going to go to sleep, huh?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I'm really tired.",
+        "prevSpeaker": "Fuller",
+        "nextSpeaker": "Fuller"
+    },
+    {
+        "speaker": "Fuller",
+        "text": "You sure you don't want to watch TV or get something to eat?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No.",
+        "prevSpeaker": "Fuller",
+        "nextSpeaker": "Fuller"
+    },
+    {
+        "speaker": "Fuller",
+        "text": "I know someone who's ticklish!  [_(S)he begins go reach under the covers to tickle Frasier._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, no, stop, stop, stop!",
+        "prevSpeaker": "Fuller",
+        "nextSpeaker": "Fuller"
+    },
+    {
+        "speaker": "Fuller",
+        "text": "Okay, Frasier.  You've been acting weird all day.  What's going on?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, it's a little complicated?",
+        "prevSpeaker": "Fuller",
+        "nextSpeaker": "Fuller"
+    },
+    {
+        "speaker": "Fuller",
+        "text": "What is?  Is there a problem? [_(S)he looks at him with deep concern._]",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, Chelsea, there is.  It disturbed me yesterday when I saw you yelling at that little girl on the rope.  I couldn't believe how harsh you were.  You may not realize it, but that can have a crippling effect on a child.",
+        "prevSpeaker": "Fuller",
+        "nextSpeaker": "Fuller"
+    },
+    {
+        "speaker": "Fuller",
+        "text": "What?  I didn't think I was being excessively harsh.  I was just trying to motivate her.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, well, the way you were shouting, it was hard to tell.  When you're a child, all you know is you're being singled out. [_sighs_] I have no right to tell you how to do your job, it's my problem, not yours.",
+        "prevSpeaker": "Fuller",
+        "nextSpeaker": "Fuller"
+    },
+    {
+        "speaker": "Fuller",
+        "text": "No, no, you may have a point.  Maybe I do push too hard. Sometimes, I forget just how fragile kids can be.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Really?  You agree with me?",
+        "prevSpeaker": "Fuller",
+        "nextSpeaker": "Fuller"
+    },
+    {
+        "speaker": "Fuller",
+        "text": "Yes, I do.  Thank you, Frasier.  [_They embrace.  As they release each other, Frasier now sees Chelsea as herself, in a sexy nightgown._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Chelsea"
+    },
+    {
+        "speaker": "Chelsea",
+        "text": "It's sweet of you to care so much.",
+        "prevSpeaker": "Fuller",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, you're worth caring about. [_They kiss._]",
+        "prevSpeaker": "Chelsea",
+        "nextSpeaker": "Chelsea"
+    },
+    {
+        "speaker": "Chelsea",
+        "text": "Now, come on, let's go have a nice romantic dinner.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_excited_] Okay, let me just go get ready. [_He runs to the bathroom._] You know, when I heard you shouting at that little girl today, I swear, it just brought back a _flood_ of memories from my own childhood. [_He goes in the bathroom and closes the door._]",
+        "prevSpeaker": "Chelsea",
+        "nextSpeaker": "Chelsea"
+    },
+    {
+        "speaker": "Chelsea",
+        "text": "Really?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, yeah.  [_Chelsea gets dressed as she listens to Frasier's speech from the bathroom._] ",
+        "prevSpeaker": "Chelsea",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You know, my gym teacher was constantly yelling at me because I couldn't do a single pull-up, or a lap around the track.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Chelsea"
+    },
+    {
+        "speaker": "Chelsea",
+        "text": "[_troubled by this_] Not even one?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, please.  I was a very late bloomer.  I could barely do a jumping jack without getting a nosebleed.  And let's not begin to talk about the climbing rope!  There we go, all done!  [_Chelsea finishes dressing.  As Frasier exits the bathroom, Chelsea sees him not as himself, but as Campbell, the little girl from gym class, in her P.E. clothes._] ",
+        "prevSpeaker": "Chelsea",
+        "nextSpeaker": "Girl"
+    },
+    {
+        "speaker": "Girl",
+        "text": "Well, what do you say I get us a table at Petite Auberge? They do an excellent veal chop.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Chelsea"
+    },
+    {
+        "speaker": "Chelsea",
+        "text": "[_disturbed, smiling uncomfortably_] Okay.",
+        "prevSpeaker": "Girl",
+        "nextSpeaker": "Girl"
+    },
+    {
+        "speaker": "Girl",
+        "text": "After you, milady.  [_(S)he opens the door for Chelsea, who exits.  Frasier/Campbell follows her out.  Fade out._]  ",
+        "prevSpeaker": "Chelsea",
+        "nextSpeaker": "Credits"
+    }
+]

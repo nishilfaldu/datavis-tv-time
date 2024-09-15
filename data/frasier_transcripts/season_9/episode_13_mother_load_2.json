@@ -1,0 +1,1305 @@
+[
+    {},
+    {
+        "speaker": "Niles",
+        "text": "You could live here.",
+        "prevSpeaker": "No Previous Speaker",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Are you asking me?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Would you like to?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Would you like me to?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Yeah.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Then I will. _CUT TO: Frasier and Martin at home:_",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I gave the greatest speech of my condo board career, which led to a vote, which led to a ruling that Cam Winston must now park that SUV monstrosity of his in the subbasement! [ ]",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Think that's smart, taking on the guy who lives right above us? _CUT TO: Daphne coming out of her room:_",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Well, the move's off.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "What?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Just temporarily.  My parents are coming for a visit. [ ]",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Just to clarify: you're going to stay here, but your parents are going to stay with me?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "[_hugs him_] Oh, I'm so glad you understand. _CUT TO: Niles and Daphne in his kitchen:_",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "If she thinks you're a virgin, how are you going to explain our plan to live together?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "I wonder how important it is that she ever finds out. _CUT TO: The last scene:_",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Simon"
+    },
+    {
+        "speaker": "Simon",
+        "text": "Dad scarpered.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "He left?",
+        "prevSpeaker": "Simon",
+        "nextSpeaker": "Simon"
+    },
+    {
+        "speaker": "Simon",
+        "text": "Yeah.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Mrs. Moon"
+    },
+    {
+        "speaker": "Mrs. Moon",
+        "text": "It's true.  Thank goodness I have my children to lean upon.",
+        "prevSpeaker": "Simon",
+        "nextSpeaker": "Simon"
+    },
+    {
+        "speaker": "Simon",
+        "text": "Oh, don't cry, Mum.  I really thought this junket to America would cheer you up.",
+        "prevSpeaker": "Mrs. Moon",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "It still can! [ ] Get out there and see the country.",
+        "prevSpeaker": "Simon",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, immerse yourself in the spectacle and the grandeur that are these United States, this... America. _As if on cue, a huge American flag falls from the above balcony, completely covering Frasier's windows with the stars and stripes._",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "How did you do that? [ ]",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Cam Winston! _FADE TO:  ACT ONE  Scene One - The Montana Daphne is seated on the couch.  Niles brings a tray of food._",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "It was a good idea taking Mum out today, helped take her mind off Dad.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Yeah, although I'm not sure the zoo was the best idea. The sight of those amorous wolverines seemed to set her back a bit.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Amorous?  I thought they were trying to kill each other.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well, either way, it seemed to remind her of something.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Hello, Mrs. Moon.  Would you care for a bite to eat?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Mrs. Moon"
+    },
+    {
+        "speaker": "Mrs. Moon",
+        "text": "Oh, that would be lovely - if I thought I could keep anything down. [_sinks into a chair_] How could your father do this to me?  You sleep down the hall from someone for forty years, you think you know them!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "I know you're upset, Mum, but it's not like you and Dad had a perfect marriage.",
+        "prevSpeaker": "Mrs. Moon",
+        "nextSpeaker": "Mrs. Moon"
+    },
+    {
+        "speaker": "Mrs. Moon",
+        "text": "That's because there's no such thing!  You young modern people think marriage is some sort of promenade through paradise, when it's more like a march through Hell with a man strapped to your back and a litter of nasty babies swinging from your teats!",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Obviously, this is a very upsetting time for all of us. But, remember, tomorrow is another day!",
+        "prevSpeaker": "Mrs. Moon",
+        "nextSpeaker": "Mrs. Moon"
+    },
+    {
+        "speaker": "Mrs. Moon",
+        "text": "You're right, dear.  And the sooner you get home to bed, the sooner it'll be here.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "But it's only 9:30!",
+        "prevSpeaker": "Mrs. Moon",
+        "nextSpeaker": "Mrs. Moon"
+    },
+    {
+        "speaker": "Mrs. Moon",
+        "text": "And with every tick of the clock, your womanly resistance weakens, and before you know it he'll be on top of you like one of those bloody badgers at the zoo.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Actually, those were wolverines, and there's a chance they may have been fighting.",
+        "prevSpeaker": "Mrs. Moon",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "It has been a long day.  Maybe it's best if I leave.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "All right.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "I'll see you tomorrow, Mum. [_kisses her Mum and goes to the door_] Goodnight, Niles.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Goodnight. _They start to kiss, but Mrs. Moon turns to look at them, so they just shake hands.  Daphne leaves.  FADE OUT  Scene Two - Apartment Frasier is standing by the fireplace, staring at the flag covering his windows.  Martin comes out in his robe._",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh, hey.  You still up?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I can't sleep.  Every time I look outside, I feel like I'm living inside a giant clown's pocket.  I tell you, Cam Winston has not heard the last of this.  I am calling an emergency meeting of the condo board tomorrow morning!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "You can't fight this, Frasier.  It'll just look like you're attacking the flag.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I'm not attacking the flag, Cam is using the flag to attack me!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "You're right, but you're still going to lose.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, but-but the building has bylaws about this sort of thing. If this was anything but the American flag, people would demand that it be taken down!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Face it, Fras, Cam's got you on this one.  Boy, I have to say, that guy is smart.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, really?  Well, if he's so smart and you're so smart, why don't you two live together?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "At least he's got a view. _The door opens, and Simon stumbles in with a bottle in one hand and the other arm wrapped around a blowzy brunette.  They are both drunk._",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Simon"
+    },
+    {
+        "speaker": "Simon",
+        "text": "Hello!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "What on earth do you think you're doing?!",
+        "prevSpeaker": "Simon",
+        "nextSpeaker": "Simon"
+    },
+    {
+        "speaker": "Simon",
+        "text": "Oh, sorry, I-I didn't know you was here.  Uh, Frasier, this is Loretta. [_she waves_] Loretta... well, you know who you are. [_they laugh_]",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Loretta"
+    },
+    {
+        "speaker": "Loretta",
+        "text": "[_sees the flag and gasps_] I love your curtains!",
+        "prevSpeaker": "Simon",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I'm sorry, miss, but we are not entertaining guests this evening.  You'll have to leave.",
+        "prevSpeaker": "Loretta",
+        "nextSpeaker": "Loretta"
+    },
+    {
+        "speaker": "Loretta",
+        "text": "[_to Simon_] Wait, you told me this was your place!  You're probably not even the Duke of England! [_exits_]",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Simon"
+    },
+    {
+        "speaker": "Simon",
+        "text": "Oh, yeah?  Then why do I talk this way?",
+        "prevSpeaker": "Loretta",
+        "nextSpeaker": "Simon"
+    },
+    {
+        "speaker": "Simon",
+        "text": "Well, you're just a big contraceptive, aren't you? [_takes a swig_]",
+        "prevSpeaker": "Simon",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I've just about had it with you, Simon. [_goes to the hall and picks up Simon's duffel bag_] You have blown my speakers, clogged my Jacuzzi, and you have ingested half of my bath products! [_throws the duffel out the door_] You are no longer welcome in my home.",
+        "prevSpeaker": "Simon",
+        "nextSpeaker": "Simon"
+    },
+    {
+        "speaker": "Simon",
+        "text": "What exactly are you implying?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "GET OUT!",
+        "prevSpeaker": "Simon",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Fras, you can't throw him out, where's he gonna go?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, he'll land on his feet.  Probably end up shacking up with some two-bit floozy! _SMASH CUT TO:  Scene Three - Roz's Apartment Close-up of Simon tapping on someone's window.  It's Roz's apartment.  She's been reading on her couch, when the noise makes her jump._",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Simon! [_gets up and opens the door_] What are you doing here?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Simon"
+    },
+    {
+        "speaker": "Simon",
+        "text": "[_stepping in_] Hello, love.  It appears that the front door to the building is locked.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Yeah, that's how we keep drunks from wandering in. [_pushes him out_]",
+        "prevSpeaker": "Simon",
+        "nextSpeaker": "Simon"
+    },
+    {
+        "speaker": "Simon",
+        "text": "Well, I seem to be without appropriate accommodation at the moment, I just thought I'd take you up on your kind and generous offer-",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "I never said you could stay here!",
+        "prevSpeaker": "Simon",
+        "nextSpeaker": "Simon"
+    },
+    {
+        "speaker": "Simon",
+        "text": "But Frasier's thrown me out!",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Sleep in Martin's Winnebago.",
+        "prevSpeaker": "Simon",
+        "nextSpeaker": "Simon"
+    },
+    {
+        "speaker": "Simon",
+        "text": "Well, wouldn't I love to do that.  But when I got down there, there was this gigantic Humvee blocking the door.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Simon, this isn't my problem.  You have got to go. _Simon puts down his duffel and adopts a new tone, one we've never heard before - gentle and earnest._",
+        "prevSpeaker": "Simon",
+        "nextSpeaker": "Simon"
+    },
+    {
+        "speaker": "Simon",
+        "text": "Look, Roz, I'll level with you.  I know that we've had a checkered history, and I'm probably not the sort of person that you want in your house.  But I'm asking for your help. As a friend, as Daphne's brother, please just let me stay one night.  You won't even notice me.  Just the tiniest spot on the floor would be a gift.  Look, I'll be gone in the morning, I'll never darken your doorstep again.  Please, Roz, I've got nowhere else to go.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "...All right.  I'll make up the couch for you.",
+        "prevSpeaker": "Simon",
+        "nextSpeaker": "Simon"
+    },
+    {
+        "speaker": "Simon",
+        "text": "Oh, thank you, Roz.  You have got a good heart.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Yeah.",
+        "prevSpeaker": "Simon",
+        "nextSpeaker": "Simon"
+    },
+    {
+        "speaker": "Simon",
+        "text": "[_boorish again_] Climb on up, Susie!  We're golden! [_laughs_] She can swing on a pole for two hours, but she can't climb up a drainpipe to save her life!",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Simon"
+    },
+    {
+        "speaker": "Simon",
+        "text": "Oi, what-? [_yells down_] Heads up, Susie! _Then she shuts the window, locking him outside.  FADE TO:  Scene Four - The Montana Mrs. Moon is smoking and playing poker with Niles._",
+        "prevSpeaker": "Simon",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Two, please. [_she deals him two_] Thank you... ha-ha!",
+        "prevSpeaker": "Simon",
+        "nextSpeaker": "Mrs. Moon"
+    },
+    {
+        "speaker": "Mrs. Moon",
+        "text": "Well, show us what you got.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I've got a king, a jack, a 10, and two 6's.",
+        "prevSpeaker": "Mrs. Moon",
+        "nextSpeaker": "Mrs. Moon"
+    },
+    {
+        "speaker": "Mrs. Moon",
+        "text": "Two sixes, then.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "And-and a king.",
+        "prevSpeaker": "Mrs. Moon",
+        "nextSpeaker": "Mrs. Moon"
+    },
+    {
+        "speaker": "Mrs. Moon",
+        "text": "I'm sorry, love.  I've got aces over deuces.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well, that's, uh, that's the last of my mad money.  I guess I'll have to win it back some other night.",
+        "prevSpeaker": "Mrs. Moon",
+        "nextSpeaker": "Mrs. Moon"
+    },
+    {
+        "speaker": "Mrs. Moon",
+        "text": "You'd better make it soon, I won't be around much longer.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Not if you keep biting those filters off, you won't.",
+        "prevSpeaker": "Mrs. Moon",
+        "nextSpeaker": "Mrs. Moon"
+    },
+    {
+        "speaker": "Mrs. Moon",
+        "text": "No, I mean I'll be going back to England soon.  Well, it's nice enough here, but you and Daphne aren't the most exciting people, are you? [_Niles shakes his head_] No, as soon as I've sorted myself out, Simon and I are back on the plane.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Really, you are?  Uh, can I do anything to help sort?",
+        "prevSpeaker": "Mrs. Moon",
+        "nextSpeaker": "Mrs. Moon"
+    },
+    {
+        "speaker": "Mrs. Moon",
+        "text": "Thank you, no.  Oh, the shock's worn off, really.  I've come to realize I've spent most of my life taking care of a layabout husband.  Well, now it's my turn to be taken care of.  Thank God I've got Simon.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Simon's going to be taking care of you?",
+        "prevSpeaker": "Mrs. Moon",
+        "nextSpeaker": "Mrs. Moon"
+    },
+    {
+        "speaker": "Mrs. Moon",
+        "text": "Oh, well of course he will!  I know he plays the fool sometimes, but he'd never let me down.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well, you've made a lot of progress in a short amount of time, so I can't tell you how happy I am.",
+        "prevSpeaker": "Mrs. Moon",
+        "nextSpeaker": "Mrs. Moon"
+    },
+    {
+        "speaker": "Mrs. Moon",
+        "text": "Oh... you good for a few more hands?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Why not?  Oh!  I'm out of money.",
+        "prevSpeaker": "Mrs. Moon",
+        "nextSpeaker": "Mrs. Moon"
+    },
+    {
+        "speaker": "Mrs. Moon",
+        "text": "Oh, not to worry.  We can play for rubs. [_props up her feet_]",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh!  I'll get my coin collection. _He leaves the room.  FADE TO:  Scene Five - Frasier's Apartment Frasier is sitting on the couch, staring at the flag and blowing a soft note on the lips of Simon's bottle.  Daphne comes out in her pajamas._",
+        "prevSpeaker": "Mrs. Moon",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Still awake, Dr. Crane?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes.  It's almost dawn's early light, and our flag is still there. [_gets an idea_] Daphne!  As a subject of the British realm, does it make you feel uncomfortable to have your residence draped in the American flag?  And if so, would you be willing to say that at a condo board meeting?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Personally, I find it a cozy reminder of the land I dreamed of living in as a child.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_defeated_] Off I go. _He trudges off to bed.  Daphne goes to the kitchen. Simon slips in the front door and follows her._",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Simon!  I thought Dr. Crane kicked you out.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Simon"
+    },
+    {
+        "speaker": "Simon",
+        "text": "He did, you don't see me.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "What are you doing here?",
+        "prevSpeaker": "Simon",
+        "nextSpeaker": "Simon"
+    },
+    {
+        "speaker": "Simon",
+        "text": "Well, I'm just getting some provisions for my trip. _He removes a six-pack, a large salami and assorted other items from the fridge._",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "What trip?",
+        "prevSpeaker": "Simon",
+        "nextSpeaker": "Simon"
+    },
+    {
+        "speaker": "Simon",
+        "text": "Well, I just thought I'd go meet some mates in California.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "You can't run out on Mum, she's counting on you!",
+        "prevSpeaker": "Simon",
+        "nextSpeaker": "Simon"
+    },
+    {
+        "speaker": "Simon",
+        "text": "She's got the other boys back home.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "They've all sided with Dad, you know that.  You're all she's got.",
+        "prevSpeaker": "Simon",
+        "nextSpeaker": "Simon"
+    },
+    {
+        "speaker": "Simon",
+        "text": "I'm not cut out to take care of Mum, she's too demanding. She turned Dad into a shiftless drinker.  I can't have her doing that to me! [_goes to the door_]",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "So you're just going to leave in the middle of the night and not even tell her?",
+        "prevSpeaker": "Simon",
+        "nextSpeaker": "Simon"
+    },
+    {
+        "speaker": "Simon",
+        "text": "Look, Stilts, if you want to take care of Mum, that's your choice, but I've got to live my life.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "You are so selfish!  For once in your life you have a chance to be responsible, be a man and do right by your family! Why don't you think about that before you go flitting off to California?",
+        "prevSpeaker": "Simon",
+        "nextSpeaker": "Simon"
+    },
+    {
+        "speaker": "Simon",
+        "text": "Well, I'm sorry, Daphne.  Maybe it makes me a bad person, but I don't have it in me.  It's not who I am.  I'll see you. _He exits, leaving her alone.  She closes the door and thinks.  END OF ACT ONE  ACT TWO  Scene Six - The Montana That same night, someone is knocking softly but urgently on the door. Niles checks the spyhole and opens it to Daphne, still in her pajamas._",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_whispering_] Wait, wait, quiet, quiet, quiet.  Don't wake your mother, I just got her down. [_she comes in_] What are you doing here?",
+        "prevSpeaker": "Simon",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Something terrible has happened.  Simon's left.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "What do you mean, left?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "He's gone.  He's left me to take care of Mum.  I don't know what I'm going to do, but I may have to go back to Manchester with her for a while.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "No, no, no, you can't do that.  You have a life here.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Well, what am I supposed to do?  I can't have her stay at Dr. Crane's, there's no room.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well, you can both live here.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Oh, Niles, you know she'll never go for that arrangement.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Mrs. Moon"
+    },
+    {
+        "speaker": "Mrs. Moon",
+        "text": "A bit late at night for a single lady to be in a man's home, isn't it?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "I'm here because Simon's left, off to California to do God knows what.",
+        "prevSpeaker": "Mrs. Moon",
+        "nextSpeaker": "Mrs. Moon"
+    },
+    {
+        "speaker": "Mrs. Moon",
+        "text": "Oh... well, but that's courageous!  Good to see him finally taking charge of his life.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "He's not taking charge, he left because he doesn't want to take care of you.",
+        "prevSpeaker": "Mrs. Moon",
+        "nextSpeaker": "Mrs. Moon"
+    },
+    {
+        "speaker": "Mrs. Moon",
+        "text": "That is not so!  Simon is a special boy, he wasn't meant to be kept at home.  He has dreams.  You wouldn't understand that!",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Now you listen to me, Mum!  In case you haven't noticed, I've got dreams too!  I even moved halfway across the world to make a life for myself!  Do you admire that? No, you don't even acknowledge it!  Oh, and by the way, I'm no virgin!  Haven't been for years!  You remember that boy with the lazy eye you hated so much?  Yeah, he was my first!  Did it right in the parlor where you take your tea!  Then there was the German who fixed Dad's car! Oh yeah, and that Irish chap I fancied, who was twice my age and had his own van and a band!  Then I came to America, shall I go on?!",
+        "prevSpeaker": "Mrs. Moon",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Well, I am a grown woman who's made her own life and her own decisions! [_takes Niles' hand_] Now, I plan to shack up with Niles here, and damned if we aren't going to do it every night of the week! _Now Niles' expression is a masterwork by David Hyde Pierce: a tight grin that shows mortified embarrassment fighting against unrestrained glee._ [__N.B. A much similar expression can be found in[[7.09]](/frasier/transcripts/season_7/episode_9/the_apparent_trap.html \"The Apparent Trap\") The Apparent Trap__] ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "That's the way it's gonna be, Mum, and if you don't like it, that's just tough!",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Mrs. Moon"
+    },
+    {
+        "speaker": "Mrs. Moon",
+        "text": "Is that so?  Well, if that's how you repay me for all my sacrifices-",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Oh, don't even start!",
+        "prevSpeaker": "Mrs. Moon",
+        "nextSpeaker": "Mrs. Moon"
+    },
+    {
+        "speaker": "Mrs. Moon",
+        "text": "Fine!  Just for that, I'm not spending another night under this roof.  I intend to fetch my things, find a hotel, and be on the first flight home tomorrow!  Excuse me!",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Oh God, look at me, I'm shaking!  It just came gushing out, once I started I couldn't stop!",
+        "prevSpeaker": "Mrs. Moon",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I know, it's all right, it's all right.  You were great, you were great, I have never been prouder of you.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "I can't believe I talked to my mother that way. [_laughs_]",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "You must have been pretty outraged to have invented all those former lovers. [_chuckles nervously_]",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "What?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_helping her along_] All those former lovers...",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Oh, yes, right, of course!  I'm actually surprised she's leaving so easily.  I thought she'd milk it a bit more.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Mrs. Moon"
+    },
+    {
+        "speaker": "Mrs. Moon",
+        "text": "Just so you know - I won't be needing a lift to the hotel. I shall call a taxi.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "[_not turning around_] Whatever you want.",
+        "prevSpeaker": "Mrs. Moon",
+        "nextSpeaker": "Mrs. Moon"
+    },
+    {
+        "speaker": "Mrs. Moon",
+        "text": "You'll see.  I don't need any of you rotten ingrates, I can take perfectly good care of myself!",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Glad to hear it.",
+        "prevSpeaker": "Mrs. Moon",
+        "nextSpeaker": "Mrs. Moon"
+    },
+    {
+        "speaker": "Mrs. Moon",
+        "text": "Ow!",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Oh God, what happened?",
+        "prevSpeaker": "Mrs. Moon",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Are you hurt?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Mrs. Moon"
+    },
+    {
+        "speaker": "Mrs. Moon",
+        "text": "Well, of course I'm hurt! [_they help her to a chair_] Oh, get me ice-",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "All right, all right.",
+        "prevSpeaker": "Mrs. Moon",
+        "nextSpeaker": "Mrs. Moon"
+    },
+    {
+        "speaker": "Mrs. Moon",
+        "text": "And whiskey!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "O.K.",
+        "prevSpeaker": "Mrs. Moon",
+        "nextSpeaker": "Mrs. Moon"
+    },
+    {
+        "speaker": "Mrs. Moon",
+        "text": "Not cheap stuff!  Oh, I don't know how I'm gonna fly now, the pain is unbearable!  Though I know I'm not welcome here. Oh, I can't say I blame you.  No sense burdening yourself with an old woman... who can't take care of herself... and has nowhere else to go...",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_forcing out the words_] Oh, don't be silly.  You can stay here as long as you like.",
+        "prevSpeaker": "Mrs. Moon",
+        "nextSpeaker": "Mrs. Moon"
+    },
+    {
+        "speaker": "Mrs. Moon",
+        "text": "Well, move along, the whiskey's not pouring itself. _Niles goes to the kitchen.  FADE TO:_ **NOT ONE OF THEM KNOWS THE SECOND VERSE** _Scene Seven - Building Common Room Frasier is addressing the condo board (Mr. Williams, Mrs. Richman, and another woman) and the assembled tenants._",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Are we fiercely patriotic?  Yes.  But how do we best demonstrate that?  Not by infringing on the rights and balconies of others, but as most good Americans do, in our hearts, with generous spirit and quiet reverence. I respectfully submit that when we display the flag as Mr. Winston has, it flies in the face of the very freedoms for which it stands.  Thank you. [_sits down_]",
+        "prevSpeaker": "Mrs. Moon",
+        "nextSpeaker": "Williams"
+    },
+    {
+        "speaker": "Williams",
+        "text": "Cam, rebuttal? [  > \"Patriotism,_n. Combustible rubbish ready to the torch of >     any one ambitious to illuminate his name. >       In Dr. Johnson's famous dictionary patriotism is defined >     as the last resort of a scoundrel.  With all due respect to >     an enlightened but inferior lexicographer I beg to submit >     that it is the first.  - Ambrose Bierce_] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Cam"
+    },
+    {
+        "speaker": "Cam",
+        "text": "The last thing I wanted was to create conflict.  I was merely trying to boost the morale of the community.",
+        "prevSpeaker": "Williams",
+        "nextSpeaker": "Richman"
+    },
+    {
+        "speaker": "Richman",
+        "text": "And so you have. [_the tenants murmur agreement_]",
+        "prevSpeaker": "Cam",
+        "nextSpeaker": "Williams"
+    },
+    {
+        "speaker": "Williams",
+        "text": "I move that the flag stays. [_agreement again_]",
+        "prevSpeaker": "Richman",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "All right, all right, ver-ver-very well, then.  B-but perhaps... perhaps we could display it on the north side of the building, for the benefit of our Canadian neighbors.",
+        "prevSpeaker": "Williams",
+        "nextSpeaker": "Cam"
+    },
+    {
+        "speaker": "Cam",
+        "text": "That was my first instinct, but it can't be illuminated at night from that side.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Richman"
+    },
+    {
+        "speaker": "Richman",
+        "text": "Lighting is a must.",
+        "prevSpeaker": "Cam",
+        "nextSpeaker": "Williams"
+    },
+    {
+        "speaker": "Williams",
+        "text": "Absolutely.",
+        "prevSpeaker": "Richman",
+        "nextSpeaker": "Richman"
+    },
+    {
+        "speaker": "Richman",
+        "text": "Then it's settled. [_pounds gavel_]",
+        "prevSpeaker": "Williams",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "All right, just-just hold on a second!  I feel I'm being hoodwinked.  The only reason Cam hung that flag was to get the better of me.  He knows I bought the apartment for its view!",
+        "prevSpeaker": "Richman",
+        "nextSpeaker": "Cam"
+    },
+    {
+        "speaker": "Cam",
+        "text": "No, you bought that apartment because you're free! [_agreement again_]",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Albert"
+    },
+    {
+        "speaker": "Albert",
+        "text": "Maybe you could have a view from your balcony in _Iraq!_",
+        "prevSpeaker": "Cam",
+        "nextSpeaker": "Richman"
+    },
+    {
+        "speaker": "Richman",
+        "text": "Yes, move to Iraq!",
+        "prevSpeaker": "Albert",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No, wait, wait, wait!  I am just as much an American as every one of you!  Perhaps Cam would just tell us how long he intends to display our beautiful flag?",
+        "prevSpeaker": "Richman",
+        "nextSpeaker": "Cam"
+    },
+    {
+        "speaker": "Cam",
+        "text": "Hmm, how about until there's world peace?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Albert"
+    },
+    {
+        "speaker": "Albert",
+        "text": "Oh, that's a good idea! [_agreement again_]",
+        "prevSpeaker": "Cam",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, come on!  There's never going to be world peace! [_boos and hisses_]",
+        "prevSpeaker": "Albert",
+        "nextSpeaker": "Williams"
+    },
+    {
+        "speaker": "Williams",
+        "text": "Maybe there would be world peace if there were more people like Cam and fewer people like you.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh now, just a second-",
+        "prevSpeaker": "Williams",
+        "nextSpeaker": "Cam"
+    },
+    {
+        "speaker": "Cam",
+        "text": "[_singing_] Oh beautiful, for spacious skies...",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "All but Frasier"
+    },
+    {
+        "speaker": "All but Frasier",
+        "text": "For amber waves of grain, For purple mountains' majesty, Above the fruited plain... America, America... _Frasier, knowing when he's beaten, takes Cam aside as the others continue singing._",
+        "prevSpeaker": "Cam",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "All right, what do you want?",
+        "prevSpeaker": "All but Frasier",
+        "nextSpeaker": "Cam"
+    },
+    {
+        "speaker": "Cam",
+        "text": "Your parking spot.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You'll make all this stop?",
+        "prevSpeaker": "Cam",
+        "nextSpeaker": "Cam"
+    },
+    {
+        "speaker": "Cam",
+        "text": "Well, there is the matter of the flag.  I can't just take it down now.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "All right, suggest the roof!  I'll even spring for the flagpole.",
+        "prevSpeaker": "Cam",
+        "nextSpeaker": "Cam"
+    },
+    {
+        "speaker": "Cam",
+        "text": "Everyone, everyone, everyone! [_they fall silent and sit_] The America we love is one of good neighbors.  In order to foster that, I have decided to move my flag to the roof.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Cam"
+    },
+    {
+        "speaker": "Cam",
+        "text": "This will not only serve to mend fences, but it will provide all of Seattle with a view of our precious Stars and Stripes.",
+        "prevSpeaker": "Cam",
+        "nextSpeaker": "Williams"
+    },
+    {
+        "speaker": "Williams",
+        "text": "You've done it again, Cam.",
+        "prevSpeaker": "Cam",
+        "nextSpeaker": "Richman"
+    },
+    {
+        "speaker": "Richman",
+        "text": "He certainly has.",
+        "prevSpeaker": "Williams",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "And, in the spirit of reciprocity, I will provide the flagpole. [_no response_] And any necessary lighting.",
+        "prevSpeaker": "Richman",
+        "nextSpeaker": "Albert"
+    },
+    {
+        "speaker": "Albert",
+        "text": "Credit grabber!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, come on, we're all in agreement here! [_singing_] \"Oh beautiful, for spacious skies...\" [_no one joins in_] Come on, everybody!  \"For amber waves of grain...\" _The board members shuffle their papers impatiently as Cam gives a triumphant smile._",
+        "prevSpeaker": "Albert",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_gives up_] Oh, all right, I'll see you next week. [_N.B. In addition to adding his voice (along with the rest of the Frasier cast) to the general encouragement of America's troops and citizens, Kelsey Grammer was a leading host of the huge joint-network television special honoring firefighters and other rescue workers fallen in New York._] _FADE TO:  Scene Eight - The Montana Niles opens the door to Daphne and Mrs. Moon._",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "How did things go at the doctor?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Couldn't find anything wrong with the knee - big surprise.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Mrs. Moon"
+    },
+    {
+        "speaker": "Mrs. Moon",
+        "text": "[_holds up pill bottle_] Then why did he give me sedatives, smarty?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Because I begged him.",
+        "prevSpeaker": "Mrs. Moon",
+        "nextSpeaker": "Mrs. Moon"
+    },
+    {
+        "speaker": "Mrs. Moon",
+        "text": "Oh, fetch me my water.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, I'll get it.",
+        "prevSpeaker": "Mrs. Moon",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "[_follows him_] I know how she likes it.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, but I know where the glasses are.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "I am so sorry about this.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "It's all right, we'll manage.  I can live with anything - as long as I can live with you.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Mrs. Moon"
+    },
+    {
+        "speaker": "Mrs. Moon",
+        "text": "[_o.s._] I'm still waiting out here!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "It's coming!  Pipe down!",
+        "prevSpeaker": "Mrs. Moon",
+        "nextSpeaker": "Mrs. Moon"
+    },
+    {
+        "speaker": "Mrs. Moon",
+        "text": "Why?  Am I interrupting your dirty sex?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "It's going to be interesting, the three of us living together.",
+        "prevSpeaker": "Mrs. Moon",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Daphne, this is stupid.  We should just wait until she's gone.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "No, I said I was moving in, and I'm going to.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "It took you your whole life to assert your independence from this woman.  I can't ask you to live under the same roof with her.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Well, I can't ask you to live with her either.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_pouring the water_] Oh well, it's just temporary.  And you know what?  She bothers you a lot more than she bothers me.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Mrs. Moon"
+    },
+    {
+        "speaker": "Mrs. Moon",
+        "text": "[_o.s._] Don't empty the sink, I'm soaking my smalls!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well, [_clears throat_] we've waited this long...",
+        "prevSpeaker": "Mrs. Moon",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "I love you, Niles.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I love you too. [_they kiss and hug_]",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "And I promise, as soon as she's on a plane for England, I'm here!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Mrs. Moon, did the doctor mention anything about when you'd be able to fly?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Mrs. Moon"
+    },
+    {
+        "speaker": "Mrs. Moon",
+        "text": "No, didn't say a word about flying.  That's probably a bad sign, eh?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Yeah... _He slumps into a chair and lets his body go limp, resigned to a long wait.  END OF ACT TWO_",
+        "prevSpeaker": "Mrs. Moon",
+        "nextSpeaker": "Credits"
+    }
+]

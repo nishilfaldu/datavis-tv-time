@@ -1,0 +1,1497 @@
+[
+    {},
+    {
+        "speaker": "Frasier",
+        "text": "You know Niles, I think I'm going to have a dinner party. Care to co-host?",
+        "prevSpeaker": "No Previous Speaker",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_stops playing_] I love the idea, what's the occasion?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I got the idea last night when we bumped into Jean and Hollis Ashley at the symphony, I've always wanted to get to know them better.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Me too, they're such a charming couple: they remind me of Maris and me when we were happy. [_pours himself a drink_]",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_doorbell_] Really?  I must have been sick that day!  _Frasier answers the door: It's Roz wearing an elegant long dress. She is carrying a red dress in a bag._ ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_delighted_] Oh, well Roz...",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Thank you.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Is that your dry cleaning?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "No, it's Daphne's.  Alice spit up on her dress so I had to have it dry-cleaned for her.  I also had to buy her new shoes and detail her car, I've never seen a kid so sick!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "[_enters from bedroom in dressing gown_] Hey Roz, you look gorgeous.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "How much time do we have?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Twenty minutes.  I better get changed.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Where are you going?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Daphne has friends at the British Consulate and they're having a big reception tonight, she has an invitation.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "[_excited_] Yes, who knows Roz?  Maybe you'll meet some English lord who'll make you a lady.  ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I think at this point it would take the actual Lord to make her a lady.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well let's pick a date for our party. [_picks up book_] Got your book?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Hmm.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "The 1st is no good.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "No: wine club.  The second?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Library fundraiser.  Third?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "No.  Fourth, fifth, sixth?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No. [_turns page_] No, no, no.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "What about the 11th?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No, concert tickets.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I don't have that marked.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, I'm taking a date.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well isn't that nice. [_writes in_] 11th, \"expect desperate last minute call from F.\"  Anything the next week?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No, no... [_notices_] Oh, I've got the 19th.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_excited_] I've got the 19th!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "The 19th it is then.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Huzzah!  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Hey, boys.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Hey, Dad.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "What's up?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well actually, after an unusually protracted game of dueling date books, Niles and I have set a mutually acceptable evening for an intime soiree. [_pause_] We're having a dinner party!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh, sounds good! Any date but the 19th!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well, what is wrong with the 19th?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "My poker game's here that night.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Can't you reschedule it?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_angry_] No!  It's always the third Saturday of the month and everybody shows.  Jimmy once postponed his daughter's wedding just so that he could be here, and if you ever saw his daughter you'd know how risky that was.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Dad, you know we wouldn't ask if there was any other date that worked!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Do you really expect me to give up my game so you can have one of your intime soirees?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I knew he knew what that meant!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Dad, please, couldn't you at least make a few calls? [_thinking_] I tell you what, if you can change the day - I'll cover your losses that night.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_swayed a little_] Well all right, I'll try.  But you know, these guys live pretty busy lives - I can't always get in touch with them.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Let's hope that dog track has a PA system.  ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Alright, Niles, back to our party... got any thoughts on a caterer?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_excited_] Well... Cornell Evans.  He's pricey but he's the best.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Let's book him. [_goes to phone_]",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh marvelous!  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_to phone_] Oh, I'm sorry Dad, I didn't know you were on the line. [_hangs up_] _Daphne and Roz walk out of the bedroom. Daphne is now wearing the red dress._ ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh my goodness.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Well we're off to the ball, don't wait up for us. [_laughs_]",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Daphne, wait, wait, wait, wait, there's something on the back of your dress.  ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "[_looks round_] Oh my God, it looks like bleach or something! The dry cleaner must have done it!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "I saw it, it's nothing.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "You saw it?!",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Don't worry, it's hardly noticeable.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "[_distraught_] Dr. Crane noticed it!",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "That's because he's always looking at your...",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_quickly_] Roz!",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Well, I can't go now!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Why not?!",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "This is the only formal dress I've got.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Wait!  I've got the rest of my dry cleaning down in the car, I bet I have something you can wear, I'll be right back.  ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_taking out a tissue and wetting it_] You know Daphne, I bet I would be able to get that out for you. [_goes to touch it_]",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "No!  The cleaner's spoiled it, he can damn well fix it! [_exits_]",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "It would just take...  ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_on cellular_] Can I speak to Cornell, please?  Yes, of course I'll hold.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_going to room again_] Daphne, I mean it, if I just had a toothbrush and a jeweler's...",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Niles!  _Niles walks back to the main room with his head low.  A few minutes later Frasier is still on his cellular._ ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_to Niles_] How long is he going to keep me on hold!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_Roz enters_] Hey Roz, did you find any kind of thing...  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_into phone_] Hello Cornell, yes Frasier Crane here.  Listen, I'm hoping that you're not booked on the 19th.  Oh Lord, yes I understand that... yes, same to you.  Alright, bye-bye. [_puts phone down_] Damn!  Don't you know it, the only date he's got free is the 11th.  Damn those concert tickets!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, you know who might be available: Tyler Wilkins.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Doesn't he work with Cornell?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, dear God, no.  They are mortal enemies: they were catering a seafood banquet when Cornell flew into a rage because Tyler had ordered Mahi Mahi instead of Ahi.  Of course, Tyler blamed it on Cornell's stutter and they haven't spoken since. [_into phone_] Tyler, Niles Crane, yes.  I was wondering if you were available on the 19th?  Wonderful, dinner for... 10.  That's great, I'll call you later on and we'll discuss the menu. Thanks, bye-bye. [_hangs up_]",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "That is wonderful, alright, [_writing list_] now you, me and the fabulous Ashbys.  That leaves six chairs to fill.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well, we'll have to have Joan and Ted Birkin, that's a no- brainer.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Technically that's two no-brainers, forget the Birkins.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Wait a minute, you can't just steamroll over me, I want the Birkins!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I don't!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well, I do!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "All right, we each have a right to blackball, let's say, three guests.  We will each get an equal voice.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "That's fair enough.  _Frasier brings over the nut tray. Niles gets three nuts and Frasier gets three nuts.  Frasier then places a bowl on the table._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "That's three for me and three for you.  And just to get the blackball rolling... [_throws one in bowl_] Bye-bye, Birkins!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "What about John and Carol Peterson, everyone loves them.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Not everyone! [_throws his second in bowl_] Blackball!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Why?!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No, no, we never question the blackball.  We just bow to its will.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Fine, Nina and Arch Duncan.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "\"The Drunken Duncans?!\"  Have you lost your... [_realizes_] Wait a minute.  You loathe the Duncans, you just want me to waste a blackball.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "That's insane, I adore the Duncans.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Really?  Well, perhaps I misjudged them.  Very well Niles, the Duncans it is. [_slowly writing_] Nina and Arch...",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, stop it, they're hideous! [_throws in his first_] Blackball! What about the Walburts?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, I like the Walburts.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Finally.  Gordons?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I love the Gordons, now we're rolling.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "How about the DiFalcos?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_throws in last_] Blackball!  She is a twit.  How about the Whitneys?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_throws in second_] Blackball!  He's a dolt. [_Frasier begins eating another nut_] Cromwells?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_throws in nut_] Blackball!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Look, if you're gonna... [_notices it wasn't official_] Wait a minute, you're out of blackballs... this is a dried-up old fig!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "So is Lucy Cromwell, I don't want her at my party.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "The Cromwell's are in - the guest list is complete.  Now let's start calling everyone.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes - starting with our guests of honor: the Ashbys. [_dials then in phone_] Hello Hollis, Frasier Crane calling. Listen, Niles and I are planning on having a dinner party on the 19th and... oh. [_to Niles_] They're leaving to Africa on the 19th. [_into phone_] Oh, gee that's a shame.  We were sorta building the evening around you.  Oh! [_to Niles_] They've got the 11th free.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "No good, we've got that concert.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I didn't ask you to that. [_to phone_] The 11th should be just fine.  Oh no, they've got a conflict.  Oh, well that's no problem - they were our very next call.  We absolutely adore the Duncans.  All right, we'll see you then. [_hangs up_]",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Not the drunken Duncans?!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I'm sorry Niles, they've got plans for the Ashbys on the 11th, so they're invited too.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well, I want my blackball back. [_takes it_]",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, the blackball was dropped, it can never be...",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Shut up!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "At least we're getting the Ashbys - in fact, you know what? There's an additional plus - seeing as we're changing our plans to the 11th, it means Cornell can cater.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh quick, you call Cornell, I'll call Tyler and tell him we're canceling. [_into phone_] Tyler.  It's Niles Crane again.  Yes, listen, it turns out we're not going to need you on the 19th.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_into phone_] Yes, Cornell please.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "No, no, no, we're not going with someone else.  Cornell?! [_laughs_] What gave you that idea?!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Cornell, Frasier Crane.  Listen, we've changed our party plans and...  _Niles and Frasier continue chatting to the two enemy chefs.  Niles walks towards Frasier and vice versa, however they brush past each other and drop their mobiles.  They don't know who's phone is who's, however Frasier has an idea._ ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_smelling phone_] This one's mine, I can smell my cologne!  _They begin talking into the phone - Niles acts as if he's talking to Tyler and Frasier seems to be talking to Cornell. However they both stop, realize, then switch phones.  However by this time the angry chefs have hung up._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well, thanks to your keen sense of smell, we've lost both caterers.  I suppose we can always get Kiki Price.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "She still in business?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Yes, they dropped the charges!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_delighted_] Oh.  I better phone the Duncans, hope we can catch them before \"Happy Hour\"! [_dials then into phone_] Hello, Nina. [_aside_] Too late! [_into phone_] Frasier Crane calling.  Listen, Niles and I are having the Ashbys over and a few other people for a dinner and we were hoping that you could join us on the 11th... Don't cry, Nina, please.  Yes, well, I've always loved you too.  What?  Joaquin?  Joaquin is coming in from Argentina, you'd like him to, to join us... well?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_whispers excitedly_] Joaquin?!  Joaquin Warens, he's the conductor of the Buenos Aires Philharmonic.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_to Niles_] My God, that's right, they were just down there, they must have met him. [_to Nina_] We would love to have Joaquin join us!  Oh, that's splendid.  Alright, right, then we'll see you on the 11th.  The 11th.  Alright, take two swizzle sticks and stand them up side by side.  Eleven, that's right.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "We've got Joaquin! [_excited_]",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, don't cry for me, Arch & Nina!  Alright, let's see, we've got the Duncans and Joaquin, and that means we're going to have to cut out two couples.  Well, the Cromwells and the...",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Gordons!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "The Gordons.  That leaves us short by one, we need a single female.  ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh Roz, perfect timing.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "What's up?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "We're having a dinner party and we need an interesting single woman. [_she smiles_] Do you know anybody?  We're desperate!",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "[_angrily she enters the kitchen_] Excuse me!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Naturally we thought of you first, Roz, but this isn't really your kind of crowd.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "What?  Sophisticated, cultured, is that why you don't think I'd fit in with your snooty elitist friends, I'm not genteel enough?!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Now Roz...",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Now Roz, my ass.  I'm just as refined as you are.  Shut up, Niles!  _Roz exits to Daphne's bedroom as Martin enters from his with some news._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well, I hope you're satisfied.  I got everyone to change. We're gonna have it on the 11th.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "The 11th?!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Yeah, and it wasn't easy either, Mel had to reschedule his polyp surgery.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well Dad, you are really going to laugh at this.  Frasier and I rescheduled our dinner party for the 11th. [_laughs_]",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_mad_] I'm not changing it back!  I'm not!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Now Dad, I would never even consider asking you to do such a thing.  I tell you what, there's no reason why we can't hold both parties simultaneously.  The apartment's certainly big enough.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_smugly_] I know what you're trying to do, and it won't work!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "What, dad?  I'm serious, no, no, we can share the buffet table and we can even have the harpist learn a couple of Bobby Darin tunes for your crowd!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "I can stand it if you can! [_smug smile_]",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Of course, we will have to dim the lights at one point. You see, Nina Duncan always insists on sharing her extensive collection of slides from the summer she danced Agamemmnom at Jacob's Pillow.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_smug smile until he breaks_] All right, I'll change it. [_leaves to bedroom_]",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_to Niles_] You call Kiki, and the Walburts.  And I'll talk to Roz.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I'm on it!  _Meanwhile, in Daphne's bedroom, Roz and Daphne are searching through clothes.  Daphne is holding clothes up to her._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "[_impatient_] Come on, pick something!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Pick what?! [_throws normal dress down_] This one isn't dressy enough! [_throws a blue dress down_] This one doesn't fit. [_picks up a glittery blue dress which covers only everything between the cleavage and the thighs_] And this one, well, it's hardly appropriate for a posh cocktail reception!",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_walks in_] Excuse me, Roz, listen, I just came to apologize.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "[_angry_] Whatever!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "What happened?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "He said I wasn't classy enough to come to his fancy dinner party!",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Roz, you know I didn't mean that.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Oh, get in line.  I've lived here for six years and the only time I'm asked to that table is when I'm holding a freakin' serving spoon!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "It's just a silly dinner party, what's everyone getting so upset about?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Oh, let's just go. [_picks up showy glittery dress_] Oh, I suppose this color might look nice on me after all.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_enters_] I've left messages for Kiki and the Walburts.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Could you two please leave, so Daphne can change!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_notices Daphne's dress_] Daphne, you're not actually going out in that, are you? [_laughs politely_]  ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "That's it, I'm staying home.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "No, just try it, we can accessorize it.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "With what?!  A lamp post and a public defender?! _Roz pushes Niles and Frasier out of the door.  As they enter the main room they hear a beep and whirring noise from the answering machine._",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Lord, was that the answering machine? [_listens to message_]",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Allison"
+    },
+    {
+        "speaker": "Allison",
+        "text": "[_from phone_] Hi, it's Allison Walburt.  And, yes, count us in for the 11th.  Looking forward to it, bye.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "That's wonderful, I so enjoy the Walburts.  _However, it seems the tape hasn't finished yet - Allison's left the phone of the hook._ ",
+        "prevSpeaker": "Allison",
+        "nextSpeaker": "Harry"
+    },
+    {
+        "speaker": "Harry",
+        "text": "[_from phone_] Who was that?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Allison"
+    },
+    {
+        "speaker": "Allison",
+        "text": "[_from phone_] We just got invited to a dinner party at Dr. Crane's.",
+        "prevSpeaker": "Harry",
+        "nextSpeaker": "Harry"
+    },
+    {
+        "speaker": "Harry",
+        "text": "Which Dr. Crane?",
+        "prevSpeaker": "Allison",
+        "nextSpeaker": "Allison"
+    },
+    {
+        "speaker": "Allison",
+        "text": "Does it matter?  You get the one, you get that other one. Personally, I think the whole arrangement's a little...",
+        "prevSpeaker": "Harry",
+        "nextSpeaker": "Harry"
+    },
+    {
+        "speaker": "Harry",
+        "text": "Is that thing off the hook?",
+        "prevSpeaker": "Allison",
+        "nextSpeaker": "Allison"
+    },
+    {
+        "speaker": "Allison",
+        "text": "Oh my God! [_hangs up_]  _Frasier and Niles look at each other as they switch it off.  End Of Act One (Time: 13:15)  Act Two. The scene resumes where it left off.  Frasier and Niles have just switched off the answer phone._ ",
+        "prevSpeaker": "Harry",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "What you suppose she meant by that?",
+        "prevSpeaker": "Allison",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Obviously, she thinks we're always together.  That we're some sort of \"couple.\"",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "That's ridiculous, we spend lots of times apart. [_takes a bit of fluff from Frasier's jacket like a wife would do to her husband_] Besides, who is she to talk?  Look at her and Harry - they go everywhere together.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "They're married, Niles!  Still, there's no reason for her to call us odd!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Wait, she never called us odd - listen.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Allison"
+    },
+    {
+        "speaker": "Allison",
+        "text": "Does it matter?  You get the one, you get that other one. Personally, I think the whole arrangement's a little...",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Harry"
+    },
+    {
+        "speaker": "Harry",
+        "text": "Is that thing off the hook?",
+        "prevSpeaker": "Allison",
+        "nextSpeaker": "Allison"
+    },
+    {
+        "speaker": "Allison",
+        "text": "Oh my God! [_hangs up_]  ",
+        "prevSpeaker": "Harry",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "You see, she never said odd - we're getting upset over nothing.",
+        "prevSpeaker": "Allison",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Nothing?!  Is there a good end to that sentence?! \"Personally, I think the whole arrangement is a little...\"  What?!  Charming?!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Really, will you stop overreacting?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Perhaps she has a point.  Ever since your divorce you have become more and more attached to me.  Maybe that's why she said what she said.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "What?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You get Frasier, you get that Niles!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "She didn't say that.  She said \"you get the one, you get that other one.\"  What makes you think that you're the one and I'm that other one?!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I am the one giving the party, and you are that other one!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I'm the one that invited her, so that makes you that other one!  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "This is absurd!  Why don't we just call Allison up and ask her what she thinks is so strange about us?  We can both get her on an extension.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_sarcastic_] Better yet, why don't we just get on a bicycle built for two, ride over there and ask her what she thinks is so strange about us! _The phone goes which stops them in their tracks.  Frasier picks it up -- it's Nina Duncan - so he makes a \"drunk\" sign._ ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_on phone_] Hello.  Yes, hello Nina.  Alright, what can I do for you?  No, no, dear, you called me.  Oh yes, Joaquin can only eat certain foods - well, yes I'd be glad to accommodate them.  Let's see, alright... [_Niles writes it down_] Rice, beans, jerked beef.  Any particular reason?  I see. Interesting.  OK.  Bye. [_hangs up_]",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Why is Joaquin on such a strict diet?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Because the Joaquin they're bringing to dinner is... [_falls on sofa_] ...their foster child!  From a tiny village on the pompus.  He speaks no English and he gets nauseated when he eats American food!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_confused_] So, he's not the conductor of the Buenos Aires Philharmonic?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, you are so that other one! [_calming down_] Where are we going to find someone to babysit a nine year old child? _At this moment, again in perfect timing, Roz walks on as she finishes shouting to an off-stage Daphne:_ ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Quit your blubbering and just pick something, dammit!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Roz-",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Now what?!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You were right.  You know, you would be a welcome addition to any party.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Oh, you don't have to say that.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No honestly, Niles and I want you to join us for dinner.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "You mean it?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "In fact, we're having someone who might make a very interesting dinner companion for you.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "He's not some stuffy old coot, is he?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No, no, no..",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_truthful_] Young!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, very young!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "OK, thanks! ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Not exactly my wish list, but at least we've got the Ashbys.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Allison Walburt can say what she wants, why should we care a whit about what anybody else thinks.  Am I right?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Absolutely! [_to Martin_] Dad, do you think we're odd?!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_tactical_] No, you're not odd.  You're just special!  Your mother told me that when you were kids and I still believe it.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, but do you think we spend too much time together?  ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "You're close, lots of brothers are close.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, I suppose you're right about that.  The Gershwins, the Wright Brothers...",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I told you we were getting upset over nothing.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_laughs_] Course, then there were the Collier brothers!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Collier brothers?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Couple of nuttos that shared an apartment in New York their whole lives.  They even built a maze out of newspapers in there that only they knew how to get through.  They collapsed on one of them and the other one just sat there with the dead body until the neighbors complained about the smell! [_laughs_] Pretty crazy story. [_gets beer_] You recycle right, Niles? [_exits_]",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You know, maybe it wouldn't be the worst idea if we went our own ways a bit more.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "It's possible we have grown a tad dependent on one another. [_again takes a bit out of Frasier's jacket_]",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Perhaps this is just the warning we need.  Today we're planning a dinner party... tomorrow we're wearing matching pajamas and washing each other's hair!  Let's face it, Niles, we are one stone's throw away from becoming the neighborhood kooks!  Right down to the local children ringing our doorbell and running away.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Now Frasier, you are letting your imagination get the better of you.  Come on, let's go make a seating chart.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You always know how to cheer me up.  _Frasier and Niles enter the main room as Daphne enters from her room in Roz's dress._ ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh Daphne, isn't that Roz's dress?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Yes, it was really the only thing that looked good on me. [_calling_] Come on, Roz, we don't want to be late!  ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Doesn't she look beautiful!",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "[_angry_] Oh, shut it, Daphne!  I know you think I look like a hooker.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "No, I said it made me look like a hooker.  On you... well, it works. _As Roz storms out of the apartment, Daphne follows her and closes the door.  The phone goes and Frasier answers._ ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_on phone_] Hello?  Yes, yes.  Oh Lord, I'm so sorry you can't make it.  That's all right.  Yes, some other time.  Goodbye. [_hangs up_]",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Please not the Ashbys.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Family emergency.  Apparently it's so urgent they didn't have time to think up a plausible excuse!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "So where does that leave us?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, let's see... we have a third-rate caterer with a record, a couple of lushes, a couple who think we're both nutcases, an Argentine wild child and Roz! [_throws down list_] Dinner is served!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_realizing_] I still have one blackball left.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "At this point I don't think one is going to make any difference.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "It will to me, I'm using it on myself. [_black balls himself_] Blackball!  _However, Frasier is angry with him and claims you cannot blackball yourself.  They begin grappling at the bowl until all the balls shoot out.  Frasier steadies himself._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "We are the Collier brothers!  Why don't we just face the inevitable: let us just cancel the whole damn thing.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Of course, canceling the party twenty minutes later - people'll think we're strange!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Frankly, I'm sick and tired about giving a damn about what other people think.  You know, most of them are one ball away from not being here in the first place.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "You're right.  So we spend a lot of time together, so what? I enjoy it.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "So do I, Niles.  You know, why don't we make those calls tomorrow to cancel?  I'm famished, why don't we just head over to \"Companion\" for dinner, my treat.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_excited_] You're on. [_laughing_] Unless you think it's too odd to have dinner together. [_gets coat_]",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_laughs_] I don't think we're in any danger of that.  If our relationship became truly odd I think we're both intelligent enough to recognize the signs. _The doorbell sounds so they go to answer it.  There is nobody there, but a distant sound of children giggling.  Niles, recognizing the signs, decides to forget dinner and just go home.  End Of Act Two. (Time: 21:33)_ ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Credits"
+    }
+]

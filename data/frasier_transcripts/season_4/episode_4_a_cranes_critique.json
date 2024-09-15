@@ -1,0 +1,1695 @@
+[
+    {},
+    {
+        "speaker": "Niles",
+        "text": "Is it me or is the foam a tad dense today?",
+        "prevSpeaker": "No Previous Speaker",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Like a dreary fog on a Scottish moor.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Rather than accent it overwhelms.  Rather than flirt it assaults.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_annoyed_] Rather than watching the ballgame I have to listen to this.  [_Roz comes over to join them._] ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Hey, you guys.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "All"
+    },
+    {
+        "speaker": "All",
+        "text": "Hey, Roz.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Frasier, don't forget your staff meeting tomorrow.  It starts at...  [_A man comes and sits down at the nearby table.  Roz just stops talking and can't take her eyes off him._] ",
+        "prevSpeaker": "All",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, I certainly hope his tailor can fix the two holes you've just burned in his jacket!",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "They're not in his jacket!  It starts tomorrow at ten.  Hey, Marty.  What are you doing here?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "They're dragging me out to buy some new clothes.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "We're taking him out to Rodolfo's once-a-year sale.  It's fifty per cent off.  Alterations are free.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Big deal.  \"Bud's Clothing\" do that every day.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, not to mention the convenience of getting your \"BigFoot\" pizza right next door.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "These guys think I have bad taste in clothes.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Well, I like the way you dress.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I believe that's what's called \"the clincher.\"  Shall we go?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_getting up_] All right.  Well I'll just hit the head and we can get it over with.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Dad, you could show a little more enthusiasm.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "OK. [_fake enthusiasm as he goes inside the Caf e_] Gee, I can't wait to hit the head and we can get it all over with.  [_Roz is still busy staring at the guy across the table which Niles notices._] ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Are you quite finished undressing him with your eyes?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Oh, please.  I'm already looking for my stockings and trying to remember where I parked my car.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_gesturing at another guy_] You know Roz, I would have thought that the gentleman over there with the flannel shirt would have been more your type.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Him?  Not a chance.  See the way he's slurping his orange juice?  Sloppy kisser!  You can tell right away the guy's no good I bed.  So cautious.  Look at the way he's blowing on his coffee.  [_Meanwhile Niles is, needless to say, blowing on his coffee and notices Frasier and Roz staring at him._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I wasn't trying to cool it.  I was simply blowing a foam hole.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "You don't even wrinkle the sheets, do you?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_looking across the street_] Niles, that man across the street at the newsstand.  Is that who I think it is?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "He does look familiar.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "It's T.H. Houghton!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "No!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Just think back to the picture on the dust cover of \"Time Flies Tomorrow.\"  A little older, greyer.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "\"Time Flies Tomorrow\" -- I read that in high school.  What else did he write?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Nothing.  That's the crux of his entire legend.  The man published one masterpiece and in the thirty years since he's become a virtual recluse.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh my God.  It is T.H. Houghton.  We're a stone's throw away from one of the giants of American literature.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Not the way you throw!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Niles, this is incredible.  The man's entire life is shrouded in mystery and there he is.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I've always idolised him.  What I wouldn't give to meet that man.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Well why don't you go over and introduce yourself?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I can't just walk up to a God like that.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Well find a subtler way.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "In your vernacular that would be what?  To slingshot your panties across the street?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Foam Blower!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_separating the two_] Niles, she happens to be right.  How often do we get an opportunity like this?  Come on.  Let's go.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "All right.  [_Martin comes back out of the Caf e._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Dad, come on.  We're going.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Why, what's the rush?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "T.H. Houghton is across the street.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Who?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_pushing Martin as fast as he can_] Come on.  Let's go.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Hey!  Guy with a cane here!  **IN ANOTHER PART OF THE FOREST...**  [_Scene 2 -- A Nearby Bar. Niles, Frasier and Martin pile into a bar.  Niles and Frasier are arguing._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Niles, I thought you said you saw Houghton come in here.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well, I'm sorry if my tracking skills aren't up to your standard.  Perhaps instead of asking for a baby brother you should have asked for a German shorthaired Pointer.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I did!  Well, I'm sorry.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "He must still be out on the street.  Let's go.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "I'm parking it here.  They've got the Mariners game on.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Dad, Dad.  Please.  We can't waste time.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh let him be.  He's dead weight.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Right.  [_Frasier and Niles charge back out in search for Houghton.  Meanwhile an old man comes from the other side of the bar and sits down next to Martin.  It is obvious that this is going to be T.H. Houghton._] ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Houghton"
+    },
+    {
+        "speaker": "Houghton",
+        "text": "What's the score?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Four to three, Mariners. Both: [_watching the game_] Awww!",
+        "prevSpeaker": "Houghton",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "I mean, that's the cut-off man!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Houghton"
+    },
+    {
+        "speaker": "Houghton",
+        "text": "Can you believe that man makes seven million a year?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "That's crazy.  See him scratching his butt?  That's about five grand a year right there!",
+        "prevSpeaker": "Houghton",
+        "nextSpeaker": "Houghton"
+    },
+    {
+        "speaker": "Houghton",
+        "text": "[_laughing to the barman_] Let me have a Ballantine.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Yeah, make it two.  [_They both continue to watch the game together.  The scene SWITCHES to later on and Houghton and Martin are sitting at a table after the game talking._] ",
+        "prevSpeaker": "Houghton",
+        "nextSpeaker": "Houghton"
+    },
+    {
+        "speaker": "Houghton",
+        "text": "So that's your favourite character, really?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Yeah, I really like him.  He's the kind of guy you can just sit and have a beer with.",
+        "prevSpeaker": "Houghton",
+        "nextSpeaker": "Houghton"
+    },
+    {
+        "speaker": "Houghton",
+        "text": "Well, I can see you saying that about \"Hoss.\"  But Little Joe?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well that's the great thing about \"Bonanza.\"  There's something for everyone.  [_Frasier and Niles come into the bar with Frasier looking exasperated._] ",
+        "prevSpeaker": "Houghton",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well thank you, Mr. False Alarm. [_imitating Niles_] Oh, look. There he is over at the yoghurt store.  Oh look.  There he is at the futon store.  Oh look.  There he is with Dad.  [_Frasier and Niles suddenly see that he is with Martin and look completely taken aback.  Meanwhile over at the table Houghton is getting up to go._] ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "And now he's leaving.  I must tell him what an impact his book has made on my life.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Aren't you afraid it will sound just a bit unoriginal?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Why?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Because I'm going to say it first.  [_Niles and Frasier rush over to T.H. Houghton.  Before they can get there another patron from the bar gets in before them._] ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Patron"
+    },
+    {
+        "speaker": "Patron",
+        "text": "Excuse me, Mr. Houghton?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Houghton"
+    },
+    {
+        "speaker": "Houghton",
+        "text": "Yeah.",
+        "prevSpeaker": "Patron",
+        "nextSpeaker": "Patron"
+    },
+    {
+        "speaker": "Patron",
+        "text": "I just wanted to tell you that...",
+        "prevSpeaker": "Houghton",
+        "nextSpeaker": "Houghton"
+    },
+    {
+        "speaker": "Houghton",
+        "text": "My book changed your life.  Swell.",
+        "prevSpeaker": "Patron",
+        "nextSpeaker": "Patron"
+    },
+    {
+        "speaker": "Patron",
+        "text": "No, no.",
+        "prevSpeaker": "Houghton",
+        "nextSpeaker": "Houghton"
+    },
+    {
+        "speaker": "Houghton",
+        "text": "It changed mine too.  Look, I'm sorry, I don't like to discuss my work.  [_He leaves._] ",
+        "prevSpeaker": "Patron",
+        "nextSpeaker": "Patron"
+    },
+    {
+        "speaker": "Patron",
+        "text": "Well, that was humiliating.  I've never felt so rejected in my life.",
+        "prevSpeaker": "Houghton",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Now, now.  Don't take it so hard.  Who was to know you'd be so sensitive?",
+        "prevSpeaker": "Patron",
+        "nextSpeaker": "Patron"
+    },
+    {
+        "speaker": "Patron",
+        "text": "Hey, aren't you Dr. Frasier Crane?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_walking away from him_] Not now, I don't have the time.  I'm sorry. [_joins Martin at the table_] Dad, do you realise who you were just talking to?  That was T.H. Houghton.",
+        "prevSpeaker": "Patron",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Yeah, I know.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well, what did you two talk about?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh, I don't know.  This and that.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Dad, virtually nothing is known about this man.  Can't you give us something specific?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "It was just guy stuff, you know?  Baseball, TV shows, old war stories.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "He told war stories?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "No, I did.  I told him about the time I made the stew and the platoon got sick.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "How could you?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "He liked it.  He's a nice guy.  I think maybe I'll buy one of his books.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Not books, Dad.  Book.  Book.  He wrote one book and then never wrote again.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well, if only we'd arrived ten minutes earlier.  We could have been talking to him.  Could have that explored that mammoth intellect.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Can you imagine the torture the man's endured to peak at such an early age?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_notices a beermat on the table_] Oh my God, Frasier.  Look. It's a doodle.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Not just any doodle.  It's a Houghton doodle.  It's mine.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "It's mine. [_fights over it with Frasier_]",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "It's mine.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Dad, what do you care?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "I mean I drew it.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_handing it to Niles_] Well that's very touching.  Here Niles, this is for you.  [_Scene 3 -- The Elevator. Frasier and Niles are going up to Frasier's apartment in the elevator._] ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I don't know when I've enjoyed an exhibit more.  The artist's choice to make that still-life a monochrome was a stroke of genius.  Conveyed such despair.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_deep in thought_] Yes.  It was so refreshing to see a sad peach.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "How about that curator?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Kind of a peach herself, wasn't she?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "No cubism there, I don't think.  [_The elevator doors open outside Frasier's apartment.  Martin and T.H. Houghton are waiting to go down.  Niles and Frasier only notice Martin at first._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Hey, boys.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Both"
+    },
+    {
+        "speaker": "Both",
+        "text": "Hi, Dad. [_both notice that T.H. Houghton is getting on the elevator with Martin and are momentarily lost for words._]",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh Ted, I'd like you to meet my sons.  This is Frasier and Niles.  They're big fans of yours.",
+        "prevSpeaker": "Both",
+        "nextSpeaker": "Houghton"
+    },
+    {
+        "speaker": "Houghton",
+        "text": "Hi, guys.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Mr Houghton... er... we...",
+        "prevSpeaker": "Houghton",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Words can't express... [_totally flabbergasted_]",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Houghton"
+    },
+    {
+        "speaker": "Houghton",
+        "text": "I guess not.  Nice meeting you folks. [_the elevator door closes_]",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "We missed them again. [_presses the lift button and the doors open_]",
+        "prevSpeaker": "Houghton",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "What's going on?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "That's odd.  So where are you two going?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well, Ted's taking me out to this Bratwurst place he knows.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Bratwurst.  Yummee.  My God, that's our favourite.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Houghton"
+    },
+    {
+        "speaker": "Houghton",
+        "text": "Nice meeting you.  [_The elevator door closes once more.  Niles, not content, hits the elevator button again and the door opens again.  Houghton looks puzzled while Martin just looks annoyed._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Houghton"
+    },
+    {
+        "speaker": "Houghton",
+        "text": "What's wrong with this thing?",
+        "prevSpeaker": "Houghton",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Could be broken.  Well maybe if you came into the apartment we could call down to the front desk...",
+        "prevSpeaker": "Houghton",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "NO! [_pushing Niles away with his cane_] I'm sure it'll work this time!  [_The elevator door closes for the last time.  Niles looks despondent and follows Frasier into his apartment.  Daphne is busy cleaning._] ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "What the hell was he doing here?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "We might know if you hadn't spent an hour pondering the despair of the peach.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "This from the man who spent thirty minutes looking at \"Woman with a rectangular head.\"",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Oh, was Mrs. Foster in the lobby again?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No, Daphne.  Could you explain to me just how T.H. Houghton ended up in my apartment?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Well, he's only in town for a couple of days.  He doesn't know too many people so he looked your father up, gave him a ring and Mr. Crane invited him over to watch the Mariners game.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_gobsmacked_] He was here all afternoon?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Yes.  It's a shame you couldn't be here.  He told the most fascinating stories.  Of course he and your father are getting on like old chums, but the sweetest thing was how he took to Eddie.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_clearly at his wits' end_] He spent time with Eddie?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Fed him his afternoon biscuit.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Will the madness ever end?  [_Frasier walks off to the kitchen.  Niles rushes after him._] ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Now, now, let's not give up hope.  Maybe Dad will bring him back to the apartment after dinner.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, well I doubt it.  He'll probably run into J.D. Salinger and Salman Rushdie -- go out for Margaritas.  You know, Niles, these near misses are just excruciating.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "[_unseen in the living room_] There you go, Mr. Houghton. You're welcome.  [_Frasier and Niles look up before tearing through to the living room. Daphne has just said goodbye._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Was that him?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Yes.  He forgot his coat.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_charging out the front door with Niles in hot pursuit_] Hold the elevator!  [_The elevator door has just closed.  Niles and Frasier collapse against it in despair._] ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "We missed him again.  [_Eddie runs out to the hall and sits down in front of Niles and Frasier._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Don't you dare gloat, you miserable little biscuit whore!  [_End of Act 1_]  [_Act 2_]  **QUESTION: HOW DID BABE RUTH CHANGE MUSICAL THEATER HISTORY?**  [_Scene 1 - Frasier's Apartment. Daphne is lying back on the couch reading, eating peanuts and having a drink.  Eddie is keeping watch at the front door and suddenly barks. Daphne quickly gets up, pours what's left of her peanuts into her pocket, downs her drink, puts the glass in the other pocket, pulls out a cloth and begins dusting the table.  By now Eddie has assumed his position in Martin's chair.  Frasier wanders in and sees Daphne \"hard at work\"._] ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Afternoon, Daphne.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Hello. [_throws Eddie a biscuit_] Good dog!  Oh, Dr. Crane. It's a good thing you're home.  Mr. Houghton is dropping by to pick your father up for the Mariners game.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You serious?  He's coming back?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Yes.  Any minute.  It's a double header. [_Frasier looks blankly at her_] They play two games!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh right, right.  This is incredibly good fortune.  I finally get to spend some time alone with the man, even if just for a few minutes.  [_The doorbell rings._] ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Daphne, be a dear and stall Dad, will you?  If he gives you any trouble just hide his cane.  [_Frasier opens the door full of expectation but is greeted by Niles instead._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Niles!  What fortuitous timing.  Er... you know the wine shop just called a moment ago?  It seems they're down to their last two cases of the '82 Chambolle-Musigny, so why don't you dash right down there and stack it all up?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Okay. [_just as the door is about to shut on him_] Hold it! [_looks suspiciously at Frasier_] You know very well that in 1982 there was a drought in Bourgogne.  The locals dubbed it \"The Year of the Raisin.\"  And that wine was never sold by the case, only by the bottle [_forces his way in_] T.H. Houghton is here, isn't he?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Fine.  Then you won't mind if I just hang around for a while.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, all right.  He's on his way.  He and Dad are going to a baseball game.  It's a double header. [_Niles looks blankly at him_] They play two games!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_emerging from his bedroom_] Hi, Niles.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, Dad.  So I hear that Mr. Houghton is on his way over. Maybe we could all have lunch before you head off.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, that's a splendid idea.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Nah, game starts in 45 minutes.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, then perhaps he could come by after the game for a drink.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Nah, sorry.  That won't work either.  He's got to go to his publisher's.  Drop off his new book.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Houghton has a new book?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_stunned_] I've lost the feeling in my legs!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Did he say anything about it?  The characters?  The setting?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "No.  He just said it was a book.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Dad!  You have to skip the game.  It's not just for our benefit.  After all, it's baseball.  The man must be starved for intellectual stimulation.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh, I know what you're saying -- that someone like that would have to prefer spending time with you than some dumbbell like me.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Dad -- you're not dumb.  You miss the point entirely!  Look, let's just say, for example, you came home one afternoon and I was sitting here discussing literature with... oh, I don't know.  Give me the name of a baseball player.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Darryl Strawberry.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No, a real one!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Frasier, the problem is, you push too hard.  We just talk sports, have a few laughs.  That's all.  I don't ask him about his work -- that's probably why he told me about the book.  [_The doorbell rings and Frasier goes to answer pondering Martin's words.  It's T.H. Houghton._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Mr. Houghton.  Hello.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Houghton"
+    },
+    {
+        "speaker": "Houghton",
+        "text": "Hi.  How you doing?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Hey, Ted.  Come on in.",
+        "prevSpeaker": "Houghton",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "So you two boys are off to the baseball game, huh?  Double header.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_proudly_] That's two games!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Houghton"
+    },
+    {
+        "speaker": "Houghton",
+        "text": "Yeah.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Little known fact about baseball: the owner of the Boston Red Sox sold Babe Ruth to the New York Yankees to finance a Broadway musical, \"No No Nanette\"",
+        "prevSpeaker": "Houghton",
+        "nextSpeaker": "Houghton"
+    },
+    {
+        "speaker": "Houghton",
+        "text": "[_after a period of silence_] You ready, Marty?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Let's go.",
+        "prevSpeaker": "Houghton",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I really enjoyed chatting with you.  Maybe you could drop back by after the game.  We could pick up where we left off...  [_Frasier's words are left trailing as Martin and Houghton leave._] ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_sarcastically_] No No Nanette!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I'm sorry.  There are exactly two things that I could possibly add to a baseball conversation.  That, and... no, just the one.  [_Both Frasier and Niles collapse on the sofa and lie back._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Frasier.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Have you noticed how Houghton always carries a satchel with him wherever he goes?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, actually as a matter of fact I have.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "And didn't Dad mention that Houghton was on his way to his publisher's after the game with a new manuscript?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_bored_] Yes.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "And would that be the very same satchel, which is now resting under my head?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh my God!  [_Frasier and Niles both leap up to see that Houghton has indeed left his manuscript on the arm of the sofa.  They run up and Niles is about to examine it._] ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Wait!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Should we?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "We shouldn't.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Could we live with ourselves if we did?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Could we live with ourselves if we didn't?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Could we live with ourselves either way?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, stop it, Niles.  Who are we kidding?  [_Frasier makes a grab for the manuscript but Niles stops him and pulls the manuscript delicately out of the satchel.  Frasier goes and checks the front door.  Niles has already placed the manuscript on the table and ever so slowly pulls the cover off._] ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "\"The Chameleon's Song,\" by T.H. Houghton.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "These are hand-written corrections.  Frasier -- this is his original manuscript!  [_Daphne walks out from the bedroom._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Shame on you! [_Frasier and Niles both look extremely guilty_] Going through someone else's personal property!  Well, it's just plain wrong and I know your father wouldn't approve. Of course I wouldn't be here to tell him if I had the day off...",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Fine, go.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "[_grabbing her jacket_] Great!  Although having a day off is pretty meaningless when you have no money to, you know, maybe go to lunch or do some shopping, perhaps take in a show... [_takes money off Frasier as she walks past and out the door_] Oh, thanks!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "All right, Niles.  Shall we?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Not yet.  The atmosphere has to be absolutely perfect.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Good point. [_goes to the light dimmer switch_] Let's begin with the lighting.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Warmer. [_Frasier turns the switch a tad_] Warmer. [_Frasier turns again_] A little cooler. [_Frasier turns again_] A touch warmer. [_Frasier turns again_] A hair back. [_Frasier gives up and goes over to the drinks cabinet whilst Niles, still concentrating on the lighting keeps on talking_] No, no, a hair the other way.  No, a touch warmer.  Perfect.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_from the drinks cabinet_] Good!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Ooh excellent, excellent.  What wine would most enhance the experience?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No, Niles.  Wine might dull our faculties.  Perhaps instead a slow sipping cordial would be the proper garnish.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Sherry?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Armagnac.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, well see?  That's why you're the older brother.  [_Frasier pours himself and Niles a glass and both sit down at the table with the manuscript in front of them._]  [_The scene SWITCHES to a little later and both are engrossed in the story._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_nearly crying_] Ooh!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "What is it?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I don't think you're there yet.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_after a pause, then nearly crying_] Ooh!  [_The scene SWITCHES to later still and Frasier and Niles are both finishing the story.  They sit back gobsmacked._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well... it's a masterpiece.  [_Eddie, who is standing at the front door, barks._] ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Eddie! [_to Frasier_] I never thought I'd utter these words but it actually surpasses \"Time Flies Tomorrow.\"  [_Eddie, still at the front door, barks twice._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_annoyed_] Eddie, please!  I'm trying to savour the moment.  [_Eddie suddenly dashes off and, needless to say, the front door opens as Martin and Houghton enter.  Frasier and Niles quickly go about trying to hide the evidence and put the manuscript back in the satchel but are caught._] ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_innocently_] How was the game?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Houghton"
+    },
+    {
+        "speaker": "Houghton",
+        "text": "Is that my manuscript?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "What the hell's going on?",
+        "prevSpeaker": "Houghton",
+        "nextSpeaker": "Houghton"
+    },
+    {
+        "speaker": "Houghton",
+        "text": "You went through my bag?  That's my personal property.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "I don't believe you two.",
+        "prevSpeaker": "Houghton",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Mr. Houghton, please.  We are terribly, terribly sorry.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "The temptation to read it was just too great.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "What's that supposed to mean?  You're grown men, both of you.  At least I thought you were.  You had no right to touch that.  Ted, I'm sorry.  I'm just so ashamed.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Houghton"
+    },
+    {
+        "speaker": "Houghton",
+        "text": "Marty, it's all right.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "No, it's not all right.",
+        "prevSpeaker": "Houghton",
+        "nextSpeaker": "Houghton"
+    },
+    {
+        "speaker": "Houghton",
+        "text": "No, no, it's OK.  Really.  Somebody had to read it first. So what did you think?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Of the book?",
+        "prevSpeaker": "Houghton",
+        "nextSpeaker": "Houghton"
+    },
+    {
+        "speaker": "Houghton",
+        "text": "No, of my typing.  Yes, of course of the book.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well... s'great.",
+        "prevSpeaker": "Houghton",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Er... Wow!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Houghton"
+    },
+    {
+        "speaker": "Houghton",
+        "text": "Well, at least you liked it.  I'm going to have to be running.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Are you sure?  I was going to make some coffee.",
+        "prevSpeaker": "Houghton",
+        "nextSpeaker": "Houghton"
+    },
+    {
+        "speaker": "Houghton",
+        "text": "No, no.  I got an appointment.  Can I use the...",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_pointing towards the bathroom_] Right there.  [_Houghton goes into the bathroom while Martin looks angrily at the boys._] ",
+        "prevSpeaker": "Houghton",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Boy, I've had it with you guys.  If you were \"Hoss\" and Little Joe, Ben Cartwright would kick your sorry butts right off the Ponderosa.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Dad.  Dad, we're sorry.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Very sorry.  [_Martin goes into the kitchen leaving the boys alone with their thoughts._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "He's back on the Cartwrights again.  You know, some day we really should ask him just who the hell they are?  You know, Niles, one thing just really bugs me.  Houghton is going to leave here today thinking we're just a couple of inarticulate simpletons.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "What with those pithy comments we made about his masterpiece.  Great.  \"Wow.\"",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "We'll go down in history with the same baboon who first read \"Hamlet\" and told Shakespeare \"My goodness.  What a parchment turn!\"",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "It's not too late.  He hasn't left yet.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, yes.  We could still say something to show him that we appreciated the full complexity of his work.  [_Houghton emerges from the bathroom._] ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Mr. Houghton, you know, there is one further thing I'd like to add about your book.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Houghton"
+    },
+    {
+        "speaker": "Houghton",
+        "text": "Yeah?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, it's the way you modulated into the second person narrative during the flashback scene.  Frankly, it beggars anything Faulkner attempted.",
+        "prevSpeaker": "Houghton",
+        "nextSpeaker": "Houghton"
+    },
+    {
+        "speaker": "Houghton",
+        "text": "Really?  That's very flattering.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Wait, I have one too.  The way you so skilfully mirrored the structure of Dante's \"Divine Comedy\" was inspired.",
+        "prevSpeaker": "Houghton",
+        "nextSpeaker": "Houghton"
+    },
+    {
+        "speaker": "Houghton",
+        "text": "Really?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, yes.  But the inferno of the bordello...",
+        "prevSpeaker": "Houghton",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Which we noticed had exactly nine rooms!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Uh-huh.  To the purgatory of the assembly line and finally to the paradise of the farm.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Houghton"
+    },
+    {
+        "speaker": "Houghton",
+        "text": "You both saw that?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, it practically jumped off the page.",
+        "prevSpeaker": "Houghton",
+        "nextSpeaker": "Houghton"
+    },
+    {
+        "speaker": "Houghton",
+        "text": "Well, that's very perceptive of you.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, thank you.  Our turn to be flattered.",
+        "prevSpeaker": "Houghton",
+        "nextSpeaker": "Houghton"
+    },
+    {
+        "speaker": "Houghton",
+        "text": "You're absolutely right.  This whole book is crap!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Beg your pardon?",
+        "prevSpeaker": "Houghton",
+        "nextSpeaker": "Houghton"
+    },
+    {
+        "speaker": "Houghton",
+        "text": "How could I be so blind?  I lifted the entire structure from Dante.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, you mean you weren't going for that.",
+        "prevSpeaker": "Houghton",
+        "nextSpeaker": "Houghton"
+    },
+    {
+        "speaker": "Houghton",
+        "text": "Of course not.  This confirms my worst fear.  I have nothing original left to say.  I'm an empty shell.  I was a fool to think I had a second book in me. [_reading from his manuscript_] \"The winters were harsh on the farm.\"  Well, here's something to warm them up. [_starts throwing the pages into the fire_]",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_coming in from the kitchen_] What's going on here?",
+        "prevSpeaker": "Houghton",
+        "nextSpeaker": "Houghton"
+    },
+    {
+        "speaker": "Houghton",
+        "text": "You're both right.  I'm a talentless hack who got lucky once.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Dad, we didn't say that.",
+        "prevSpeaker": "Houghton",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "You're not listening to these two, are you?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Houghton"
+    },
+    {
+        "speaker": "Houghton",
+        "text": "Look at this trash.  It won't even burn.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, it's a fireplace, you see.  It's not well ventilated.",
+        "prevSpeaker": "Houghton",
+        "nextSpeaker": "Houghton"
+    },
+    {
+        "speaker": "Houghton",
+        "text": "This book doesn't belong in a fireplace.  It belongs in the gutter with the rest of society's garbage.  [_Houghton heads out to the balcony followed swiftly by Martin, Frasier and Niles, all protesting vehemently.  However it is of no use and Houghton throws the entire manuscript over the railing and out onto the streets below._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Houghton"
+    },
+    {
+        "speaker": "Houghton",
+        "text": "I want to thank you two.  If I had published that book my reputation would have been destroyed.  At least now I'm left with a shred of dignity.  [_Houghton walks off but unfortunately, given his last speech, a page is stuck to his shoe, which he doesn't notice.  Niles goes to say something but Frasier stops him._] ",
+        "prevSpeaker": "Houghton",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Happy?  Hey, Ted.  Wait up.  [_Martin follows Houghton outside leaving the boys alone once again._] ",
+        "prevSpeaker": "Houghton",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, we've destroyed a man's life.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Not to mention depriving future generations of a work of art.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, you know on the other hand, had he actually published it the critics surely would have noticed that Dante parallel.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Hmm.  If he felt bad hearing it from us, imagine how he would have felt reading it in the \"New York Review of Books.\"",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh God, yes.  With his fragile ego he would have been completely devastated.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Who knows what he might have done?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You know, Niles... we saved that man's life.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Yes, I think you're right. [_then_] On the other hand...",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Don't go there!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "See, that's why you're the older brother.  [_End of Act 2_]",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Credits"
+    }
+]

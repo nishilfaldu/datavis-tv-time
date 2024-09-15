@@ -1,0 +1,1317 @@
+[
+    {},
+    {
+        "speaker": "Martin",
+        "text": "Oh, how does he always hear me?",
+        "prevSpeaker": "No Previous Speaker",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "He doesn't.  He just swings through every twenty minutes. He knows you'll be eating some kind of junk.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well, I don't want him eating these.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Well, then do what I do when I want Eddie away from me. I make a sound like [_high-pitched_] La la la la la la la la la la la!  ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "That's mean!",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Why?  It doesn't really hurt his ears.  He just finds certain noises irritating. _Frasier and Niles enter, returning from the opera.  They are wearing tuxedoes and singing an aria - badly. Eddie dashes off to the bedrooms._",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "That was the most riveting production of Wagner I have seen this season.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I still have goose bumps from when Klingsor summoned Kundry with a terrible cry and ordered her to seduce Parsifal: \"Ha! Er Ist Shun Der Knabe!\"",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well, I had a pretty good night too.  Took myself a nice, hot bath.  And, remember that corn I had on my toe?  Well, it got so soft I was just able to peel it right off.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Um... it's going to be difficult for me to top that, but I have some rather exciting news myself.  I'm sure you're all familiar with the Safford case that's been in the papers recently?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh, you mean that scum-sucking jerk who's trying to get his father committed?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Yes.  Well, guess who's been retained by that scum-sucking jerk!  I'm going to be testifying as an expert witness at Mr. Safford's capacity hearing.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Wait a minute.  You're gonna help sell that poor old guy down the river?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Not at all.  Mr. Safford is unbalanced.  His son is worried sick about him.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh, his son's worried he's not gonna get his hands on his father's fortune.  Boy, the minute a man starts getting up there his kids start making plans to divvy up his stuff.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Dad, you'll be pleased to know that Niles and I have decided to give all your things to charity.  We're donating your clothes to the blind.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_gives him a look, then:_] Well, it's just not right.  A bunch of moneygrubbers behind closed doors trying to declare this poor old guy insane.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "For starters, it's not behind closed doors.  The entire proceeding will be broadcast on Court TV.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh, great.  What father doesn't look forward to the day he gathers his friends around the TV and says, \"Hey, that's my boy.  The one making the old man cry.\"",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Dad, I'm sure Niles is only doing this to protect Mr. Safford from himself.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Old age doesn't have to be that way, you know.  My great-aunt Beryl lived well into her nineties, and her mind never failed her.  Of course, she lost her eyesight in her seventies, and her balance in her eighties.  By the end we spent most of our time propping her up or putting another bandage on her forehead.  Oh, but bless her heart, she could always tell you just how it happened. [_exits to the kitchen_]",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well, Safford is clearly irrational.  Recently, he wandered off.  They found him two days later riding across Wyoming in a boxcar full of bums; he's taken to selling off property for half its worth; and most damning of all, when I went over to evaluate him, he continually referred to me as \"Sparky.\"",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I don't know, Niles, you always wanted to have a nickname. You remember your campaign to have the string section of the youth orchestra call you \"Rocky?\"",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "It would have worked, too, if Tilly Farraday hadn't pinned me to the ground with her trombone when I rebuked her for neglecting to clean her spit valve.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well, I still think picking on the old man stinks. [_gets up and moves to the dining table to get a chip_] God help you if you're over fifty and you do anything that seems the least bit odd to your family.  _As he gets a chip, the noise of the bag once again attracts Eddie. He runs in and Martin, exasperated, screams out \"La la la la la la la la la\" at the top of his lungs.  The trick works, and Eddie flees the room.  Frasier and Niles, unaware of the ploy, look at Martin as if he has indeed lost his mind.  FADE OUT_  **SECOND OPINION**  _Scene Two - KACL Frasier is listening to a caller, Beth._ ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Beth"
+    },
+    {
+        "speaker": "Beth",
+        "text": "[_v.o._] And I'm pretty sure he's having an affair with his secretary.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, have you talked to your husband and heard his side of the story? [_Roz rolls her eyes_]",
+        "prevSpeaker": "Beth",
+        "nextSpeaker": "Beth"
+    },
+    {
+        "speaker": "Beth",
+        "text": "No.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, Beth, it does seem that your fears may be well-founded, but I still think you should talk to your husband before you come to any final conclusions. [_he disconnects Beth_] This is Dr. Frasier Crane, wishing you good day, and good mental health.  ",
+        "prevSpeaker": "Beth",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Here are those PSAs, we'll do them tomorrow before the show.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Thank you, Roz. [_notices_] Roz, why is that light still on? Is that Beth who I was talking to?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "No!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, it is!",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "No, it isn't!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, it is!",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "It is not!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Have you been talking to Beth?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Of course not!  What do you think - I'm giving advice to your callers?  Oh, Frasier, you are so paranoid.  The world is full of enemies.  Everybody's plotting against you. [_notices a man walk in_] There's a man in a dark trench coat right behind you.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Ho-ho, very droll.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Giroux"
+    },
+    {
+        "speaker": "Giroux",
+        "text": "Dr. Crane? [_Frasier jumps_] I'm John Giroux. [_hands Frasier his card_] I work for Harlow Safford.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, Mr. Giroux, I'm afraid there's been some mistake.  It's my brother who's connected with the case.",
+        "prevSpeaker": "Giroux",
+        "nextSpeaker": "Giroux"
+    },
+    {
+        "speaker": "Giroux",
+        "text": "Oh, we're quite aware of that, but Mr. Safford feels he's the victim of a grave injustice.  He's an ardent fan of your show and feels you're the only man who can help him.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, that's very flattering, but given my brother's connection with the case, it wouldn't be very prudent for me to get involved.",
+        "prevSpeaker": "Giroux",
+        "nextSpeaker": "Giroux"
+    },
+    {
+        "speaker": "Giroux",
+        "text": "Won't you at least talk to my client?  Judge him by his words and his actions, not by how old he is?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You sound like my father - a man who believes that burial is a form of age discrimination.",
+        "prevSpeaker": "Giroux",
+        "nextSpeaker": "Giroux"
+    },
+    {
+        "speaker": "Giroux",
+        "text": "If you stop by this evening, I'm convinced you'll find Mr. Safford is completely competent.  Even if you won't testify on his behalf, perhaps you could at least get your brother to reconsider his testimony.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "It's highly unlikely that I would disagree with my brother's opinion.",
+        "prevSpeaker": "Giroux",
+        "nextSpeaker": "Giroux"
+    },
+    {
+        "speaker": "Giroux",
+        "text": "I really admired your advice to that last caller - you know, about not judging someone until you've heard his side of the story?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_smiles_] You're a good lawyer, Mr. Giroux.",
+        "prevSpeaker": "Giroux",
+        "nextSpeaker": "Giroux"
+    },
+    {
+        "speaker": "Giroux",
+        "text": "Mr. Safford only seeks out the very best.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I'll see you at seven?",
+        "prevSpeaker": "Giroux",
+        "nextSpeaker": "Giroux"
+    },
+    {
+        "speaker": "Giroux",
+        "text": "The address is on the back of my card. _Mr. Giroux leaves.  Frasier glances at the back of the card.  He then notices that Beth is still on the line and Roz is on the phone. He sneaks into Roz's booth and eavesdrops._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "I don't care what Dr. Crane said.  You start talking to your husband and he'll start covering his tracks.  Get a detective now.  _Frasier clears his throat.  Roz quickly hangs up the phone.  She has a sheepish look as he glares at her._ ",
+        "prevSpeaker": "Giroux",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You were talking to my last caller.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "I swear; it's the first and last time.  I will never do it again.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_growling_] I hope not.  ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Thanks for holding, Bill.  I'm listening. _FADE OUT  Scene Three - Harlow Safford's home. A butler ushers Frasier into the library of Mr. Safford's home. Mr. Giroux is waiting there._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Giroux"
+    },
+    {
+        "speaker": "Giroux",
+        "text": "Enjoy your tour?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Uh... yes, yes.  That's quite a model railroad Mr. Safford has running through the grounds.  I've never seen one on quite that scale.",
+        "prevSpeaker": "Giroux",
+        "nextSpeaker": "Giroux"
+    },
+    {
+        "speaker": "Giroux",
+        "text": "Impressive, isn't it?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, yes.  Yes, especially when it's bearing down on you. I got my heels stuck in the soft grass.  I barely made the crossing.  Tell me, how often does Mr. Safford... play with his train?",
+        "prevSpeaker": "Giroux",
+        "nextSpeaker": "Giroux"
+    },
+    {
+        "speaker": "Giroux",
+        "text": "Just the weekends, when he gives rides to underprivileged children.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Very admirable.",
+        "prevSpeaker": "Giroux",
+        "nextSpeaker": "Giroux"
+    },
+    {
+        "speaker": "Giroux",
+        "text": "There's a lot you don't know about him, Dr. Crane.  That's why you're here.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, well, I promise to consider all the evidence before I arrive at a conclusion.  _Suddenly, he hears someone shout \"Yee-haw!\"  Frasier turns to see an elderly gentleman sliding down a fire pole.  He is impeccably dressed, except for the fireman's hat on his head._ ",
+        "prevSpeaker": "Giroux",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I think I've arrived. [_Mr. Giroux leaves_]",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Harlow"
+    },
+    {
+        "speaker": "Harlow",
+        "text": "Hiya, Sparky.  I'm Harlow Safford.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Dr. Frasier Crane.  I don't believe I've ever seen a fire pole in a home before.",
+        "prevSpeaker": "Harlow",
+        "nextSpeaker": "Harlow"
+    },
+    {
+        "speaker": "Harlow",
+        "text": "Oh, it saves a lot of time.  Except for going up, of course.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "And, uh, the hat?",
+        "prevSpeaker": "Harlow",
+        "nextSpeaker": "Harlow"
+    },
+    {
+        "speaker": "Harlow",
+        "text": "Oh, it's just for laughs.  Oh, try it on.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, no, I don't think I should.",
+        "prevSpeaker": "Harlow",
+        "nextSpeaker": "Harlow"
+    },
+    {
+        "speaker": "Harlow",
+        "text": "Oh, come on!  _They argue for a moment until Frasier relents.  He puts it on and stands proudly._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I guess it is sort of fun, isn't it?",
+        "prevSpeaker": "Harlow",
+        "nextSpeaker": "Harlow"
+    },
+    {
+        "speaker": "Harlow",
+        "text": "Not on you. [_he takes it off Frasier_] So, do you think you can convince my self-righteous son that I'm not nuts?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, I think \"nuts\" is a little strong.  He must have meant that your behavior might seem to most people to be a little unconventional.",
+        "prevSpeaker": "Harlow",
+        "nextSpeaker": "Harlow"
+    },
+    {
+        "speaker": "Harlow",
+        "text": "Well, good.  I've spent my whole life being conventional. Then one day I said to myself, \"Harlow, you're not having any fun.\"",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Do you... speak to yourself often?",
+        "prevSpeaker": "Harlow",
+        "nextSpeaker": "Harlow"
+    },
+    {
+        "speaker": "Harlow",
+        "text": "Don't try to trip me up, Sparky. [_he walks over to Frasier, carrying a cigar box_]",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, no, thank you.  Thank you, I'm trying to cut down on... [_notices what's really in the box_] lollipops.  Thank you. [_takes a handful_] But tell me, why do you call people \"Sparky\"?",
+        "prevSpeaker": "Harlow",
+        "nextSpeaker": "Harlow"
+    },
+    {
+        "speaker": "Harlow",
+        "text": "It makes them smile.  Right, Sparky? [_Frasier smiles_] You ought to try it with your patients.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, I'm not too sure how warmly that would be embraced by those undergoing electroshock.  ",
+        "prevSpeaker": "Harlow",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Um, anyway, your son tells me that you recently sold some property at a fraction of its value.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Harlow"
+    },
+    {
+        "speaker": "Harlow",
+        "text": "That's right.  Terrific young married couple had their hearts set on it, but couldn't afford it.  So, I helped them out. There's nothing wrong with helping people.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, he also informed me that you recently indulged in an unorthodox, not to mention hazardous mode of travel.",
+        "prevSpeaker": "Harlow",
+        "nextSpeaker": "Harlow"
+    },
+    {
+        "speaker": "Harlow",
+        "text": "That pompous weenie.  That's exactly how he would put it.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, actually, that was my wording.",
+        "prevSpeaker": "Harlow",
+        "nextSpeaker": "Harlow"
+    },
+    {
+        "speaker": "Harlow",
+        "text": "Well, I hopped a freight.  Rode the rails.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, why not just purchase a ticket and ride in a club car?",
+        "prevSpeaker": "Harlow",
+        "nextSpeaker": "Harlow"
+    },
+    {
+        "speaker": "Harlow",
+        "text": "Where's the adventure in that?  I'm 78.  Someday I'll be too old to jump off a moving train!  No, you gotta live out your fantasies while you can.  Can you understand that?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I think I can.  Mr. Safford, what you've said makes a great deal of sense.  Before we go on, there's something I have to ask you.",
+        "prevSpeaker": "Harlow",
+        "nextSpeaker": "Harlow"
+    },
+    {
+        "speaker": "Harlow",
+        "text": "Shoot.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "It's a little embarrassing.",
+        "prevSpeaker": "Harlow",
+        "nextSpeaker": "Harlow"
+    },
+    {
+        "speaker": "Harlow",
+        "text": "I can take it.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Okay.  Can I slide down that pole?",
+        "prevSpeaker": "Harlow",
+        "nextSpeaker": "Harlow"
+    },
+    {
+        "speaker": "Harlow",
+        "text": "Follow me, Sparky!   _End of Act One  Act Two_  **IF I HAD ONLY WORN MY COTTON CHINOS**  _Scene One - Frasier's apartment. Later that evening.  Daphne is clearing the table.  Frasier is reading at the couch while Martin gets ready to watch TV._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Dad, are you going to watch something now?",
+        "prevSpeaker": "Harlow",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Yeah, the championship fight.  But don't worry, I'm using my earphones, I won't bother anyone.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Oh, you've already been a bother - making me hide the sports section so he won't see it.  Making me turn the news off because they might say who won.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I don't understand.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well, the fight was last night.  It was on Pay TV.  But one of my police buddies has a pirate antenna.  So, he taped it and they messengered one to me in an envelope marked \"Official Business.\"",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Another inspiring tale of our men in law enforcement.  ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_putting on his headphones_] Why are you walking funny?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, suffice it to say I learned today it is unwise to slide repeatedly down a fire pole wearing woolen trousers. [_the doorbell rings_] Daphne, would you...?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Oh, I'll get it.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Evening, Daphne.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Oh, Dr. Crane, don't say anything about last night's boxing match.  Your dad hasn't seen it yet.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, I didn't even know it was boxing season. [_Daphne just smiles_] Well, did everyone see my mention in this morning's paper?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No, I'm afraid I missed that.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well, small wonder.  They buried it all the way back on page 32.  It's here, it's next to the sports section.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_batting the paper out of Niles's hands_] Hey, get that out of here!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "[_catches the paper_] Let me see.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "It's right there.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Oh. [_reading_] \"Court TV this week will feature the capacity hearing of noted timber baron Harlow Safford. [_Martin glares at Niles_] Testifying on behalf of the family will be Dr. Niles Crane, eminent psychiatrist, author and leading authority on clinical psychosis.  Dr. Crane is also the brother of...\"",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Yadda-yadda, the rest is filler.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Niles, I have to talk to you about something.  Just after the show today I was visited by a man named Mr. Giroux. He asked me to represent Mr. Safford.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_standing_] What?!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Shh!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_pulling Niles down_] I'm sorry.  Given your involvement with the case, I naturally declined.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, thank God.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "But, I did agree to see if I concurred with your analysis and speak to Mr. Safford.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_again standing_] What?!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Hey, keep it down!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I just have to tell you that I found Harlow Safford to be of completely sound mind - and don't say \"What?!\"",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_struggles_] Why?!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Quiet!!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Perhaps it'd be better if we spoke somewhere else.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "You couldn't stand that I had a high-profile case, could you?  So you had to butt into it!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I just don't want you to make a fool of yourself.  These people came to me, they asked for my expertise.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, ha!  They were undoubtedly exploiting your dubious celebrity.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Of which you are jealous and, I fear, the reason you took this case!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "That is flatly untrue!  I took the case to help the family!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "And to be on television!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I don't give a hoot about television!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_shouting_] Well, some of us do!!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Niles, you made a hasty judgment and I am sorry, but you were wrong.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Ah, now we see why you got involved in the case - so big brother could be right and little Niles could be wrong, which I'm not!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, your pathetic childhood issues have nothing to do with it. Face it, you were wrong!  Wrong, wrong, wrong!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, oh, oh-! _Frasier exits to the kitchen.  Niles, outraged, follows him.  Daphne is there listening to the radio while she cleans._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "This from Mr. Quick-Fix, the master of the in-depth, one- minute phone call diagnosis!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I spent several hours with Mr. Safford and I found his behavior to be...",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Wildly irrational.  He's a lip-diddling loon!  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You think anything that's even slightly spontaneous is aberrant.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "That's ridiculous!  The man's incompetent!  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Niles, I'm warning you.  If you get up in that courtroom and say that, you will damage yourself professionally!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I'm testifying, and you're not going to stop me!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Fine, then you leave me no choice but to testify against you!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well, in that case, I'll see you in court!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Good, I look forward to it!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "So do I!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Good!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Good!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_entering from the living room_] HEY!!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Daphne, please.  Turn down that radio. Dad is trying to watch a fight!  _The men exit, leaving Daphne stunned.  FADE TO:_  **ANOTHER REASON TO KEEP CAMERAS OUT OF THE COURTROOM**  _Scene Two - the courtroom. The proceedings have not yet begun.  The Court TV camera is being set up.  Frasier is chatting with Mr. Safford._ ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "So, how are you holding up?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Harlow"
+    },
+    {
+        "speaker": "Harlow",
+        "text": "Oh, I'm fine.  Now look, Sparky.  I know you don't want to take any money for helping me.  But at least let me make a donation to your favorite charity.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well... it was my duty, not to mention a pleasure, to help you.  But if you'd like to donate something, why don't you select a charity of your own choosing?",
+        "prevSpeaker": "Harlow",
+        "nextSpeaker": "Harlow"
+    },
+    {
+        "speaker": "Harlow",
+        "text": "Fair enough.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Good.  Excuse me.  _He walks over to where Niles is seated.  Niles is primping in front of a mirror._ ",
+        "prevSpeaker": "Harlow",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Hello, Niles.  You know, it's not to late to ask them to put a big blue ball in front of your face during the broadcast. Perhaps spare you some shred of your reputation.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I'd laugh in your face but I'm saving my voice. [_clears throat_]",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh my God!  You're wearing makeup!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I am not!  This is... medication.  Something my dermatologist recommended.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Dr. Revlon?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_standing up_] These feeble attempts to undermine my confidence are futile.  The testimony I've prepared is nothing short of brilliant.  I cite half a dozen studies of gerontology.  I quote everything from the Bible to Herodotus.  I deftly interweave humor with pathos.  You may want to take notes.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "And if you had an ounce of self-awareness you would realize that your diagnosis was colored by your zeal to put your face in front of that camera. [_Niles scoffs_] Oh, by the way, your medication is rubbing off on your collar. ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Baliff"
+    },
+    {
+        "speaker": "Baliff",
+        "text": "All rise.  Court is in session.  Judge Richard McCarron presiding.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_facing camera_] Hello, your honor.",
+        "prevSpeaker": "Baliff",
+        "nextSpeaker": "Judge"
+    },
+    {
+        "speaker": "Judge",
+        "text": "Be seated.  Good morning.  Has everyone been sworn in?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Baliff"
+    },
+    {
+        "speaker": "Baliff",
+        "text": "Yes, your honor.",
+        "prevSpeaker": "Judge",
+        "nextSpeaker": "Judge"
+    },
+    {
+        "speaker": "Judge",
+        "text": "Well, I see we have two Dr. Cranes testifying today. [_Niles stands, then sits back down._] Mr. Giroux, I think we'll hear from your authority first.  I assume the other Dr. Crane has no objection to that arrangement?",
+        "prevSpeaker": "Baliff",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_facing camera_] None whatsoever, your honor.",
+        "prevSpeaker": "Judge",
+        "nextSpeaker": "Judge"
+    },
+    {
+        "speaker": "Judge",
+        "text": "I'm over here, Dr. Crane.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_standing_] Your honor, I would not presume to bore the court with a recitation of dry statistics, gerontology studies, obscure literary references.  _He stands in such a way that Niles is blocked from the camera. Niles moves his head back and forth trying to get a clear shot of himself on TV._ ",
+        "prevSpeaker": "Judge",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Instead, I intend to speak from the heart.  I worry about a society that has chosen to define normalcy in such narrow terms that if someone's behavior deviates ever so slightly, we question his capacity to function.  Mr. Safford's seeming eccentricities - his love of trains, his generosity - they can all be readily explained.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Harlow"
+    },
+    {
+        "speaker": "Harlow",
+        "text": "Diabetes!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Judge"
+    },
+    {
+        "speaker": "Judge",
+        "text": "Mr. Safford?",
+        "prevSpeaker": "Harlow",
+        "nextSpeaker": "Harlow"
+    },
+    {
+        "speaker": "Harlow",
+        "text": "I was talking to Sparky.",
+        "prevSpeaker": "Judge",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Uh... [_to Mr. Safford_] Did you say diabetes?",
+        "prevSpeaker": "Harlow",
+        "nextSpeaker": "Harlow"
+    },
+    {
+        "speaker": "Harlow",
+        "text": "Yes.  We'll donate the money to diabetes.  Those poor people can't eat sugar!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Fine.. fine.  Uh... we'll, uh... we'll talk about it afterwards.",
+        "prevSpeaker": "Harlow",
+        "nextSpeaker": "Judge"
+    },
+    {
+        "speaker": "Judge",
+        "text": "May we continue, Dr. Crane?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "My apologies, your honor.  Mr. Safford and I were discussing a very sizable donation he intends to make later today to a very worthy cause.  I guess his enthusiasm just got the best of him.  But, it is this very generosity that his son finds so objectionable.  That, and the fact that he did hop a freight train across the country.  But, you see, what he sees as unstable, I see as... romantic. ",
+        "prevSpeaker": "Judge",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I... I don't suppose there's a railroad track outside the courtroom?  _The judge shakes his head no.  Cut to Harlow blowing a whistle, much to the embarrassment of Mr. Giroux.  Everyone in the courtroom begins eyeing Mr. Safford strangely.  Frasier becomes increasingly agitated._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Uh... doesn't Mr. Safford deserve to be a bit of a free spirit after the years of his demanding career?  A career in which he wore... [_Harlow puts on a conductor's hat_] many hats.  Um... the hat of a father, a philanthropist, a C.E.O...",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Harlow"
+    },
+    {
+        "speaker": "Harlow",
+        "text": "All aboard!  All aboard!  Get your tickets ready.  Have your tickets ready, please.  Have your tickets ready.  _Harlow stands up and produces a hole punch, with which he begins to punch holes in papers as if he were a train conductor._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_desperate_] In the end, it all comes down to this: can we really condemn a man for maintaining a childlike _joie de vivre_ even in his twilight years?",
+        "prevSpeaker": "Harlow",
+        "nextSpeaker": "Harlow"
+    },
+    {
+        "speaker": "Harlow",
+        "text": "All aboard for the Coast Express.  Yes, making stops in Tacoma, Olympia, Portland and Salem.  And the next stop is...",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_putting his arm around Harlow_] I think I know where your next stop is going to be. _FADE TO:  Scene Three - the courtroom. The courtroom is empty, save a very sullen Frasier.  Niles walks in. He, too, appears downcast._ ",
+        "prevSpeaker": "Harlow",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Now, look, Niles.  Before you start gloating, let me just say this.  You were right, I was wrong.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Big deal.  The world never got a chance to hear me be right. I suppose by now it's obvious that what you were saying all along was true.  I do... envy your fame.  Well, perhaps this public humiliation will cure me of my damned competitiveness.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, don't worry about it.  I humiliated myself far more than you did today.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Obviously, you didn't see the way I was whoring after that TV camera.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Obviously, you didn't see how I was tap dancing up there like an organ grinder's monkey.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Yes, well, I might as well have been tarred and feathered.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I might as well have been pilloried in the town square.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I might as well have been stripped naked and forced to...",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, stop it, Niles!  We're doing it again!  Niles, you have no reason to feel badly.  Everyone wants to be recognized for something they're good at.  And you are a good psychiatrist.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Thank you, Frasier.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Something I can't really lay claim to after today.  How could I have so misjudged that man?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well, he's undeniably charming for one thing.  And he can be lucid for long stretches of time.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, but you weren't fooled.  Somehow, you picked up on some tiny clue that I missed.  You remember what it was?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Yes.  Midway through our interview he took off his trousers and tried to put them on the cat.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, I'd like to think that I might have picked up on that one too.  Still...",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Frasier, you've always approached life with a positive attitude.  It's a quality I admire of yours.  Perhaps your judgment was clouded by your desire to see old age not as a time of inevitable decline, but as a time when one's childhood passions and fantasies can be reborn.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Thank you, Niles.  You know what would cheer me up right now?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "What?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I would like to hear that summation you never got a chance to give.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Really?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "You're not just saying that?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Do you care?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "No!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, all right then. [_runs to the judge's chair_] I'm the judge!  I'm the judge!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Okay, you be the judge.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_deep voice_] All rise.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Yes, here we are.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_as judge_] Have we been sworn in? [_as bailiff_] Yes we have, your honor. [_bangs gavel_] Dr. Crane, proceed.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Your honor, I believe it was Herodotus who said: \"Circumstances rule men.  Men do not rule circumstances.\"  _Niles takes hold of his lapel and, looking very smug, begins his summation.  Frasier leans forward with great interest.  FADE OUT  End of Act Two_ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Credits"
+    }
+]

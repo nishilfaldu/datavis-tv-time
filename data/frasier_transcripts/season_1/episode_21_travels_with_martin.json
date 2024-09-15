@@ -1,0 +1,1569 @@
+[
+    {},
+    {
+        "speaker": "Frasier",
+        "text": "Oh look, Roz, Roz, my brochures are here!  Oh, god, very exciting!  Vacation!  ",
+        "prevSpeaker": "No Previous Speaker",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Wow! The Golden Door Spa!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Ooh, yes!",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Look at those accommodations!  That is nice!  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I plan to leave Dad and Eddie to fend for themselves while I go off and spend an obscene amount of money being pampered like a spoiled child.  I know it's self-indulgent, but what else are vacations for?  By the way, what are you doing for your week off?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Oh, I'm taking my mom to Ireland to stay in the sod house where her mother was born.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Why don't you just write the words \"bad son\" on my forehead!",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Listen, there is nothing wrong with pampering yourself on your vacation.  After all, you do work three hours a day.  _Frasier stands up, annoyed, turns his back on her, and begins to sort through his brochures on the side bench of the studio._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "I'm sorry.  That one even surprised me!  _She walks into the adjoining producer's suite. Frasier follows her through._ ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You know, it's just that when I think of the relationship I have with my dad I can't help but envy the relationship you have with your mother.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Well, it didn't just happen.  We work at it, spend time together...",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Roz, are you forgetting that my father lives with me?  How much more time together could we spend!",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Day to day living is different.  You know, there is nothing better than taking a trip together. You get to have a little fun, you get to relax... you get to see a whole different side to the other person.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You know, in his entire life, my dad has never been to Europe.  It would be a way of connecting with him if I were the one to give him that. [_looks questioningly at Roz_] So, what would you charge me to take him to Ireland with you?  _Roz looks at him with a wry smile on her face and shakes her head.  FADE OUT  Scene Two -- Frasier's Apartment Fade back in.  Niles is sitting with his face down on the table as Daphne massages his back.  Martin is sitting in his chair with the paper in one hand, and is stroking Eddie with the other._ ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_moaning with pleasure:_] Ahh... I should have known this would happen.  I always throw out my back when I try to lift Maris's luggage.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Why didn't you hire a skycap?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, we did for most of it, but Maris won't trust strangers with her makeup case, ever since a ham-handed porter dropped it and broke three vials of rare Swiss lamb placenta.  On the upside, the calfskin lining of her case was never more soft and supple.  _Daphne lifts him to sit up straight, puts her arm around his neck and proceeds to massage his back with the fist of her right hand._ ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Where did Mrs. Crane go, anyway?  _Niles gives more moans of pleasure, and Martin looks round at him in amusement._ ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "She's making her annual pilgrimage to the holy land.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "I thought she was going to Dallas to visit her sister.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "That is her holy land.  It's the site of the first Nieman- Marcus.  _Martin turns back to his paper, shaking his head.  Niles produces more moans of ecstasy.  Frasier enters the apartment, carrying his briefcase._ ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Oh, Dr. Crane...",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_still moaning_] Oh, call me Niles!  _Frasier casts his usual look of disapproval and disappointment in Niles's direction, and Niles, noticing him, stands up._ ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Thank you, Daphne.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Dad, I've had an idea and I hope you're as excited about it as I am. [_opens his briefcase and takes out the holiday brochures_] I want to take you on vacation!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_suspicious_] Why?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, I thought an adventure might do us good, give us a chance to have some fun, maybe get reacquainted, even do a little bonding.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "What'd you have in mind?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, this isn't about where I want to go, this is about where you want to go.  _Frasier fans out the leaflets and lays them on the table by his father in an extravagant gesture._ ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Dad, I give you the world!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_reading one_] The Galy-pay-gos islands, huh?  \"Where iguanas, sea-lions and giant tortoises live in eternal harmony.\" [_to Frasier_] Is it important they get along?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No, I suppose not.  ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, how about this!  India and Nepal!  Trek the foothills of the Himalayas!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_tapping his cane_] I think you're forgetting about my old pal here.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "No problem.  Frasier can just hire a really tough little Sherpa to carry you on his back.  ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "They don't mind.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, we obviously haven't struck the right chord yet, but we will, we will.  Dad, why don't you just suggest something?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "You really want to go on a trip with me?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes I do!  I'll go anywhere you want to!  Anywhere!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Okay.  Well, maybe I'm not as sophisticated as you, but I think I should see America first!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Great!  We're Americans, we should see America!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "And I want to see it in a Winnebago!  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "A Winnebago!  Hot damn, that has a real ring to it!  ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Yeah!  It's something your mother and I always dreamed about doing when I retired.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Then that is exactly the trip we are going to take!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "You really mean it?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Absolutely!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "This calls for a celebration! _Daphne exits to kitchen, Frasier crosses to fire place and Martin also exits towards the kitchen._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Yeah, let's pop open a couple of beers!  I think I've got a bag of pork rinds in here too!",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, the final touch!  I almost feel like I'm in a trailer park already! _He hangs his head in horror, leaning on the mantelpiece in despair. Niles crosses the room towards him._ ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_mockingly_] Oh, Winnebago Boy?  Make sure to hang a lot of beach chairs on the back and give it a really cute name like... \"The Whoopin' Cranes!\"  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, Niles.  When I agreed to see America with Dad I thought we'd be staying in five-star resorts!  When I said together I meant adjoining suites!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Just tell him you think it's a bad idea.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I can't do that, he's counting on this trip too much.  It was his dream, he was going to go on this trip with Mom.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Yeah, but she lucked out and died! [_laughs_] _Frasier pulls Niles to the corner of the apartment to be sure they can't be heard from the kitchen._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_in desperation_] Niles listen, listen.  If Dad and I get into a Winnebago together only one of us will come out alive. You've got to come with us!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Frasier, you're my brother.  That entitles you to my bone marrow and one of my kidneys, but THIS is an imposition! _Cut to Martin and Daphne in the kitchen.  Daphne is chopping cheese, and Martin sits opposite her._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "You've got to come with us!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Why?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well, Frasier and I don't have anything to talk about! I always feel more comfortable when there's someone else around, or the TV's blaring.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Then why did you suggest it?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well, it sounded like a good idea when it came out of my mouth, but the more I think about it... I mean, can you really see me and Frasier together all day and then crawling into our bunks at Night, lying head to head... bonding? [_shivers_] Eew!  I'll pay you!  I've got pension money!  ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I remember a car trip we took when I was nine?  We drove from Seattle to Spokane.  The only thing he said to me was, \"I think we've got a problem with your brother Frasier.\"",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Those were awful, those family driving vacations.  Dad insisting on covering as many miles as possible in a day. The two of us tiny hostages in the back seat, clutching our car sickness bags... straining to see something out of the window as the landscape whizzed by... I was thirteen before I realized cows aren't blurry!  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Why don't you just tell him you don't want to go?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh, you heard how he wants to go.  I don't want to disappoint him!  ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I don't want to disappoint him!!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I'm sorry Frasier, I am not a Winnebago person.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Whenever I see one on the highway I look into the driver's eyes, hoping to see something that would explain why in God's name he would ever want to do something like this!  All I see is a death stare under the brim of a hat made out of Miller Lite cans.  This is my final word: I'm-not-going. _Martin and Daphne re-enter.  Daphne is carrying some cheese chunks on a plate._ ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Hey, great news, Daphne's coming too!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "And so am I!  _He eats a cheese chunk.  FADE TO:_  **THE WHOOPIN' CRANES**  _Scene Three -- A Winnebago. The Crane clan, plus Daphne, are traveling along in their rented Winnebago.  The north-western American countryside is visible out of the rear window.  Frasier is driving, and Martin is in the passenger seat videotaping the view. Daphne is sitting behind them. Niles appears to be absent from the scene._ ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "It's everything I'd hoped it'd be, only better!  It's like sitting in your own living room watching TV!  Only it isn't TV, it's America!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes Dad, it's the ultimate in virtual reality programming - actual reality.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_Looking at map_] Okay, we've got a turn-off coming up in about five miles, so start slowing down.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Righto, Dad.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "How does it feel behind that wheel, Dr. Crane?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Manly!  This is mine, and it's big! _There is a flushing sound, and Niles appears from the back of the vehicle._",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh my God!  It's like being sealed upright in a Formica coffin!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Remember the old days, Niles? [_to Daphne_] When they were kids, all they had in the back seat was a mayonnaise jar.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, it took quite a bit of skill to use it successfully at seventy miles per hour!  Never really been fond of mayonnaise since...",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Or speed bumps.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Okay, turnoff's coming up now, we're about four miles away, get ready, it's coming up!  Alright, you're okay on the right! It's never to early to move over!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You know, Dad, I was wondering.  What inspired you to choose that uniquely American man-made wonder, Mount Rushmore?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well, we've got a week off, right?  That's as far as we can go in three and a half days and still make it back.  We get there, get out, walk around the Valley of the Presidents, drive back, boom!  Another fine landmark under our belts!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Well, you've certainly got this trip well-planned, Mr. Crane! Whenever I take a holiday I just grab a fresh pair of knickers and see where the wind takes me! ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_noticing_] Niles... Niles! _Frasier then pulls hard right on the steering wheel making the vehicle swerve sharply left.  Everyone else remains in the same place but Niles, caught off balance, crashes left into some overhead cupboards, right into a chair behind Daphne and then falls spectacularly onto the floor whilst clutching at the kitchen sideboard.  He quickly attempts to retake his place behind Frasier, before Daphne and Martin notice.  Unsuccessfully.  Martin looks strangely at Niles, not realising why Frasier swerved, then looks curiously at Frasier as if to say, \"What the hell was that!\"  Frasier, however, drives on happily with a large smile on his face._ ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You know, what Daphne is saying is what we should really be doing!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "What are you talking about?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, you know, why should we be so beholden to maps and schedules?  We should roam!  America has always been enchanted with the romance of the open highway.  Jack Kerouac went \"on the road,\" Buzz and Todd got their \"kicks on Route 66!\"  The adventure is in the journey! We should just ramble!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Good golly, I'm inspired.  I'm going to put on a baseball cap.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Frasier watch it, you're going to miss the turn off!!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "So?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "We'll get lost!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Lost from where?  We're in a house on wheels!  Wherever we go, we're home!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "No!  It's coming up! [_tugging at Frasier's arm_] It's coming up!  Alright, turn here! [_frantically_] This is it!  Turn! Turn here...!  We missed it!!  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Dad, we didn't miss anything!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_horrified_] Oh my God!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "We are now on the road less traveled.  From now on there is a new order!  We dance to the rhythm of the road.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_panicking_] Alright, now don't panic!  There's got to be an access road leading back onto that turn off...  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Where is it?  Where is it! [_finds it_] Oh, it's always in the crack!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "So is life, Dad.  _End Of Act One (Time: 10:23)  Act Two.  Scene One - Winnebago Fade in. Several hours have elapsed, and Martin is now driving. Niles and Frasier stand behind the two front seats, for Eddie is sitting in the front passenger chair._ ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "I've got to say, I was pretty anxious, but I'm starting to like this free spirit stuff!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_pointing out of window_] Oh Dad, Dad look!  There's a historical marker up ahead!  Let's stop!  Let's go see it, huh?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Yes, just driving wherever you feel like it...",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "It's educational Dad, there!  There!  There!  There!  There! Dad! _The Crane boys are pointing excitedly, but Martin drives right past. Niles and Frasier follow it as it whizzes by, and then turn back to the front disappointedly._ ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "What did it say?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I don't know.  The only word I saw was \"Legendary.\"",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_spotting another attraction on the other side of the road_] Oh, oh look, a roadside stand!  Fresh fruit, homemade apple cider! Dad, Dad, Dad, Dad... Both: Dad, Dad, Dad, Dad, Dad, DAD!  _Martin once again drives right by and the boys turn to look at the stand as it whizzes by.  Once again they turn back disappointedly, and Niles punches the back of Martins chair lightly._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Look Dad, you seem to be missing the freewheeling concept. _He tries to sit down but Eddie is in the chair.  He sits down anyway and Eddie is squashed to the side of the chair, then sits on Frasier's knee.  Niles picks up the camcorder and begins to film the view out of the front of the van._ ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "We're supposed to go where the wind blows us, for god's sakes!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "It's blowing, we're going, why are you moaning?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_angrily_] What is this obsession you have with covering a certain distance?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "It's just the way I relax!  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Hey, watch it!  I've got my kids in the car! _As he has been shouting he has veered to the left.  He straightens out quickly by swerving to the right, sending Niles once again crashing into the overhead lockers.  Niles reels back, stunned._ ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "What you call relaxing seems like a man with an obsession to me!  Don't you think so, Niles? _He turns to Niles, who has started to videotape Daphne, who is sleeping._",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Niles!  What are you doing?!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I'm making a vacation video, something that we can look at years from now, over and over and over and over again...  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Just give me that!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Okay, you guys want to stop so bad, we'll stop.  See that sign over there?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "\"Have your photo taken with a live grizzly bear - Marvella's souvenirs and gifts - one mile.\"",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Yeah!  I always wanted to have my picture taken with a bear!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, some dreams cannot be denied! [_looking into the passenger side view mirror_] Okay dad, alright, you're good here, you're good on my side, dad.  Alright, just go ahead, ease it right over, it's never to early to change lanes... [_realising what he is saying_] Oh my God, it must be genetic. _FADE TO:  Scene Two - inside Marvella's souvenirs and gifts. The Frasier gang enter, and Eddie starts to bark at a full-size, stuffed grizzly bear propped up in front of a painted view of a mountain surrounded by trees.  The rest of the store is full of various souvenirs and junk items.  There is a woman standing behind a counter._ ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Marvella"
+    },
+    {
+        "speaker": "Marvella",
+        "text": "Get your dog away from my bear!  I just had him cleaned!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "He's stuffed!",
+        "prevSpeaker": "Marvella",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You know, your sign said \"a live bear.\"",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Marvella"
+    },
+    {
+        "speaker": "Marvella",
+        "text": "It's an old sign.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_looking at picture behind bear_] Would you look at that view! It's like we're really there!",
+        "prevSpeaker": "Marvella",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, but if we were actually there dad, we'd be whizzing past at fifty miles per hour!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh Frasier, look!  It's the gourmet food department!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh!  Homemade deer jerky!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_reading notice with a sarcastic laugh_] No sampling...",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No problem!  ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Okay! [_to lady_] Excuse me!  Would you take our picture, please?  Niles, Frasier, come on up here!  Okay, everybody, alright, here we go!  Everybody ready?  Now, what should we do?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, how about this? [_he puts his hands up and opens his mouth wide as if he's scared of the bear_]",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Yeah!  That's great, I like that!  Okay, everybody!  Eddie?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Marvella"
+    },
+    {
+        "speaker": "Marvella",
+        "text": "Now, before I take it, you know it's ten dollars Canadian.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, for a treasured memory like this, what's money?  ",
+        "prevSpeaker": "Marvella",
+        "nextSpeaker": "Marvella"
+    },
+    {
+        "speaker": "Marvella",
+        "text": "Okay, one...",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Why would she want Canadian dollars?",
+        "prevSpeaker": "Marvella",
+        "nextSpeaker": "Marvella"
+    },
+    {
+        "speaker": "Marvella",
+        "text": "Two...",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Because we're in Canada.",
+        "prevSpeaker": "Marvella",
+        "nextSpeaker": "Marvella"
+    },
+    {
+        "speaker": "Marvella",
+        "text": "Three!  _On \"three,\" Daphne screams loudly as Marvella takes the picture. Everybody looks at her as she steps forward off the photo platform._ ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "We're in Canada?!",
+        "prevSpeaker": "Marvella",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Yeah, we crossed the border a while ago, when you were taking a nap.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "But we can't be in Canada!  I'm not allowed to leave the United States!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Why?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Because I don't have my green card yet!  Oh, this is just perfect!  Three months until my final interview, the one thing they told me not to do was to leave the country!  And what do you do?  Wait until the first time I fall asleep and drag me across the bleeding border!  They're never going to let me back in!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "They have to take you back, it's not your fault. [_He crosses to comfort her_]",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_to Martin_] This wouldn't have happened if you weren't so hell-bent on getting so many miles under your belt today!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well, you're the one who had to go where the wind blows!  _Martin and Frasier proceed to yell at each other loudly and angrily. Niles attempts to butt in to calm them down but can't find an appropriate break in the argument to make himself heard.  Daphne grabs a duck call and blows it loudly to grab their attention, near-deafening Niles in the process._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Never mind whose fault it is, I'm stuck here!  What am I going to do?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "We'll just go to the authorities and explain.  I'm sure mishaps like this happen all the time.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh, get real Niles, they've got the rules!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, then what's your solution dad?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Just sneak her back across the border.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "That's called smuggling!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_very sarcastically_] Oh, thanks Niles.  I knew it was something bad guys did, I just didn't know the technical term!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Dad, I can't believe that you of all people, a former policeman, are actually suggesting that we commit a felony!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh, I cross this border plenty!  Ninety-nine times out of a hundred the guards just peek in the door and wave you through. It's no big deal.  Now let's get out of here!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well, what if they pull us over?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Then Daphne's just got to convince them that she's an American.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Bloody right!  It beats having me bum bounced back across the pond!  Let's give it a bash.  ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, yes.  This is foolproof...  _Frasier exits.  FADE TO:_  **THE HOLE IN THE HEAD GANG**  _Scene Three -- The Winnebago Back in the motor home, heading for the border.  Frasier is driving, Niles and Daphne are sitting at the table.  Martin is pacing up and down the van._ ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I'm about to defraud the United States Immigration Department.  Not just me, my father and my older brother. People who should be role models for me.  It's not my fault; I'm the product of a bad environment.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_to Daphne_] Now listen, on the off chance that the guard asks you a question, can you say anything in an American accent?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "[_in a poor imitation of a U.S. accent_] Sure.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Okay, what?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "You just heard it!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "What?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "[_repeating the accent_] \"Sure.\"  That's it, that's all I can say! [_Martin looks horrified_] Oh, I need a cup of tea!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "TEA!  Why don't you just wave a crumpet in the air and start singing, \"God save the Queen\"!!",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Don't you snap at her, Frasier, you're a psychiatrist.  You should be in better control of your emotions. [_panicking_] Oh my God, there's the border!  I can see the line of cars!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Alright, now everybody calm down, we're going to be fine. Just remember that they'll be looking for suspicious behavior. [_Niles is rocking back and forth with his head resting on his arm._] Niles, that qualifies!  Alright, now if the guard pokes his head in here, what did we say he's going to see?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "All"
+    },
+    {
+        "speaker": "All",
+        "text": "Four carefree Americans.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "I've never been so nervous.",
+        "prevSpeaker": "All",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I don't think there's any need to be.  They're waving everyone through... they're not even asking any questions!",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, please, please, please!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "They're waving us through... they're waving us through... they're pulling us over... they're pulling us over!  _The gang look mortified.  Niles resumes rocking back and forwards.  FADE TO:_  **CHECKPOINT CHARLIE**  _Scene Four -- Winnebago. The van has stopped, and the guard is approaching._ ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Here comes the guard.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "I can't do this.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Now everything's going to be fine, don't worry.  Just remember to keep your answers short.  People who have something to hide always talk too much.  ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Guard"
+    },
+    {
+        "speaker": "Guard",
+        "text": "Hi, folks.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Hi, there!",
+        "prevSpeaker": "Guard",
+        "nextSpeaker": "Guard"
+    },
+    {
+        "speaker": "Guard",
+        "text": "Have a good time in Canada?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh, great!",
+        "prevSpeaker": "Guard",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Canada, wow!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Guard"
+    },
+    {
+        "speaker": "Guard",
+        "text": "[_to Niles_] What was the purpose of your trip to Canada, sir?  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Fun.",
+        "prevSpeaker": "Guard",
+        "nextSpeaker": "Guard"
+    },
+    {
+        "speaker": "Guard",
+        "text": "[_after an equally long pause_] I see. [_to Frasier_] And where were you born, Sir?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Seattle, Washington.  Oh, you want to know what country? Oh, well, America!  Of course!  I'm quite an American really, I vote all the time, and always for the law and order guy! I...",
+        "prevSpeaker": "Guard",
+        "nextSpeaker": "Guard"
+    },
+    {
+        "speaker": "Guard",
+        "text": "That's fine, sir, I don't need any more details. [_To Daphne_] And you, Miss?  Did you enjoy Canada?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "[_In her ever-so-convincing accent_] Sure!",
+        "prevSpeaker": "Guard",
+        "nextSpeaker": "Guard"
+    },
+    {
+        "speaker": "Guard",
+        "text": "And the weather?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Sure, sure!",
+        "prevSpeaker": "Guard",
+        "nextSpeaker": "Guard"
+    },
+    {
+        "speaker": "Guard",
+        "text": "[_To Frasier_] Is this your vehicle Sir?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, no.  Yes, yes!  Well, I rented it!  It's American-made, you see, I always look for that union label...",
+        "prevSpeaker": "Guard",
+        "nextSpeaker": "Guard"
+    },
+    {
+        "speaker": "Guard",
+        "text": "I just need your license and registration.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, right, uh, it's right here in this little side pocket. There's the registration.  Let me get my license out for you... oh, yes, here we are!",
+        "prevSpeaker": "Guard",
+        "nextSpeaker": "Guard"
+    },
+    {
+        "speaker": "Guard",
+        "text": "Stay right here.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_sarcastically_] Well, I can certainly depend on my gang, can't I?",
+        "prevSpeaker": "Guard",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_standing_] That's it. I'm going to be arrested!  ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "We're all getting arrested!  ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Yes, but I have delicate features.  Prison will be hell for me!",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Cool it, Niles.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "It's too late to turn back!  I say we make a run for it.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh yes, great idea!  A high-speed chase in an eight-ton motor home!  It'll make an amusing anecdote for the border guard newsletter!",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Now will everybody just shut up?  You keep babbling like this they're going to catch us for sure! [_looks out of window_] He's coming back!  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Guard"
+    },
+    {
+        "speaker": "Guard",
+        "text": "Well, these check out. All: Well, glad to hear that...",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "All strictly on the up and up... ",
+        "prevSpeaker": "Guard",
+        "nextSpeaker": "Guard"
+    },
+    {
+        "speaker": "Guard",
+        "text": "Miss, you've been very quiet.  Is there something I should know here?  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Guard"
+    },
+    {
+        "speaker": "Guard",
+        "text": "You seem awfully nervous.  May I have your name, please?  ",
+        "prevSpeaker": "Guard",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh, alright.  I guess I should have known better than to try something like this",
+        "prevSpeaker": "Guard",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_standing_] Dad, don't!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "It was just a mistake!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Guard"
+    },
+    {
+        "speaker": "Guard",
+        "text": "[_to Niles and Frasier_] You men just want to back off? [_to Martin_] What is it you want to say, sir?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "We were trying to pull one over on you.  Eddie?  ",
+        "prevSpeaker": "Guard",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "We don't have a rabies certificate for the dog.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Guard"
+    },
+    {
+        "speaker": "Guard",
+        "text": "I knew something was going on here.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Yeah, well you see, we weren't planning on coming here, and when we got to the border we just forgot all about it.",
+        "prevSpeaker": "Guard",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I for one, didn't even know that you needed one.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, but ignorance of the law is no defense so take the little dog away and we'll be off!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_casting Frasier a very evil look_] Look, this is my fault. If you're worried that we picked the dog up here in Canada, well we didn't.  I mean I've got a picture I can show you. Here's a picture of him taken at the Seattle Space Needle. _He shows the guard a wallet photo of Eddie.  Martin's old police badge is still in the wallet, and he makes it quite obvious to the guard._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Guard"
+    },
+    {
+        "speaker": "Guard",
+        "text": "I see you've got a badge there.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_with mock surprise_] Oh, yeah!",
+        "prevSpeaker": "Guard",
+        "nextSpeaker": "Guard"
+    },
+    {
+        "speaker": "Guard",
+        "text": "Are you a policeman?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Retired.  Thirty years on the Seattle police force.  Me of all people should know better, huh?",
+        "prevSpeaker": "Guard",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Absolutely.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Definitely.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "[_still with accent_] Sure.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Guard"
+    },
+    {
+        "speaker": "Guard",
+        "text": "Next time remember the rabies certificate.  Have a safe trip home.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Thanks, officer.",
+        "prevSpeaker": "Guard",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Thank you.  ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Drive!  _They all remember themselves and turn to carry on their journey.  FADE TO:  Scene Five - Winnebago Fade in.  Night has fallen, and Niles and Daphne are asleep.  Martin is driving, and Frasier comes to sit next to him in the passenger seat. Eddie barks at him as he walks by._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_to Eddie_] They would have returned you eventually!  So dad, how long 'til we get home?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "About two hours.  This highway goes right into Seattle. Why don't you lean back, take a little nap?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh no, I'm okay.  I though maybe we'd chat a little bit.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh yeah, great!  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "You know Frasier, I just can't help it.  When we're alone together I just don't know what the hell to say.  I'm sure you figured out that's why I asked Daphne to come along.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, I had my suspicions but I hoped that wasn't the case.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh, knock it off.  That's why you asked Niles to come along too.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "That's why I asked him, but that's not why he came.  ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "You know, the funny thing, we didn't have such a bad time, did we? [_they both laugh again_]",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_imitating guard and Martin_] \"I see you've got a badge there...\" \"Oh, yeah!\"",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You know dad, there's no reason for us to cut our trip short. According to this map we're not that far from Yellowstone.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh, I always wanted to see Old Faithful!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Me, too!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "If you wanted a real adventure we could drop these two sleeping beauties off at home first.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You mean it?  Just the two of us alone?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Yeah!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Just you and me, father and son!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Yeah!  You and me, camping out in Yellowstone, all alone!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "All by ourselves! _The excitement goes out of their faces as the reality of this situation dawns on them.  There is another awkward silence._ ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well, you know, it'd be an awful shame if Daphne didn't get to see those Indian paint pots...",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, of course.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "They are a real miracle of nature.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yeah.  Wouldn't be fair to leave Niles just to ramble around that old house all by himself.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Maris out of town?  That'd be cruel.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yeah, absolutely.  So, how long do you figure it'll take us to get to Yellowstone?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well, if we drive all night we'll be there tomorrow.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "It'll be a nice surprise for the two of them when they wake up in the morning.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "I've got a better surprise than that: let's tell Daphne we're in Mexico!  _Martin and Frasier burst into devilish laughter.  End Of Act Two. (Time 22:20)_ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Credits"
+    }
+]

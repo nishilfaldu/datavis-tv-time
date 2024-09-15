@@ -1,0 +1,1731 @@
+[
+    {},
+    {
+        "speaker": "Daphne",
+        "text": "There's a veterinarian's five minutes from here, I'm sure he can make Eddie cough up that ring.",
+        "prevSpeaker": "No Previous Speaker",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "All right then, off you go, both of you.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Hurry, please!  We've only got the skywriter until five!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Clint, would you please turn up that air conditioning to the maximum?  That ice sculpture over there is by the renowned artist Arthur Nudzac, and it's melting already! _Clint does.  In a few seconds, however, the unit sputters and dies with a rattle._",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "What's that?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Clint"
+    },
+    {
+        "speaker": "Clint",
+        "text": "We just blew out the compressor.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Just don't just stand there, please, call a repairman. _Clint exits.  Roz knocks on the glass, with a crowd of highly agitated guests behind her.  They are coughing._",
+        "prevSpeaker": "Clint",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Frasier!  Frasier!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "You have got to let these people in!",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, Roz, I'm sorry, I know it's warm...",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "No, it's not the heat.  That truck that just crashed was full of cattle.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, the sound of gentle mooing in the background might lend a pastoral effect.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Cattle, Frasier -- large, un-diapered cattle that just heard a cannon go off!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh.  All right, I'll handle this.  Um, wedding guests, we thank you for your cooperation and your patience... _Seeing the door open, the guests ignore him and push their way in, holding their noses._",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "People, people, please! _But he's helpless to stem the tide.  FADE TO:  Scene Eight -- Vet's Office Daphne and Niles are seated in the waiting room with Eddie.  Also seated are a man with a carrying cage, and a woman, Rachel, playing with a monkey perched on her shoulder.  The vet, a young man named Dr. Hauck, comes out with a pill bottle. _",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Hauck"
+    },
+    {
+        "speaker": "Hauck",
+        "text": "[_to the owner_] Okay, here are your pills, twice a day. [_leans down to the box's door_] And you feel better, Mr. Kitty Cat.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Hauck"
+    },
+    {
+        "speaker": "Hauck",
+        "text": "Who's next?",
+        "prevSpeaker": "Hauck",
+        "nextSpeaker": "Rachel"
+    },
+    {
+        "speaker": "Rachel",
+        "text": "I am. [_the monkey cheeps_]",
+        "prevSpeaker": "Hauck",
+        "nextSpeaker": "Hauck"
+    },
+    {
+        "speaker": "Hauck",
+        "text": "Oh, gosh.  [_N.B. Arleen Sorkin has a long affiliation with_ Frasier _.  Aside from being the wife of executive producer Christopher Lloyd, she often voiced the parts of callers into Frasier's show during rehearsals and studio tapings, before the celebrity voices were dubbed in later. Of course, I remember her best as the voice of Harley Quinn on_ Batman: the Animated Series _ -- her shining moment was successfully performing \"Amazing Grace\" on a kazoo. -- Mike Lee_] ",
+        "prevSpeaker": "Rachel",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Actually, we have an emergency here.  Our dog swallowed a ring, and it's holding up a whole wedding.",
+        "prevSpeaker": "Hauck",
+        "nextSpeaker": "Rachel"
+    },
+    {
+        "speaker": "Rachel",
+        "text": "Go ahead, I can wait.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Daphne/Niles"
+    },
+    {
+        "speaker": "Daphne/Niles",
+        "text": "** Thank you./Thank you so much. _Reset to: Examining Room Daphne and Niles follow Dr. Hauck in and place Eddie on the surgical table._",
+        "prevSpeaker": "Rachel",
+        "nextSpeaker": "Hauck"
+    },
+    {
+        "speaker": "Hauck",
+        "text": "Boy, no easy ones today.  Talk about hitting the ground running.",
+        "prevSpeaker": "Daphne/Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Is this your first day?",
+        "prevSpeaker": "Hauck",
+        "nextSpeaker": "Hauck"
+    },
+    {
+        "speaker": "Hauck",
+        "text": "Yep.  I'm not in Kansas anymore.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Where'd you go to vet school?",
+        "prevSpeaker": "Hauck",
+        "nextSpeaker": "Hauck"
+    },
+    {
+        "speaker": "Hauck",
+        "text": "Kansas.  All right, here we go.  Now if you hold his mouth open for me, I'll see if I can get his paw down his throat... [_off their shocked looks_] I'm just kidding, I'm just... you know what, why don't I just take your pooch to the other room here, and I'll just, I'll be right back.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "All right.",
+        "prevSpeaker": "Hauck",
+        "nextSpeaker": "Hauck"
+    },
+    {
+        "speaker": "Hauck",
+        "text": "Excuse me. [_picks up Eddie_] All right, buddy.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Thank you.",
+        "prevSpeaker": "Hauck",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "He has no idea what he's doing.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, he's just new at this, he's nervous.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "I've been a bit nervous myself lately, ever since me brothers showed up.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Really?  Why?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Well, you know, the way they keep patting my stomach and saying, \"he's a Moon all right!\"",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_relieved_] Oh my God, yes!",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "And every time they say that, all I can think is, what if he's not?  What if he's like you and Frasier?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Excuse me?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Oh, a Moon boy I know how to handle.  But what if he's a little genius -- teasing me in French by the time he's six?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_laughing_] That is so funny -- I've been worried he's gonna turn out like one of your brothers.  I was sure when he kicked that speaker off your belly, that you had a little Simon in there.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "[_chuckles_] They are a handful, my brothers.  I can just imagine the hell they're raising back there.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "With an open bar? _They chuckle -- then Daphne suddenly clutches her stomach and we hear the sound of water trickling onto the floor. _",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "[_gasps_] Oh my God, my water just broke!  The baby's coming!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Because I said \"open bar\"?!",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, okay, all right, don't-don't panic, there's plenty of time to get you to a hospital.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Oh! -- the hell there is, it's coming right now!  Oh...!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Hauck"
+    },
+    {
+        "speaker": "Hauck",
+        "text": "Here's your ring.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, here, here -- [_grabs the ring_] Call an ambulance, my wife's having a baby!",
+        "prevSpeaker": "Hauck",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "There's no time for an ambulance!  Oh!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh my God!",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Hauck"
+    },
+    {
+        "speaker": "Hauck",
+        "text": "Oh my God!  Uh, uh, you know what, why don't you-you call 9-1-1...",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "All right!",
+        "prevSpeaker": "Hauck",
+        "nextSpeaker": "Hauck"
+    },
+    {
+        "speaker": "Hauck",
+        "text": "...and-and I'll just, I'll just get started here.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Hauck"
+    },
+    {
+        "speaker": "Hauck",
+        "text": "Oh, wait!  Wait, wait, wait! [_they stop and look at him_] I'm going to wash my hands!",
+        "prevSpeaker": "Hauck",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Are you sure you know what you're doing?!",
+        "prevSpeaker": "Hauck",
+        "nextSpeaker": "Hauck"
+    },
+    {
+        "speaker": "Hauck",
+        "text": "Oh, I've assisted in many deliveries, ma'am.  In fact, one just took blue ribbon at the Kansas State Fair.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Oh!  Oh my God!  Oh!",
+        "prevSpeaker": "Hauck",
+        "nextSpeaker": "Hauck"
+    },
+    {
+        "speaker": "Hauck",
+        "text": "Easy now, you're doing great, girl.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Don't call me that, I'm not a bloody poodle!",
+        "prevSpeaker": "Hauck",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_into phone_] Yes, hello, hello!  We're at, we're at, uh... [_checks the phone_] 1206 East Vilage Road, my wife's gone into labor! [_to her_] They say the hospital is twenty miles away, can you make it if I drive you-?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "She says no.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "All right, they're on their way, they're on their way, now you just calm down.  Focus on me, and breathe.  Breathe... _He begins Lamaze breathing, inhaling rapidly and blowing his cheeks out.  Daphne looks at him and does the same.  However, Niles's panic gets the better of him and his inhalations quickly turn to wheezing as he starts to hyperventilate, then passes out onto the floor._",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Oh!  Oh, for God's sakes!  Oh! _Dr. Hauck is still struggling into rubber gloves and a surgical mask when Rachel opens the door._",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Rachel"
+    },
+    {
+        "speaker": "Rachel",
+        "text": "Is everything okay in here?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Hauck"
+    },
+    {
+        "speaker": "Hauck",
+        "text": "We're fine.",
+        "prevSpeaker": "Rachel",
+        "nextSpeaker": "Rachel"
+    },
+    {
+        "speaker": "Rachel",
+        "text": "Okay.  If you need any help, I'm a registered nurse. [_starts to leave_]",
+        "prevSpeaker": "Hauck",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Oh, get the hell back in here!",
+        "prevSpeaker": "Rachel",
+        "nextSpeaker": "Hauck"
+    },
+    {
+        "speaker": "Hauck",
+        "text": "Easy, girl.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Stop that! _As she keeps gasping, we FADE TO:  Scene Nine -- The Branford Inn Back at the Inn, Frasier is presiding over chaos.  All the guests are crowded into the dining room, sweating like pigs and fanning themselves frantically.  In desperation, Roz opens the door and starts fanning the air with it. _",
+        "prevSpeaker": "Hauck",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Roz, do not open a window until they tow that cattle truck!",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "God, it's a million degrees in here!  We gotta get a breeze... [_coughs_] Oh my God! _Roz, Frasier, and all the guests stagger and cough as the fetid breeze from outside fills the room.  Martin and Ronee, dressed in suit and white gown, enter the room, and the stench hits them in the face._",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh my God! [_he and Ronee hold their noses_]",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_putting a blithe face on it_] Dad, Ronee!  We're almost ready to start!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "What's that smell?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_pretending_] Smell?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Guest"
+    },
+    {
+        "speaker": "Guest",
+        "text": "[_holding her nose_] Congratulations you two, everything's just perfect, sorry I can't stay!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Ronee"
+    },
+    {
+        "speaker": "Ronee",
+        "text": "What's happening?",
+        "prevSpeaker": "Guest",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "There's been a bit of a mishap with a cattle truck, and-and the A.C.'s out.  But no matter!  Right, people?  It'll take more than that to mar our joy at seeing these two become Mr. and Mrs. Martin Crane! _BOOM!  Everyone jumps -- except Simon and Stephen, who just bellow with laughter again and clink their champagne glasses together.  In the midst of this chaos, Frasier's mobile rings. _",
+        "prevSpeaker": "Ronee",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Hello?  Well, finally, Niles!  Stop babbling!  Listen, Niles, you'll have to speak up, I can't hear you with that baby screaming in the backgr... Oh my God! _He gets a joyous look on his face.  [_N.B. This scene was not shown in the U.K. broadcast._]  FADE OUT  END OF ACT THREE  ACT FOUR  Scene Ten -- Vet's Office Daphne is lying on the table, holding her newborn son.  Niles, looking haggard but happy, hugs her.  Rachel and Dr. Hauck are scrubbing down in the sink. _",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Isn't he perfect, Dad?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "He certainly is, Mom.  He's got your eyes and my chin.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "He's got my hair.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "You think so?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "No, he's got my hair.  Let go, dear.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Rachel"
+    },
+    {
+        "speaker": "Rachel",
+        "text": "If you can part with him for just two seconds, I should finish cleaning him up.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Of course.",
+        "prevSpeaker": "Rachel",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "We can't thank you two enough. _He looks at Dr. Hauck, whose mask is askew on his forehead, and who is struggling to remove his gloves._",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Hauck"
+    },
+    {
+        "speaker": "Hauck",
+        "text": "[_modest wave_] Oh, please.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Really, if there's ever anything that we can do for you...",
+        "prevSpeaker": "Hauck",
+        "nextSpeaker": "Rachel"
+    },
+    {
+        "speaker": "Rachel",
+        "text": "You can do me one quick favor: my Jason is kind of overdue for his lunch.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, of course. _CUT TO: Waiting Room The room is empty.  Frasier, Martin, and Ronee come in, still wearing their wedding clothes._",
+        "prevSpeaker": "Rachel",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Hello?  Niles?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Boy, some day, huh?  Getting married and meeting my grandson all in the same afternoon. _The door opens and there is Niles, holding a monkey tenderly under his arm and feeding him with a bottle._",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Hey, you guys!  You're just in time, come on in!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_to a gaping Frasier_] Don't stare, you were no prize at that age either! _Reset to: Examining Room Frasier, Martin and Ronee follow Niles in._",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Oh, look who's here.  Hello. _Rachel enters from the washroom with the baby swaddled, and gives him to Daphne._",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Rachel"
+    },
+    {
+        "speaker": "Rachel",
+        "text": "Here we go!",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh my God, he's beautiful!",
+        "prevSpeaker": "Rachel",
+        "nextSpeaker": "Ronee"
+    },
+    {
+        "speaker": "Ronee",
+        "text": "Yeah, that twin's gonna be jealous his whole life.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Rachel"
+    },
+    {
+        "speaker": "Rachel",
+        "text": "Your ambulance should be here any minute, so I think I'm gonna go.",
+        "prevSpeaker": "Ronee",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "All right.  Thank you again.",
+        "prevSpeaker": "Rachel",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Thank you.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Hauck"
+    },
+    {
+        "speaker": "Hauck",
+        "text": "Uh, you sure you don't want me to check your monkey?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Rachel"
+    },
+    {
+        "speaker": "Rachel",
+        "text": "[_embarrassed laugh_] Yeah, I'm sure. _She picks up Jason and his cage, and leaves.  Dr. Hauck excuses himself to the other room._",
+        "prevSpeaker": "Hauck",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Thank you.",
+        "prevSpeaker": "Rachel",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Thank you.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_tickles the baby_] Hey there, you!  I'm the one who's gonna spoil you rotten.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Oh, you're so sweet to come down.  But what about your wedding, all those people?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh, they'll keep.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Ronee"
+    },
+    {
+        "speaker": "Ronee",
+        "text": "Yeah, as long as there's an open bar.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "[_to the baby_] Ooh!  Settle down there.",
+        "prevSpeaker": "Ronee",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, I guess that's our ride.  I'm so sorry we're going to miss your wedding.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Ronee"
+    },
+    {
+        "speaker": "Ronee",
+        "text": "Oh, so are we.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "I feel like it's me own dad getting married.",
+        "prevSpeaker": "Ronee",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_pats her head_] Oh yeah, it's not gonna be the same without you guys up there.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well, don't let me forget the rings.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Ronee"
+    },
+    {
+        "speaker": "Ronee",
+        "text": "Hey, wait a minute!  Why don't we just get married here? I mean, we've got the rings, and-and the preacher...",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well, what about all the guests?",
+        "prevSpeaker": "Ronee",
+        "nextSpeaker": "Ronee"
+    },
+    {
+        "speaker": "Ronee",
+        "text": "Well, we can do it again for them later.  And at least this place only smells like a monkey.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well, I'm game.  Get cracking, Fras! _Martin and Ronee stand on one side of the table.  Daphne lies there, holding the baby.  Frasier and Niles stand on the other side, and Frasier takes some speech cards from his pocket._",
+        "prevSpeaker": "Ronee",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You know, I'd better, uh, condense this just a bit... [_reading the cards_] No, I don't need that... and I don't need that. All right... ah. [_begins_] \"It was the great thinker Horace Walpole...\"",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Don't need that.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_chucks the card_] Well, all right then, uh... \"Dearly beloved, we are gathered here...\"",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Rob"
+    },
+    {
+        "speaker": "Rob",
+        "text": "Someone call for an ambulance?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Just a couple seconds, please.",
+        "prevSpeaker": "Rob",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "All right, Niles, uh, why don't you give them the rings?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_does_] Here.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I'll just cut to the chase here.  Uh, do you, Martin Crane take Ronee Lawrence to be your lawfully wedded wife, forsaking all others, until death do you part?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "I do.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Do you, Ronee Lawrence, take Martin Crane...?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Ronee"
+    },
+    {
+        "speaker": "Ronee",
+        "text": "I do!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Oh, I'm tearing up.",
+        "prevSpeaker": "Ronee",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You know, if they'd let me say what I planned to, you'd be bawling your eyes out right now.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "By the power vested in me, I now pronounce you man and wife. _They kiss tenderly and hug.  Hugs and laughter follow all around. Then Niles opens the door to Rob._",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "We're ready now. [_to Martin and Ronee_] We're so happy for you both.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Congratulations. _The paramedics wheel a gurney in, and Niles takes the baby as they slide Daphne onto it._",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "And, you will always remember your anniversary, because it's the same day as your grandson's birthday.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Yeah, and Eddie's!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Ronee"
+    },
+    {
+        "speaker": "Ronee",
+        "text": "What?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Uh, never mind.",
+        "prevSpeaker": "Ronee",
+        "nextSpeaker": "Ronee"
+    },
+    {
+        "speaker": "Ronee",
+        "text": "Eddie's birthday is today?  So that's how you came up with May 15th for the hotel?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Uh...",
+        "prevSpeaker": "Ronee",
+        "nextSpeaker": "Ronee"
+    },
+    {
+        "speaker": "Ronee",
+        "text": "I knew it!  And you've been blaming the inn all this time -- oh, you are so busted! _She walks out, Martin follows her slowly.  Frasier, Niles, and Daphne watch him, concerned._",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_to the boys_] That was a short honeymoon. _The paramedics wheel Daphne out.  Niles follows.  FADE TO:_ **AN IDLE KING** _Scene Eleven - Apartment It is evening, the rain is pouring outside.  Frasier is sitting on his couch, enjoying a book and a glass of sherry.  After a few minutes, he closes his book, drains his glass, then picks up the cordless phone and dials._",
+        "prevSpeaker": "Ronee",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Hello, Lilith.  Hey, it's me.  Yeah, listen, I was just calling to check out how Freddy's doing.  What, a new one? I thought he was smitten with the old one.  Well, you know, he gets that from me.  Back in my heyday, I had a new chess coach every month. [_chuckles_] Well, I'm... spending a lot of time alone lately.  Well, you know, Dad and Ronee are still on their honeymoon.  Oh yes, they thank you for that very thankful radon detector you sent.  Not seeing much of Niles and Daphne either, because they're so busy with the baby... Oh!  Uh, sorry to keep you.  Yeah, just, uh, just tell Freddy to call me.  Okay, bye, Lilith. _He hangs up.  He goes to the balcony door and opens it, listening to the sound of the rain.  Someone rings the doorbell.  Frasier eagerly goes to answer it, to a Moving Man._",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Man"
+    },
+    {
+        "speaker": "Man",
+        "text": "Here to pick up a chair?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Right.  It's right there. _He points to the chair, which has been marked with strips of red tape on the front._",
+        "prevSpeaker": "Man",
+        "nextSpeaker": "Man"
+    },
+    {
+        "speaker": "Man",
+        "text": "Sorry I'm late.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "It's all right.",
+        "prevSpeaker": "Man",
+        "nextSpeaker": "Man"
+    },
+    {
+        "speaker": "Man",
+        "text": "Been waiting long?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Eleven years. _The Man levers the chair onto his dolly and wheels it to the door. But Frasier betrays some affection._",
+        "prevSpeaker": "Man",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Uh, be careful with it. [_N.B. Cleto Augusto reprises his role as the Moving Man who brought Martin's chair to the apartment eleven years ago in[[1.01]](/frasier/transcripts/season_1/episode_1/the_good_son.html \"The Good Son\") \"The Good Son.\"_] _Frasier contemplates the empty space where the chair was, then joyfully brings the Eames from the upper landing down, and places it in front of the TV, with its footstool.  He steps back and surveys the tableau with satisfaction.  He sits on the coffee table, looking around at his apartment. For the first time in eleven years, he's on his own.  He should be satisfied.  But after a minute, he realizes that he's not.  He picks up the phone again._",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Bebe, hi, it's Frasier.  Listen, about that San Francisco job... I think I'll take it. _He hangs up.  FADE OUT  END OF ACT FOUR  ACT FIVE  Scene Twelve -- Cafe Nervosa Frasier takes his seat with Noel and Gil from KACL._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Gil"
+    },
+    {
+        "speaker": "Gil",
+        "text": "Have you heard anything, Frasier?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "About what?",
+        "prevSpeaker": "Gil",
+        "nextSpeaker": "Noel"
+    },
+    {
+        "speaker": "Noel",
+        "text": "The new station manager.  They're announcing today.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Gil"
+    },
+    {
+        "speaker": "Gil",
+        "text": "My stomach is in knots.  I just know they're going to replace sweet, kind-hearted Kenny with some ruthless, Draconian...",
+        "prevSpeaker": "Noel",
+        "nextSpeaker": "Noel"
+    },
+    {
+        "speaker": "Noel",
+        "text": "...hard ass!",
+        "prevSpeaker": "Gil",
+        "nextSpeaker": "Gil"
+    },
+    {
+        "speaker": "Gil",
+        "text": "That would hardly make up for it. _Noel and Frasier share a knowing glance.  The Agent of Hell enters and disturbs the peace._ ",
+        "prevSpeaker": "Noel",
+        "nextSpeaker": "Bebe"
+    },
+    {
+        "speaker": "Bebe",
+        "text": "Frasier!",
+        "prevSpeaker": "Gil",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_standing_] Bebe.  Oh, I'll let you know if I hear anything, guys. [_goes to Bebe_]",
+        "prevSpeaker": "Bebe",
+        "nextSpeaker": "Bebe"
+    },
+    {
+        "speaker": "Bebe",
+        "text": "It's done.  When destiny calls, Bebe calls back and screws destiny to the wall.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, yes, yes.  Shush, shush.  I don't want anyone to find out.  I'm not telling my family until this evening. [_motions her to the window seat_]",
+        "prevSpeaker": "Bebe",
+        "nextSpeaker": "Bebe"
+    },
+    {
+        "speaker": "Bebe",
+        "text": "I'm so proud of you.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_digging in his pocket_] Oh, Bebe, listen, I have something for you.  I've decided to give away some of the things that I've accumulated through the years.  As sort of a... fresh start, you know.  ",
+        "prevSpeaker": "Bebe",
+        "nextSpeaker": "Bebe"
+    },
+    {
+        "speaker": "Bebe",
+        "text": "My baby's all grown up. [_She puts her hands on his face_] I look in your eyes and I see something there that I've never seen before.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Wisdom?",
+        "prevSpeaker": "Bebe",
+        "nextSpeaker": "Bebe"
+    },
+    {
+        "speaker": "Bebe",
+        "text": "Crow's feet.  Sorry, darling, but you're going to be on TV now.  I talked to my face man, he can see you at four o'clock. [_dangles a card in front of him_]",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Thanks, Bebe, but no thanks.",
+        "prevSpeaker": "Bebe",
+        "nextSpeaker": "Bebe"
+    },
+    {
+        "speaker": "Bebe",
+        "text": "I'm not talking surgery.  Just talking a little tweaking, twenty minutes.  I've used him for years.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "And I'm sure he's very good at what he does, but still it's just not me.... _He is interrupted by a short, balding fat man in his late thirties, sticking his head round the door (Steve)._ ",
+        "prevSpeaker": "Bebe",
+        "nextSpeaker": "Steve"
+    },
+    {
+        "speaker": "Steve",
+        "text": "I'm done next door, so I'll be in the car, Mom. [_N.B. To anyone who doubts that she's made a deal with Satan..._] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_taking card_] Four o'clock it is.  [_N.B. In Bebe's debut episode,[[1.09]](/frasier/transcripts/season_1/episode_9/selling_out.html \"Selling Out\") \"Selling Out,\" she alluded to a daughter who was about to graduate from university.  But no episode after that mentioned any children._] _Bebe leaves in excitement and passes Roz who is talking on her cell phone._ ",
+        "prevSpeaker": "Steve",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Yeah.  Thank you.  Bye.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Noel"
+    },
+    {
+        "speaker": "Noel",
+        "text": "You heard something, didn't you?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "[_dazed_] Yeah.",
+        "prevSpeaker": "Noel",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Roz, are you all right?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Gil"
+    },
+    {
+        "speaker": "Gil",
+        "text": "Of course not.  She's ashen with terror.  Spit it out, Roz. Who's the jack-booted tyrant whose fanny I'll be kissing till God knows when?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Me.",
+        "prevSpeaker": "Gil",
+        "nextSpeaker": "Gil"
+    },
+    {
+        "speaker": "Gil",
+        "text": "[_kneeling_] Joyful news, your majesty.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You?!  Roz, congratulations!  Aren't you excited?",
+        "prevSpeaker": "Gil",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "I don't know.  It just hasn't sunk in yet.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, that's understandable.  I remember when I heard that my advice would be heard by millions of people and...",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "[_yelling in excitement_] It just sunk in!  I'm the boss! Who wants to go have champagne?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh gosh, Roz, I'd love to, but I have to go to a doctor's appointment.  Can you come to my place for dinner tonight?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Sure.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh gosh, I'm so happy for you.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "I'm just so excited. _Overcome with excitement, she grabs Frasier and kisses him on the lips.  Then she breaks and grabs Gil and kisses him on the lips. Then it's Noel's turn...  She stops, realizing that he's breathing shallowly, daring to hope. At first she's reluctant, but her excitement is so great that she goes ahead and grabs Noel and kisses him on the lips.  Noel, seizing the moment, throws his arms around her and returns the kiss passionately, bending her backwards.  After a while she finally manages to break free.  Noel looks thoroughly satisfied and puts his arm around her._",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Gil"
+    },
+    {
+        "speaker": "Gil",
+        "text": "Well.  Was that worth waiting for?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Noel"
+    },
+    {
+        "speaker": "Noel",
+        "text": "[_still breathing heavily_] He asked you a question, Roz. **TO STRIVE, TO SEEK, TO FIND** _Scene Thirteen -- Frasier's Apartment. Frasier is on the phone in the kitchen.  He is playing with his eyes.  They won't stop streaming with tears._ ",
+        "prevSpeaker": "Gil",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Bebe, it's Frasier.  When you get this, call me, please. I want to thank you for sending me to that quack of yours today!  He screwed something up and now my eyes won't stop watering. _Reset to: Living Room Meanwhile, Daphne is opening the door to Roz.  Martin and Ronee are already there, snuggled together on the couch now that the apartment is chair-less._ ",
+        "prevSpeaker": "Noel",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "There she is.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Congratulations.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Well, and to you.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Ronee"
+    },
+    {
+        "speaker": "Ronee",
+        "text": "Hey, does anyone know what this big occasion is?  We had plans and Frasier made us cancel.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "We're not sure either.  He said he had some sort of an announcement to make.  ",
+        "prevSpeaker": "Ronee",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Awww, there he is.  ",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Hello, Roz.  ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_tickles him_] Hey, David, remember me?  I'm your grandpa.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Ronee"
+    },
+    {
+        "speaker": "Ronee",
+        "text": "[_tickles him_] Yes, and I'm your... Sorry, I just, I can't say it yet.  [_N.B. In memory of David Angell._] _Reset to: Kitchen Roz enters to find a teary Frasier._",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Frasier, I brought some champagne if... Were you just crying?",
+        "prevSpeaker": "Ronee",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No, no, Roz, of course not.  Listen, could you take these out for me? [_passes her a tray of hors d'oeuvres_]",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Sure.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Thank you. _Reset to: Living Room Roz returns._ ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Is Frasier okay?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Sure, why?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Well, I think he was crying in the kitchen.  I hope he's okay.  He's been at the doctor an awful lot lately.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Has he?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Yeah, he went today and he missed a whole show because of an appointment last week.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "He hasn't said anything to us.  ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Ronee, I saw you admiring this China pattern.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Ronee"
+    },
+    {
+        "speaker": "Ronee",
+        "text": "Oh, yes, it's beautiful.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, well, I'd like to make a gift of them to you as a complete set.",
+        "prevSpeaker": "Ronee",
+        "nextSpeaker": "Ronee"
+    },
+    {
+        "speaker": "Ronee",
+        "text": "Gosh, Frasier, thank you.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Of course.  Oh, Niles, I know how much you've always coveted this chess set. [_holds it up_]  And I want you to have it.",
+        "prevSpeaker": "Ronee",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "But this is your favourite.  This is the one you learned on.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Which is why I want it to be the set that you teach that son of yours to play on.  I haven't forgot about you, Roz. I'll be right back.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "I don't like this.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well, now, let's not get alarmed.  It's marriage in the air and a new baby, it's just brought out his sentimental side. _The phone begins to ring and Roz goes to answer the phone.  But the machine picks up first._",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Doctor"
+    },
+    {
+        "speaker": "Doctor",
+        "text": "[_v.o. on machine_] Frasier, it's Dr. Hanning.  I'm really sorry about your results.  I know it doesn't look good but, um, I'm going to do everything I can for you.  Call me.  [_N.B. Rob Hanning wrote for the show._]",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Oh my God...",
+        "prevSpeaker": "Doctor",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Do you think that's why he brought us all here tonight?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Here we are, Roz.  I thought this art deco mirror seemed like you. _He passes it to her, causing an immediate fit of emotion.  She sobs deeply._",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well that just shows you.  I thought I'd get the bigger reaction from the chess set.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Frasier, what's going on here?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Yeah, giving all your stuff away? You're not going anywhere, are you...?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, I didn't want to say anything until after dinner so as not to bring down the party, but...",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I see you're all ahead of me.  Uh... listen, a couple of weeks ago I got some unexpected news.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Now you see, this is exactly what I was trying to avoid. You mustn't think of my leaving you as a sad thing, because I don't.  I think of it as an adventure.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Oh, Frasier, no....",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "We all knew we weren't going to stay together forever.  I mean, that's not what life is about.  Cry, if you must, but I assure you, when I pass through that Golden Gate I will be smiling!",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_in utter misery_] Golden Gate?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes!  That's where I'm moving to!  San Francisco!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "What?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "My new job.  I start next week.  Now don't just sit there choking back the tears.  Go ahead, let them out. _They instead begin laughing hysterically and hugging each other. Frasier is mystified.  DISSOLVE TO:  Scene Fourteen -- Frasier's Apartment The scene cuts to the end of the party.  Frasier, Martin and Niles are having brandy out on the balcony together as Roz, Daphne and Ronee sit in the living room.  _ ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "To San Francisco.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "To San Francisco.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "To San Francisco. _They clink glasses and take a swig - Martin's swig being considerably larger... what with finishing off the glass._",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You know it's just an hour by plane, so I'll be coming back up as often as you like.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "We know, Fras.  Don't worry about us.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "We're happy for you.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I'm happy for myself.  And scared too.  But it's a good scared.  Sort of the way I felt when I came here from Boston.  If I hadn't done that, just think of what I would have missed out on.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "And, look what I would have missed out on. [_looking over at Daphne and David_] God, they are so beautiful.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "And they'll stay like that as long as she keeps breast feeding. _Frasier and Niles share glances as Martin heads inside.  Daphne enters from the other door._",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Niles, could you take the baby?  I need to get a blanket. _Reset to: Living Room Frasier and Niles enter the living room to find Martin snugly laid out on Frasier's designer Eames chair._ ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Mmmm, well this is pretty comfortable.  I would have been okay with this!",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_changing subject_] Let me just help you with some of those dishes.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Ahh, handsome boy.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Yes.  And to think I had myself all worked up worrying that we would have nothing in common.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh, I've been there, Niles.  It all works out.  ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Ronee"
+    },
+    {
+        "speaker": "Ronee",
+        "text": "Well, Marty, we better get going.  I've got a crazy morning.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Me too.  I've got a seven-thirty and then I've got to fire someone.",
+        "prevSpeaker": "Ronee",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Who?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Whoever scheduled the seven-thirty meeting!",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "We should go too, honey.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, well, if you really must go, all right, but I tell you what, don't go without taking some of these eclairs with you. _As everyone heads for the door, the camera focuses on Frasier rushing in and out of the kitchen._",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I'm on TV next week and the only thing worse than seeing them going to waste would be seeing them go to my waist! _Frasier chuckles at his own word play as he enters the living room with the eclairs.  He is surprised to find everyone stood waiting for him, heartbroken.  _ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "What?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Does it mean you're really leaving? [_chokes up_] What will I ever do without you? [_hugging him dearly_] You're the sweetest, most wonderful...",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "It's okay, Roz.  He's not going till next week.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Let her talk, Dad!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "You've always been just like a brother to me. [_breaking hug_] Which is weird, I know, because we slept together, but...",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Ooh, move over, Roz. [_goes to hug him_] Do you know how many operas I'm gonna get dragged to now you're not around?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, I promise I'll fly up for all the German ones!",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Yeah, and he'll be here for Christmas... and Thanksgiving... and birthdays... and... [_convincing himself_] We'll be sick of this guy!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yeah, Dad's right.  I mean, once I'm gone there'll be no getting rid of me. _Frasier moves towards his father.  Martin begins to tear up as he puts his hand on his son's face._ ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Thank you, Frasier.  For... well, you know. _They hug in a special moment that is so much more than the \"one lousy thank you\" which Frasier begged of his father in \"The Good Son.\"_",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Ronee"
+    },
+    {
+        "speaker": "Ronee",
+        "text": "Go get \ufffdem, kid.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Sure. _They briefly hug.  Frasier then turns around to his dear brother and respected friend, Niles._ ",
+        "prevSpeaker": "Ronee",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "You already made me cry once tonight.  That's quite enough.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Right.  Coffee tomorrow?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Ten-thirty. _They shake hands.  After all, \"a handshake is as good as a hug,\" as their mother once told them._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I'll miss the coffees. _The tears begin to spring as they denounce their mother's sentiments and hug tenderly._ ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I love you.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You all know how I feel about you, and the only reason I'm leaving is because I want what all of you have now: a new chapter.  Who knows if it'll even work out? [_looking to Martin_] But it's like that Tennyson poem Mom had us recite for you when we were kids.  Do you remember?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "I think we're about to.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "It may be that the gulfs will wash us down, It may be we shall touch the Happy Isles, and though We are not now that strength which in old days Moved earth and heaven, that which we are, we are... _DISSOLVE TO:  Scene Fifteen -- KACL The scene dissolves into the radio station as Frasier delivers his final show.  He is finishing the same Tennyson poem.  Roz is in the producer's chair, and a whole crowd of KACL staff is standing behind her in the booth, including Kenny, Noel, Gil, and Bebe. _",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Made weak by time and fate, but strong in will To strive, to seek, to find, and not to yield.  _Frasier gives Roz a glance of weary happiness.  As he delivers his farewell remarks, the camera slowly pans around until we are left with an image of Frasier finishing his show whilst another crowd, including Niles, Daphne, Martin, Ronee and little David watch silently on from behind the glass, in the corridor._",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I've been thinking about that poem a lot lately.  And I think what it says is that, while it's tempting to play it safe, the more we're willing to risk, the more alive we are.  In the end, what we regret most are the chances we never took.  And I hope that explains a little this journey on which I'm about to embark.  I have loved every minute with my KACL family and all of you.  For eleven years you have heard me say, \"I'm listening.\"  Well, you were listening too.  And for that I am eternally grateful. Goodnight, Seattle.  _Frasier hangs up his headphones for the final time.  DISSOLVE TO:  Scene Sixteen -- Airplane Cabin The scene dissolves back to the present as Frasier finishes his story to Anne Ranberg, his fellow airline passenger. _",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "We had a big party that night.  It was all very sweet.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Anne"
+    },
+    {
+        "speaker": "Anne",
+        "text": "What was that?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, good heavens. [_looking out of window_] We've touched down.",
+        "prevSpeaker": "Anne",
+        "nextSpeaker": "Anne"
+    },
+    {
+        "speaker": "Anne",
+        "text": "Already? [_laughs in amazement_] Well, thank you so much, I've never had an easier flight.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "And I've never had more delightful company.",
+        "prevSpeaker": "Anne",
+        "nextSpeaker": "Anne"
+    },
+    {
+        "speaker": "Anne",
+        "text": "I think it's great what you're doing.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, I just know I'd always regret it if I didn't take the chance.",
+        "prevSpeaker": "Anne",
+        "nextSpeaker": "Pilot"
+    },
+    {
+        "speaker": "Pilot",
+        "text": "[_v.o_] Ladies and Gentleman, welcome to Chicago...  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    }
+]

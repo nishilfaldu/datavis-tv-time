@@ -1,0 +1,1365 @@
+[
+    {},
+    {
+        "speaker": "Frasier",
+        "text": "Hello, Niles.",
+        "prevSpeaker": "No Previous Speaker",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Frasier, quick, give me your museum membership card.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "What for?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I just heard tickets go on sale today for the exhibit of fourteenth century Japanese netsuki figurines.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, then the rumours were true?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Hurry, hurry, I want to get there before the line forms.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Five seconds. [_exits_]",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, just give me a minute, Niles.  Just sit tight, huh? [_on air, reading copy:_] And we're back.  Before we take our last call, I'd like to remind you that Mercy Hospital will be conducting free blood pressure testing this Saturday on Whidbey Island.  _Niles takes a peppermint out of his pocket and begins to unwrap it. The cellophane causes a crinkling noise which the microphone picks up._ ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Hypertension leads to strokes, heart disease and other maladies, so we should all be on the lookout for symptoms like shortness of breath, [_motions at Niles to stop_] quickening of pulse, irritability- [_presses cough button_] Oh, will you just shove the damn thing into your mouth! [_Niles puts the mint and wrapper into his mouth; lets go_] - So let's all join together to help defeat this silent killer. _Niles now tries to pull the sweet wrapper out of his mouth, causing more noise.  Frasier gestures him angrily into Roz's booth._",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Roz, who is on the line?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "On line four we have Mac, who's recently moved here from Australia and he's having a problem with a co-worker.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Hello, Mac, welcome to Seattle, I'm listening.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Mac"
+    },
+    {
+        "speaker": "Mac",
+        "text": "[_v.o.; broad Australian accent:_] Well, mate, it like your Shelia said.  I'm working with a real yob-out.  He goes on and on about things nobody gives a billabong about just to show off how smart he is.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, you have my sympathy.  There's nothing more irritating than pointless and pretentious erudition.  My advice to you is to simply avoid him, is that possible?",
+        "prevSpeaker": "Mac",
+        "nextSpeaker": "Mac"
+    },
+    {
+        "speaker": "Mac",
+        "text": "[_v.o_] Not really, you bloody wallaby!  _Bulldog taps on the window behind him, he's making the prank call, others are gathered around him._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "You're on right before me!  Stay tuned for the Bulldog. [_growls_]  ",
+        "prevSpeaker": "Mac",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, that's one on me, or rather one on me and my call screener, Roz, whose ancestors were once heard remarking, \"Oh, what a nice wooden horse, of course I'll sign for it.\" [_Roz is not amused_] This is Dr. Frasier Crane wishing you good mental health.  ",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "Gotcha!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "How many times have I asked you to desist with your adolescent antics?",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "I've got a sense of humour!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I mean it, I'll go over your head!",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "[_sarcastic_] Stop it, you're scaring me!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "[_enters_] Listen, you sleazy little lyme tick, you do that one more time and I'll cut you off. [_he laughs_] And I don't mean mid-sentence!",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "[_truly fearful_] Stop it, you're scaring me!  ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Do you believe these hijinks I have to put up with?",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "No.  Who would have thought it with a station whose current motto is, \"Yakkety-Yak, We Talk Back\"?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, run along. [_hands him museum card_]  ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Kate"
+    },
+    {
+        "speaker": "Kate",
+        "text": "Oh, hello, Dr. Crane.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Miss Costas, I'd like you to meet my brother, Dr. Niles Crane.",
+        "prevSpeaker": "Kate",
+        "nextSpeaker": "Kate"
+    },
+    {
+        "speaker": "Kate",
+        "text": "How do you do?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Enchante, I'd love to stay and chat but I'm off to get tickets for Frasier and me at the Japanese netsuki exhibit.",
+        "prevSpeaker": "Kate",
+        "nextSpeaker": "Kate"
+    },
+    {
+        "speaker": "Kate",
+        "text": "You'll love it.  I saw it in Kyoto.  It's just such a shame they're not letting the really rare pieces out of the country.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_disappointed_] Oh. [_hands back card to Frasier_] As my Japanese gardener says, _Maimoshi chikosho._",
+        "prevSpeaker": "Kate",
+        "nextSpeaker": "Kate"
+    },
+    {
+        "speaker": "Kate",
+        "text": "Watch your mouth!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, you speak Japanese? [_she nods_] Oh, I'll just retreat so that I can be one with my humiliation.  ",
+        "prevSpeaker": "Kate",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh Kate, can I have a word with you?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Kate"
+    },
+    {
+        "speaker": "Kate",
+        "text": "I'm in kind of a hurry.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, well, it'll just take a moment.",
+        "prevSpeaker": "Kate",
+        "nextSpeaker": "Kate"
+    },
+    {
+        "speaker": "Kate",
+        "text": "I seriously doubt that, but go ahead.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, I've tried dealing with this problem on my own but Bulldog insists on interrupting my show with his foolish pranks.",
+        "prevSpeaker": "Kate",
+        "nextSpeaker": "Kate"
+    },
+    {
+        "speaker": "Kate",
+        "text": "I heard.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Yes, well I did not spend eight gruelling years at Harvard to be mocked by that juvenile jackass!",
+        "prevSpeaker": "Kate",
+        "nextSpeaker": "Kate"
+    },
+    {
+        "speaker": "Kate",
+        "text": "Shameless!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, he's beyond shameless!",
+        "prevSpeaker": "Kate",
+        "nextSpeaker": "Kate"
+    },
+    {
+        "speaker": "Kate",
+        "text": "I'm talking about the way you manage to get Harvard into every conversation.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, I'm sure you'll mention your alma mater too some day - when it's credited!",
+        "prevSpeaker": "Kate",
+        "nextSpeaker": "Kate"
+    },
+    {
+        "speaker": "Kate",
+        "text": "Gee, you sure know how to ask for help!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No, I'm sorry.",
+        "prevSpeaker": "Kate",
+        "nextSpeaker": "Kate"
+    },
+    {
+        "speaker": "Kate",
+        "text": "I know, I'll take care of it.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Just make sure he understands that...",
+        "prevSpeaker": "Kate",
+        "nextSpeaker": "Kate"
+    },
+    {
+        "speaker": "Kate",
+        "text": "[_quipping_] You went to Harvard, I know, I know. [_exits_] ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Jack"
+    },
+    {
+        "speaker": "Jack",
+        "text": "[_v.o_] Hey, the key to this game is the husky secondary.",
+        "prevSpeaker": "Kate",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "Jack, how can I put this to you delicately?  You're a moron! Shut up!  You know squat!  You know less than squat!  You and squat could go to the movies and squat could wear an \"I'm With Stupid\" T-Shirt!",
+        "prevSpeaker": "Jack",
+        "nextSpeaker": "Jack"
+    },
+    {
+        "speaker": "Jack",
+        "text": "[_v.o_] You're awesome, Bulldog.  Way to nail a blow on Dr. Crane!  You are the greatest!",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "Yeah, whatever, shut up. [_disconnects him_] Now, look, all you guys sending in any postcards to win tickets to the SeaHawks game - do I need another picture of the Space Needle? [_Kate enters_] Chicks in thongs!  Enough said? [_notices her_] We'll be back right after this. [_presses button_] Hey, what I just said, I'm sorry.  I meant to say women in thongs.",
+        "prevSpeaker": "Jack",
+        "nextSpeaker": "Kate"
+    },
+    {
+        "speaker": "Kate",
+        "text": "Stop busting Frasier's chops, enough said?",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "Well I could, but see all these lines lit up?  They're all waiting to tell me how funny it was.",
+        "prevSpeaker": "Kate",
+        "nextSpeaker": "Kate"
+    },
+    {
+        "speaker": "Kate",
+        "text": "[_presses to his producer_] Are all these callers waiting to tell Bulldog how much they liked the joke he played on Frasier?",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Pete"
+    },
+    {
+        "speaker": "Pete",
+        "text": "All except the guy on nine, he thinks Bulldog sucks.",
+        "prevSpeaker": "Kate",
+        "nextSpeaker": "Kate"
+    },
+    {
+        "speaker": "Kate",
+        "text": "Because of what he did to Frasier?",
+        "prevSpeaker": "Pete",
+        "nextSpeaker": "Pete"
+    },
+    {
+        "speaker": "Pete",
+        "text": "No, just in general.",
+        "prevSpeaker": "Kate",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "So, what do you want me to do?",
+        "prevSpeaker": "Pete",
+        "nextSpeaker": "Kate"
+    },
+    {
+        "speaker": "Kate",
+        "text": "If you think I'm going to allow you to publicly mock one of our most respected hosts on air just for the sake of higher ratings, you and I are going to get along just fine!  _Kate and Bulldog give each other a smile.  FADE OUT_  **SINGING IN THE RAIN**  _Scene Two - Frasier's Apartment. We hear thunder as rain descends on the balcony outside the apartment. Eddie, is sat nervous on the Armchair as Daphne enters with some pat e. _",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Come on, Eddie, you love pate.  And this is the good stuff. [_Frasier enters_] Uh-oh.",
+        "prevSpeaker": "Kate",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Two syllables every homeowner loves to hear upon entering the door.  Would that have anything to do with the fact that you're feeding my imported foie gras to a dog?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Well, I'm sorry, but it calms him during the thunder.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, well, heaven forbid that Eddie should ever work a nerve! When Niles gets here we'll have sherry and snausages!",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "That reminds me, Dr. Crane will be a bit late.  Your father asked him to stop at the vet and pick up some pills for Eddie.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I'm the one who's had a hard day.  How come no one ever brings me tranquilizers?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "I've often wondered that myself. _Frasier answers the phone.  The scene now cuts between Bulldog on air at KACL and Frasier on the phone in his apartment.  Bulldog is putting on a voice as a knot of grinning staffers crowd round him._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Hello?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "[_posh voice:_] Hello, this is Dr. Julius Irving.  I'm calling for Dr. Niles Crane, his receptionist said he might be there.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I'm sorry, I am expecting him if you'd like to leave a message.",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "No, no, nothing important.  Some of the boys here at the club have a little bet going about \"The Mikado.\"",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, perhaps I can help.  I'm Niles's brother, Dr. Frasier Crane, and as luck would have it I was in an all-male version of \"The Mikado\" at Oxford.  People still ask to see my Yum- Yum.",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "I don't suppose you happen to remember the words to \"Three Little Maids\"?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, let me see.  Well, of course my falsetto isn't what it used to be but, um... [_falsetto:_] \"Three little maids from school are we, prim as a school girl well may be, filled to the brim with girlish glee, three little maids from school!\"  ",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Dad, would you please be quiet?  I'm trying to settle a bet here.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "You sure are!  Some caller bet Bulldog he couldn't make you sing over the air. [_laughs_]",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "[_normal voice:_] Sayonara, Doc! [_disconnects_]",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_hangs up_] Well, Dad, I'm glad to see that you're amused, having your own son humiliated publicly.",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh, come on, it's funny.  He makes everybody look stupid - the guys in the newsroom, Chopper Dave...",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "That is not exactly a miracle transformation when it comes to Chopper Dave, a man whose life work consists of looking down at the freeway and saying, \"Crowded\"; \"Not Crowded.\" [_picks up his coat_]",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Where are you going?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "To the station!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Oh, come on, Frasier, don't take it all so seriously.  You know, we played jokes like this all the time when I was on the force.  The day they replaced my bulletproof vest with a big lacy bra, I knew I was one of the guys.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Thank you, Dad.  That also clears up a question that's troubled me for years concerning the night you were shot! [_exits_] _FADE TO:  Scene Three - Radio Station. Bulldog is still doing his show on air._ ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "The \"Salmon\" that's what you want to name our expansion hockey team, \"The Seattle Salmon\"?!  Why don't you take your two IQ points, rub them together, see if you can't start a fire, beat it! [_presses another button_] Hey, you're in the doghouse!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Caller"
+    },
+    {
+        "speaker": "Caller",
+        "text": "[_v.o._] Hey, am I on?",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "Yes, take as long as you want! [_presses another button_] Next.",
+        "prevSpeaker": "Caller",
+        "nextSpeaker": "Rob"
+    },
+    {
+        "speaker": "Rob",
+        "text": "[_v.o._] Hey, Bulldog, you're the man.  How about we name them \"The Bulldogs\"?",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "Hey, you want to suck up?  Send money!",
+        "prevSpeaker": "Rob",
+        "nextSpeaker": "Rob"
+    },
+    {
+        "speaker": "Rob",
+        "text": "Wait, wait, wait, wait, I got another one. [_Frasier enters with a menacing eye_] What about \"The Lizards\"?",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "I hate lizards, they're disgusting.  They make my skin crawl. You're an idiot and you don't deserve to live!",
+        "prevSpeaker": "Rob",
+        "nextSpeaker": "Rob"
+    },
+    {
+        "speaker": "Rob",
+        "text": "[_laughing_] You're the best, Bulldog!",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "Shut up!  Back in thirty!  ",
+        "prevSpeaker": "Rob",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I warned you.",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "Hey, hey, clear your jets.  Kate told me to keep busting ya'. Said it's good for ratings.  You got a beef, take it up with her!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I don't believe you.",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "[_presses over to producer_] Pete, what did Kate say?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Pete"
+    },
+    {
+        "speaker": "Pete",
+        "text": "She said you're a pig.",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "No, before that!",
+        "prevSpeaker": "Pete",
+        "nextSpeaker": "Pete"
+    },
+    {
+        "speaker": "Pete",
+        "text": "She said keep raggin' on the doc'!  _Frasier exits in anger.  FADE TO:  Scene Four - KACL Foyer. Frasier enters the foyer and goes up to Susan, her secretary._ ",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I want to talk to Kate now!",
+        "prevSpeaker": "Pete",
+        "nextSpeaker": "Susan"
+    },
+    {
+        "speaker": "Susan",
+        "text": "She's not in.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_unbelieving_] Oh, very clever, \"she's not in.\"  Like that'll make me go away! _He storms into her office.  Reset to: Kate's Office Frasier finds she is actually not in.  Susan follows him._ ",
+        "prevSpeaker": "Susan",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "She's not in!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Kate"
+    },
+    {
+        "speaker": "Kate",
+        "text": "[_enters, to Susan:_] I need a copy of our contract with Nanette Stewart. [_notices Frasier_] What's Yum-Yum doing here?  It's all right, I can guess.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You promised you'd put an end to Bulldog's shenanigans and instead you encouraged him. [_notices Kate has pulled Nanette's name from the board_] You're cancelling \"Pet Chat With Nanette\"?!  She's been on for six years.",
+        "prevSpeaker": "Kate",
+        "nextSpeaker": "Kate"
+    },
+    {
+        "speaker": "Kate",
+        "text": "Yeah, but she's been floating at the top of the bowl for the last two.  When I went in to talk to Bulldog, the phones were lit up like Times Square; his fans love it when he zaps you. _Kate walks out into the foyer, Frasier follows her.  Reset to: Foyer_",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "So, you would have me ridiculed for the sake of those hyenas!",
+        "prevSpeaker": "Kate",
+        "nextSpeaker": "Kate"
+    },
+    {
+        "speaker": "Kate",
+        "text": "No, I would have you fight back.  He makes pot shots at you, you come back at him in your droll, Ivy League, \"look at me, I've got a thesaurus\" kind of way!  It'll be funny!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Funny?!  Funny!? _Reset to: Hallway Kate walks to the hallway outside the booth._ ",
+        "prevSpeaker": "Kate",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I refuse to engage in a battle of wits with a man who's favourite t-shirt reads \"Seattle Hooter Inspector\"!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Kate"
+    },
+    {
+        "speaker": "Kate",
+        "text": "Afraid of the competition?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I am a doctor, I went... [_off her look_] ...to medical school! I will not embarrass myself by engaging in a grab for ratings.",
+        "prevSpeaker": "Kate",
+        "nextSpeaker": "Kate"
+    },
+    {
+        "speaker": "Kate",
+        "text": "You just announced to a half a million listeners that you are \"filled to the brim with girlish glee.\"  I think the H.M.S Pinafore of embarrassment has sailed!  Now, if you'll excuse me, I have to fire someone. _Kate looks through the window at Nanette, who waves back at her with her little pet dog's paw._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Kate"
+    },
+    {
+        "speaker": "Kate",
+        "text": "Oh, God, she brought Spanky!",
+        "prevSpeaker": "Kate",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Kate, this is not over!",
+        "prevSpeaker": "Kate",
+        "nextSpeaker": "Kate"
+    },
+    {
+        "speaker": "Kate",
+        "text": "Do you know what your problem is?  You have no sense of humour.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I am sick and tired of people telling me that!",
+        "prevSpeaker": "Kate",
+        "nextSpeaker": "Kate"
+    },
+    {
+        "speaker": "Kate",
+        "text": "Well, then, lighten up. [_exits to Nanette's booth_]  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "I asked the Raiders' defensive line to describe their tackling skills and here's what they said. [_cues tape_]",
+        "prevSpeaker": "Kate",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_v.o_] Three little maids from school are we, three little maids from school!  _Frasier scowls at him from behind the glass.  END OF ACT ONE  ACT TWO_  **THE NOSE KNOWS**  _Scene Five - Frasier's Apartment. Daphne answers the door to Niles._ ",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Good evening, Daphne.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Evening, Dr. Crane.  Did you bring Eddie's pills?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Yes, and the vet gave very specific instructions. [_takes them out and reads_] \"Take one tablet per hour or as needed until trembling subsides.\" [_realizes_] I'm sorry, these are for Maris. [_take some others out_] Those are for Eddie, here you go. [_hands them over_]",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "I'll just hide his pill in a bit of food.  Like our Grammy Moon used to get grandad to take his heart medicine.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "If he had heart problems, why wouldn't he want to take his medicine?",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Don't think that nosy coroner didn't ask the same question! Num-nums, Eddie. ",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "Oh, he's a good boy. [_strokes him_] Normally I don't believe in popping pills for every little upset.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I quite agree!  My nerves are bothered by this constant thundering, too, but I would never turn to drugs to calm down. [_sniffs his sherry_] Oh, mommy! _Niles takes a sip as Daphne rolls her eyes.  Martin enters from his room._",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Hey Niles, you're not going to believe what happened to Frasier.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Oh, I heard the whole thing. [_laughs_]",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "You listen to Bulldog's program?",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "[_deadpan_] Yes, Dad, I can't sleep nights till I find out who hurled what ball through what apparatus. [_laughs_] No, no, no, no, it was on at the vet's. _Frasier enters.  He looks very angry and is soaked to the skin, he slams his umbrella down._ ",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You would think that in a city with this much rain that people would develop an etiquette about it, but no!  They buy umbrellas that are too big for them, you have to walk into the street to get around them and then they drive too close to the curb so that you're sure to get splashed!  And they wear brown shoes with white socks!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "What has that got to do with the rain?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Nothing!  But I mean, really, get a fashion sense!",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well, I guess things didn't go too well at the station, huh?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No, they didn't.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "What happened?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "It turned out the station manager is encouraging Bulldog's little pranks.  Now she wants me to return his fire on the air.  Well, I thought the idea was absurd at first but now I'm starting to warm to it.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "I say have at him!  He's grossly overmatched but he did bring this on himself.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You know, you're right, Niles.  If I have to fight cheap and dirty on his own turf, then I will!",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "[_unsure_] Uhhhh...",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "And what is that supposed to mean?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well, I don't think it's a good idea.  You know, Bulldog's pretty good at this kind of thing.  He's a funny guy.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "And, I'm not funny?",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Uhhhh...",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I don't believe this!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "Well, now, obviously Dad's forgetting the time you took the names of our wine club board and turned them all into wickedly derisive anagrams! [_laughs_]  _They both laugh and shout out in memory \"Sidney Ass Basket\"! They laugh uncontrollably and soon Martin joins in._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Now, you see, dad, I made you laugh.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "No, I'm looking at Eddie.  _Martin points Eddie out who seems to be knocked out from the sedatives.  Daphne notices and starts laughing with him._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "I guess he won't be needing a second pill!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Now, now, Frasier, don't get me wrong.  I think you're witty, you're clever, but funny's different.  Funny's somebody who makes you laugh with your belly.  Now, Bulldog's funny. Duke's cousin, Louie, now he's really funny!  He's like Jackie Gleason, only loud!  He makes you laugh so hard the beer comes out of your nose.",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Daphne"
+    },
+    {
+        "speaker": "Daphne",
+        "text": "You know what feels good through the nose?  A warm cup of cocoa. [_the rest look at her, she says in memory_] I just may go home for Christmas this year.",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You know, just because I haven't caused anyone to blow beer through their nostrils doesn't mean that I can't.  Anyone who can compose a clever ballad can certainly master the intricacies of the whoopee cushion!",
+        "prevSpeaker": "Daphne",
+        "nextSpeaker": "Martin"
+    },
+    {
+        "speaker": "Martin",
+        "text": "Well, I wouldn't be too sure about that.  It's a lot harder than you think.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "All right, you just tune into Bulldog's show tomorrow.  Pop open a beer and prepare for a Budweiser geyser!",
+        "prevSpeaker": "Martin",
+        "nextSpeaker": "Niles"
+    },
+    {
+        "speaker": "Niles",
+        "text": "You know, Frasier, if you're serious about that whoopee cushion, I happen to have one at the house. [_they all stare at him_] Last year a disgruntled servant left one on Maris's dining room chair.  Fortunately for all of us, embarrassment was averted when my little faun proved too light to activate it.   **LEAPIN' LIZARDS**  _Scene Two - Radio Station. Bulldog is doing his show as Frasier and Roz look in from the window._",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "Well, it's six-thirty, sports fans.  That means it's time for... [_cues fanfare music_] Our big SeaHawks tickets giveaway. Yes, my curvaceous and bodacious assistant Darlene is rolling in our glittery giant prize draw right now.",
+        "prevSpeaker": "Niles",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "Okay, Darlene, give it a good crank.  Whoa!  Honey, I meant the drum! [_cues a cranking noise_]",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Here it comes, Roz, the hilarity ensues!",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Okay, explain this to me one more time.  You were the one who's trying to prove to everyone you're so funny, so why am I the one who had to put the lizard in the box?!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "It was just as difficult to be the lookout!  Stop whining!  ",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "Hey, look who's here.  It's our new boss lady, KACL's own Kate Costas!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Kate's there?  Oh, Frasier, Kate's there!",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No, no, it's even better.  Even better that she will be an eyewitness to my little jape!",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "Come in, Kate.  Yeah, here we go, glad you dropped in.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Kate"
+    },
+    {
+        "speaker": "Kate",
+        "text": "Hello, Bulldog.  Hi, Darlene. [_waves to Pete_] Wow, look at that mighty drum!",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "Yeah, give it a good spin! [_cues noise_] Look at those cards going round and round.  Okay, Seattle... and the winner is...  ",
+        "prevSpeaker": "Kate",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "Hey, Kate, why don't you pick it?",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Kate"
+    },
+    {
+        "speaker": "Kate",
+        "text": "Okay. [_reaches her hand in_] And the lucky winner is... YEOW! ",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Kate"
+    },
+    {
+        "speaker": "Kate",
+        "text": "Something bit me!",
+        "prevSpeaker": "Kate",
+        "nextSpeaker": "Bulldog"
+    },
+    {
+        "speaker": "Bulldog",
+        "text": "Oh my God!  It's a lizard! _Chaos ensues as Bulldog jumps up onto his console in terror, and Pete runs in to wrap his handkerchief around Kate's hand, while she is screaming in pain._",
+        "prevSpeaker": "Kate",
+        "nextSpeaker": "Kate"
+    },
+    {
+        "speaker": "Kate",
+        "text": "There it goes, there it goes, there it goes!  ",
+        "prevSpeaker": "Bulldog",
+        "nextSpeaker": "Kate"
+    },
+    {
+        "speaker": "Kate",
+        "text": "Stop that lizard, it has my finger!  _Frasier looks horrified.  FADE TO:  Scene Three - Hospital. Everyone is laughing and joking in the waiting room.  Frasier arrives with a bouquet of flowers and hovers in the corridor._ ",
+        "prevSpeaker": "Kate",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Roz!  Any news?",
+        "prevSpeaker": "Kate",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Oh, yeah.  They sewed her fingertip back on.  She's gonna be fine.  Frasier, would you wipe that guilty look off your face? No-one even suspects you.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Why not?",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Because you made such a big deal about how playing pranks was beneath you!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, they're not only beneath me, they're beyond me.  I'm going to accept my limitations, and be satisfied to merely be witty and urbane.  Even my most barbed comments never drew blood! Oh God, I feel sick.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "_You_ do?  When the lizard threw up her fingertip, who had to pack it in frozen yogurt and rush it down here?!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I'm going to tell her the truth.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "What?!  Are you insane?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I've got to unburden myself.",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "[_impassioned_] Frasier, you didn't start this.  You are the victim here, why should you have to suffer any more than you already have?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I'll keep your name out of it!",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Roz"
+    },
+    {
+        "speaker": "Roz",
+        "text": "Fine, do what you want. _Reset to: Kate's Room Frasier enters Kate's room to find her on her mobile phone.  A nurse is by her side._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Kate"
+    },
+    {
+        "speaker": "Kate",
+        "text": "[_into phone:_] I don't know when I'll be back in the office, Susan, just cancel all my appointments.  Is there any word on who pulled this stupid stunt?  I don't want excuses, I want names! [_hangs up_] Will you hurry up that shot, I'm in agony here. [_the nurse prepares to inject her_]",
+        "prevSpeaker": "Roz",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Kate, I see that your strength is back.  I brought you some flowers. [_hands them over_]",
+        "prevSpeaker": "Kate",
+        "nextSpeaker": "Kate"
+    },
+    {
+        "speaker": "Kate",
+        "text": "What kind of raving psychotic would do a thing like this?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You know, people use that word \"psychotic\" an awful lot these days.  A kid steals a candy bar, suddenly he's a psychotic.",
+        "prevSpeaker": "Kate",
+        "nextSpeaker": "Kate"
+    },
+    {
+        "speaker": "Kate",
+        "text": "I'm gonna find him and I'm gonna crush him!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_to nurse_] Are you sure that's enough?  Make sure that all goes in!",
+        "prevSpeaker": "Kate",
+        "nextSpeaker": "Nurse"
+    },
+    {
+        "speaker": "Nurse",
+        "text": "Call me if you need anything.  ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, Kate, I came here for a reason.",
+        "prevSpeaker": "Nurse",
+        "nextSpeaker": "Kate"
+    },
+    {
+        "speaker": "Kate",
+        "text": "Oh, let me guess, someone park in your space?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "No, but if someone had, I would have forgiven him, just as I'm sure you will forgive...",
+        "prevSpeaker": "Kate",
+        "nextSpeaker": "Kate"
+    },
+    {
+        "speaker": "Kate",
+        "text": "Who?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, I'm sure the poor misguided prankster that perpetrated this evil deed really had no ill will in mind.  It wasn't his... or her... [_realises he can still weave his way out_] You know, that Nanette from \"Pet Chat,\" she had a real axe to grind!  ",
+        "prevSpeaker": "Kate",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "What?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Kate"
+    },
+    {
+        "speaker": "Kate",
+        "text": "What?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You giggled.",
+        "prevSpeaker": "Kate",
+        "nextSpeaker": "Kate"
+    },
+    {
+        "speaker": "Kate",
+        "text": "Oh, [_laughs_] it was kinda funny.",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "What?",
+        "prevSpeaker": "Kate",
+        "nextSpeaker": "Kate"
+    },
+    {
+        "speaker": "Kate",
+        "text": "What?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "What's funny?",
+        "prevSpeaker": "Kate",
+        "nextSpeaker": "Kate"
+    },
+    {
+        "speaker": "Kate",
+        "text": "Oh, I was just remembering...",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "What?",
+        "prevSpeaker": "Kate",
+        "nextSpeaker": "Kate"
+    },
+    {
+        "speaker": "Kate",
+        "text": "[_laughs_]",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, oh, the shot's kicking in, isn't it?",
+        "prevSpeaker": "Kate",
+        "nextSpeaker": "Kate"
+    },
+    {
+        "speaker": "Kate",
+        "text": "Wouldn't you know, it bites my middle finger.  How am I supposed to drive? [_laughs_]",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_laughs_] You know, Kate, maybe now would be a good time...",
+        "prevSpeaker": "Kate",
+        "nextSpeaker": "Kate"
+    },
+    {
+        "speaker": "Kate",
+        "text": "Now you know, life is so funny.  One minute, you're standing in a hallway, the next minute you're a poo-poo platter for a lizard.  That's a funny word, isn't it?  Hallway!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "You want to hear something really funny?",
+        "prevSpeaker": "Kate",
+        "nextSpeaker": "Kate"
+    },
+    {
+        "speaker": "Kate",
+        "text": "And Bulldog, Bulldog's... [_laughing, then:_] Oh, see, now, you're starting to get tired, I should go. [_start to nod off_]",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Kate, Kate, before you go to sleep, there's just one last funny thing I want to tell you...",
+        "prevSpeaker": "Kate",
+        "nextSpeaker": "Kate"
+    },
+    {
+        "speaker": "Kate",
+        "text": "[_doped up_] O-kay!",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "I put the lizard in the box.",
+        "prevSpeaker": "Kate",
+        "nextSpeaker": "Kate"
+    },
+    {
+        "speaker": "Kate",
+        "text": "O-kay.  _Frasier walks away as she falls to sleep.  However, before he gets to the door, Kate slowly presses the \"head up\" button on the bed which raises her._ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Oh, God!  It's alive!",
+        "prevSpeaker": "Kate",
+        "nextSpeaker": "Kate"
+    },
+    {
+        "speaker": "Kate",
+        "text": "[_half asleep_] You what?",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Well, I, it was meant for Bulldog.  It was all an accident, I never intended to...  ",
+        "prevSpeaker": "Kate",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "Kate?  Kate?  _Frasier decides she's asleep and he's safe.  He turns to leave her...  CLOSE-UP: Like a cobra striking, Kate's hand snatches his wrist-  SMASH CUT TO: Waiting Room Roz and everyone in the waiting room jumps as Frasier screams:_ ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Frasier"
+    },
+    {
+        "speaker": "Frasier",
+        "text": "[_o.s._] NURSE! ",
+        "prevSpeaker": "Frasier",
+        "nextSpeaker": "Credits"
+    }
+]
